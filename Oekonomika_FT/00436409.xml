@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436409" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T11:59:57</Created>
+	<LastChange>2011-10-17T07:32:01</LastChange></Metadata>
+	<Page imageFilename="00436409.tif" imageHeight="3797" imageWidth="2387">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r380"/>
+	<RegionRefIndexed index="1" regionRef="r381"/>
+	<RegionRefIndexed index="2" regionRef="r382"/>
+	<RegionRefIndexed index="3" regionRef="r383"/>
+	<RegionRefIndexed index="4" regionRef="r384"/>
+	<RegionRefIndexed index="5" regionRef="r385"/>
+	<RegionRefIndexed index="6" regionRef="r386"/>
+	<RegionRefIndexed index="7" regionRef="r387"/>
+	<RegionRefIndexed index="8" regionRef="r388"/>
+	<RegionRefIndexed index="9" regionRef="r389"/>
+	<RegionRefIndexed index="10" regionRef="r390"/>
+	<RegionRefIndexed index="11" regionRef="r391"/>
+	<RegionRefIndexed index="12" regionRef="r392"/>
+	<RegionRefIndexed index="13" regionRef="r393"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r378" textColour="black" type="page-number">
+	<Coords>
+	<Point x="373" y="385"/>
+	<Point x="373" y="453"/>
+	<Point x="458" y="453"/>
+	<Point x="458" y="385"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>42</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r379" textColour="black" type="header">
+	<Coords>
+	<Point x="692" y="375"/>
+	<Point x="692" y="453"/>
+	<Point x="1990" y="453"/>
+	<Point x="1990" y="375"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>OEKONOMIKI ZIEMIANSKIEY,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r380" textColour="black" type="heading">
+	<Coords>
+	<Point x="1221" y="468"/>
+	<Point x="1221" y="539"/>
+	<Point x="1409" y="539"/>
+	<Point x="1409" y="468"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>XXVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r381" textColour="black" type="heading">
+	<Coords>
+	<Point x="803" y="548"/>
+	<Point x="803" y="627"/>
+	<Point x="1851" y="627"/>
+	<Point x="1851" y="548"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ô STAWACH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r382" textColour="black" type="heading">
+	<Coords>
+	<Point x="974" y="637"/>
+	<Point x="974" y="711"/>
+	<Point x="1238" y="716"/>
+	<Point x="1330" y="713"/>
+	<Point x="1380" y="714"/>
+	<Point x="1436" y="716"/>
+	<Point x="1510" y="722"/>
+	<Point x="1572" y="723"/>
+	<Point x="1690" y="711"/>
+	<Point x="1690" y="637"/>
+	<Point x="1095" y="633"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nárybionych y Puych.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r383" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="437" y="701"/>
+	<Point x="437" y="816"/>
+	<Point x="515" y="813"/>
+	<Point x="519" y="804"/>
+	<Point x="525" y="777"/>
+	<Point x="520" y="771"/>
+	<Point x="516" y="701"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r384" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="524" y="706"/>
+	<Point x="522" y="716"/>
+	<Point x="534" y="769"/>
+	<Point x="518" y="817"/>
+	<Point x="439" y="844"/>
+	<Point x="410" y="1100"/>
+	<Point x="703" y="1100"/>
+	<Point x="920" y="1094"/>
+	<Point x="1045" y="1101"/>
+	<Point x="1240" y="1104"/>
+	<Point x="1321" y="1116"/>
+	<Point x="1329" y="1116"/>
+	<Point x="1407" y="1101"/>
+	<Point x="1408" y="1117"/>
+	<Point x="1431" y="1117"/>
+	<Point x="1445" y="1098"/>
+	<Point x="1461" y="1105"/>
+	<Point x="2242" y="1100"/>
+	<Point x="2242" y="710"/>
+	<Point x="1707" y="727"/>
+	<Point x="1654" y="724"/>
+	<Point x="1600" y="729"/>
+	<Point x="1427" y="721"/>
+	<Point x="1333" y="716"/>
+	<Point x="1325" y="725"/>
+	<Point x="1187" y="724"/>
+	<Point x="949" y="715"/>
+	<Point x="874" y="707"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>TAWY wſzelkie przy pewnych y żywych wodách, nie tylko
+ſⱥ Młynom pomocⱥ, Rybie wygodⱥ, ále też y káżdey Má‑
+iɇtnośći ſⱥ oſobliwⱥ ozdobⱥ y intratⱥ, te tedy áby proportiey
+míeyſcá były oſadzone, y nárybione, czáſū y wielkośći Sta‑
+wow vpatrowáć; iáko ɇ niżey opiſuie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r385" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="454" y="1110"/>
+	<Point x="445" y="1206"/>
+	<Point x="445" y="1264"/>
+	<Point x="442" y="1415"/>
+	<Point x="455" y="1417"/>
+	<Point x="708" y="1419"/>
+	<Point x="854" y="1419"/>
+	<Point x="1064" y="1424"/>
+	<Point x="1194" y="1418"/>
+	<Point x="1340" y="1426"/>
+	<Point x="1448" y="1424"/>
+	<Point x="1504" y="1433"/>
+	<Point x="1545" y="1433"/>
+	<Point x="1765" y="1427"/>
+	<Point x="1793" y="1439"/>
+	<Point x="1810" y="1439"/>
+	<Point x="1869" y="1427"/>
+	<Point x="2232" y="1415"/>
+	<Point x="2232" y="1112"/>
+	<Point x="1468" y="1119"/>
+	<Point x="1380" y="1119"/>
+	<Point x="731" y="1101"/>
+	<Point x="614" y="1101"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná oſadzenie Stàwow wcześnie àràć ɇ trzebá, ile po
+ſpuśćie o Narybek, piⱥrniki, opniki, y kroczki, ktore co rok
+do innego przeſadzáć awu áby nie głowáćiáły, w kàraśie kàr‑
+pie (gdyby miàły bydż nà kupie nie) obraćały ɇ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r386" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="427" y="1422"/>
+	<Point x="427" y="1565"/>
+	<Point x="532" y="1570"/>
+	<Point x="646" y="1574"/>
+	<Point x="667" y="1573"/>
+	<Point x="871" y="1560"/>
+	<Point x="907" y="1578"/>
+	<Point x="920" y="1578"/>
+	<Point x="976" y="1563"/>
+	<Point x="2220" y="1565"/>
+	<Point x="2227" y="1429"/>
+	<Point x="1812" y="1441"/>
+	<Point x="1665" y="1436"/>
+	<Point x="1617" y="1434"/>
+	<Point x="1462" y="1436"/>
+	<Point x="1428" y="1429"/>
+	<Point x="1231" y="1425"/>
+	<Point x="1152" y="1425"/>
+	<Point x="1018" y="1427"/>
+	<Point x="818" y="1421"/>
+	<Point x="531" y="1420"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zimie gdy Stawy zámárznⱥ, áby miały Ryby oddech gɇ‑
+e przyręble czynić.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r387" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="437" y="1580"/>
+	<Point x="430" y="2189"/>
+	<Point x="998" y="2201"/>
+	<Point x="1070" y="2214"/>
+	<Point x="1085" y="2214"/>
+	<Point x="1149" y="2200"/>
+	<Point x="1225" y="2204"/>
+	<Point x="1318" y="2205"/>
+	<Point x="1357" y="2220"/>
+	<Point x="1408" y="2219"/>
+	<Point x="1518" y="2214"/>
+	<Point x="1540" y="2212"/>
+	<Point x="1564" y="2201"/>
+	<Point x="2225" y="2190"/>
+	<Point x="2225" y="1580"/>
+	<Point x="1041" y="1577"/>
+	<Point x="943" y="1583"/>
+	<Point x="837" y="1573"/>
+	<Point x="721" y="1573"/>
+	<Point x="709" y="1580"/>
+	<Point x="565" y="1577"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Do nárybienia Stáwoẃ czás nà Wioſnɇ zá uſznym ćie‑
+płem, y w Ieśieni; przed mrozámi wcześnie nárybić, bo ry‑
+bà wſzelka ie właśnie niby gość w cudzey dźiedżinie, ktora
+nim ɇ obaczy, y zmieyſcem ozna, legáwiſká ſobie nie vpá‑
+trzy, ná dno nie poydźie, ále ɇ tylko ni dźika po wierzchu błⱥ‑
+ka, wtym, gdyby napádły mrozy, wyginⱥćby muśiáły: do
+tego też ryba Zimie żadna nie rośnię, owo zgołà kàżda rzecz,
+ma mieć ſwoiⱥ według czáſu wygodę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r388" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="432" y="2205"/>
+	<Point x="432" y="2445"/>
+	<Point x="686" y="2430"/>
+	<Point x="922" y="2438"/>
+	<Point x="1094" y="2441"/>
+	<Point x="1108" y="2450"/>
+	<Point x="2071" y="2450"/>
+	<Point x="2107" y="2464"/>
+	<Point x="2121" y="2463"/>
+	<Point x="2169" y="2455"/>
+	<Point x="2230" y="2445"/>
+	<Point x="2230" y="2205"/>
+	<Point x="1526" y="2217"/>
+	<Point x="1420" y="2222"/>
+	<Point x="1381" y="2222"/>
+	<Point x="1162" y="2212"/>
+	<Point x="1124" y="2214"/>
+	<Point x="1076" y="2217"/>
+	<Point x="972" y="2207"/>
+	<Point x="672" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná tárliſko záś spoſobnego vpátrowàć Stàwu, w ktorym‑
+by przy trawniku grunt znáydował ɇ gliniáy, ná ktore, ko‑
+ło S. Márkà nà tàrćie trzy ikrne, á dwà mleczne wſadźić kárpie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r389" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="418" y="2453"/>
+	<Point x="418" y="2676"/>
+	<Point x="562" y="2675"/>
+	<Point x="2247" y="2677"/>
+	<Point x="2247" y="2455"/>
+	<Point x="2122" y="2470"/>
+	<Point x="2082" y="2463"/>
+	<Point x="2068" y="2460"/>
+	<Point x="1333" y="2451"/>
+	<Point x="1196" y="2451"/>
+	<Point x="1097" y="2452"/>
+	<Point x="907" y="2445"/>
+	<Point x="665" y="2436"/>
+	<Point x="511" y="2443"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ryb nà kuchniⱥ z Stáwow nie wyławiàc, ile kɇdy ſⱥ le‑
+źiorá, owſzem z nich nárybiáć Stáwy, á ná domowⱥ potrze‑
+bę prowidowáć z Sadzàwki.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r390" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="420" y="2690"/>
+	<Point x="420" y="2910"/>
+	<Point x="461" y="2915"/>
+	<Point x="1018" y="2903"/>
+	<Point x="1045" y="2920"/>
+	<Point x="1060" y="2921"/>
+	<Point x="1121" y="2908"/>
+	<Point x="2237" y="2910"/>
+	<Point x="2237" y="2690"/>
+	<Point x="559" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tego też pilnie trzebá vpàtrowáć, zàbieráć áwidłá, wiɇn‑
+ćerze, y wierſze áby wednie y w nocy tymi ryb nie zławiali
+ſpráwni do kradżierzy ludżie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r391" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="422" y="2925"/>
+	<Point x="422" y="3065"/>
+	<Point x="2212" y="3065"/>
+	<Point x="2212" y="2925"/>
+	<Point x="1454" y="2922"/>
+	<Point x="1056" y="2925"/>
+	<Point x="993" y="2916"/>
+	<Point x="616" y="2918"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Stáwy we trzy látá po narybieniu ſpuſzczáiⱥ, ktorych czás
+terminowàć trzebà.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r392" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="420" y="3080"/>
+	<Point x="412" y="3395"/>
+	<Point x="708" y="3400"/>
+	<Point x="902" y="3400"/>
+	<Point x="1750" y="3401"/>
+	<Point x="2232" y="3395"/>
+	<Point x="2232" y="3080"/>
+	<Point x="723" y="3074"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Po złowieniu ryb mdle ſuſzyć, wɇdżić, z prázonⱥ goracⱥ
+ſolⱥ, rozpłatáne, nà domowⱥ potrzebɇ, y ná pozytek dychto‑
+wnie w becce, ábo iákim ſpoſobnym z Wioſny, y Ieśieni, zà‑
+ſaláć naczyniu, podczás źimná, álbo chłodow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r393" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1945" y="3410"/>
+	<Point x="1945" y="3500"/>
+	<Point x="2235" y="3500"/>
+	<Point x="2235" y="3410"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przedaſ�</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r394" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="229" y="750"/>
+	<Point x="229" y="859"/>
+	<Point x="432" y="859"/>
+	<Point x="432" y="750"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Stáwowdi‑
+ſpotia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r395" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="222" y="1111"/>
+	<Point x="222" y="1256"/>
+	<Point x="442" y="1256"/>
+	<Point x="442" y="1111"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Narybek do
+oſadzenia
+Stanow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r396" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="219" y="1416"/>
+	<Point x="219" y="1570"/>
+	<Point x="425" y="1570"/>
+	<Point x="425" y="1416"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Wmrozy
+�� nie przy‑
+rɇble.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r397" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="216" y="1620"/>
+	<Point x="216" y="1774"/>
+	<Point x="431" y="1774"/>
+	<Point x="431" y="1620"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czái nary‑
+bienia iako
+�pátrować.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r398" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="211" y="2208"/>
+	<Point x="211" y="2369"/>
+	<Point x="422" y="2369"/>
+	<Point x="422" y="2208"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iáki ma
+b�d�a Staw
+�à ����ſko.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r399" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="212" y="2484"/>
+	<Point x="212" y="2679"/>
+	<Point x="412" y="2679"/>
+	<Point x="412" y="2484"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Byb w Stá‑
+wa�� áby
+��� myła‑
+wi�.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r400" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="226" y="2738"/>
+	<Point x="226" y="2892"/>
+	<Point x="414" y="2892"/>
+	<Point x="414" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Kradziezy
+Ryb prze‑
+rzegáć.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r401" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="208" y="2941"/>
+	<Point x="208" y="3082"/>
+	<Point x="415" y="3082"/>
+	<Point x="415" y="2941"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czás do ſpu
+ßczania Stá
+wow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r402" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="204" y="3137"/>
+	<Point x="204" y="3295"/>
+	<Point x="408" y="3295"/>
+	<Point x="408" y="3137"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ryby iákie
+ſolić y wɇ
+dzić trzebá.</Unicode></TextEquiv></TextRegion></Page></PcGts>

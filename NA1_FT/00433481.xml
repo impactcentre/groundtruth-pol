@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433481" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:55:42</Created>
+	<LastChange>2011-07-22T08:25:31</LastChange></Metadata>
+	<Page imageFilename="00433481.tif" imageHeight="2206" imageWidth="1800">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r459"/>
+	<RegionRefIndexed index="1" regionRef="r463"/>
+	<RegionRefIndexed index="2" regionRef="r471"/>
+	<RegionRefIndexed index="3" regionRef="r473"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r449" type="page-number">
+	<Coords>
+	<Point x="1625" y="89"/>
+	<Point x="1625" y="139"/>
+	<Point x="1547" y="139"/>
+	<Point x="1547" y="138"/>
+	<Point x="1546" y="138"/>
+	<Point x="1546" y="137"/>
+	<Point x="1545" y="137"/>
+	<Point x="1545" y="136"/>
+	<Point x="1544" y="136"/>
+	<Point x="1544" y="135"/>
+	<Point x="1543" y="135"/>
+	<Point x="1543" y="134"/>
+	<Point x="1542" y="134"/>
+	<Point x="1542" y="133"/>
+	<Point x="1541" y="133"/>
+	<Point x="1544" y="133"/>
+	<Point x="1544" y="89"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>505</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r451" type="header">
+	<Coords>
+	<Point x="1380" y="132"/>
+	<Point x="1379" y="132"/>
+	<Point x="1379" y="137"/>
+	<Point x="1378" y="137"/>
+	<Point x="1378" y="138"/>
+	<Point x="1377" y="138"/>
+	<Point x="1377" y="139"/>
+	<Point x="1371" y="139"/>
+	<Point x="1371" y="140"/>
+	<Point x="1364" y="140"/>
+	<Point x="1364" y="141"/>
+	<Point x="1358" y="141"/>
+	<Point x="1358" y="142"/>
+	<Point x="1351" y="142"/>
+	<Point x="1351" y="143"/>
+	<Point x="1344" y="143"/>
+	<Point x="1344" y="144"/>
+	<Point x="1338" y="144"/>
+	<Point x="1338" y="145"/>
+	<Point x="1331" y="145"/>
+	<Point x="1331" y="146"/>
+	<Point x="1324" y="146"/>
+	<Point x="865" y="149"/>
+	<Point x="865" y="150"/>
+	<Point x="791" y="150"/>
+	<Point x="791" y="151"/>
+	<Point x="539" y="151"/>
+	<Point x="539" y="152"/>
+	<Point x="515" y="152"/>
+	<Point x="515" y="153"/>
+	<Point x="491" y="153"/>
+	<Point x="491" y="154"/>
+	<Point x="338" y="154"/>
+	<Point x="338" y="153"/>
+	<Point x="335" y="153"/>
+	<Point x="335" y="152"/>
+	<Point x="332" y="152"/>
+	<Point x="332" y="151"/>
+	<Point x="329" y="151"/>
+	<Point x="329" y="150"/>
+	<Point x="325" y="150"/>
+	<Point x="325" y="149"/>
+	<Point x="322" y="149"/>
+	<Point x="322" y="148"/>
+	<Point x="319" y="148"/>
+	<Point x="319" y="92"/>
+	<Point x="910" y="92"/>
+	<Point x="910" y="91"/>
+	<Point x="1028" y="91"/>
+	<Point x="1028" y="90"/>
+	<Point x="1145" y="90"/>
+	<Point x="1145" y="89"/>
+	<Point x="1263" y="89"/>
+	<Point x="1263" y="88"/>
+	<Point x="1380" y="88"/>
+	<Point x="1380" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>o Imperium Rzymſko Niemieckim y Tytułach rożnych</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r455">
+	<Coords>
+	<Point x="1538" y="133"/>
+	<Point x="1538" y="134"/>
+	<Point x="1539" y="134"/>
+	<Point x="1539" y="135"/>
+	<Point x="1540" y="135"/>
+	<Point x="1540" y="136"/>
+	<Point x="1541" y="136"/>
+	<Point x="1541" y="137"/>
+	<Point x="1542" y="137"/>
+	<Point x="1542" y="138"/>
+	<Point x="1543" y="138"/>
+	<Point x="1543" y="139"/>
+	<Point x="1544" y="139"/>
+	<Point x="1544" y="140"/>
+	<Point x="1545" y="140"/>
+	<Point x="1545" y="141"/>
+	<Point x="1625" y="141"/>
+	<Point x="1625" y="158"/>
+	<Point x="1586" y="158"/>
+	<Point x="1586" y="157"/>
+	<Point x="1535" y="157"/>
+	<Point x="1535" y="156"/>
+	<Point x="1484" y="156"/>
+	<Point x="1484" y="155"/>
+	<Point x="1431" y="155"/>
+	<Point x="1431" y="156"/>
+	<Point x="1399" y="156"/>
+	<Point x="1399" y="157"/>
+	<Point x="1367" y="157"/>
+	<Point x="1367" y="158"/>
+	<Point x="1335" y="158"/>
+	<Point x="1335" y="159"/>
+	<Point x="1302" y="159"/>
+	<Point x="1302" y="160"/>
+	<Point x="1262" y="160"/>
+	<Point x="1262" y="161"/>
+	<Point x="1222" y="161"/>
+	<Point x="1222" y="162"/>
+	<Point x="1181" y="162"/>
+	<Point x="1181" y="163"/>
+	<Point x="1148" y="163"/>
+	<Point x="1148" y="164"/>
+	<Point x="1117" y="164"/>
+	<Point x="1117" y="163"/>
+	<Point x="1082" y="163"/>
+	<Point x="1082" y="164"/>
+	<Point x="960" y="164"/>
+	<Point x="960" y="165"/>
+	<Point x="942" y="165"/>
+	<Point x="942" y="166"/>
+	<Point x="926" y="166"/>
+	<Point x="926" y="165"/>
+	<Point x="736" y="165"/>
+	<Point x="736" y="164"/>
+	<Point x="548" y="164"/>
+	<Point x="548" y="165"/>
+	<Point x="523" y="165"/>
+	<Point x="523" y="166"/>
+	<Point x="498" y="166"/>
+	<Point x="498" y="167"/>
+	<Point x="472" y="167"/>
+	<Point x="472" y="168"/>
+	<Point x="447" y="168"/>
+	<Point x="447" y="169"/>
+	<Point x="421" y="169"/>
+	<Point x="421" y="170"/>
+	<Point x="364" y="170"/>
+	<Point x="364" y="171"/>
+	<Point x="307" y="171"/>
+	<Point x="307" y="172"/>
+	<Point x="252" y="172"/>
+	<Point x="252" y="171"/>
+	<Point x="164" y="171"/>
+	<Point x="164" y="170"/>
+	<Point x="121" y="170"/>
+	<Point x="121" y="150"/>
+	<Point x="320" y="150"/>
+	<Point x="320" y="151"/>
+	<Point x="323" y="151"/>
+	<Point x="323" y="152"/>
+	<Point x="327" y="152"/>
+	<Point x="327" y="153"/>
+	<Point x="330" y="153"/>
+	<Point x="330" y="154"/>
+	<Point x="333" y="154"/>
+	<Point x="333" y="155"/>
+	<Point x="336" y="155"/>
+	<Point x="336" y="156"/>
+	<Point x="493" y="156"/>
+	<Point x="493" y="155"/>
+	<Point x="517" y="155"/>
+	<Point x="517" y="154"/>
+	<Point x="541" y="154"/>
+	<Point x="541" y="153"/>
+	<Point x="793" y="153"/>
+	<Point x="793" y="152"/>
+	<Point x="867" y="152"/>
+	<Point x="867" y="151"/>
+	<Point x="1051" y="151"/>
+	<Point x="1051" y="150"/>
+	<Point x="1235" y="150"/>
+	<Point x="1235" y="149"/>
+	<Point x="1326" y="149"/>
+	<Point x="1326" y="148"/>
+	<Point x="1333" y="148"/>
+	<Point x="1333" y="147"/>
+	<Point x="1340" y="147"/>
+	<Point x="1340" y="146"/>
+	<Point x="1346" y="146"/>
+	<Point x="1346" y="145"/>
+	<Point x="1353" y="145"/>
+	<Point x="1353" y="144"/>
+	<Point x="1360" y="144"/>
+	<Point x="1360" y="143"/>
+	<Point x="1366" y="143"/>
+	<Point x="1366" y="142"/>
+	<Point x="1373" y="142"/>
+	<Point x="1373" y="141"/>
+	<Point x="1379" y="141"/>
+	<Point x="1379" y="140"/>
+	<Point x="1380" y="140"/>
+	<Point x="1380" y="139"/>
+	<Point x="1381" y="139"/>
+	<Point x="1381" y="134"/>
+	<Point x="1382" y="134"/>
+	<Point x="1382" y="133"/></Coords></SeparatorRegion>
+	<TextRegion id="r459" type="paragraph">
+	<Coords>
+	<Point x="1482" y="157"/>
+	<Point x="1482" y="158"/>
+	<Point x="1533" y="158"/>
+	<Point x="1533" y="159"/>
+	<Point x="1584" y="159"/>
+	<Point x="1584" y="160"/>
+	<Point x="1625" y="160"/>
+	<Point x="1625" y="294"/>
+	<Point x="1626" y="294"/>
+	<Point x="1625" y="294"/>
+	<Point x="1625" y="919"/>
+	<Point x="1582" y="919"/>
+	<Point x="1582" y="920"/>
+	<Point x="1477" y="920"/>
+	<Point x="1477" y="921"/>
+	<Point x="1371" y="921"/>
+	<Point x="1371" y="922"/>
+	<Point x="1266" y="922"/>
+	<Point x="1266" y="923"/>
+	<Point x="695" y="923"/>
+	<Point x="695" y="924"/>
+	<Point x="678" y="924"/>
+	<Point x="678" y="925"/>
+	<Point x="661" y="925"/>
+	<Point x="661" y="926"/>
+	<Point x="644" y="926"/>
+	<Point x="644" y="927"/>
+	<Point x="627" y="927"/>
+	<Point x="627" y="928"/>
+	<Point x="610" y="928"/>
+	<Point x="610" y="929"/>
+	<Point x="592" y="929"/>
+	<Point x="592" y="930"/>
+	<Point x="401" y="930"/>
+	<Point x="401" y="929"/>
+	<Point x="325" y="929"/>
+	<Point x="325" y="930"/>
+	<Point x="217" y="930"/>
+	<Point x="217" y="931"/>
+	<Point x="123" y="931"/>
+	<Point x="123" y="884"/>
+	<Point x="122" y="884"/>
+	<Point x="122" y="689"/>
+	<Point x="121" y="689"/>
+	<Point x="121" y="172"/>
+	<Point x="162" y="172"/>
+	<Point x="162" y="173"/>
+	<Point x="250" y="173"/>
+	<Point x="250" y="174"/>
+	<Point x="309" y="174"/>
+	<Point x="309" y="173"/>
+	<Point x="366" y="173"/>
+	<Point x="366" y="172"/>
+	<Point x="423" y="172"/>
+	<Point x="423" y="171"/>
+	<Point x="449" y="171"/>
+	<Point x="449" y="170"/>
+	<Point x="474" y="170"/>
+	<Point x="474" y="169"/>
+	<Point x="500" y="169"/>
+	<Point x="500" y="168"/>
+	<Point x="525" y="168"/>
+	<Point x="525" y="167"/>
+	<Point x="550" y="167"/>
+	<Point x="550" y="166"/>
+	<Point x="734" y="166"/>
+	<Point x="734" y="167"/>
+	<Point x="924" y="167"/>
+	<Point x="924" y="168"/>
+	<Point x="944" y="168"/>
+	<Point x="944" y="167"/>
+	<Point x="962" y="167"/>
+	<Point x="962" y="166"/>
+	<Point x="1084" y="166"/>
+	<Point x="1084" y="165"/>
+	<Point x="1115" y="165"/>
+	<Point x="1115" y="166"/>
+	<Point x="1150" y="166"/>
+	<Point x="1150" y="165"/>
+	<Point x="1183" y="165"/>
+	<Point x="1183" y="164"/>
+	<Point x="1224" y="164"/>
+	<Point x="1224" y="163"/>
+	<Point x="1264" y="163"/>
+	<Point x="1264" y="162"/>
+	<Point x="1304" y="162"/>
+	<Point x="1304" y="161"/>
+	<Point x="1337" y="161"/>
+	<Point x="1337" y="160"/>
+	<Point x="1369" y="160"/>
+	<Point x="1369" y="159"/>
+	<Point x="1401" y="159"/>
+	<Point x="1401" y="158"/>
+	<Point x="1433" y="158"/>
+	<Point x="1433" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>mieckim Annó Domini 1273 obranego, ie dwoiaka Linia, ktora ę eo mo
+do uformowała, idⱥcy od tego Rudolfa I Filip Hiſzpańſki y Sycyliyſkiy Krol,
+olim Xiⱥże Auryi, ( bo aż potym Arcy Xiⱥzętami nazwani Auryacy ) a Ma‑
+ximiliana I, Syn, dwoch zoawił Synow Ceſarzow Karola V. y Ferdynanda I
+dwoiakiey Linii Auryackiey Autor w: bo od Karola V idⱥ Krolowie Hiſz‑
+pańſcy, y zowiⱥ ę Linea Burgundica: od Ferdynanda I. z ępuiⱥ ARCYXIĄ‑
+ZĘTA Auryaccy, y zowiⱥ ę Lineá propriè Auﬆriaca, Tron Ceſarſki oada‑
+iⱥca aż do Karola VI. Annô Domini 1740 zmarłego. Auryackich Arcy‑Xiⱥ‑
+żⱥc ſⱥ oſobliwe Przywileie: że nowe Cła w ſwoim anowić mogⱥ Pańwie;
+Szlachtę y Baronow kreować, Herby dawać; Apellacye od ich Sⱥdow do Ka‑
+mer Ceſarſkich iść nie mogⱥ: Inweyturę albo Inallacyę na Xięwo nie biorⱥ
+extra Pańwa ſwego, áni o nię iak inni proſzⱥ, ale iⱥ z nakrytⱥ głowⱥ w ſwo‑
+ich granicach edzⱥcy na koniu odbieraiⱥ: Co im dȧno iako emeritis na Tro‑
+nie Ceſarſkim przez lat 470 w ſzeſnau Ceſarzach Auryackich od Roku 1273
+aż do Roku 1740.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r463" type="paragraph">
+	<Coords>
+	<Point x="1625" y="921"/>
+	<Point x="1625" y="1019"/>
+	<Point x="1626" y="1019"/>
+	<Point x="1626" y="1078"/>
+	<Point x="1627" y="1078"/>
+	<Point x="1627" y="1137"/>
+	<Point x="1628" y="1137"/>
+	<Point x="1628" y="1196"/>
+	<Point x="1629" y="1196"/>
+	<Point x="1629" y="1255"/>
+	<Point x="1630" y="1255"/>
+	<Point x="1630" y="1314"/>
+	<Point x="1631" y="1314"/>
+	<Point x="1631" y="1373"/>
+	<Point x="1632" y="1373"/>
+	<Point x="1631" y="1373"/>
+	<Point x="1631" y="1555"/>
+	<Point x="1630" y="1555"/>
+	<Point x="1630" y="1574"/>
+	<Point x="1597" y="1574"/>
+	<Point x="1597" y="1575"/>
+	<Point x="1575" y="1575"/>
+	<Point x="1575" y="1576"/>
+	<Point x="1553" y="1576"/>
+	<Point x="1553" y="1577"/>
+	<Point x="1523" y="1577"/>
+	<Point x="1523" y="1578"/>
+	<Point x="1493" y="1578"/>
+	<Point x="1493" y="1579"/>
+	<Point x="1453" y="1579"/>
+	<Point x="1453" y="1578"/>
+	<Point x="1399" y="1578"/>
+	<Point x="1399" y="1577"/>
+	<Point x="1343" y="1577"/>
+	<Point x="1343" y="1578"/>
+	<Point x="1334" y="1578"/>
+	<Point x="1334" y="1579"/>
+	<Point x="1325" y="1579"/>
+	<Point x="1325" y="1580"/>
+	<Point x="1316" y="1580"/>
+	<Point x="1316" y="1581"/>
+	<Point x="1307" y="1581"/>
+	<Point x="1307" y="1582"/>
+	<Point x="1298" y="1582"/>
+	<Point x="1298" y="1583"/>
+	<Point x="1274" y="1583"/>
+	<Point x="1274" y="1584"/>
+	<Point x="1250" y="1584"/>
+	<Point x="1250" y="1585"/>
+	<Point x="1225" y="1585"/>
+	<Point x="1225" y="1586"/>
+	<Point x="954" y="1586"/>
+	<Point x="954" y="1587"/>
+	<Point x="829" y="1587"/>
+	<Point x="829" y="1588"/>
+	<Point x="705" y="1588"/>
+	<Point x="705" y="1587"/>
+	<Point x="516" y="1587"/>
+	<Point x="516" y="1586"/>
+	<Point x="126" y="1586"/>
+	<Point x="126" y="1565"/>
+	<Point x="125" y="1565"/>
+	<Point x="125" y="1523"/>
+	<Point x="124" y="1523"/>
+	<Point x="124" y="1481"/>
+	<Point x="123" y="1481"/>
+	<Point x="123" y="1439"/>
+	<Point x="122" y="1439"/>
+	<Point x="122" y="1398"/>
+	<Point x="121" y="1398"/>
+	<Point x="122" y="1398"/>
+	<Point x="122" y="1239"/>
+	<Point x="123" y="1239"/>
+	<Point x="123" y="933"/>
+	<Point x="219" y="933"/>
+	<Point x="219" y="932"/>
+	<Point x="327" y="932"/>
+	<Point x="327" y="931"/>
+	<Point x="399" y="931"/>
+	<Point x="399" y="932"/>
+	<Point x="594" y="932"/>
+	<Point x="594" y="931"/>
+	<Point x="612" y="931"/>
+	<Point x="612" y="930"/>
+	<Point x="629" y="930"/>
+	<Point x="629" y="929"/>
+	<Point x="646" y="929"/>
+	<Point x="646" y="928"/>
+	<Point x="663" y="928"/>
+	<Point x="663" y="927"/>
+	<Point x="680" y="927"/>
+	<Point x="680" y="926"/>
+	<Point x="697" y="926"/>
+	<Point x="697" y="925"/>
+	<Point x="1268" y="925"/>
+	<Point x="1268" y="924"/>
+	<Point x="1373" y="924"/>
+	<Point x="1373" y="923"/>
+	<Point x="1479" y="923"/>
+	<Point x="1479" y="922"/>
+	<Point x="1584" y="922"/>
+	<Point x="1584" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>DUCES Xiⱥżęta genuine Wodzowie, po Łacinie Duces że ducunt, wo‑
+dzⱥ Woyſka, Powiat według poanowienia Ottona Ceſarza, ktorych kreowa‑
+no zaraz anowiⱥc PORZĄDEK Stanow Imperii czterech Brunſzwickiego,
+Bawarſkiego, Szwabſkiego y Lotaryńſkiego. Przedtym była ta Godność Per‑
+ſonalna, iedney Oſobie użⱥca, potym ała ę Hæreditaria całey Familii u‑
+żⱥca, alicui Communitati; Poeſyom, Dobrom præbens Ducatum, alias nie‑
+mi rzⱥdzⱥc, roſkazuiⱥc. Hiſzpańſcy Krolowie y teráz Duces kreuiⱥ; ale ten
+tytuł Sukceorom ich nie uży, ieżeliby Prawem Krol nie ponowił y pozwo‑
+lił nowym. MATRICULA, albo Metryka Imperii takich Duces łiczy 72, Du‑
+ces Bavariæ na dwie podzielili ę Linie, iedni ſⱥ właśnie Duces Bavariæ,
+zowiⱥ ę Linea Bavarica; drudzy Palatini, y zowiⱥ ę Linea Palatina. Ta
+Linia idzie od Rupertá Ceſarza Annô Domini 1410 zmarłego. Tamta od Lu‑
+dwika Ceſarza nazwiſkiem BAWARCZYK Annô Domini 1347 zeſzłego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r469" type="signature-mark">
+	<Coords>
+	<Point x="861" y="2043"/>
+	<Point x="861" y="2044"/>
+	<Point x="865" y="2044"/>
+	<Point x="865" y="2045"/>
+	<Point x="868" y="2045"/>
+	<Point x="868" y="2046"/>
+	<Point x="872" y="2046"/>
+	<Point x="872" y="2047"/>
+	<Point x="875" y="2047"/>
+	<Point x="875" y="2048"/>
+	<Point x="879" y="2048"/>
+	<Point x="879" y="2049"/>
+	<Point x="882" y="2049"/>
+	<Point x="882" y="2050"/>
+	<Point x="883" y="2050"/>
+	<Point x="883" y="2051"/>
+	<Point x="884" y="2051"/>
+	<Point x="884" y="2052"/>
+	<Point x="885" y="2052"/>
+	<Point x="885" y="2054"/>
+	<Point x="886" y="2054"/>
+	<Point x="886" y="2055"/>
+	<Point x="887" y="2055"/>
+	<Point x="887" y="2057"/>
+	<Point x="888" y="2057"/>
+	<Point x="888" y="2058"/>
+	<Point x="889" y="2058"/>
+	<Point x="889" y="2100"/>
+	<Point x="773" y="2100"/>
+	<Point x="773" y="2059"/>
+	<Point x="774" y="2059"/>
+	<Point x="774" y="2058"/>
+	<Point x="775" y="2058"/>
+	<Point x="775" y="2057"/>
+	<Point x="776" y="2057"/>
+	<Point x="776" y="2056"/>
+	<Point x="777" y="2056"/>
+	<Point x="777" y="2055"/>
+	<Point x="778" y="2055"/>
+	<Point x="778" y="2054"/>
+	<Point x="779" y="2054"/>
+	<Point x="779" y="2053"/>
+	<Point x="780" y="2053"/>
+	<Point x="780" y="2052"/>
+	<Point x="781" y="2052"/>
+	<Point x="781" y="2051"/>
+	<Point x="782" y="2051"/>
+	<Point x="782" y="2050"/>
+	<Point x="783" y="2050"/>
+	<Point x="783" y="2049"/>
+	<Point x="784" y="2049"/>
+	<Point x="784" y="2048"/>
+	<Point x="785" y="2048"/>
+	<Point x="785" y="2047"/>
+	<Point x="786" y="2047"/>
+	<Point x="786" y="2046"/>
+	<Point x="787" y="2046"/>
+	<Point x="787" y="2045"/>
+	<Point x="788" y="2045"/>
+	<Point x="788" y="2044"/>
+	<Point x="789" y="2044"/>
+	<Point x="789" y="2043"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Bbb2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r471" type="paragraph">
+	<Coords>
+	<Point x="1630" y="1576"/>
+	<Point x="1630" y="1890"/>
+	<Point x="1631" y="1890"/>
+	<Point x="1631" y="2042"/>
+	<Point x="1632" y="2042"/>
+	<Point x="1565" y="2042"/>
+	<Point x="1565" y="2041"/>
+	<Point x="1552" y="2041"/>
+	<Point x="1552" y="2040"/>
+	<Point x="1537" y="2040"/>
+	<Point x="1537" y="2041"/>
+	<Point x="1516" y="2041"/>
+	<Point x="1516" y="2042"/>
+	<Point x="1495" y="2042"/>
+	<Point x="1495" y="2043"/>
+	<Point x="1474" y="2043"/>
+	<Point x="1474" y="2044"/>
+	<Point x="1473" y="2044"/>
+	<Point x="1473" y="2045"/>
+	<Point x="1472" y="2045"/>
+	<Point x="1472" y="2047"/>
+	<Point x="1471" y="2047"/>
+	<Point x="1471" y="2048"/>
+	<Point x="1470" y="2048"/>
+	<Point x="1470" y="2050"/>
+	<Point x="1469" y="2050"/>
+	<Point x="1469" y="2051"/>
+	<Point x="1468" y="2051"/>
+	<Point x="1468" y="2052"/>
+	<Point x="1467" y="2052"/>
+	<Point x="1467" y="2054"/>
+	<Point x="1466" y="2054"/>
+	<Point x="1466" y="2055"/>
+	<Point x="1465" y="2055"/>
+	<Point x="1465" y="2057"/>
+	<Point x="891" y="2057"/>
+	<Point x="891" y="2056"/>
+	<Point x="890" y="2056"/>
+	<Point x="890" y="2055"/>
+	<Point x="889" y="2055"/>
+	<Point x="889" y="2053"/>
+	<Point x="888" y="2053"/>
+	<Point x="888" y="2052"/>
+	<Point x="887" y="2052"/>
+	<Point x="887" y="2050"/>
+	<Point x="886" y="2050"/>
+	<Point x="886" y="2049"/>
+	<Point x="885" y="2049"/>
+	<Point x="885" y="2048"/>
+	<Point x="884" y="2048"/>
+	<Point x="884" y="2047"/>
+	<Point x="881" y="2047"/>
+	<Point x="881" y="2046"/>
+	<Point x="877" y="2046"/>
+	<Point x="877" y="2045"/>
+	<Point x="874" y="2045"/>
+	<Point x="874" y="2044"/>
+	<Point x="870" y="2044"/>
+	<Point x="870" y="2043"/>
+	<Point x="867" y="2043"/>
+	<Point x="867" y="2042"/>
+	<Point x="863" y="2042"/>
+	<Point x="863" y="2041"/>
+	<Point x="787" y="2041"/>
+	<Point x="787" y="2042"/>
+	<Point x="786" y="2042"/>
+	<Point x="786" y="2043"/>
+	<Point x="785" y="2043"/>
+	<Point x="785" y="2044"/>
+	<Point x="784" y="2044"/>
+	<Point x="784" y="2045"/>
+	<Point x="783" y="2045"/>
+	<Point x="783" y="2046"/>
+	<Point x="782" y="2046"/>
+	<Point x="782" y="2047"/>
+	<Point x="781" y="2047"/>
+	<Point x="781" y="2048"/>
+	<Point x="780" y="2048"/>
+	<Point x="780" y="2049"/>
+	<Point x="779" y="2049"/>
+	<Point x="779" y="2050"/>
+	<Point x="778" y="2050"/>
+	<Point x="778" y="2051"/>
+	<Point x="777" y="2051"/>
+	<Point x="777" y="2052"/>
+	<Point x="776" y="2052"/>
+	<Point x="776" y="2053"/>
+	<Point x="775" y="2053"/>
+	<Point x="775" y="2054"/>
+	<Point x="774" y="2054"/>
+	<Point x="774" y="2055"/>
+	<Point x="773" y="2055"/>
+	<Point x="773" y="2056"/>
+	<Point x="772" y="2056"/>
+	<Point x="772" y="2057"/>
+	<Point x="771" y="2057"/>
+	<Point x="771" y="2058"/>
+	<Point x="367" y="2058"/>
+	<Point x="367" y="2057"/>
+	<Point x="125" y="2057"/>
+	<Point x="125" y="1944"/>
+	<Point x="126" y="1944"/>
+	<Point x="126" y="1588"/>
+	<Point x="514" y="1588"/>
+	<Point x="514" y="1589"/>
+	<Point x="703" y="1589"/>
+	<Point x="703" y="1590"/>
+	<Point x="831" y="1590"/>
+	<Point x="831" y="1589"/>
+	<Point x="956" y="1589"/>
+	<Point x="956" y="1588"/>
+	<Point x="1227" y="1588"/>
+	<Point x="1227" y="1587"/>
+	<Point x="1252" y="1587"/>
+	<Point x="1252" y="1586"/>
+	<Point x="1276" y="1586"/>
+	<Point x="1276" y="1585"/>
+	<Point x="1300" y="1585"/>
+	<Point x="1300" y="1584"/>
+	<Point x="1309" y="1584"/>
+	<Point x="1309" y="1583"/>
+	<Point x="1318" y="1583"/>
+	<Point x="1318" y="1582"/>
+	<Point x="1327" y="1582"/>
+	<Point x="1327" y="1581"/>
+	<Point x="1336" y="1581"/>
+	<Point x="1336" y="1580"/>
+	<Point x="1345" y="1580"/>
+	<Point x="1345" y="1579"/>
+	<Point x="1397" y="1579"/>
+	<Point x="1397" y="1580"/>
+	<Point x="1451" y="1580"/>
+	<Point x="1451" y="1581"/>
+	<Point x="1495" y="1581"/>
+	<Point x="1495" y="1580"/>
+	<Point x="1525" y="1580"/>
+	<Point x="1525" y="1579"/>
+	<Point x="1555" y="1579"/>
+	<Point x="1555" y="1578"/>
+	<Point x="1577" y="1578"/>
+	<Point x="1577" y="1577"/>
+	<Point x="1599" y="1577"/>
+	<Point x="1599" y="1576"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MARCHIONES, po Polſku Margrabiowie; po Niemiecku Margraﬀowie, ſⱥ
+to Granic Pańwa Rzymſkiego Strażnicy, za czaſow Henryka Aucupis, to ie
+Łowczym albo Myśliwym zwanego, Roku 920 poanowieni; lub ieſzcze od
+Karola Wielkiego, ochraniaiⱥc granic Imperii od Morawcżykow, Sarmatow,
+Węgrow, Polakow, Czechow, Wenedow, Obotrytow: Tych MARCHIONES
+albo Margraﬀow, prop�è, Pańwa Rzymſkiego ie czterech, 1. Brandeburſki,
+2. Miſneńſki, 3. Badeńſki, 4. Morawſki. MARCHIO zowie ę od owa Mar‑
+chia, uformowanego z owa Niemieckiego Marck, toie Granica; iż na gra‑
+nicach byli Rzymſkich dla rzeżeniá ich, lokowani od Rzymianow; ztⱥd in‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r473" type="catch-word">
+	<Coords>
+	<Point x="1550" y="2042"/>
+	<Point x="1550" y="2043"/>
+	<Point x="1563" y="2043"/>
+	<Point x="1563" y="2044"/>
+	<Point x="1575" y="2044"/>
+	<Point x="1575" y="2092"/>
+	<Point x="1467" y="2092"/>
+	<Point x="1467" y="2057"/>
+	<Point x="1468" y="2057"/>
+	<Point x="1468" y="2056"/>
+	<Point x="1469" y="2056"/>
+	<Point x="1469" y="2054"/>
+	<Point x="1470" y="2054"/>
+	<Point x="1470" y="2053"/>
+	<Point x="1471" y="2053"/>
+	<Point x="1471" y="2052"/>
+	<Point x="1472" y="2052"/>
+	<Point x="1472" y="2050"/>
+	<Point x="1473" y="2050"/>
+	<Point x="1473" y="2049"/>
+	<Point x="1474" y="2049"/>
+	<Point x="1474" y="2047"/>
+	<Point x="1475" y="2047"/>
+	<Point x="1475" y="2046"/>
+	<Point x="1476" y="2046"/>
+	<Point x="1476" y="2045"/>
+	<Point x="1497" y="2045"/>
+	<Point x="1497" y="2044"/>
+	<Point x="1518" y="2044"/>
+	<Point x="1518" y="2043"/>
+	<Point x="1539" y="2043"/>
+	<Point x="1539" y="2042"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>nym</Unicode></TextEquiv></TextRegion></Page></PcGts>

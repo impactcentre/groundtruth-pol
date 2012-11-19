@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00435946" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T11:56:30</Created>
+	<LastChange>2011-08-22T01:42:19</LastChange></Metadata>
+	<Page imageFilename="00435946.tif" imageHeight="2328" imageWidth="1928">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r373"/>
+	<RegionRefIndexed index="1" regionRef="r371"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r355" type="page-number">
+	<Coords>
+	<Point x="1680" y="123"/>
+	<Point x="1680" y="195"/>
+	<Point x="1621" y="195"/>
+	<Point x="1621" y="194"/>
+	<Point x="1562" y="194"/>
+	<Point x="1562" y="174"/>
+	<Point x="1563" y="174"/>
+	<Point x="1563" y="145"/>
+	<Point x="1564" y="145"/>
+	<Point x="1564" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>462</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r363" type="header">
+	<Coords>
+	<Point x="1249" y="123"/>
+	<Point x="1249" y="156"/>
+	<Point x="1250" y="156"/>
+	<Point x="1250" y="189"/>
+	<Point x="837" y="189"/>
+	<Point x="837" y="188"/>
+	<Point x="717" y="188"/>
+	<Point x="717" y="187"/>
+	<Point x="597" y="187"/>
+	<Point x="597" y="186"/>
+	<Point x="564" y="186"/>
+	<Point x="564" y="185"/>
+	<Point x="531" y="185"/>
+	<Point x="531" y="184"/>
+	<Point x="496" y="184"/>
+	<Point x="496" y="185"/>
+	<Point x="483" y="185"/>
+	<Point x="483" y="166"/>
+	<Point x="482" y="166"/>
+	<Point x="482" y="140"/>
+	<Point x="481" y="140"/>
+	<Point x="481" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Całego świata præcipuè o AZYI</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r365">
+	<Coords>
+	<Point x="529" y="186"/>
+	<Point x="529" y="187"/>
+	<Point x="562" y="187"/>
+	<Point x="562" y="188"/>
+	<Point x="595" y="188"/>
+	<Point x="595" y="189"/>
+	<Point x="715" y="189"/>
+	<Point x="715" y="190"/>
+	<Point x="835" y="190"/>
+	<Point x="835" y="191"/>
+	<Point x="1254" y="191"/>
+	<Point x="1254" y="192"/>
+	<Point x="1327" y="192"/>
+	<Point x="1327" y="193"/>
+	<Point x="1400" y="193"/>
+	<Point x="1400" y="194"/>
+	<Point x="1473" y="194"/>
+	<Point x="1473" y="195"/>
+	<Point x="1546" y="195"/>
+	<Point x="1546" y="196"/>
+	<Point x="1619" y="196"/>
+	<Point x="1619" y="197"/>
+	<Point x="1680" y="197"/>
+	<Point x="1680" y="212"/>
+	<Point x="1654" y="212"/>
+	<Point x="1654" y="211"/>
+	<Point x="1625" y="211"/>
+	<Point x="1625" y="210"/>
+	<Point x="1595" y="210"/>
+	<Point x="1595" y="209"/>
+	<Point x="1566" y="209"/>
+	<Point x="1566" y="208"/>
+	<Point x="1537" y="208"/>
+	<Point x="1537" y="207"/>
+	<Point x="1507" y="207"/>
+	<Point x="1507" y="206"/>
+	<Point x="1231" y="206"/>
+	<Point x="1231" y="205"/>
+	<Point x="1115" y="205"/>
+	<Point x="1115" y="204"/>
+	<Point x="1058" y="204"/>
+	<Point x="1058" y="203"/>
+	<Point x="1000" y="203"/>
+	<Point x="1000" y="202"/>
+	<Point x="942" y="202"/>
+	<Point x="942" y="201"/>
+	<Point x="882" y="201"/>
+	<Point x="882" y="202"/>
+	<Point x="810" y="202"/>
+	<Point x="810" y="203"/>
+	<Point x="739" y="203"/>
+	<Point x="739" y="202"/>
+	<Point x="545" y="197"/>
+	<Point x="493" y="202"/>
+	<Point x="493" y="203"/>
+	<Point x="432" y="203"/>
+	<Point x="432" y="204"/>
+	<Point x="370" y="204"/>
+	<Point x="370" y="205"/>
+	<Point x="309" y="205"/>
+	<Point x="309" y="206"/>
+	<Point x="249" y="206"/>
+	<Point x="249" y="205"/>
+	<Point x="183" y="205"/>
+	<Point x="183" y="204"/>
+	<Point x="121" y="204"/>
+	<Point x="121" y="187"/>
+	<Point x="498" y="187"/>
+	<Point x="498" y="186"/></Coords></SeparatorRegion>
+	<TextRegion id="r371" type="catch-word">
+	<Coords>
+	<Point x="1499" y="2088"/>
+	<Point x="1501" y="2088"/>
+	<Point x="1501" y="2089"/>
+	<Point x="1503" y="2089"/>
+	<Point x="1503" y="2090"/>
+	<Point x="1504" y="2090"/>
+	<Point x="1504" y="2091"/>
+	<Point x="1506" y="2091"/>
+	<Point x="1506" y="2092"/>
+	<Point x="1508" y="2092"/>
+	<Point x="1508" y="2093"/>
+	<Point x="1509" y="2093"/>
+	<Point x="1509" y="2094"/>
+	<Point x="1511" y="2094"/>
+	<Point x="1511" y="2095"/>
+	<Point x="1513" y="2095"/>
+	<Point x="1513" y="2096"/>
+	<Point x="1514" y="2096"/>
+	<Point x="1514" y="2097"/>
+	<Point x="1516" y="2097"/>
+	<Point x="1516" y="2098"/>
+	<Point x="1518" y="2098"/>
+	<Point x="1518" y="2099"/>
+	<Point x="1519" y="2099"/>
+	<Point x="1519" y="2100"/>
+	<Point x="1680" y="2100"/>
+	<Point x="1680" y="2154"/>
+	<Point x="1464" y="2154"/>
+	<Point x="1464" y="2133"/>
+	<Point x="1465" y="2133"/>
+	<Point x="1465" y="2111"/>
+	<Point x="1466" y="2111"/>
+	<Point x="1466" y="2089"/>
+	<Point x="1482" y="2089"/>
+	<Point x="1482" y="2088"/>
+	<Point x="1499" y="2088"/>
+	<Point x="1499" y="2087"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>brazu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r373" type="paragraph">
+	<Coords>
+	<Point x="557" y="201"/>
+	<Point x="602" y="201"/>
+	<Point x="602" y="202"/>
+	<Point x="647" y="202"/>
+	<Point x="647" y="203"/>
+	<Point x="692" y="203"/>
+	<Point x="692" y="204"/>
+	<Point x="737" y="204"/>
+	<Point x="737" y="205"/>
+	<Point x="812" y="205"/>
+	<Point x="812" y="204"/>
+	<Point x="884" y="204"/>
+	<Point x="884" y="203"/>
+	<Point x="940" y="203"/>
+	<Point x="940" y="204"/>
+	<Point x="998" y="204"/>
+	<Point x="998" y="205"/>
+	<Point x="1056" y="205"/>
+	<Point x="1056" y="206"/>
+	<Point x="1113" y="206"/>
+	<Point x="1113" y="207"/>
+	<Point x="1229" y="207"/>
+	<Point x="1229" y="208"/>
+	<Point x="1505" y="208"/>
+	<Point x="1505" y="209"/>
+	<Point x="1535" y="209"/>
+	<Point x="1535" y="210"/>
+	<Point x="1564" y="210"/>
+	<Point x="1564" y="211"/>
+	<Point x="1593" y="211"/>
+	<Point x="1593" y="212"/>
+	<Point x="1623" y="212"/>
+	<Point x="1623" y="213"/>
+	<Point x="1652" y="213"/>
+	<Point x="1652" y="214"/>
+	<Point x="1680" y="214"/>
+	<Point x="1680" y="2098"/>
+	<Point x="1521" y="2098"/>
+	<Point x="1521" y="2097"/>
+	<Point x="1520" y="2097"/>
+	<Point x="1520" y="2096"/>
+	<Point x="1518" y="2096"/>
+	<Point x="1518" y="2095"/>
+	<Point x="1516" y="2095"/>
+	<Point x="1516" y="2094"/>
+	<Point x="1515" y="2094"/>
+	<Point x="1515" y="2093"/>
+	<Point x="1513" y="2093"/>
+	<Point x="1513" y="2092"/>
+	<Point x="1511" y="2092"/>
+	<Point x="1511" y="2091"/>
+	<Point x="1510" y="2091"/>
+	<Point x="1510" y="2090"/>
+	<Point x="1508" y="2090"/>
+	<Point x="1508" y="2089"/>
+	<Point x="1506" y="2089"/>
+	<Point x="1506" y="2088"/>
+	<Point x="1505" y="2088"/>
+	<Point x="1505" y="2087"/>
+	<Point x="1503" y="2087"/>
+	<Point x="1503" y="2086"/>
+	<Point x="1501" y="2086"/>
+	<Point x="1501" y="2085"/>
+	<Point x="1497" y="2085"/>
+	<Point x="1497" y="2086"/>
+	<Point x="1480" y="2086"/>
+	<Point x="1480" y="2087"/>
+	<Point x="1464" y="2087"/>
+	<Point x="1464" y="2108"/>
+	<Point x="1365" y="2108"/>
+	<Point x="1365" y="2107"/>
+	<Point x="1251" y="2107"/>
+	<Point x="1251" y="2106"/>
+	<Point x="1137" y="2106"/>
+	<Point x="1137" y="2105"/>
+	<Point x="1023" y="2105"/>
+	<Point x="1023" y="2104"/>
+	<Point x="909" y="2104"/>
+	<Point x="909" y="2103"/>
+	<Point x="794" y="2103"/>
+	<Point x="794" y="2102"/>
+	<Point x="680" y="2102"/>
+	<Point x="680" y="2101"/>
+	<Point x="566" y="2101"/>
+	<Point x="566" y="2100"/>
+	<Point x="452" y="2100"/>
+	<Point x="452" y="2099"/>
+	<Point x="338" y="2099"/>
+	<Point x="338" y="2098"/>
+	<Point x="224" y="2098"/>
+	<Point x="224" y="2097"/>
+	<Point x="121" y="2097"/>
+	<Point x="121" y="206"/>
+	<Point x="181" y="206"/>
+	<Point x="181" y="207"/>
+	<Point x="247" y="207"/>
+	<Point x="247" y="208"/>
+	<Point x="311" y="208"/>
+	<Point x="311" y="207"/>
+	<Point x="372" y="207"/>
+	<Point x="372" y="206"/>
+	<Point x="434" y="206"/>
+	<Point x="434" y="205"/>
+	<Point x="495" y="205"/>
+	<Point x="495" y="204"/>
+	<Point x="511" y="204"/>
+	<Point x="511" y="203"/>
+	<Point x="526" y="203"/>
+	<Point x="526" y="202"/>
+	<Point x="542" y="202"/>
+	<Point x="542" y="201"/>
+	<Point x="557" y="201"/>
+	<Point x="557" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ſkiey wyawiwſzy w Syrii y Mezopotamii, trwaiącey do Roku
+632. Aż Krol Perſki Izdegerdes, czyli Hormisdas W. zabity przez
+Omara Krola Saracenow. Ci rzⱥdzili Perſyą y bliſkiemi Kraiami
+przez lat 418. Tym potym odebrał Pańwo Gelal Edym w Suk‑
+ceorach abſolutnie panuiⱥcy, ktorych Tamerlanes Roku 1393. wy‑
+pędził. Po Tamerlanie rządziło 4. Xiⱥżⱥt w Perſyi z fakcyi Bara‑
+na czarnego. Ale Uun Kaan z fakcyi białego Barana Gubernator
+Armenii podnio rebelliɇ przeciw Joonſze Krolowi Perſkiemu, y
+kazał go zabić z Synem Acen‑Ali. Ten Uun‑Koan panował
+od Roku 1469. aż do Roku 1485. Izmàél Wnuk iego rozerwa‑
+nⱥ Perſyɇ ziednoczywſzy, oadł Tron Perſki, od niego idⱥ So‑
+phowie: ktorzy o Diaberck, to ie arożytnⱥ Mezopotamiɇ z
+Turczynem iey Panem walczⱥ czɇo, iako y o Chaldeę, vulgò Chal‑
+dar, Jerack zwaną. ASSYRYICZYKOWIE arożytni, co rok
+do Mia y wow ſchodzili ɇ, na iarmarku corki ſwe ſzpe‑
+tne y piękne prezentowali. Piɇknieyſze drogo kupowano, á
+ſzpetne zoawały ę, ale y te za piɇknych, dawſzy dobry po‑
+ſag, były wydane, według Herodota Autora. W tym Kraiu
+DIABERCK, albo w Mezopotamii Ayriæ, ie Miao Muſul,
+nad rzeką Tygrem z Zamkiem , z drugiey rony Tygru, ſⱥ ru‑
+dera Starożytnego Miaa Ninive, co ɇ wykłada pulchra, ktore
+opiſałem w Czɇści I. Aten ſol: 320. Tuż ie Orfa, czyli Orphá
+w Piſmie S. Rages, to Rachais, u Łacinnikow Edee, Miao Me‑
+zopotámii, nad| rzeką Chabur leżące, należące do Greckich Ce‑
+ſarzow, przez Gubernatorow ich rządzone, potym od Turkow
+zawoiowane, przed Krucyatą, aliàs Woyną Swiętą, przecież
+Greczynowi w rządy powierzone, z obligacyą płacenia hara‑
+czu Turkom, ktory Greczyn znioſzy ɇ z Obywatelami Chrze‑
+ściany, poddał podczas Krucyaty Baldwinowi Kruciackiemu,
+ktory ią obſzenym Kraiem uczynił, Hrabwem utyrułował,
+potym Xięwem. Była tu Stolica Abagara Krola Ozroenitow,
+ktoremu Pan Chryus Portret ſwoy przez S. Tadeuſza Apo‑
+oła, czyli innego Ucznia tegoż imienia poał, ktorego O‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

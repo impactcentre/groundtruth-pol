@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436119" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-20T04:54:33</Created>
+	<LastChange>2011-09-26T07:48:33</LastChange></Metadata>
+	<Page imageFilename="00436119.tif" imageHeight="2748" imageWidth="2084">
+	<GraphicRegion id="r2" type="stamp">
+	<Coords>
+	<Point x="695" y="1186"/>
+	<Point x="695" y="1613"/>
+	<Point x="1231" y="1613"/>
+	<Point x="1231" y="1186"/></Coords></GraphicRegion>
+	<GraphicRegion id="r3" type="stamp">
+	<Coords>
+	<Point x="1240" y="1640"/>
+	<Point x="1231" y="1757"/>
+	<Point x="1632" y="1794"/>
+	<Point x="1638" y="1675"/></Coords></GraphicRegion>
+	<GraphicRegion id="r4" type="stamp">
+	<Coords>
+	<Point x="877" y="1686"/>
+	<Point x="946" y="2021"/>
+	<Point x="1100" y="2017"/>
+	<Point x="1176" y="2001"/>
+	<Point x="1226" y="1970"/>
+	<Point x="1266" y="1917"/>
+	<Point x="1268" y="1826"/>
+	<Point x="1259" y="1796"/>
+	<Point x="1155" y="1675"/></Coords></GraphicRegion>
+	<GraphicRegion id="r5" type="handwritten-annotation">
+	<Coords>
+	<Point x="1091" y="2026"/>
+	<Point x="1091" y="2108"/>
+	<Point x="1409" y="2109"/>
+	<Point x="1408" y="2010"/>
+	<Point x="1150" y="2012"/></Coords></GraphicRegion>
+	<GraphicRegion id="r6" type="stamp">
+	<Coords>
+	<Point x="804" y="2122"/>
+	<Point x="804" y="2345"/>
+	<Point x="1304" y="2345"/>
+	<Point x="1304" y="2122"/></Coords></GraphicRegion>
+	<GraphicRegion id="r7" type="handwritten-annotation">
+	<Coords>
+	<Point x="630" y="2351"/>
+	<Point x="631" y="2522"/>
+	<Point x="1322" y="2522"/>
+	<Point x="1323" y="2349"/></Coords></GraphicRegion></Page></PcGts>

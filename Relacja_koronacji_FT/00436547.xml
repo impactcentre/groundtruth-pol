@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436547" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T12:54:41</Created>
+	<LastChange>2011-10-20T09:49:08</LastChange></Metadata>
+	<Page imageFilename="00436547.tif" imageHeight="2824" imageWidth="2248">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r153"/>
+	<RegionRefIndexed index="1" regionRef="r154"/>
+	<RegionRefIndexed index="2" regionRef="r155"/>
+	<RegionRefIndexed index="3" regionRef="r156"/>
+	<RegionRefIndexed index="4" regionRef="r157"/>
+	<RegionRefIndexed index="5" regionRef="r158"/>
+	<RegionRefIndexed index="6" regionRef="r159"/>
+	<RegionRefIndexed index="7" regionRef="r160"/>
+	<RegionRefIndexed index="8" regionRef="r161"/>
+	<RegionRefIndexed index="9" regionRef="r162"/>
+	<RegionRefIndexed index="10" regionRef="r163"/>
+	<RegionRefIndexed index="11" regionRef="r164"/>
+	<RegionRefIndexed index="12" regionRef="r165"/>
+	<RegionRefIndexed index="13" regionRef="r166"/>
+	<RegionRefIndexed index="14" regionRef="r167"/>
+	<RegionRefIndexed index="15" regionRef="r168"/>
+	<RegionRefIndexed index="16" regionRef="r170"/>
+	<RegionRefIndexed index="17" regionRef="r171"/>
+	<RegionRefIndexed index="18" regionRef="r172"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r152" type="handwritten-annotation">
+	<Coords>
+	<Point x="1905" y="51"/>
+	<Point x="1905" y="181"/>
+	<Point x="2074" y="181"/>
+	<Point x="2074" y="51"/></Coords></GraphicRegion>
+	<TextRegion id="r153" textColour="black" type="heading">
+	<Coords>
+	<Point x="275" y="188"/>
+	<Point x="275" y="379"/>
+	<Point x="1864" y="379"/>
+	<Point x="1864" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>RELACYA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r154" textColour="black" type="heading">
+	<Coords>
+	<Point x="309" y="390"/>
+	<Point x="309" y="598"/>
+	<Point x="870" y="599"/>
+	<Point x="885" y="616"/>
+	<Point x="908" y="616"/>
+	<Point x="924" y="601"/>
+	<Point x="969" y="596"/>
+	<Point x="1072" y="595"/>
+	<Point x="1072" y="617"/>
+	<Point x="1103" y="618"/>
+	<Point x="1114" y="595"/>
+	<Point x="1139" y="595"/>
+	<Point x="1272" y="593"/>
+	<Point x="1283" y="617"/>
+	<Point x="1307" y="618"/>
+	<Point x="1342" y="595"/>
+	<Point x="1410" y="599"/>
+	<Point x="1805" y="578"/>
+	<Point x="1811" y="390"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Koronácyi Cudownego Obrazu
+Nayświętſzey</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r155" textColour="black" type="heading">
+	<Coords>
+	<Point x="379" y="614"/>
+	<Point x="379" y="731"/>
+	<Point x="1701" y="731"/>
+	<Point x="1701" y="614"/>
+	<Point x="1342" y="626"/>
+	<Point x="1275" y="627"/>
+	<Point x="1125" y="625"/>
+	<Point x="1108" y="628"/>
+	<Point x="1067" y="628"/>
+	<Point x="1060" y="619"/>
+	<Point x="921" y="621"/>
+	<Point x="871" y="621"/>
+	<Point x="871" y="615"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MARYI PANNY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r156" textColour="black" type="heading">
+	<Coords>
+	<Point x="266" y="737"/>
+	<Point x="266" y="898"/>
+	<Point x="989" y="897"/>
+	<Point x="991" y="914"/>
+	<Point x="1015" y="917"/>
+	<Point x="1036" y="893"/>
+	<Point x="1068" y="893"/>
+	<Point x="1171" y="897"/>
+	<Point x="1178" y="917"/>
+	<Point x="1266" y="917"/>
+	<Point x="1277" y="919"/>
+	<Point x="1324" y="889"/>
+	<Point x="1371" y="889"/>
+	<Point x="1844" y="898"/>
+	<Point x="1844" y="737"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná Gorze Rożáńcowey WW. OO. Dominikánow
+Prowincyi Ruſkiey</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r157" textColour="black" type="heading">
+	<Coords>
+	<Point x="325" y="905"/>
+	<Point x="325" y="990"/>
+	<Point x="564" y="982"/>
+	<Point x="575" y="1004"/>
+	<Point x="600" y="1006"/>
+	<Point x="626" y="984"/>
+	<Point x="674" y="980"/>
+	<Point x="692" y="983"/>
+	<Point x="692" y="1006"/>
+	<Point x="720" y="1007"/>
+	<Point x="742" y="982"/>
+	<Point x="873" y="985"/>
+	<Point x="877" y="1013"/>
+	<Point x="922" y="1010"/>
+	<Point x="925" y="980"/>
+	<Point x="973" y="980"/>
+	<Point x="1785" y="990"/>
+	<Point x="1785" y="905"/>
+	<Point x="1443" y="904"/>
+	<Point x="1339" y="910"/>
+	<Point x="1301" y="909"/>
+	<Point x="1280" y="929"/>
+	<Point x="1268" y="930"/>
+	<Point x="1237" y="931"/>
+	<Point x="1175" y="931"/>
+	<Point x="1167" y="907"/>
+	<Point x="1062" y="905"/>
+	<Point x="1034" y="912"/>
+	<Point x="1010" y="935"/>
+	<Point x="952" y="917"/>
+	<Point x="940" y="905"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Od Naywyżſzego Páerzá kościołá S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r158" textColour="black" type="heading">
+	<Coords>
+	<Point x="255" y="1000"/>
+	<Point x="255" y="1112"/>
+	<Point x="1135" y="1109"/>
+	<Point x="1848" y="1112"/>
+	<Point x="1848" y="1000"/>
+	<Point x="971" y="1004"/>
+	<Point x="935" y="1002"/>
+	<Point x="930" y="1037"/>
+	<Point x="889" y="1037"/>
+	<Point x="860" y="1010"/>
+	<Point x="739" y="1009"/>
+	<Point x="673" y="1010"/>
+	<Point x="613" y="1015"/>
+	<Point x="545" y="1010"/>
+	<Point x="493" y="1006"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>BENEDYKTA XIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r159" textColour="black" type="heading">
+	<Coords>
+	<Point x="764" y="1125"/>
+	<Point x="764" y="1229"/>
+	<Point x="1305" y="1229"/>
+	<Point x="1305" y="1125"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>pozwoloney</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r160" textColour="black" type="heading">
+	<Coords>
+	<Point x="255" y="1231"/>
+	<Point x="255" y="1311"/>
+	<Point x="371" y="1324"/>
+	<Point x="536" y="1324"/>
+	<Point x="536" y="1306"/>
+	<Point x="660" y="1306"/>
+	<Point x="665" y="1319"/>
+	<Point x="682" y="1321"/>
+	<Point x="710" y="1316"/>
+	<Point x="719" y="1302"/>
+	<Point x="748" y="1303"/>
+	<Point x="1238" y="1305"/>
+	<Point x="1244" y="1317"/>
+	<Point x="1293" y="1316"/>
+	<Point x="1323" y="1314"/>
+	<Point x="1330" y="1305"/>
+	<Point x="1363" y="1305"/>
+	<Point x="1381" y="1304"/>
+	<Point x="1846" y="1311"/>
+	<Point x="1846" y="1231"/>
+	<Point x="714" y="1234"/>
+	<Point x="427" y="1225"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zȧ ßczęśliwego ná Polſkim Má jeácie Pánowáni�</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r161" textColour="black" type="heading">
+	<Coords>
+	<Point x="570" y="1320"/>
+	<Point x="570" y="1400"/>
+	<Point x="1503" y="1400"/>
+	<Point x="1503" y="1320"/>
+	<Point x="1476" y="1320"/>
+	<Point x="1465" y="1314"/>
+	<Point x="1411" y="1314"/>
+	<Point x="1387" y="1320"/>
+	<Point x="746" y="1317"/>
+	<Point x="691" y="1322"/>
+	<Point x="682" y="1328"/>
+	<Point x="646" y="1339"/>
+	<Point x="625" y="1320"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>AVGVSTA II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r162" textColour="black" type="heading">
+	<Coords>
+	<Point x="955" y="1431"/>
+	<Point x="955" y="1485"/>
+	<Point x="965" y="1503"/>
+	<Point x="984" y="1504"/>
+	<Point x="1004" y="1486"/>
+	<Point x="1159" y="1485"/>
+	<Point x="1159" y="1431"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>przez</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r163" textColour="black" type="heading">
+	<Coords>
+	<Point x="251" y="1492"/>
+	<Point x="251" y="1701"/>
+	<Point x="1850" y="1701"/>
+	<Point x="1850" y="1492"/>
+	<Point x="1033" y="1494"/>
+	<Point x="997" y="1501"/>
+	<Point x="980" y="1513"/>
+	<Point x="951" y="1509"/>
+	<Point x="942" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>I. W. N. I. X. STEFANA
+BOGVSŁAWA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r164" textColour="black" type="heading">
+	<Coords>
+	<Point x="611" y="1714"/>
+	<Point x="611" y="1772"/>
+	<Point x="764" y="1770"/>
+	<Point x="765" y="1788"/>
+	<Point x="787" y="1787"/>
+	<Point x="793" y="1770"/>
+	<Point x="1062" y="1770"/>
+	<Point x="1069" y="1784"/>
+	<Point x="1092" y="1783"/>
+	<Point x="1129" y="1772"/>
+	<Point x="1153" y="1775"/>
+	<Point x="1474" y="1772"/>
+	<Point x="1474" y="1714"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Z Rupniewa ná Januſzowicżách</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r165" textColour="black" type="heading">
+	<Coords>
+	<Point x="251" y="1779"/>
+	<Point x="251" y="1894"/>
+	<Point x="1833" y="1894"/>
+	<Point x="1833" y="1779"/>
+	<Point x="1083" y="1791"/>
+	<Point x="869" y="1788"/>
+	<Point x="800" y="1783"/>
+	<Point x="786" y="1793"/>
+	<Point x="766" y="1795"/>
+	<Point x="742" y="1786"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>RVPNIEW SKIEGO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r166" textColour="black" type="heading">
+	<Coords>
+	<Point x="277" y="1901"/>
+	<Point x="277" y="2014"/>
+	<Point x="1811" y="2014"/>
+	<Point x="1811" y="1901"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Biskupá Łuckiego Brzeſckiego &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r167" textColour="black" type="heading">
+	<Coords>
+	<Point x="259" y="2016"/>
+	<Point x="250" y="2056"/>
+	<Point x="259" y="2111"/>
+	<Point x="1835" y="2111"/>
+	<Point x="1835" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ODPRAWIONEY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r168" textColour="black" type="heading">
+	<Coords>
+	<Point x="335" y="2122"/>
+	<Point x="335" y="2224"/>
+	<Point x="1738" y="2224"/>
+	<Point x="1738" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Roku 1727. Mieⱥcá Sierpniá dniá 15.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r169">
+	<Coords>
+	<Point x="285" y="2235"/>
+	<Point x="285" y="2261"/>
+	<Point x="1792" y="2261"/>
+	<Point x="1792" y="2235"/></Coords></SeparatorRegion>
+	<TextRegion id="r170" textColour="black" type="heading">
+	<Coords>
+	<Point x="298" y="2268"/>
+	<Point x="298" y="2366"/>
+	<Point x="1592" y="2362"/>
+	<Point x="1585" y="2380"/>
+	<Point x="1607" y="2383"/>
+	<Point x="1641" y="2362"/>
+	<Point x="1772" y="2366"/>
+	<Point x="1772" y="2268"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zá Pozwoleniem Przełożonych.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r171" textColour="black" type="heading">
+	<Coords>
+	<Point x="301" y="2379"/>
+	<Point x="301" y="2468"/>
+	<Point x="1251" y="2465"/>
+	<Point x="1244" y="2484"/>
+	<Point x="1651" y="2493"/>
+	<Point x="1693" y="2501"/>
+	<Point x="1774" y="2468"/>
+	<Point x="1774" y="2379"/>
+	<Point x="1664" y="2381"/>
+	<Point x="1629" y="2380"/>
+	<Point x="1614" y="2390"/>
+	<Point x="1570" y="2389"/>
+	<Point x="1576" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>w Lwowie w Drukárni Bráckiey Swiętey Troycy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r172" textColour="black" type="heading">
+	<Coords>
+	<Point x="835" y="2477"/>
+	<Point x="835" y="2570"/>
+	<Point x="1216" y="2570"/>
+	<Point x="1218" y="2483"/>
+	<Point x="1191" y="2478"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>y I. K. M.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r173" type="handwritten-annotation">
+	<Coords>
+	<Point x="1871" y="1589"/>
+	<Point x="1871" y="1939"/>
+	<Point x="2103" y="1939"/>
+	<Point x="2103" y="1589"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436124" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T00:55:06</Created>
+	<LastChange>2011-09-29T10:02:03</LastChange></Metadata>
+	<Page imageFilename="00436124.tif" imageHeight="2720" imageWidth="2127">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r199"/>
+	<RegionRefIndexed index="1" regionRef="r200"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r198" textColour="black" type="header">
+	<Coords>
+	<Point x="705" y="151"/>
+	<Point x="705" y="240"/>
+	<Point x="1154" y="240"/>
+	<Point x="1154" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przedmowá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r199" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="143" y="236"/>
+	<Point x="143" y="2463"/>
+	<Point x="1378" y="2463"/>
+	<Point x="1378" y="2430"/>
+	<Point x="1700" y="2430"/>
+	<Point x="1700" y="236"/>
+	<Point x="1190" y="236"/>
+	<Point x="1190" y="247"/>
+	<Point x="646" y="247"/>
+	<Point x="646" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>iⱥ. Toż y nam przynależy y przyoi cżynić ,
+niechcemyli bydź wyrodkámi od przodków
+ſwych; y ábychmy nie imiony tylko Dokto‑
+rámi y empirikámi byli , ále rzecżⱥ ſámⱥ y
+gruntownemi w tey náuce. Dawnom y ia
+zámyślawał o tym , ábym w iákieykolwiek
+máteryey rozumu mego , doſyć miáłkiego y
+pomiernego, doświádcźyć mogł : nie dla tego,
+ábym o ſobie miałto trzymáć, żeby moy do‑
+wćip máły co godnego ludźiom do wiádomo‑
+śći miał wydáć : ále ábym drugich w Polßce,
+ktorych ieﬆ bárzo wiele zacnych y vcżonych
+Medykow , do tego pobudźić mogł : áby oni
+też przykłádem árychidⱥc , przynamniey o
+tych lekárwách , ktore ę v nas w Polſcże
+z náyduiⱥ , cokolwiek ludźióm przez piſmo po‑
+dáli. Y ácżem miał nie ktore inne mátery �
+ná ktorem iuż był pracⱥ y áránie moie p�‑
+cżⱥł obrácáć ; iednák mießkáiⱥc we Lwo‑
+wie, zkⱥd nie dáleko ieﬆ wieś Skło , w kt�‑
+rey ieﬆ wodá ludźióm przyoynie oney vży‑
+wáiⱥcym , bárzo zdrowa : y o ktorey ludźie
+cżęe pytánie y dowiádowánie cżyniⱥ , iá‑
+kowego by przyrodzenia byłá, y ná ktore cho‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r200" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1506" y="2441"/>
+	<Point x="1506" y="2536"/>
+	<Point x="1689" y="2536"/>
+	<Point x="1689" y="2441"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>roby</Unicode></TextEquiv></TextRegion></Page></PcGts>

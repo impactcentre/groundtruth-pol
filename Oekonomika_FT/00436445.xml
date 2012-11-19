@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436445" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:16:18</Created>
+	<LastChange>2011-08-23T07:29:36</LastChange></Metadata>
+	<Page imageFilename="00436445.tif" imageHeight="3801" imageWidth="2396">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r332"/>
+	<RegionRefIndexed index="1" regionRef="r333"/>
+	<RegionRefIndexed index="2" regionRef="r334"/>
+	<RegionRefIndexed index="3" regionRef="r335"/>
+	<RegionRefIndexed index="4" regionRef="r336"/>
+	<RegionRefIndexed index="5" regionRef="r337"/>
+	<RegionRefIndexed index="6" regionRef="r338"/>
+	<RegionRefIndexed index="7" regionRef="r339"/>
+	<RegionRefIndexed index="8" regionRef="r340"/>
+	<RegionRefIndexed index="9" regionRef="r341"/>
+	<RegionRefIndexed index="10" regionRef="r342"/>
+	<RegionRefIndexed index="11" regionRef="r343"/>
+	<RegionRefIndexed index="12" regionRef="r344"/>
+	<RegionRefIndexed index="13" regionRef="r345"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r330" textColour="black" type="page-number">
+	<Coords>
+	<Point x="373" y="341"/>
+	<Point x="373" y="417"/>
+	<Point x="470" y="417"/>
+	<Point x="470" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>80</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r331" textColour="black" type="header">
+	<Coords>
+	<Point x="835" y="341"/>
+	<Point x="835" y="438"/>
+	<Point x="2002" y="438"/>
+	<Point x="2002" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>OEKONOMIKI ZIEMIANSKIEY,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r332" textColour="black" type="heading">
+	<Coords>
+	<Point x="824" y="448"/>
+	<Point x="824" y="520"/>
+	<Point x="1121" y="520"/>
+	<Point x="1161" y="538"/>
+	<Point x="1627" y="538"/>
+	<Point x="1785" y="546"/>
+	<Point x="1960" y="542"/>
+	<Point x="1960" y="448"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Perus Sátyr: 5. Nam fronte politi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r333" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="593" y="531"/>
+	<Point x="595" y="603"/>
+	<Point x="793" y="605"/>
+	<Point x="984" y="607"/>
+	<Point x="1002" y="615"/>
+	<Point x="1020" y="614"/>
+	<Point x="1088" y="611"/>
+	<Point x="1119" y="606"/>
+	<Point x="1126" y="618"/>
+	<Point x="1150" y="617"/>
+	<Point x="1161" y="613"/>
+	<Point x="1326" y="613"/>
+	<Point x="1336" y="621"/>
+	<Point x="1350" y="621"/>
+	<Point x="1378" y="613"/>
+	<Point x="1417" y="613"/>
+	<Point x="1433" y="623"/>
+	<Point x="1448" y="625"/>
+	<Point x="1475" y="613"/>
+	<Point x="1704" y="613"/>
+	<Point x="1723" y="624"/>
+	<Point x="1742" y="624"/>
+	<Point x="1764" y="613"/>
+	<Point x="1893" y="613"/>
+	<Point x="1893" y="555"/>
+	<Point x="1736" y="550"/>
+	<Point x="1640" y="555"/>
+	<Point x="1624" y="540"/>
+	<Point x="1366" y="540"/>
+	<Point x="1349" y="555"/>
+	<Point x="1178" y="555"/>
+	<Point x="1170" y="540"/>
+	<Point x="1153" y="540"/>
+	<Point x="1100" y="531"/>
+	<Point x="821" y="547"/>
+	<Point x="791" y="531"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Aﬆutum vapido ſeruant ſub peore vulpem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r334" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="531" y="626"/>
+	<Point x="527" y="1025"/>
+	<Point x="531" y="1050"/>
+	<Point x="531" y="1160"/>
+	<Point x="893" y="1153"/>
+	<Point x="909" y="1169"/>
+	<Point x="960" y="1166"/>
+	<Point x="989" y="1155"/>
+	<Point x="1064" y="1161"/>
+	<Point x="1111" y="1166"/>
+	<Point x="1135" y="1160"/>
+	<Point x="1312" y="1160"/>
+	<Point x="1342" y="1177"/>
+	<Point x="1370" y="1160"/>
+	<Point x="1545" y="1160"/>
+	<Point x="1561" y="1163"/>
+	<Point x="1612" y="1160"/>
+	<Point x="2282" y="1160"/>
+	<Point x="2282" y="626"/>
+	<Point x="1797" y="618"/>
+	<Point x="1748" y="636"/>
+	<Point x="1696" y="619"/>
+	<Point x="1476" y="617"/>
+	<Point x="1449" y="629"/>
+	<Point x="1336" y="632"/>
+	<Point x="1320" y="617"/>
+	<Point x="1203" y="615"/>
+	<Point x="1184" y="627"/>
+	<Point x="1129" y="626"/>
+	<Point x="1118" y="611"/>
+	<Point x="1063" y="621"/>
+	<Point x="1004" y="622"/>
+	<Point x="993" y="613"/>
+	<Point x="960" y="609"/>
+	<Point x="862" y="610"/>
+	<Point x="799" y="623"/>
+	<Point x="771" y="615"/>
+	<Point x="711" y="624"/>
+	<Point x="674" y="613"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Co iezeli ták, nà oſobliwey kázdemu y ſamym Pánom.
+trzebá ɇ mieć oroznośći, àby od tákowych zauśnikow iá‑
+ko od iàkich ſzkodliwych Syren ſvvoie oàniáli vſzy, y onych
+ę chronili; przez ktorych, o znácznⱥ zàvvſze przychodzⱥ
+miào Intraty vtràtɇ: iáko y z podvvodu tych częokroć do
+wiernych y ſobie życzlivvych Adherentow w diﬃdentiⱥ zá‑
+chodzⱥc, Przyiaćioły lub ugi dobre, z konﬁdentiⱥ oraz trácⱥ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r335" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="531" y="1166"/>
+	<Point x="528" y="1288"/>
+	<Point x="531" y="1379"/>
+	<Point x="793" y="1380"/>
+	<Point x="807" y="1397"/>
+	<Point x="852" y="1397"/>
+	<Point x="878" y="1385"/>
+	<Point x="2286" y="1397"/>
+	<Point x="2286" y="1166"/>
+	<Point x="1387" y="1166"/>
+	<Point x="1349" y="1190"/>
+	<Point x="1302" y="1170"/>
+	<Point x="913" y="1175"/>
+	<Point x="900" y="1163"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Aguynà záś Svviɇtego roźne ie od Łàćinnikow zdánie
+ktory pochlebcow povviáda być z Piekłà rodem, kiedy ich
+miánuie być Bráćiⱥ ſzàtánſkⱥ: w te ovvá movviⱥc</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r336" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="526" y="1402"/>
+	<Point x="526" y="1542"/>
+	<Point x="1233" y="1545"/>
+	<Point x="1248" y="1555"/>
+	<Point x="1267" y="1552"/>
+	<Point x="1286" y="1545"/>
+	<Point x="2286" y="1542"/>
+	<Point x="2286" y="1402"/>
+	<Point x="873" y="1391"/>
+	<Point x="858" y="1399"/>
+	<Point x="812" y="1399"/>
+	<Point x="790" y="1414"/>
+	<Point x="729" y="1391"/>
+	<Point x="649" y="1390"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tales, Mendacia diligunt, veritatis deﬆruores, odiorum in‑
+uentores, Fratres Diaboli ſunt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r337" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="522" y="1548"/>
+	<Point x="522" y="1788"/>
+	<Point x="873" y="1792"/>
+	<Point x="1165" y="1791"/>
+	<Point x="1195" y="1796"/>
+	<Point x="1241" y="1791"/>
+	<Point x="2288" y="1788"/>
+	<Point x="2288" y="1548"/>
+	<Point x="1322" y="1548"/>
+	<Point x="1241" y="1560"/>
+	<Point x="1220" y="1548"/>
+	<Point x="984" y="1546"/>
+	<Point x="597" y="1547"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Kaźdemu tedy ten Svviɇty ràdżi, ktoryby od tàkowych ię‑
+zykow ponośił prześlàdowánie, w vpokorzonym ſercu z Pſal‑
+miⱥ Svviɇtym pomocy z Niebá źⱥdáć.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r338" textColour="black" type="heading">
+	<Coords>
+	<Point x="726" y="1800"/>
+	<Point x="726" y="1995"/>
+	<Point x="2080" y="1995"/>
+	<Point x="2080" y="1800"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Domine libera animam meam, à labiis iniquis,
+&amp; à lingua doloſa. Pſalm. 119.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r339" textColour="black" type="heading">
+	<Coords>
+	<Point x="1302" y="2017"/>
+	<Point x="1302" y="2108"/>
+	<Point x="1497" y="2108"/>
+	<Point x="1497" y="2017"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r340" textColour="black" type="heading">
+	<Coords>
+	<Point x="751" y="2122"/>
+	<Point x="751" y="2217"/>
+	<Point x="2062" y="2217"/>
+	<Point x="2062" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Do ARENDARZOW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r341" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="526" y="2228"/>
+	<Point x="526" y="2355"/>
+	<Point x="628" y="2355"/>
+	<Point x="628" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r342" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="637" y="2226"/>
+	<Point x="633" y="2364"/>
+	<Point x="523" y="2414"/>
+	<Point x="523" y="2469"/>
+	<Point x="507" y="2554"/>
+	<Point x="503" y="2722"/>
+	<Point x="515" y="2876"/>
+	<Point x="504" y="2997"/>
+	<Point x="508" y="3090"/>
+	<Point x="637" y="3098"/>
+	<Point x="655" y="3099"/>
+	<Point x="679" y="3107"/>
+	<Point x="704" y="3100"/>
+	<Point x="919" y="3098"/>
+	<Point x="2273" y="3090"/>
+	<Point x="2273" y="2226"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rendarz, tákim ɇ ma przy ſkromncśći, trzyzwośći, y v‑
+mieiętnośći Goſpodárſkim gnárowáć przemyem, áby
+wprzod ſwoie wybrał iśćiżnɇ decem pro Cento ratione koło Go‑
+ſpodàrvvà podiɇtey pracy, y áránia, àby ták ſummⱥ kto‑
+rⱥ da nà Arendɇ mogł zárobić, cenę tákⱥ podavvſzy, żeby
+ná ſvvoie wyſzedł, y z tego miał Vium &amp; Amium, w tym
+porádzić ɇ trzebá wiàdomego ſⱥmśiádà, Inuentarz dobrze
+trutinowáć, Circumferentiⱥ Polà, iàkiɇ ma Role y Oſàdɇ wi‑
+dźieć, y obiechàć, Arithmetyki nà podobieńwo vżyć, niko‑
+go nie podkupowáć, w żyćiu bydż moderatus. dawna á praw‑
+diwa powieść.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r343" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="580" y="3100"/>
+	<Point x="588" y="3178"/>
+	<Point x="713" y="3177"/>
+	<Point x="944" y="3180"/>
+	<Point x="955" y="3195"/>
+	<Point x="969" y="3195"/>
+	<Point x="991" y="3180"/>
+	<Point x="1193" y="3180"/>
+	<Point x="1215" y="3202"/>
+	<Point x="1305" y="3202"/>
+	<Point x="1330" y="3206"/>
+	<Point x="1359" y="3202"/>
+	<Point x="1440" y="3190"/>
+	<Point x="1459" y="3202"/>
+	<Point x="1689" y="3201"/>
+	<Point x="1711" y="3214"/>
+	<Point x="1743" y="3204"/>
+	<Point x="1975" y="3204"/>
+	<Point x="1991" y="3213"/>
+	<Point x="2007" y="3213"/>
+	<Point x="2035" y="3204"/>
+	<Point x="2244" y="3204"/>
+	<Point x="2244" y="3100"/>
+	<Point x="921" y="3108"/>
+	<Point x="725" y="3103"/>
+	<Point x="693" y="3126"/>
+	<Point x="641" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Pàrmonia optimum Veigal. &amp;, Sera in fundo Parmonia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r344" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="593" y="3186"/>
+	<Point x="523" y="3248"/>
+	<Point x="505" y="3292"/>
+	<Point x="505" y="3327"/>
+	<Point x="515" y="3357"/>
+	<Point x="1073" y="3372"/>
+	<Point x="1478" y="3375"/>
+	<Point x="2090" y="3382"/>
+	<Point x="2150" y="3357"/>
+	<Point x="2273" y="3357"/>
+	<Point x="2271" y="3241"/>
+	<Point x="2220" y="3209"/>
+	<Point x="2117" y="3209"/>
+	<Point x="2096" y="3217"/>
+	<Point x="2020" y="3214"/>
+	<Point x="1982" y="3214"/>
+	<Point x="1901" y="3213"/>
+	<Point x="1766" y="3214"/>
+	<Point x="1744" y="3217"/>
+	<Point x="1706" y="3224"/>
+	<Point x="1677" y="3207"/>
+	<Point x="1615" y="3211"/>
+	<Point x="1452" y="3211"/>
+	<Point x="1435" y="3198"/>
+	<Point x="1421" y="3210"/>
+	<Point x="1411" y="3210"/>
+	<Point x="1241" y="3211"/>
+	<Point x="1181" y="3197"/>
+	<Point x="1118" y="3189"/>
+	<Point x="999" y="3188"/>
+	<Point x="985" y="3196"/>
+	<Point x="953" y="3196"/>
+	<Point x="935" y="3186"/>
+	<Point x="787" y="3184"/>
+	<Point x="658" y="3183"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czeládżi nàd właſnⱥ potrzebę, ani koni wiele chowàć, bo
+żaden Dżiedźic twoiey żywić nie povvinien Aſsientiey, owo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r345" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="2090" y="3387"/>
+	<Point x="2091" y="3455"/>
+	<Point x="2280" y="3455"/>
+	<Point x="2279" y="3362"/>
+	<Point x="2202" y="3363"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>zg�ołá</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r346" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="308" y="615"/>
+	<Point x="308" y="971"/>
+	<Point x="525" y="971"/>
+	<Point x="525" y="615"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Wielmo‑
+żnym Panō
+aſobliwie ná
+Pochlebcách
+znȧć ɇ y o‑
+nych rzedz
+ɇ potrzebá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="313" y="1153"/>
+	<Point x="313" y="1480"/>
+	<Point x="523" y="1480"/>
+	<Point x="523" y="1153"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Auguiná
+S. zdánie o‑
+pochlebcách
+In Pſal.69
+Itéin Pſał.
+140.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r348" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="308" y="2280"/>
+	<Point x="308" y="2448"/>
+	<Point x="520" y="2448"/>
+	<Point x="520" y="2280"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Aradarzowi
+Pr�cuodi‑
+tia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="321" y="3213"/>
+	<Point x="321" y="3281"/>
+	<Point x="505" y="3281"/>
+	<Point x="510" y="3213"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Moderátia</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436513" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:41:01</Created>
+	<LastChange>2011-08-24T08:26:59</LastChange></Metadata>
+	<Page imageFilename="00436513.tif" imageHeight="3780" imageWidth="2399">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r339"/>
+	<RegionRefIndexed index="1" regionRef="r342"/>
+	<RegionRefIndexed index="2" regionRef="r343"/>
+	<RegionRefIndexed index="3" regionRef="r346"/>
+	<RegionRefIndexed index="4" regionRef="r348"/>
+	<RegionRefIndexed index="5" regionRef="r349"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r339" type="heading">
+	<Coords>
+	<Point x="2173" y="242"/>
+	<Point x="2173" y="500"/>
+	<Point x="57" y="500"/>
+	<Point x="57" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>V. VI. MODELLA ſpeciﬁkácyey Vrzɇdnikowey ábo Pi‑
+cye ma bydź realnie deduis expens pokazàna Intratá.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r341">
+	<Coords>
+	<Point x="57" y="542"/>
+	<Point x="57" y="2233"/>
+	<Point x="2221" y="2233"/>
+	<Point x="2221" y="542"/></Coords></TableRegion>
+	<TextRegion id="r342" type="heading">
+	<Coords>
+	<Point x="280" y="2292"/>
+	<Point x="280" y="2464"/>
+	<Point x="1847" y="2464"/>
+	<Point x="1847" y="2292"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Summá tedy Roczna eﬃcit deduis expens iáko patet
+ex Calculatione Intraty ná ﬂor: ‑ ‑ ‑ ‑ ‑ 360 j.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r343" type="heading">
+	<Coords>
+	<Point x="478" y="2564"/>
+	<Point x="478" y="2640"/>
+	<Point x="1471" y="2640"/>
+	<Point x="1471" y="2564"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>INFORMACYA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r346" type="paragraph">
+	<Coords>
+	<Point x="1859" y="2683"/>
+	<Point x="1859" y="2920"/>
+	<Point x="1742" y="2920"/>
+	<Point x="1742" y="2919"/>
+	<Point x="1718" y="2919"/>
+	<Point x="1718" y="2918"/>
+	<Point x="1693" y="2918"/>
+	<Point x="1693" y="2917"/>
+	<Point x="1669" y="2917"/>
+	<Point x="1669" y="2916"/>
+	<Point x="1644" y="2916"/>
+	<Point x="1644" y="2915"/>
+	<Point x="1617" y="2915"/>
+	<Point x="1617" y="2916"/>
+	<Point x="1581" y="2916"/>
+	<Point x="1581" y="2917"/>
+	<Point x="1544" y="2917"/>
+	<Point x="1544" y="2918"/>
+	<Point x="1507" y="2918"/>
+	<Point x="1507" y="2919"/>
+	<Point x="1486" y="2919"/>
+	<Point x="1486" y="2920"/>
+	<Point x="1464" y="2920"/>
+	<Point x="1464" y="2921"/>
+	<Point x="1442" y="2921"/>
+	<Point x="1442" y="2922"/>
+	<Point x="1421" y="2922"/>
+	<Point x="1421" y="2923"/>
+	<Point x="1399" y="2923"/>
+	<Point x="1399" y="2924"/>
+	<Point x="1377" y="2924"/>
+	<Point x="1377" y="2925"/>
+	<Point x="1357" y="2925"/>
+	<Point x="1357" y="2924"/>
+	<Point x="1329" y="2924"/>
+	<Point x="1329" y="2923"/>
+	<Point x="1300" y="2923"/>
+	<Point x="1300" y="2922"/>
+	<Point x="1272" y="2922"/>
+	<Point x="1272" y="2921"/>
+	<Point x="1243" y="2921"/>
+	<Point x="1243" y="2920"/>
+	<Point x="1215" y="2920"/>
+	<Point x="1215" y="2919"/>
+	<Point x="1186" y="2919"/>
+	<Point x="1186" y="2918"/>
+	<Point x="978" y="2918"/>
+	<Point x="978" y="2919"/>
+	<Point x="954" y="2919"/>
+	<Point x="954" y="2920"/>
+	<Point x="929" y="2920"/>
+	<Point x="929" y="2921"/>
+	<Point x="904" y="2921"/>
+	<Point x="904" y="2922"/>
+	<Point x="880" y="2922"/>
+	<Point x="880" y="2923"/>
+	<Point x="855" y="2923"/>
+	<Point x="855" y="2924"/>
+	<Point x="830" y="2924"/>
+	<Point x="830" y="2925"/>
+	<Point x="697" y="2925"/>
+	<Point x="697" y="2924"/>
+	<Point x="659" y="2924"/>
+	<Point x="659" y="2923"/>
+	<Point x="621" y="2923"/>
+	<Point x="621" y="2922"/>
+	<Point x="581" y="2922"/>
+	<Point x="581" y="2923"/>
+	<Point x="516" y="2923"/>
+	<Point x="516" y="2924"/>
+	<Point x="451" y="2924"/>
+	<Point x="451" y="2925"/>
+	<Point x="386" y="2925"/>
+	<Point x="386" y="2926"/>
+	<Point x="383" y="2926"/>
+	<Point x="383" y="2927"/>
+	<Point x="380" y="2927"/>
+	<Point x="380" y="2928"/>
+	<Point x="377" y="2928"/>
+	<Point x="377" y="2929"/>
+	<Point x="374" y="2929"/>
+	<Point x="374" y="2930"/>
+	<Point x="370" y="2930"/>
+	<Point x="370" y="2931"/>
+	<Point x="367" y="2931"/>
+	<Point x="367" y="2932"/>
+	<Point x="364" y="2932"/>
+	<Point x="364" y="2933"/>
+	<Point x="361" y="2933"/>
+	<Point x="361" y="2934"/>
+	<Point x="319" y="2934"/>
+	<Point x="319" y="2935"/>
+	<Point x="315" y="2935"/>
+	<Point x="315" y="2936"/>
+	<Point x="311" y="2936"/>
+	<Point x="311" y="2937"/>
+	<Point x="307" y="2937"/>
+	<Point x="307" y="2938"/>
+	<Point x="303" y="2938"/>
+	<Point x="303" y="2939"/>
+	<Point x="299" y="2939"/>
+	<Point x="299" y="2940"/>
+	<Point x="295" y="2940"/>
+	<Point x="295" y="2941"/>
+	<Point x="257" y="2941"/>
+	<Point x="257" y="2940"/>
+	<Point x="251" y="2940"/>
+	<Point x="251" y="2939"/>
+	<Point x="244" y="2939"/>
+	<Point x="244" y="2938"/>
+	<Point x="237" y="2938"/>
+	<Point x="237" y="2937"/>
+	<Point x="230" y="2937"/>
+	<Point x="230" y="2936"/>
+	<Point x="223" y="2936"/>
+	<Point x="223" y="2935"/>
+	<Point x="216" y="2935"/>
+	<Point x="216" y="2934"/>
+	<Point x="209" y="2934"/>
+	<Point x="209" y="2933"/>
+	<Point x="141" y="2933"/>
+	<Point x="141" y="2932"/>
+	<Point x="95" y="2932"/>
+	<Point x="95" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Do tákiego MODELLVSZA y Summáryußá, moźe włożyć wßy‑
+kie Oekonomiczne Prowentá Intratne w Percepty, według ſpe‑
+cyﬁkácyey fol. 70. w Punkćie Informationis IV. &amp; folio 86.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r348" type="paragraph">
+	<Coords>
+	<Point x="1642" y="2917"/>
+	<Point x="1642" y="2918"/>
+	<Point x="1667" y="2918"/>
+	<Point x="1667" y="2919"/>
+	<Point x="1691" y="2919"/>
+	<Point x="1691" y="2920"/>
+	<Point x="1716" y="2920"/>
+	<Point x="1716" y="2921"/>
+	<Point x="1740" y="2921"/>
+	<Point x="1740" y="2922"/>
+	<Point x="1859" y="2922"/>
+	<Point x="1859" y="3183"/>
+	<Point x="95" y="3183"/>
+	<Point x="95" y="2934"/>
+	<Point x="139" y="2934"/>
+	<Point x="139" y="2935"/>
+	<Point x="207" y="2935"/>
+	<Point x="207" y="2936"/>
+	<Point x="214" y="2936"/>
+	<Point x="214" y="2937"/>
+	<Point x="221" y="2937"/>
+	<Point x="221" y="2938"/>
+	<Point x="228" y="2938"/>
+	<Point x="228" y="2939"/>
+	<Point x="235" y="2939"/>
+	<Point x="235" y="2940"/>
+	<Point x="242" y="2940"/>
+	<Point x="242" y="2941"/>
+	<Point x="249" y="2941"/>
+	<Point x="249" y="2942"/>
+	<Point x="255" y="2942"/>
+	<Point x="255" y="2943"/>
+	<Point x="297" y="2943"/>
+	<Point x="297" y="2942"/>
+	<Point x="301" y="2942"/>
+	<Point x="301" y="2941"/>
+	<Point x="305" y="2941"/>
+	<Point x="305" y="2940"/>
+	<Point x="309" y="2940"/>
+	<Point x="309" y="2939"/>
+	<Point x="313" y="2939"/>
+	<Point x="313" y="2938"/>
+	<Point x="317" y="2938"/>
+	<Point x="317" y="2937"/>
+	<Point x="321" y="2937"/>
+	<Point x="321" y="2936"/>
+	<Point x="363" y="2936"/>
+	<Point x="363" y="2935"/>
+	<Point x="366" y="2935"/>
+	<Point x="366" y="2934"/>
+	<Point x="369" y="2934"/>
+	<Point x="369" y="2933"/>
+	<Point x="372" y="2933"/>
+	<Point x="372" y="2932"/>
+	<Point x="376" y="2932"/>
+	<Point x="376" y="2931"/>
+	<Point x="379" y="2931"/>
+	<Point x="379" y="2930"/>
+	<Point x="382" y="2930"/>
+	<Point x="382" y="2929"/>
+	<Point x="385" y="2929"/>
+	<Point x="385" y="2928"/>
+	<Point x="388" y="2928"/>
+	<Point x="388" y="2927"/>
+	<Point x="453" y="2927"/>
+	<Point x="453" y="2926"/>
+	<Point x="518" y="2926"/>
+	<Point x="518" y="2925"/>
+	<Point x="583" y="2925"/>
+	<Point x="583" y="2924"/>
+	<Point x="619" y="2924"/>
+	<Point x="619" y="2925"/>
+	<Point x="657" y="2925"/>
+	<Point x="657" y="2926"/>
+	<Point x="695" y="2926"/>
+	<Point x="695" y="2927"/>
+	<Point x="832" y="2927"/>
+	<Point x="832" y="2926"/>
+	<Point x="857" y="2926"/>
+	<Point x="857" y="2925"/>
+	<Point x="882" y="2925"/>
+	<Point x="882" y="2924"/>
+	<Point x="906" y="2924"/>
+	<Point x="906" y="2923"/>
+	<Point x="931" y="2923"/>
+	<Point x="931" y="2922"/>
+	<Point x="956" y="2922"/>
+	<Point x="956" y="2921"/>
+	<Point x="980" y="2921"/>
+	<Point x="980" y="2920"/>
+	<Point x="1184" y="2920"/>
+	<Point x="1184" y="2921"/>
+	<Point x="1213" y="2921"/>
+	<Point x="1213" y="2922"/>
+	<Point x="1241" y="2922"/>
+	<Point x="1241" y="2923"/>
+	<Point x="1270" y="2923"/>
+	<Point x="1270" y="2924"/>
+	<Point x="1298" y="2924"/>
+	<Point x="1298" y="2925"/>
+	<Point x="1327" y="2925"/>
+	<Point x="1327" y="2926"/>
+	<Point x="1355" y="2926"/>
+	<Point x="1355" y="2927"/>
+	<Point x="1379" y="2927"/>
+	<Point x="1379" y="2926"/>
+	<Point x="1401" y="2926"/>
+	<Point x="1401" y="2925"/>
+	<Point x="1423" y="2925"/>
+	<Point x="1423" y="2924"/>
+	<Point x="1444" y="2924"/>
+	<Point x="1444" y="2923"/>
+	<Point x="1466" y="2923"/>
+	<Point x="1466" y="2922"/>
+	<Point x="1488" y="2922"/>
+	<Point x="1488" y="2921"/>
+	<Point x="1509" y="2921"/>
+	<Point x="1509" y="2920"/>
+	<Point x="1546" y="2920"/>
+	<Point x="1546" y="2919"/>
+	<Point x="1583" y="2919"/>
+	<Point x="1583" y="2918"/>
+	<Point x="1619" y="2918"/>
+	<Point x="1619" y="2917"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dyrybuty tákże wßelkie Ordynániyne y extraordynáriyne we‑
+dług Realnych dokumentow wpiſáć, y tákowym ę ráchowáć
+ſpoſobem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" type="catch-word">
+	<Coords>
+	<Point x="1990" y="3240"/>
+	<Point x="1990" y="3321"/>
+	<Point x="2188" y="3321"/>
+	<Point x="2188" y="3240"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czyn‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

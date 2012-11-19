@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436729" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T14:43:16</Created>
+	<LastChange>2011-11-30T14:03:21</LastChange></Metadata>
+	<Page imageFilename="00436729.tif" imageHeight="3259" imageWidth="2748">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r7"/>
+	<RegionRefIndexed index="1" regionRef="r8"/>
+	<RegionRefIndexed index="2" regionRef="r9"/>
+	<RegionRefIndexed index="3" regionRef="r11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	</TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="337" y="162"/>
+	<Point x="337" y="800"/>
+	<Point x="2450" y="800"/>
+	<Point x="2450" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ſwych fauore clementer proſequi, y w łáſce ſwey mi‑
+łośćiwey mieć. Cźym ia do wdźiɇcz̄nośći W. K. M.
+pobudzony, zá naprzednieyßⱥ powinność to mieć zá⸗
+wße bɇdɇ, źadney okkáziey do przyugi wßelkiey
+W. K. M. nie opußcźáć. Z Wilná 6. dniá Cźer⸗
+wcȧ Roku 1611.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="500" y="1193"/>
+	<Point x="500" y="1437"/>
+	<Point x="2112" y="1437"/>
+	<Point x="2112" y="1193"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W. K. M. Páná me° M°.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1368" y="2325"/>
+	<Point x="1368" y="2512"/>
+	<Point x="2018" y="2512"/>
+	<Point x="2018" y="2325"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ugá naniżßy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1506" y="2731"/>
+	<Point x="1506" y="2893"/>
+	<Point x="2368" y="2893"/>
+	<Point x="2368" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Báltazar Oziminski.</Unicode></TextEquiv></TextRegion></Page></PcGts>

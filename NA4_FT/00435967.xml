@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00435967" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T12:01:52</Created>
+	<LastChange>2011-08-22T06:38:30</LastChange></Metadata>
+	<Page imageFilename="00435967.tif" imageHeight="2328" imageWidth="1908">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r394"/>
+	<RegionRefIndexed index="1" regionRef="r392"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r378" type="page-number">
+	<Coords>
+	<Point x="341" y="109"/>
+	<Point x="341" y="179"/>
+	<Point x="223" y="179"/>
+	<Point x="223" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>483</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r384" type="header">
+	<Coords>
+	<Point x="1396" y="109"/>
+	<Point x="1396" y="118"/>
+	<Point x="1395" y="118"/>
+	<Point x="1395" y="137"/>
+	<Point x="1394" y="137"/>
+	<Point x="1394" y="156"/>
+	<Point x="1393" y="156"/>
+	<Point x="1393" y="175"/>
+	<Point x="1344" y="175"/>
+	<Point x="1344" y="176"/>
+	<Point x="1178" y="176"/>
+	<Point x="1178" y="177"/>
+	<Point x="1011" y="177"/>
+	<Point x="1011" y="178"/>
+	<Point x="868" y="178"/>
+	<Point x="868" y="179"/>
+	<Point x="725" y="179"/>
+	<Point x="725" y="180"/>
+	<Point x="638" y="180"/>
+	<Point x="638" y="144"/>
+	<Point x="637" y="144"/>
+	<Point x="637" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Geograﬁa Generalna y partykularna</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r386">
+	<Coords>
+	<Point x="1776" y="173"/>
+	<Point x="1776" y="190"/>
+	<Point x="1705" y="190"/>
+	<Point x="1705" y="189"/>
+	<Point x="1596" y="189"/>
+	<Point x="1596" y="188"/>
+	<Point x="1387" y="188"/>
+	<Point x="1387" y="187"/>
+	<Point x="1176" y="187"/>
+	<Point x="1176" y="188"/>
+	<Point x="1131" y="188"/>
+	<Point x="1131" y="189"/>
+	<Point x="1085" y="189"/>
+	<Point x="1085" y="190"/>
+	<Point x="1040" y="190"/>
+	<Point x="1040" y="191"/>
+	<Point x="994" y="191"/>
+	<Point x="994" y="192"/>
+	<Point x="948" y="192"/>
+	<Point x="948" y="193"/>
+	<Point x="836" y="193"/>
+	<Point x="836" y="194"/>
+	<Point x="723" y="194"/>
+	<Point x="723" y="195"/>
+	<Point x="611" y="195"/>
+	<Point x="611" y="196"/>
+	<Point x="223" y="196"/>
+	<Point x="223" y="181"/>
+	<Point x="582" y="181"/>
+	<Point x="582" y="182"/>
+	<Point x="727" y="182"/>
+	<Point x="727" y="181"/>
+	<Point x="870" y="181"/>
+	<Point x="870" y="180"/>
+	<Point x="1013" y="180"/>
+	<Point x="1013" y="179"/>
+	<Point x="1180" y="179"/>
+	<Point x="1180" y="178"/>
+	<Point x="1346" y="178"/>
+	<Point x="1346" y="177"/>
+	<Point x="1433" y="177"/>
+	<Point x="1433" y="176"/>
+	<Point x="1520" y="176"/>
+	<Point x="1520" y="175"/>
+	<Point x="1606" y="175"/>
+	<Point x="1606" y="174"/>
+	<Point x="1693" y="174"/>
+	<Point x="1693" y="173"/></Coords></SeparatorRegion>
+	<TextRegion id="r392" type="catch-word">
+	<Coords>
+	<Point x="1663" y="2071"/>
+	<Point x="1663" y="2072"/>
+	<Point x="1725" y="2072"/>
+	<Point x="1725" y="2073"/>
+	<Point x="1776" y="2073"/>
+	<Point x="1776" y="2128"/>
+	<Point x="1603" y="2128"/>
+	<Point x="1603" y="2071"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r394" type="paragraph">
+	<Coords>
+	<Point x="1385" y="189"/>
+	<Point x="1385" y="190"/>
+	<Point x="1594" y="190"/>
+	<Point x="1594" y="191"/>
+	<Point x="1703" y="191"/>
+	<Point x="1703" y="192"/>
+	<Point x="1776" y="192"/>
+	<Point x="1776" y="2071"/>
+	<Point x="1727" y="2071"/>
+	<Point x="1727" y="2070"/>
+	<Point x="1665" y="2070"/>
+	<Point x="1665" y="2069"/>
+	<Point x="1601" y="2069"/>
+	<Point x="1601" y="2090"/>
+	<Point x="1436" y="2090"/>
+	<Point x="1436" y="2089"/>
+	<Point x="1229" y="2089"/>
+	<Point x="1229" y="2088"/>
+	<Point x="1023" y="2088"/>
+	<Point x="1023" y="2087"/>
+	<Point x="816" y="2087"/>
+	<Point x="816" y="2086"/>
+	<Point x="610" y="2086"/>
+	<Point x="610" y="2085"/>
+	<Point x="544" y="2092"/>
+	<Point x="403" y="2085"/>
+	<Point x="403" y="2084"/>
+	<Point x="223" y="2084"/>
+	<Point x="223" y="198"/>
+	<Point x="613" y="198"/>
+	<Point x="613" y="197"/>
+	<Point x="725" y="197"/>
+	<Point x="725" y="196"/>
+	<Point x="838" y="196"/>
+	<Point x="838" y="195"/>
+	<Point x="950" y="195"/>
+	<Point x="950" y="194"/>
+	<Point x="996" y="194"/>
+	<Point x="996" y="193"/>
+	<Point x="1042" y="193"/>
+	<Point x="1042" y="192"/>
+	<Point x="1087" y="192"/>
+	<Point x="1087" y="191"/>
+	<Point x="1133" y="191"/>
+	<Point x="1133" y="190"/>
+	<Point x="1178" y="190"/>
+	<Point x="1178" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>de Spiritu tuo, tradamque eis, mówi BOG do Moyżeſza. Miey‑
+ſce Sądów było przy bramie Kościoła Salomonowego. Do
+ZYDOW ie Chryus poany właśnie &amp; principaliter, a do Po‑
+gan ex accidenti, iako mówi u Mateuſza S. cap: 15.  24. Non ſum
+mius, ni ad oves Iſràél. Dlatego y Paweł S. zowie Chryuſa
+Pana Minirum Circumcionis, to ie Zydów obrzezuiących ɇ.
+Zydzi, że wierzyli w Chryuſa, aliàs Meaſza, przyiść maią‑
+cego na świat, według obietnicy Boſkiey, byli taką weń wiarą
+uſprawiedliwieni, iako naucza Paweł S. piſząc od Romanos cap: 3.
+A iak weń iuż narodzonego przeali wierzyć, y mieć go za
+Meaſza, racili tɇ Wiarɇ, z ſamych ceremonii Moyżeſzowych
+ſpodziewaiąc ɇ iuyﬁkacyi, według tegoż liu Pawłowego do
+Rzymian cap: 3. Ale od nich odięte dary, według Mateuſza S.
+cap: 21.  43. Auferetur à vobis Regnum DEI, &amp; dabitur Genti faci‑
+enti juitias ejus, to ie: dane bɇdzie Chrześcianóm. Przecież
+Zydzi przy dokonaniu świata Wiarɇ prawdziwą przyimą, we‑
+dług Izaiaſza Proroka cap: 59.  20. Veniet ex Sion, qui eripiat
+&amp; avertat impietatem à Jacob. Paweł S. tɇ owa wykłada w ſen‑
+e tymże, iż Zydzi nawrócą ę na końcu świata. Dawid S. w
+Pſalmie 58. w wierſzu 7. też nawrocenie Judeyczykóm obiecuie
+w owach tych: convertentur ad veſperam, to ie przy Zachodzie
+świata, iák wykłada S. Auguyn. Rachuią exaimè, ale nie ob‑
+ſerwuią ci Zydzi w Pentateuchu, w Kɇgach Moyżeſzowych
+Przykazań wſzykich 613. OFIARɆ BOGU czynili Zydzi za‑
+cząwſzy od Abla Syna Adamowego, który bydlɇta palone oﬁa‑
+rował. W Zakonie zaś przez Moyżeſza napiſanym, przykazał
+ſobie BOG czynić JUGE SACRIFICIUM, to ie oﬁarɇ codzien‑
+ną nieuaiącą. Materya tey oﬁary była dwa Baranki, ieden
+pod Wſchód, drugi pod Zachód Słońca oﬁarowany, y ſpalo‑
+ny, na ogniu S. od BOGA danym, nigdy nie gaſnącym, przy
+daiąc do tego certū quentū nayprzednieyſzey pſzenney mąki, y wi‑
+na; przez co ɇ ﬁgurowała Nowozakonna Oﬁara Mſzy S. z o‑
+ſob chleba y wina, a z Ioty CIAŁA y KRWIE CHRYSTU‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

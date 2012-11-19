@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436421" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T12:05:00</Created>
+	<LastChange>2011-10-17T08:16:48</LastChange></Metadata>
+	<Page imageFilename="00436421.tif" imageHeight="3792" imageWidth="2389">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r329"/>
+	<RegionRefIndexed index="1" regionRef="r330"/>
+	<RegionRefIndexed index="2" regionRef="r331"/>
+	<RegionRefIndexed index="3" regionRef="r332"/>
+	<RegionRefIndexed index="4" regionRef="r333"/>
+	<RegionRefIndexed index="5" regionRef="r334"/>
+	<RegionRefIndexed index="6" regionRef="r335"/>
+	<RegionRefIndexed index="7" regionRef="r336"/>
+	<RegionRefIndexed index="8" regionRef="r337"/>
+	<RegionRefIndexed index="9" regionRef="r338"/>
+	<RegionRefIndexed index="10" regionRef="r339"/>
+	<RegionRefIndexed index="11" regionRef="r340"/>
+	<RegionRefIndexed index="12" regionRef="r341"/>
+	<RegionRefIndexed index="13" regionRef="r342"/>
+	<RegionRefIndexed index="14" regionRef="r343"/>
+	<RegionRefIndexed index="15" regionRef="r344"/>
+	<RegionRefIndexed index="16" regionRef="r345"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r327" textColour="black" type="page-number">
+	<Coords>
+	<Point x="329" y="351"/>
+	<Point x="329" y="421"/>
+	<Point x="418" y="421"/>
+	<Point x="418" y="351"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>54</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r328" textColour="black" type="header">
+	<Coords>
+	<Point x="778" y="329"/>
+	<Point x="778" y="421"/>
+	<Point x="1940" y="421"/>
+	<Point x="1940" y="329"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>OEKONOMIKI ZIEMIANSKIEY,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r329" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="448" y="437"/>
+	<Point x="448" y="672"/>
+	<Point x="643" y="672"/>
+	<Point x="655" y="691"/>
+	<Point x="778" y="688"/>
+	<Point x="785" y="672"/>
+	<Point x="970" y="672"/>
+	<Point x="985" y="688"/>
+	<Point x="1001" y="684"/>
+	<Point x="1009" y="671"/>
+	<Point x="1221" y="672"/>
+	<Point x="1233" y="682"/>
+	<Point x="1255" y="684"/>
+	<Point x="1275" y="672"/>
+	<Point x="2229" y="672"/>
+	<Point x="2229" y="437"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jtem. Obłupionych kàſztánow náſuſzyć w piecu, te v‑
+tłucz w ɇpie, dobrⱥ przygarść mⱥki nàpoł z otrɇbámi z mię‑
+ſzavvſzy sſpołem, przez trzy niedźiele z obrokiem zàdawáć.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r330" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="443" y="681"/>
+	<Point x="443" y="986"/>
+	<Point x="613" y="986"/>
+	<Point x="626" y="999"/>
+	<Point x="650" y="998"/>
+	<Point x="682" y="986"/>
+	<Point x="1011" y="986"/>
+	<Point x="1021" y="1005"/>
+	<Point x="1180" y="1005"/>
+	<Point x="1193" y="986"/>
+	<Point x="2232" y="986"/>
+	<Point x="2232" y="681"/>
+	<Point x="1317" y="681"/>
+	<Point x="1275" y="694"/>
+	<Point x="1212" y="681"/>
+	<Point x="1022" y="681"/>
+	<Point x="986" y="700"/>
+	<Point x="961" y="682"/>
+	<Point x="821" y="682"/>
+	<Point x="781" y="691"/>
+	<Point x="649" y="696"/>
+	<Point x="634" y="682"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jtem. Iɇczmiɇń y Owies w piecu dobrze vſuſzyć áby ɇ
+przyrumienił, potym dobrze wyvviac z piaſku y popiołu,
+tàkże bob nátłuczony w ɇpie miɇſzác po garści do obroku,
+kàżdego koniá tuczy y ſpráwuie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r331" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="440" y="997"/>
+	<Point x="455" y="1221"/>
+	<Point x="570" y="1243"/>
+	<Point x="586" y="1225"/>
+	<Point x="893" y="1228"/>
+	<Point x="973" y="1224"/>
+	<Point x="983" y="1233"/>
+	<Point x="999" y="1233"/>
+	<Point x="1012" y="1223"/>
+	<Point x="1116" y="1224"/>
+	<Point x="1134" y="1244"/>
+	<Point x="1155" y="1241"/>
+	<Point x="1171" y="1224"/>
+	<Point x="1241" y="1224"/>
+	<Point x="1249" y="1237"/>
+	<Point x="1270" y="1236"/>
+	<Point x="1281" y="1224"/>
+	<Point x="1426" y="1224"/>
+	<Point x="1439" y="1240"/>
+	<Point x="1463" y="1230"/>
+	<Point x="1463" y="1224"/>
+	<Point x="2232" y="1224"/>
+	<Point x="2232" y="997"/>
+	<Point x="1711" y="994"/>
+	<Point x="1233" y="997"/>
+	<Point x="1201" y="1013"/>
+	<Point x="1008" y="1015"/>
+	<Point x="1001" y="997"/>
+	<Point x="698" y="997"/>
+	<Point x="669" y="995"/>
+	<Point x="649" y="1000"/>
+	<Point x="619" y="1003"/>
+	<Point x="604" y="997"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Gdy koniom ogon wypada y grzyvvá: Slażu leśnego y
+polnego, tàkże liścia kápuściànego zàruwno wźiⱥc, á vwàrzy‑
+wſzy w wodżie, częo tym przemywàc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r332" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="451" y="1270"/>
+	<Point x="435" y="1481"/>
+	<Point x="2235" y="1481"/>
+	<Point x="2235" y="1232"/>
+	<Point x="1484" y="1232"/>
+	<Point x="1441" y="1252"/>
+	<Point x="1425" y="1232"/>
+	<Point x="1303" y="1232"/>
+	<Point x="1242" y="1245"/>
+	<Point x="1220" y="1232"/>
+	<Point x="1195" y="1230"/>
+	<Point x="1125" y="1253"/>
+	<Point x="1091" y="1233"/>
+	<Point x="1041" y="1233"/>
+	<Point x="991" y="1249"/>
+	<Point x="967" y="1233"/>
+	<Point x="596" y="1234"/>
+	<Point x="560" y="1258"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jtem. Wezmiey korzenia ślażu Ieśnego y łopionovvego,
+potym w brzɇczce piwney dobrze vwàrzywſzy, tym do wyra‑
+ània włoſow ſmàrowác mieyſce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r333" textColour="black" type="heading">
+	<Coords>
+	<Point x="1016" y="1489"/>
+	<Point x="1016" y="1605"/>
+	<Point x="1651" y="1605"/>
+	<Point x="1651" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná Zágwozdzenie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r334" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="445" y="1616"/>
+	<Point x="445" y="1740"/>
+	<Point x="564" y="1740"/>
+	<Point x="564" y="1616"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r335" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="568" y="1610"/>
+	<Point x="568" y="1772"/>
+	<Point x="435" y="1772"/>
+	<Point x="435" y="1929"/>
+	<Point x="1069" y="1930"/>
+	<Point x="1079" y="1942"/>
+	<Point x="1105" y="1942"/>
+	<Point x="1124" y="1928"/>
+	<Point x="1407" y="1928"/>
+	<Point x="1448" y="1947"/>
+	<Point x="1485" y="1928"/>
+	<Point x="1674" y="1928"/>
+	<Point x="1703" y="1937"/>
+	<Point x="1739" y="1937"/>
+	<Point x="1770" y="1928"/>
+	<Point x="2017" y="1928"/>
+	<Point x="2032" y="1946"/>
+	<Point x="2051" y="1940"/>
+	<Point x="2063" y="1929"/>
+	<Point x="2243" y="1929"/>
+	<Point x="2243" y="1610"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Leykiem z zyvvice vpalonym, álbo ź terpentyny, àlbo
+dzwonkovvym oleykiem nápuśc gorⱥcⱥ rànkę, obmoczy‑
+ẇſzy trochɇ bàvvełney włożyc wniɇ, á zàſkvvarz zwierzchu
+máem àlbo kozłovvym łoieḿ, byłe máo przez foli było.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r336" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="424" y="1940"/>
+	<Point x="424" y="2124"/>
+	<Point x="2248" y="2124"/>
+	<Point x="2248" y="1940"/>
+	<Point x="2058" y="1940"/>
+	<Point x="2029" y="1949"/>
+	<Point x="1972" y="1940"/>
+	<Point x="1512" y="1940"/>
+	<Point x="1442" y="1956"/>
+	<Point x="1388" y="1943"/>
+	<Point x="1311" y="1937"/>
+	<Point x="1141" y="1937"/>
+	<Point x="1118" y="1945"/>
+	<Point x="1075" y="1945"/>
+	<Point x="1057" y="1938"/>
+	<Point x="618" y="1937"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jtem. Po wybrániu do żyvvego rogu, śiárkⱥ, ſmołⱥ, ło‑
+iem zàſkvvarz, może w tym y wdrogɇ iechàc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r337" textColour="black" type="heading">
+	<Coords>
+	<Point x="1043" y="2137"/>
+	<Point x="1043" y="2235"/>
+	<Point x="1651" y="2235"/>
+	<Point x="1651" y="2137"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná Zátrátowánie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r338" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="443" y="2254"/>
+	<Point x="443" y="2372"/>
+	<Point x="571" y="2372"/>
+	<Point x="571" y="2254"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r339" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="573" y="2245"/>
+	<Point x="573" y="2402"/>
+	<Point x="615" y="2406"/>
+	<Point x="772" y="2419"/>
+	<Point x="804" y="2405"/>
+	<Point x="980" y="2408"/>
+	<Point x="1487" y="2402"/>
+	<Point x="1737" y="2411"/>
+	<Point x="1836" y="2415"/>
+	<Point x="1896" y="2402"/>
+	<Point x="1925" y="2415"/>
+	<Point x="1937" y="2415"/>
+	<Point x="1948" y="2402"/>
+	<Point x="1975" y="2402"/>
+	<Point x="2000" y="2417"/>
+	<Point x="2028" y="2417"/>
+	<Point x="2058" y="2402"/>
+	<Point x="2141" y="2402"/>
+	<Point x="2172" y="2415"/>
+	<Point x="2191" y="2415"/>
+	<Point x="2214" y="2402"/>
+	<Point x="2240" y="2402"/>
+	<Point x="2240" y="2245"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ezmiey ćiepłego chlebà z piecá świeżo wyiɇtego, á z miɇ‑
+ſzawſzy z ſolⱥ, co dźień odnawiáiⱥc aż ę z goi przywiiay‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r340" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="448" y="2424"/>
+	<Point x="448" y="2670"/>
+	<Point x="2245" y="2670"/>
+	<Point x="2245" y="2424"/>
+	<Point x="2199" y="2417"/>
+	<Point x="2164" y="2417"/>
+	<Point x="2097" y="2409"/>
+	<Point x="2083" y="2420"/>
+	<Point x="1940" y="2419"/>
+	<Point x="1895" y="2414"/>
+	<Point x="1878" y="2418"/>
+	<Point x="1724" y="2415"/>
+	<Point x="1534" y="2413"/>
+	<Point x="1232" y="2413"/>
+	<Point x="826" y="2414"/>
+	<Point x="813" y="2421"/>
+	<Point x="743" y="2421"/>
+	<Point x="652" y="2424"/>
+	<Point x="613" y="2415"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jtem. Ieśliby ɇ zropiłá rànà z zàniedbània ábo z zàà‑
+rzenia, otvvorźyvvſzy, koło tego mieyſcá rog przemyć otē,
+potym gryſzpanem záſypuy, à oninⱥ przetapiánⱥ nàmázuy‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r341" textColour="black" type="heading">
+	<Coords>
+	<Point x="1013" y="2681"/>
+	<Point x="1013" y="2789"/>
+	<Point x="1643" y="2789"/>
+	<Point x="1643" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná vderzenie zyły.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r342" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="443" y="2791"/>
+	<Point x="443" y="2918"/>
+	<Point x="575" y="2918"/>
+	<Point x="575" y="2791"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>N</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r343" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="583" y="2800"/>
+	<Point x="583" y="2930"/>
+	<Point x="443" y="2930"/>
+	<Point x="443" y="3182"/>
+	<Point x="464" y="3190"/>
+	<Point x="581" y="3192"/>
+	<Point x="785" y="3190"/>
+	<Point x="799" y="3206"/>
+	<Point x="840" y="3206"/>
+	<Point x="874" y="3191"/>
+	<Point x="2240" y="3135"/>
+	<Point x="2240" y="2800"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Atłuc cebule ze trzy garśći ſmaż one w máśle młodym,
+á przyſypavvſzy maki pſzenney znowu ſmaż; potym
+plàt námàzavvſzy ſzeroki żeby záiⱥł aż ku kolánu z iedney
+rony, á zdrugiey do kopytà ſamego, ciepło okładay do
+dniá trzeciego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r344" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="445" y="3205"/>
+	<Point x="445" y="3343"/>
+	<Point x="563" y="3374"/>
+	<Point x="669" y="3375"/>
+	<Point x="851" y="3382"/>
+	<Point x="1200" y="3380"/>
+	<Point x="1575" y="3380"/>
+	<Point x="1872" y="3375"/>
+	<Point x="1925" y="3354"/>
+	<Point x="2087" y="3348"/>
+	<Point x="2248" y="3343"/>
+	<Point x="2248" y="3205"/>
+	<Point x="1844" y="3194"/>
+	<Point x="1134" y="3196"/>
+	<Point x="872" y="3205"/>
+	<Point x="862" y="3212"/>
+	<Point x="799" y="3211"/>
+	<Point x="783" y="3205"/>
+	<Point x="652" y="3204"/>
+	<Point x="624" y="3199"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jtem. V warz wocćie korzenia podroznikowego, do tego
+zmięſzay árego ſadłà, á nà modrym płàcie przywiń ciɇnko‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r345" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1975" y="3362"/>
+	<Point x="1975" y="3443"/>
+	<Point x="2245" y="3443"/>
+	<Point x="2245" y="3362"/>
+	<Point x="2214" y="3355"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná wywi‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r346" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="235" y="659"/>
+	<Point x="235" y="891"/>
+	<Point x="437" y="891"/>
+	<Point x="437" y="659"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Konie zá‑
+chudzone
+czym y iák
+wytuczyć?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="227" y="1635"/>
+	<Point x="227" y="1878"/>
+	<Point x="432" y="1878"/>
+	<Point x="432" y="1635"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zágwozdzo‑
+nego koniá
+iak y czym
+leczyć.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r348" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="227" y="2316"/>
+	<Point x="227" y="2532"/>
+	<Point x="437" y="2532"/>
+	<Point x="437" y="2316"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zátrátowá
+nie końſkie
+iak záleczyć</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="218" y="2875"/>
+	<Point x="218" y="3091"/>
+	<Point x="437" y="3091"/>
+	<Point x="437" y="2875"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Vdarzenie
+��dy iȧk za‑
+leczyć, y zgo
+ić.</Unicode></TextEquiv></TextRegion></Page></PcGts>

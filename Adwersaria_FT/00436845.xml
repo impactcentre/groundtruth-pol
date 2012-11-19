@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436845" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T01:59:07</Created>
+	<LastChange>2011-11-10T04:25:57</LastChange></Metadata>
+	<Page imageFilename="00436845.tif" imageHeight="3212" imageWidth="2414">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r48"/>
+	<RegionRefIndexed index="1" regionRef="r49"/>
+	<RegionRefIndexed index="2" regionRef="r50"/>
+	<RegionRefIndexed index="3" regionRef="r51"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r48" textColour="black" type="heading">
+	<Coords>
+	<Point x="818" y="171"/>
+	<Point x="818" y="384"/>
+	<Point x="1604" y="384"/>
+	<Point x="1604" y="331"/>
+	<Point x="1837" y="331"/>
+	<Point x="1837" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Syncretiſmus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" textColour="black" type="heading">
+	<Coords>
+	<Point x="656" y="393"/>
+	<Point x="656" y="528"/>
+	<Point x="1925" y="528"/>
+	<Point x="1925" y="363"/>
+	<Point x="1644" y="363"/>
+	<Point x="1644" y="393"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Bellicoſæ Commotionis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="462" y="559"/>
+	<Point x="462" y="743"/>
+	<Point x="662" y="743"/>
+	<Point x="662" y="559"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="665" y="571"/>
+	<Point x="665" y="758"/>
+	<Point x="459" y="758"/>
+	<Point x="459" y="1937"/>
+	<Point x="1853" y="1937"/>
+	<Point x="1853" y="571"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Æc dextra, non lingua opus
+e. Hæc Retore cauſa
+Non eget, a equitum tur‑
+mis , &amp; milite forti:
+Nec ſperare licet pacem
+nec fædera in armis.
+Vna ſalus lex e violen‑
+tia, iudice ferro.
+Lis agitur, pietas illis
+in cognita, membris
+Conſona, mens oculis ani‑
+mo cruda omnia verſa�</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r52" type="other">
+	<Coords>
+	<Point x="914" y="2207"/>
+	<Point x="914" y="2539"/>
+	<Point x="1617" y="2539"/>
+	<Point x="1617" y="2207"/></Coords></GraphicRegion>
+	<GraphicRegion id="r53" type="handwritten-annotation">
+	<Coords>
+	<Point x="1003" y="2675"/>
+	<Point x="1003" y="3050"/>
+	<Point x="1850" y="3050"/>
+	<Point x="1850" y="2675"/></Coords></GraphicRegion></Page></PcGts>

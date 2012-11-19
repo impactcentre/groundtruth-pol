@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00434903" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T20:08:06</Created>
+	<LastChange>2011-07-22T10:25:33</LastChange></Metadata>
+	<Page imageFilename="00434903.tif" imageHeight="2431" imageWidth="1804">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r373"/>
+	<RegionRefIndexed index="1" regionRef="r375"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r363" type="page-number">
+	<Coords>
+	<Point x="163" y="158"/>
+	<Point x="163" y="159"/>
+	<Point x="188" y="159"/>
+	<Point x="188" y="160"/>
+	<Point x="214" y="160"/>
+	<Point x="214" y="161"/>
+	<Point x="240" y="161"/>
+	<Point x="240" y="162"/>
+	<Point x="266" y="162"/>
+	<Point x="265" y="162"/>
+	<Point x="265" y="191"/>
+	<Point x="264" y="191"/>
+	<Point x="264" y="219"/>
+	<Point x="268" y="219"/>
+	<Point x="264" y="219"/>
+	<Point x="264" y="220"/>
+	<Point x="259" y="220"/>
+	<Point x="259" y="221"/>
+	<Point x="254" y="221"/>
+	<Point x="254" y="222"/>
+	<Point x="233" y="222"/>
+	<Point x="233" y="223"/>
+	<Point x="213" y="223"/>
+	<Point x="213" y="222"/>
+	<Point x="194" y="222"/>
+	<Point x="194" y="221"/>
+	<Point x="175" y="221"/>
+	<Point x="175" y="220"/>
+	<Point x="165" y="220"/>
+	<Point x="165" y="211"/>
+	<Point x="164" y="211"/>
+	<Point x="164" y="184"/>
+	<Point x="163" y="184"/>
+	<Point x="163" y="159"/>
+	<Point x="162" y="159"/>
+	<Point x="162" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>150</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r365" type="header">
+	<Coords>
+	<Point x="717" y="137"/>
+	<Point x="717" y="138"/>
+	<Point x="957" y="138"/>
+	<Point x="957" y="139"/>
+	<Point x="1198" y="139"/>
+	<Point x="1198" y="202"/>
+	<Point x="1201" y="202"/>
+	<Point x="1199" y="202"/>
+	<Point x="1199" y="203"/>
+	<Point x="1196" y="203"/>
+	<Point x="1196" y="204"/>
+	<Point x="1193" y="204"/>
+	<Point x="1193" y="205"/>
+	<Point x="1190" y="205"/>
+	<Point x="1190" y="206"/>
+	<Point x="1187" y="206"/>
+	<Point x="1187" y="207"/>
+	<Point x="1184" y="207"/>
+	<Point x="1184" y="208"/>
+	<Point x="1181" y="208"/>
+	<Point x="1181" y="209"/>
+	<Point x="1178" y="209"/>
+	<Point x="1178" y="210"/>
+	<Point x="1150" y="210"/>
+	<Point x="1150" y="211"/>
+	<Point x="1122" y="211"/>
+	<Point x="1122" y="212"/>
+	<Point x="1094" y="212"/>
+	<Point x="1094" y="213"/>
+	<Point x="1066" y="213"/>
+	<Point x="1066" y="214"/>
+	<Point x="1038" y="214"/>
+	<Point x="1038" y="215"/>
+	<Point x="1010" y="215"/>
+	<Point x="1010" y="216"/>
+	<Point x="982" y="216"/>
+	<Point x="982" y="217"/>
+	<Point x="956" y="217"/>
+	<Point x="956" y="216"/>
+	<Point x="833" y="216"/>
+	<Point x="833" y="215"/>
+	<Point x="719" y="215"/>
+	<Point x="719" y="189"/>
+	<Point x="718" y="189"/>
+	<Point x="718" y="163"/>
+	<Point x="717" y="163"/>
+	<Point x="717" y="138"/>
+	<Point x="716" y="138"/>
+	<Point x="716" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O SS. Relikwiach.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r369">
+	<Coords>
+	<Point x="1252" y="202"/>
+	<Point x="1252" y="203"/>
+	<Point x="1305" y="203"/>
+	<Point x="1305" y="204"/>
+	<Point x="1358" y="204"/>
+	<Point x="1358" y="205"/>
+	<Point x="1412" y="205"/>
+	<Point x="1412" y="206"/>
+	<Point x="1465" y="206"/>
+	<Point x="1465" y="207"/>
+	<Point x="1518" y="207"/>
+	<Point x="1518" y="208"/>
+	<Point x="1572" y="208"/>
+	<Point x="1572" y="209"/>
+	<Point x="1625" y="209"/>
+	<Point x="1625" y="210"/>
+	<Point x="1678" y="210"/>
+	<Point x="1678" y="235"/>
+	<Point x="1664" y="235"/>
+	<Point x="1664" y="234"/>
+	<Point x="1652" y="234"/>
+	<Point x="1652" y="233"/>
+	<Point x="1639" y="233"/>
+	<Point x="1639" y="232"/>
+	<Point x="1626" y="232"/>
+	<Point x="1626" y="231"/>
+	<Point x="1613" y="231"/>
+	<Point x="1613" y="230"/>
+	<Point x="1598" y="230"/>
+	<Point x="1598" y="231"/>
+	<Point x="1575" y="231"/>
+	<Point x="1575" y="230"/>
+	<Point x="1555" y="230"/>
+	<Point x="1555" y="229"/>
+	<Point x="1468" y="229"/>
+	<Point x="1468" y="230"/>
+	<Point x="1403" y="230"/>
+	<Point x="1403" y="231"/>
+	<Point x="1338" y="231"/>
+	<Point x="1338" y="232"/>
+	<Point x="1087" y="232"/>
+	<Point x="1087" y="233"/>
+	<Point x="1078" y="233"/>
+	<Point x="1078" y="234"/>
+	<Point x="1069" y="234"/>
+	<Point x="1069" y="235"/>
+	<Point x="1060" y="235"/>
+	<Point x="1060" y="236"/>
+	<Point x="1052" y="236"/>
+	<Point x="1052" y="235"/>
+	<Point x="1038" y="235"/>
+	<Point x="1038" y="234"/>
+	<Point x="1023" y="234"/>
+	<Point x="1023" y="233"/>
+	<Point x="998" y="233"/>
+	<Point x="998" y="232"/>
+	<Point x="717" y="232"/>
+	<Point x="717" y="233"/>
+	<Point x="700" y="233"/>
+	<Point x="700" y="234"/>
+	<Point x="682" y="234"/>
+	<Point x="682" y="235"/>
+	<Point x="456" y="237"/>
+	<Point x="294" y="237"/>
+	<Point x="294" y="238"/>
+	<Point x="259" y="238"/>
+	<Point x="259" y="239"/>
+	<Point x="224" y="239"/>
+	<Point x="224" y="240"/>
+	<Point x="201" y="240"/>
+	<Point x="201" y="241"/>
+	<Point x="178" y="241"/>
+	<Point x="178" y="242"/>
+	<Point x="166" y="242"/>
+	<Point x="166" y="238"/>
+	<Point x="165" y="238"/>
+	<Point x="165" y="222"/>
+	<Point x="173" y="222"/>
+	<Point x="173" y="223"/>
+	<Point x="192" y="223"/>
+	<Point x="192" y="224"/>
+	<Point x="211" y="224"/>
+	<Point x="211" y="225"/>
+	<Point x="235" y="225"/>
+	<Point x="235" y="224"/>
+	<Point x="256" y="224"/>
+	<Point x="256" y="223"/>
+	<Point x="261" y="223"/>
+	<Point x="261" y="222"/>
+	<Point x="266" y="222"/>
+	<Point x="266" y="221"/>
+	<Point x="270" y="221"/>
+	<Point x="270" y="220"/>
+	<Point x="275" y="220"/>
+	<Point x="275" y="219"/>
+	<Point x="416" y="219"/>
+	<Point x="416" y="218"/>
+	<Point x="568" y="218"/>
+	<Point x="568" y="217"/>
+	<Point x="831" y="217"/>
+	<Point x="831" y="218"/>
+	<Point x="954" y="218"/>
+	<Point x="954" y="219"/>
+	<Point x="984" y="219"/>
+	<Point x="984" y="218"/>
+	<Point x="1012" y="218"/>
+	<Point x="1012" y="217"/>
+	<Point x="1040" y="217"/>
+	<Point x="1040" y="216"/>
+	<Point x="1068" y="216"/>
+	<Point x="1068" y="215"/>
+	<Point x="1096" y="215"/>
+	<Point x="1096" y="214"/>
+	<Point x="1124" y="214"/>
+	<Point x="1124" y="213"/>
+	<Point x="1152" y="213"/>
+	<Point x="1152" y="212"/>
+	<Point x="1180" y="212"/>
+	<Point x="1180" y="211"/>
+	<Point x="1183" y="211"/>
+	<Point x="1183" y="210"/>
+	<Point x="1186" y="210"/>
+	<Point x="1186" y="209"/>
+	<Point x="1189" y="209"/>
+	<Point x="1189" y="208"/>
+	<Point x="1192" y="208"/>
+	<Point x="1192" y="207"/>
+	<Point x="1195" y="207"/>
+	<Point x="1195" y="206"/>
+	<Point x="1198" y="206"/>
+	<Point x="1198" y="205"/>
+	<Point x="1201" y="205"/>
+	<Point x="1201" y="204"/>
+	<Point x="1203" y="204"/>
+	<Point x="1203" y="203"/>
+	<Point x="1206" y="203"/>
+	<Point x="1206" y="202"/></Coords></SeparatorRegion>
+	<TextRegion id="r373" type="paragraph">
+	<Coords>
+	<Point x="1553" y="231"/>
+	<Point x="1553" y="232"/>
+	<Point x="1573" y="232"/>
+	<Point x="1573" y="233"/>
+	<Point x="1600" y="233"/>
+	<Point x="1600" y="232"/>
+	<Point x="1611" y="232"/>
+	<Point x="1611" y="233"/>
+	<Point x="1624" y="233"/>
+	<Point x="1624" y="234"/>
+	<Point x="1637" y="234"/>
+	<Point x="1637" y="235"/>
+	<Point x="1650" y="235"/>
+	<Point x="1650" y="236"/>
+	<Point x="1662" y="236"/>
+	<Point x="1662" y="237"/>
+	<Point x="1678" y="237"/>
+	<Point x="1678" y="242"/>
+	<Point x="1679" y="242"/>
+	<Point x="1679" y="273"/>
+	<Point x="1680" y="273"/>
+	<Point x="1680" y="304"/>
+	<Point x="1681" y="304"/>
+	<Point x="1681" y="335"/>
+	<Point x="1682" y="335"/>
+	<Point x="1682" y="366"/>
+	<Point x="1683" y="366"/>
+	<Point x="1683" y="414"/>
+	<Point x="1684" y="414"/>
+	<Point x="1684" y="461"/>
+	<Point x="1685" y="461"/>
+	<Point x="1685" y="508"/>
+	<Point x="1686" y="508"/>
+	<Point x="1686" y="555"/>
+	<Point x="1687" y="555"/>
+	<Point x="1687" y="603"/>
+	<Point x="1688" y="603"/>
+	<Point x="1688" y="650"/>
+	<Point x="1689" y="650"/>
+	<Point x="1689" y="697"/>
+	<Point x="1690" y="697"/>
+	<Point x="1690" y="744"/>
+	<Point x="1691" y="744"/>
+	<Point x="1691" y="797"/>
+	<Point x="1692" y="797"/>
+	<Point x="1692" y="849"/>
+	<Point x="1693" y="849"/>
+	<Point x="1693" y="902"/>
+	<Point x="1694" y="902"/>
+	<Point x="1694" y="954"/>
+	<Point x="1695" y="954"/>
+	<Point x="1695" y="1007"/>
+	<Point x="1696" y="1007"/>
+	<Point x="1696" y="1059"/>
+	<Point x="1697" y="1059"/>
+	<Point x="1697" y="1112"/>
+	<Point x="1698" y="1112"/>
+	<Point x="1698" y="1164"/>
+	<Point x="1699" y="1164"/>
+	<Point x="1699" y="1216"/>
+	<Point x="1700" y="1216"/>
+	<Point x="1700" y="1278"/>
+	<Point x="1701" y="1278"/>
+	<Point x="1701" y="1339"/>
+	<Point x="1702" y="1339"/>
+	<Point x="1702" y="1401"/>
+	<Point x="1703" y="1401"/>
+	<Point x="1703" y="1462"/>
+	<Point x="1704" y="1462"/>
+	<Point x="1704" y="1523"/>
+	<Point x="1705" y="1523"/>
+	<Point x="1705" y="2064"/>
+	<Point x="1692" y="2064"/>
+	<Point x="1692" y="2065"/>
+	<Point x="1679" y="2065"/>
+	<Point x="1679" y="2066"/>
+	<Point x="1666" y="2066"/>
+	<Point x="1666" y="2067"/>
+	<Point x="1653" y="2067"/>
+	<Point x="1653" y="2068"/>
+	<Point x="1642" y="2068"/>
+	<Point x="1642" y="2067"/>
+	<Point x="1639" y="2067"/>
+	<Point x="1639" y="2066"/>
+	<Point x="1635" y="2066"/>
+	<Point x="1635" y="2065"/>
+	<Point x="1632" y="2065"/>
+	<Point x="1632" y="2064"/>
+	<Point x="1628" y="2064"/>
+	<Point x="1628" y="2063"/>
+	<Point x="1624" y="2063"/>
+	<Point x="1624" y="2062"/>
+	<Point x="1617" y="2062"/>
+	<Point x="1617" y="2061"/>
+	<Point x="1610" y="2061"/>
+	<Point x="1610" y="2060"/>
+	<Point x="1603" y="2060"/>
+	<Point x="1603" y="2059"/>
+	<Point x="1593" y="2059"/>
+	<Point x="1593" y="2060"/>
+	<Point x="1585" y="2060"/>
+	<Point x="1585" y="2061"/>
+	<Point x="1577" y="2061"/>
+	<Point x="1577" y="2062"/>
+	<Point x="1569" y="2062"/>
+	<Point x="1569" y="2063"/>
+	<Point x="1546" y="2063"/>
+	<Point x="1546" y="2064"/>
+	<Point x="1522" y="2064"/>
+	<Point x="1522" y="2065"/>
+	<Point x="1499" y="2065"/>
+	<Point x="1499" y="2066"/>
+	<Point x="1498" y="2066"/>
+	<Point x="1498" y="2067"/>
+	<Point x="1497" y="2067"/>
+	<Point x="1497" y="2068"/>
+	<Point x="1496" y="2068"/>
+	<Point x="1496" y="2069"/>
+	<Point x="1495" y="2069"/>
+	<Point x="1495" y="2070"/>
+	<Point x="1494" y="2070"/>
+	<Point x="1494" y="2072"/>
+	<Point x="1493" y="2072"/>
+	<Point x="1493" y="2073"/>
+	<Point x="1492" y="2073"/>
+	<Point x="1492" y="2074"/>
+	<Point x="1491" y="2074"/>
+	<Point x="1491" y="2075"/>
+	<Point x="1458" y="2075"/>
+	<Point x="1458" y="2076"/>
+	<Point x="1424" y="2076"/>
+	<Point x="1424" y="2077"/>
+	<Point x="1390" y="2077"/>
+	<Point x="1390" y="2078"/>
+	<Point x="1356" y="2078"/>
+	<Point x="1356" y="2079"/>
+	<Point x="1322" y="2079"/>
+	<Point x="1322" y="2080"/>
+	<Point x="1288" y="2080"/>
+	<Point x="1288" y="2081"/>
+	<Point x="1254" y="2081"/>
+	<Point x="1254" y="2082"/>
+	<Point x="1221" y="2082"/>
+	<Point x="1221" y="2083"/>
+	<Point x="1168" y="2083"/>
+	<Point x="1168" y="2084"/>
+	<Point x="1115" y="2084"/>
+	<Point x="1115" y="2085"/>
+	<Point x="1062" y="2085"/>
+	<Point x="1062" y="2086"/>
+	<Point x="1009" y="2086"/>
+	<Point x="1009" y="2087"/>
+	<Point x="957" y="2087"/>
+	<Point x="957" y="2088"/>
+	<Point x="904" y="2088"/>
+	<Point x="904" y="2089"/>
+	<Point x="851" y="2089"/>
+	<Point x="851" y="2090"/>
+	<Point x="798" y="2090"/>
+	<Point x="798" y="2091"/>
+	<Point x="746" y="2091"/>
+	<Point x="746" y="2092"/>
+	<Point x="746" y="2091"/>
+	<Point x="690" y="2091"/>
+	<Point x="690" y="2090"/>
+	<Point x="635" y="2090"/>
+	<Point x="635" y="2089"/>
+	<Point x="579" y="2089"/>
+	<Point x="579" y="2088"/>
+	<Point x="524" y="2088"/>
+	<Point x="524" y="2087"/>
+	<Point x="401" y="2087"/>
+	<Point x="401" y="2088"/>
+	<Point x="333" y="2088"/>
+	<Point x="333" y="2089"/>
+	<Point x="265" y="2089"/>
+	<Point x="265" y="2090"/>
+	<Point x="199" y="2090"/>
+	<Point x="199" y="2091"/>
+	<Point x="198" y="2091"/>
+	<Point x="198" y="2090"/>
+	<Point x="199" y="2090"/>
+	<Point x="199" y="2025"/>
+	<Point x="200" y="2025"/>
+	<Point x="200" y="1877"/>
+	<Point x="199" y="1877"/>
+	<Point x="199" y="1794"/>
+	<Point x="198" y="1794"/>
+	<Point x="198" y="1711"/>
+	<Point x="197" y="1711"/>
+	<Point x="197" y="1628"/>
+	<Point x="196" y="1628"/>
+	<Point x="196" y="1567"/>
+	<Point x="195" y="1567"/>
+	<Point x="195" y="1506"/>
+	<Point x="194" y="1506"/>
+	<Point x="194" y="1445"/>
+	<Point x="193" y="1445"/>
+	<Point x="193" y="1384"/>
+	<Point x="192" y="1384"/>
+	<Point x="192" y="1323"/>
+	<Point x="191" y="1323"/>
+	<Point x="191" y="1228"/>
+	<Point x="190" y="1228"/>
+	<Point x="190" y="1133"/>
+	<Point x="189" y="1133"/>
+	<Point x="189" y="1038"/>
+	<Point x="188" y="1038"/>
+	<Point x="188" y="944"/>
+	<Point x="187" y="944"/>
+	<Point x="187" y="900"/>
+	<Point x="186" y="900"/>
+	<Point x="186" y="857"/>
+	<Point x="185" y="857"/>
+	<Point x="185" y="814"/>
+	<Point x="184" y="814"/>
+	<Point x="184" y="771"/>
+	<Point x="183" y="771"/>
+	<Point x="183" y="728"/>
+	<Point x="182" y="728"/>
+	<Point x="182" y="685"/>
+	<Point x="181" y="685"/>
+	<Point x="181" y="642"/>
+	<Point x="180" y="642"/>
+	<Point x="180" y="615"/>
+	<Point x="179" y="615"/>
+	<Point x="179" y="588"/>
+	<Point x="178" y="588"/>
+	<Point x="178" y="561"/>
+	<Point x="177" y="561"/>
+	<Point x="177" y="534"/>
+	<Point x="176" y="534"/>
+	<Point x="176" y="507"/>
+	<Point x="175" y="507"/>
+	<Point x="175" y="480"/>
+	<Point x="174" y="480"/>
+	<Point x="174" y="453"/>
+	<Point x="173" y="453"/>
+	<Point x="173" y="426"/>
+	<Point x="172" y="426"/>
+	<Point x="172" y="400"/>
+	<Point x="171" y="400"/>
+	<Point x="171" y="373"/>
+	<Point x="170" y="373"/>
+	<Point x="170" y="346"/>
+	<Point x="169" y="346"/>
+	<Point x="169" y="319"/>
+	<Point x="168" y="319"/>
+	<Point x="168" y="292"/>
+	<Point x="167" y="292"/>
+	<Point x="167" y="265"/>
+	<Point x="166" y="265"/>
+	<Point x="166" y="244"/>
+	<Point x="180" y="244"/>
+	<Point x="180" y="243"/>
+	<Point x="203" y="243"/>
+	<Point x="203" y="242"/>
+	<Point x="226" y="242"/>
+	<Point x="226" y="241"/>
+	<Point x="261" y="241"/>
+	<Point x="261" y="240"/>
+	<Point x="296" y="240"/>
+	<Point x="296" y="239"/>
+	<Point x="573" y="239"/>
+	<Point x="573" y="238"/>
+	<Point x="684" y="238"/>
+	<Point x="684" y="236"/>
+	<Point x="702" y="236"/>
+	<Point x="702" y="235"/>
+	<Point x="719" y="235"/>
+	<Point x="719" y="234"/>
+	<Point x="996" y="234"/>
+	<Point x="996" y="235"/>
+	<Point x="1021" y="235"/>
+	<Point x="1021" y="236"/>
+	<Point x="1036" y="236"/>
+	<Point x="1036" y="237"/>
+	<Point x="1050" y="237"/>
+	<Point x="1050" y="238"/>
+	<Point x="1062" y="238"/>
+	<Point x="1062" y="237"/>
+	<Point x="1071" y="237"/>
+	<Point x="1071" y="236"/>
+	<Point x="1080" y="236"/>
+	<Point x="1080" y="235"/>
+	<Point x="1089" y="235"/>
+	<Point x="1089" y="234"/>
+	<Point x="1340" y="234"/>
+	<Point x="1340" y="233"/>
+	<Point x="1405" y="233"/>
+	<Point x="1405" y="232"/>
+	<Point x="1470" y="232"/>
+	<Point x="1470" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ady ie w Genui mieście Włoſkim. W Krakowie w Katedrze
+ie Czelu S. Iana Chrzciciela. Wtymże mieście u S. Kata‑
+rzyny u OO. Auguynianow ie cżɇść odzienia iego, mowi
+Pruſzcz Autor w opiſaniu Krakowa. Ieſzcze y tu o Głowie com
+wycżytał w Kɇdzę w Ruſko‑Słowieńſkiey, tu ſummatim kładɇ
+dla Cżytelnika. Ze iak tego mɇża więcey niżeli Proroka He‑
+rod kontentuiąc ſwoie amory z Herodiadą y iey Corką ſciąć ka‑
+zał podcżas bankietu y tańcow; S. Iana Ciało ucżniowie po‑
+grzebli w Sebaście, Głowę do Pokoiu przynieono dla wi‑
+dzenia y do cieſzenia, cży prawdziwie go racono, y iego wła‑
+śnie, á nie iakiego innego ſubytuta, tam po kłuciu iɇzyka He‑
+rodias ſchować kazała w Zamku Macherońcie mieyſcu ſcięcia.
+Ale B. Ioanna Chu�ai naywyżſzego Herodowego Rządcy y pra‑
+wie Wice‑Reia żona, ſkryta Chrześcianka na Folwarku ſwoim
+w Ieruzalem tɇ Głowɇ pochowała. Leżała tam lat 373 aż Dwo‑
+rzanin Konantyna W. Ceſarza kupiwſzy Folwark Ioanny w
+Ieruzalem, y tam na fundacyą Klaſztora kopiąc fundamenta
+dzban znalazł gliniany marmurową nakryty tablicą z piſmem He‑
+brayſkim ſwiadcżącym, że to Głowa S. Iana Syna Zacharyaſza;
+ten drogi depozyt ow wynalazca u ebie konſerwował. A że był
+hoyny dla podrożnych, Mnichow dwoch miał u ebie na no‑
+clegu, idących do Ieruzalem: tym S. Ian przez ſen obiawił ę,
+iż tam był, y żeby go z ſobą wzieli. Iakoż z nią w mantyą a‑
+lias w płaſcz uwinowſzy uſzli. Nie miała ta Swiɇta Relikwia po
+drogach od nich poſzanowania, wiɇc ɇ garnczarz z Egyptu do
+nich przywiązał towarzyſz podroży; dali mu nieść te zawi‑
+nienie nie reweluiąc, co by tam było. Ian S. we ſnie ſam
+garncżarzowi reweluie o ſwoiey Głowie, wtym zawinieniu; znią
+od tey kompanii, aby ę oddalił, radzi, y żeby wzioł do domu
+ſwego perſwaduie. Złożył w ſwoim domu ten ſkarb Garncżarz
+y powoli ɇ bogacić pocżął. Umieraiąc orze ſwey odkazał
+ten Swięty Depozyt, z relacyą, zkąd y iak go doał. Ta ſama</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r375" type="catch-word">
+	<Coords>
+	<Point x="1601" y="2061"/>
+	<Point x="1601" y="2062"/>
+	<Point x="1608" y="2062"/>
+	<Point x="1608" y="2063"/>
+	<Point x="1615" y="2063"/>
+	<Point x="1615" y="2064"/>
+	<Point x="1622" y="2064"/>
+	<Point x="1622" y="2065"/>
+	<Point x="1626" y="2065"/>
+	<Point x="1626" y="2066"/>
+	<Point x="1630" y="2066"/>
+	<Point x="1630" y="2067"/>
+	<Point x="1633" y="2067"/>
+	<Point x="1633" y="2068"/>
+	<Point x="1637" y="2068"/>
+	<Point x="1637" y="2069"/>
+	<Point x="1640" y="2069"/>
+	<Point x="1640" y="2070"/>
+	<Point x="1641" y="2070"/>
+	<Point x="1641" y="2123"/>
+	<Point x="1642" y="2123"/>
+	<Point x="1634" y="2123"/>
+	<Point x="1634" y="2124"/>
+	<Point x="1626" y="2124"/>
+	<Point x="1626" y="2125"/>
+	<Point x="1618" y="2125"/>
+	<Point x="1618" y="2126"/>
+	<Point x="1610" y="2126"/>
+	<Point x="1610" y="2127"/>
+	<Point x="1602" y="2127"/>
+	<Point x="1602" y="2128"/>
+	<Point x="1594" y="2128"/>
+	<Point x="1594" y="2129"/>
+	<Point x="1586" y="2129"/>
+	<Point x="1586" y="2130"/>
+	<Point x="1578" y="2130"/>
+	<Point x="1578" y="2131"/>
+	<Point x="1570" y="2131"/>
+	<Point x="1570" y="2132"/>
+	<Point x="1562" y="2132"/>
+	<Point x="1562" y="2133"/>
+	<Point x="1554" y="2133"/>
+	<Point x="1554" y="2134"/>
+	<Point x="1546" y="2134"/>
+	<Point x="1546" y="2135"/>
+	<Point x="1538" y="2135"/>
+	<Point x="1538" y="2136"/>
+	<Point x="1530" y="2136"/>
+	<Point x="1530" y="2137"/>
+	<Point x="1530" y="2136"/>
+	<Point x="1524" y="2136"/>
+	<Point x="1524" y="2135"/>
+	<Point x="1518" y="2135"/>
+	<Point x="1518" y="2134"/>
+	<Point x="1512" y="2134"/>
+	<Point x="1512" y="2133"/>
+	<Point x="1506" y="2133"/>
+	<Point x="1506" y="2132"/>
+	<Point x="1500" y="2132"/>
+	<Point x="1500" y="2124"/>
+	<Point x="1499" y="2124"/>
+	<Point x="1499" y="2117"/>
+	<Point x="1498" y="2117"/>
+	<Point x="1498" y="2110"/>
+	<Point x="1497" y="2110"/>
+	<Point x="1497" y="2103"/>
+	<Point x="1496" y="2103"/>
+	<Point x="1496" y="2096"/>
+	<Point x="1495" y="2096"/>
+	<Point x="1495" y="2089"/>
+	<Point x="1494" y="2089"/>
+	<Point x="1494" y="2082"/>
+	<Point x="1493" y="2082"/>
+	<Point x="1493" y="2076"/>
+	<Point x="1494" y="2076"/>
+	<Point x="1494" y="2075"/>
+	<Point x="1495" y="2075"/>
+	<Point x="1495" y="2074"/>
+	<Point x="1496" y="2074"/>
+	<Point x="1496" y="2072"/>
+	<Point x="1497" y="2072"/>
+	<Point x="1497" y="2071"/>
+	<Point x="1498" y="2071"/>
+	<Point x="1498" y="2070"/>
+	<Point x="1499" y="2070"/>
+	<Point x="1499" y="2069"/>
+	<Point x="1500" y="2069"/>
+	<Point x="1500" y="2068"/>
+	<Point x="1501" y="2068"/>
+	<Point x="1501" y="2067"/>
+	<Point x="1524" y="2067"/>
+	<Point x="1524" y="2066"/>
+	<Point x="1548" y="2066"/>
+	<Point x="1548" y="2065"/>
+	<Point x="1571" y="2065"/>
+	<Point x="1571" y="2064"/>
+	<Point x="1579" y="2064"/>
+	<Point x="1579" y="2063"/>
+	<Point x="1587" y="2063"/>
+	<Point x="1587" y="2062"/>
+	<Point x="1595" y="2062"/>
+	<Point x="1595" y="2061"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>życie</Unicode></TextEquiv></TextRegion></Page></PcGts>

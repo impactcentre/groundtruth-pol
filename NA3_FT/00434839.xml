@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00434839" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T19:54:28</Created>
+	<LastChange>2011-07-25T12:53:46</LastChange></Metadata>
+	<Page imageFilename="00434839.tif" imageHeight="2420" imageWidth="1818">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r347"/>
+	<RegionRefIndexed index="1" regionRef="r349"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<SeparatorRegion id="r339">
+	<Coords>
+	<Point x="1388" y="210"/>
+	<Point x="1388" y="211"/>
+	<Point x="1443" y="211"/>
+	<Point x="1443" y="212"/>
+	<Point x="1498" y="212"/>
+	<Point x="1498" y="213"/>
+	<Point x="1553" y="213"/>
+	<Point x="1553" y="214"/>
+	<Point x="1608" y="214"/>
+	<Point x="1608" y="215"/>
+	<Point x="1663" y="215"/>
+	<Point x="1663" y="216"/>
+	<Point x="1709" y="216"/>
+	<Point x="1709" y="230"/>
+	<Point x="1686" y="230"/>
+	<Point x="1686" y="229"/>
+	<Point x="1623" y="229"/>
+	<Point x="1623" y="228"/>
+	<Point x="1560" y="228"/>
+	<Point x="1560" y="227"/>
+	<Point x="1497" y="227"/>
+	<Point x="1497" y="226"/>
+	<Point x="1434" y="226"/>
+	<Point x="1434" y="225"/>
+	<Point x="1347" y="225"/>
+	<Point x="1347" y="226"/>
+	<Point x="1051" y="226"/>
+	<Point x="1051" y="225"/>
+	<Point x="925" y="225"/>
+	<Point x="925" y="224"/>
+	<Point x="857" y="224"/>
+	<Point x="857" y="223"/>
+	<Point x="789" y="223"/>
+	<Point x="789" y="222"/>
+	<Point x="658" y="222"/>
+	<Point x="658" y="223"/>
+	<Point x="639" y="223"/>
+	<Point x="639" y="224"/>
+	<Point x="620" y="224"/>
+	<Point x="620" y="225"/>
+	<Point x="601" y="225"/>
+	<Point x="601" y="226"/>
+	<Point x="507" y="226"/>
+	<Point x="507" y="227"/>
+	<Point x="266" y="227"/>
+	<Point x="266" y="228"/>
+	<Point x="176" y="228"/>
+	<Point x="176" y="215"/>
+	<Point x="239" y="215"/>
+	<Point x="239" y="214"/>
+	<Point x="312" y="214"/>
+	<Point x="312" y="213"/>
+	<Point x="450" y="213"/>
+	<Point x="450" y="212"/>
+	<Point x="587" y="212"/>
+	<Point x="587" y="211"/>
+	<Point x="1019" y="211"/>
+	<Point x="1019" y="210"/></Coords></SeparatorRegion>
+	<TextRegion id="r343" type="page-number">
+	<Coords>
+	<Point x="342" y="121"/>
+	<Point x="342" y="132"/>
+	<Point x="341" y="132"/>
+	<Point x="341" y="157"/>
+	<Point x="340" y="157"/>
+	<Point x="340" y="181"/>
+	<Point x="339" y="181"/>
+	<Point x="339" y="206"/>
+	<Point x="338" y="206"/>
+	<Point x="338" y="211"/>
+	<Point x="310" y="211"/>
+	<Point x="310" y="212"/>
+	<Point x="237" y="212"/>
+	<Point x="237" y="213"/>
+	<Point x="176" y="213"/>
+	<Point x="176" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>86</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r345" type="header">
+	<Coords>
+	<Point x="1709" y="121"/>
+	<Point x="1709" y="214"/>
+	<Point x="1665" y="214"/>
+	<Point x="1665" y="213"/>
+	<Point x="1610" y="213"/>
+	<Point x="1610" y="212"/>
+	<Point x="1555" y="212"/>
+	<Point x="1555" y="211"/>
+	<Point x="1500" y="211"/>
+	<Point x="1500" y="210"/>
+	<Point x="1445" y="210"/>
+	<Point x="1445" y="209"/>
+	<Point x="1390" y="209"/>
+	<Point x="1390" y="208"/>
+	<Point x="1017" y="208"/>
+	<Point x="1017" y="209"/>
+	<Point x="585" y="209"/>
+	<Point x="585" y="210"/>
+	<Point x="448" y="210"/>
+	<Point x="448" y="211"/>
+	<Point x="340" y="211"/>
+	<Point x="340" y="208"/>
+	<Point x="341" y="208"/>
+	<Point x="341" y="183"/>
+	<Point x="342" y="183"/>
+	<Point x="342" y="159"/>
+	<Point x="343" y="159"/>
+	<Point x="343" y="134"/>
+	<Point x="344" y="134"/>
+	<Point x="344" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O SS. Relikwiach?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" type="paragraph">
+	<Coords>
+	<Point x="787" y="224"/>
+	<Point x="787" y="225"/>
+	<Point x="855" y="225"/>
+	<Point x="855" y="226"/>
+	<Point x="923" y="226"/>
+	<Point x="923" y="227"/>
+	<Point x="1049" y="227"/>
+	<Point x="1049" y="228"/>
+	<Point x="1349" y="228"/>
+	<Point x="1349" y="227"/>
+	<Point x="1432" y="227"/>
+	<Point x="1432" y="228"/>
+	<Point x="1495" y="228"/>
+	<Point x="1495" y="229"/>
+	<Point x="1558" y="229"/>
+	<Point x="1558" y="230"/>
+	<Point x="1621" y="230"/>
+	<Point x="1621" y="231"/>
+	<Point x="1684" y="231"/>
+	<Point x="1684" y="232"/>
+	<Point x="1709" y="232"/>
+	<Point x="1709" y="2043"/>
+	<Point x="1685" y="2043"/>
+	<Point x="1685" y="2044"/>
+	<Point x="1613" y="2044"/>
+	<Point x="1613" y="2045"/>
+	<Point x="1593" y="2045"/>
+	<Point x="1593" y="2046"/>
+	<Point x="1573" y="2046"/>
+	<Point x="1573" y="2079"/>
+	<Point x="1572" y="2079"/>
+	<Point x="1572" y="2113"/>
+	<Point x="1571" y="2113"/>
+	<Point x="1571" y="2128"/>
+	<Point x="176" y="2128"/>
+	<Point x="176" y="230"/>
+	<Point x="268" y="230"/>
+	<Point x="268" y="229"/>
+	<Point x="509" y="229"/>
+	<Point x="509" y="228"/>
+	<Point x="603" y="228"/>
+	<Point x="603" y="227"/>
+	<Point x="622" y="227"/>
+	<Point x="622" y="226"/>
+	<Point x="641" y="226"/>
+	<Point x="641" y="225"/>
+	<Point x="660" y="225"/>
+	<Point x="660" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>kleynoty. Nie wſzykich ia ci Katoliku Swiɇtych wyawiam
+konice, y Relikwiarze, bo iak piaſkow morſkich, tak tych zre‑
+gerować nie potraﬁę. Gdyż nie mała ug Chryuſowych
+liczba, od tyranow okrutnych y zaiadłych ie w popioł obro‑
+cona, rozrzucona na wiatry, w rzeki wrzucona, lub w ieziora,
+lub w morze; to też drapieżnym beyom dana na pożarcie: toć
+chyba ich Swięte członki na dniu ſądnym uweneruiemy, kie‑
+dy omnis caro videbit ſalutare Dei. Nie mało iuż mieliśmy Swię‑
+tych Ciał w Kościołach ze czcią złożonych, ale Saraceńſka,
+Turecka, Heretycka pśia na Swiɇte kości zaiadłość, to w ziemi
+Swiɇtey, to w Ieruzalem, to w Antyochyi, to w Alexandryi, to
+w Carogrodzie, to w Anglii, Hibernii, Szkocyi, Danii, Saxonii,
+w Belgium, w ktorych tych wſżykich mieyſcach te Swiɇte
+Ciał Męcżeńſkich znaydowały ɇ depota, á naſze nieoſzacowa‑
+ne Katolickie ſkarby, dziwnie z deſpektowała, z deptała, rozrzu‑
+ciła, y niektore, nec veigium ich zoawiwſzy, zagubiła, cię‑
+ſzko zawſze za to ukarana. Na co Ecclea Mater ubolewa, iak
+niegdy Rachel płacżąca Synow ſwoich, quia non ſunt. Inni Swię‑
+ci pomarli na puſzcy, ktorych kości y Relikwii niemamy: inne
+z głɇbokich Boga Sądow nam nie rewelowane, á podczas ro‑
+żnych czaſow, rożnym oſobom autentycżnie obiawio‑
+ne bywaią. Iako zaś oracz pſzenicę rozrzuca po ro‑
+li, tak pobożność Katolicka iednego Swiętego kości po rożnych
+roznioa kraiach. Co mi dało okazyą do ciɇſżkiey pracy, żem
+muał rożne lurować Zywoty, Martyrologia, Adona, Uſwar‑
+da, Molana, to Monologia Rzymſkie, to rożnych Zakonow Bre‑
+wiarze, Oﬀicia, to Geograﬁcżne Kęgi, to Topograﬁcżne: to
+Nadazego, to Szentywaniego, to Nakatena: ktorzy życia Swiętych
+wziɇli, to z Piſarzow poanowionych w Rzymie od Klemen‑
+ſa, to z Diakonow edmiu od Fabiana Papieża przydanych do
+tamtych Piſarzow ad connotanda Martyria: ktorzy zbliſka ę przy‑
+patruiąc, y do więzicuia wkradaiąc, co widzieli, co yſzeli od</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" type="catch-word">
+	<Coords>
+	<Point x="1709" y="2045"/>
+	<Point x="1709" y="2128"/>
+	<Point x="1573" y="2128"/>
+	<Point x="1573" y="2115"/>
+	<Point x="1574" y="2115"/>
+	<Point x="1574" y="2081"/>
+	<Point x="1575" y="2081"/>
+	<Point x="1575" y="2048"/>
+	<Point x="1595" y="2048"/>
+	<Point x="1595" y="2047"/>
+	<Point x="1615" y="2047"/>
+	<Point x="1615" y="2046"/>
+	<Point x="1687" y="2046"/>
+	<Point x="1687" y="2045"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>S.</Unicode></TextEquiv></TextRegion></Page></PcGts>

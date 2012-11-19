@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436514" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:41:15</Created>
+	<LastChange>2011-08-23T09:56:15</LastChange></Metadata>
+	<Page imageFilename="00436514.tif" imageHeight="3786" imageWidth="2389">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r87"/>
+	<RegionRefIndexed index="1" regionRef="r90"/>
+	<RegionRefIndexed index="2" regionRef="r91"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r87" type="heading">
+	<Coords>
+	<Point x="200" y="240"/>
+	<Point x="200" y="485"/>
+	<Point x="2295" y="485"/>
+	<Point x="2295" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czynſzow rożnych Chłopſkich y dánin podług Oſády
+nà ś. MARCIN; ktorych takowa Speciﬁcatio.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r89">
+	<Coords>
+	<Point x="173" y="569"/>
+	<Point x="173" y="2497"/>
+	<Point x="2295" y="2497"/>
+	<Point x="2295" y="569"/></Coords></TableRegion>
+	<TextRegion id="r90" type="paragraph">
+	<Coords>
+	<Point x="171" y="2614"/>
+	<Point x="171" y="2952"/>
+	<Point x="2271" y="2952"/>
+	<Point x="2271" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Roboćiznà Chłopſka, tu ɇ nie ſpecyﬁkuie, gdyż tà ẃedług mieyſcá,
+Oſàdy, y dawnego zwyczàiu, iáko ie przy kàżdey náznàczona y
+poànowiona Máiɇtności, tàk teź podług tey nic więcey nie przy‑
+czyniàiⱥc, àni opuſzczàiⱥc, oney záżyć y oſować ę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r91" type="catch-word">
+	<Coords>
+	<Point x="1988" y="3200"/>
+	<Point x="1988" y="3307"/>
+	<Point x="2202" y="3307"/>
+	<Point x="2202" y="3200"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>RE‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

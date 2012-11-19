@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436501" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:37:43</Created>
+	<LastChange>2011-08-24T08:14:33</LastChange></Metadata>
+	<Page imageFilename="00436501.tif" imageHeight="3776" imageWidth="2397">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r110"/>
+	<RegionRefIndexed index="1" regionRef="r111"/>
+	<RegionRefIndexed index="2" regionRef="r113"/>
+	<RegionRefIndexed index="3" regionRef="r115"/>
+	<RegionRefIndexed index="4" regionRef="r116"/>
+	<RegionRefIndexed index="5" regionRef="r118"/>
+	<RegionRefIndexed index="6" regionRef="r119"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r110" type="heading">
+	<Coords>
+	<Point x="380" y="195"/>
+	<Point x="380" y="330"/>
+	<Point x="1216" y="330"/>
+	<Point x="1216" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Grochu Creſcencya.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r111" type="paragraph">
+	<Coords>
+	<Point x="578" y="411"/>
+	<Point x="578" y="780"/>
+	<Point x="2000" y="780"/>
+	<Point x="2000" y="411"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zwieźiono nà Folwàrk A. Kop nro. 9. ‑ ‑ ‑ ‑
+Ná Folwárk B. Kop nro. 5. ‑ ‑ 24.
+Ná Folwárk C. Kop nro. 10. ‑ ‑ ‑ ‑</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r112">
+	<Coords>
+	<Point x="907" y="811"/>
+	<Point x="907" y="854"/>
+	<Point x="2064" y="854"/>
+	<Point x="2064" y="811"/></Coords></SeparatorRegion>
+	<TextRegion id="r113" type="paragraph">
+	<Coords>
+	<Point x="907" y="895"/>
+	<Point x="907" y="985"/>
+	<Point x="1980" y="985"/>
+	<Point x="1980" y="895"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>In Summa Kop ‑ ‑ nro. 24. ‑ ‑ 24.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r114">
+	<Coords>
+	<Point x="59" y="1171"/>
+	<Point x="59" y="2376"/>
+	<Point x="2292" y="2376"/>
+	<Point x="2292" y="1171"/></Coords></TableRegion>
+	<TextRegion id="r115" type="paragraph">
+	<Coords>
+	<Point x="297" y="2483"/>
+	<Point x="297" y="2569"/>
+	<Point x="747" y="2569"/>
+	<Point x="747" y="2483"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Comput tego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="paragraph">
+	<Coords>
+	<Point x="311" y="2597"/>
+	<Point x="311" y="2952"/>
+	<Point x="2133" y="2952"/>
+	<Point x="2133" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nà Siewy do pomienionych Folwàrkow ‑ ‑ C. 13. 3./6.
+Ná Ordynàrye Vrzɇdnikowi, Goſpodarzom C. 2. 2. m./3. 6.
+Reat Nà Intratɇ do ſpiniɇźenia ‑ ‑ ‑ ‑ ‑ C. 1. m./2.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r117">
+	<Coords>
+	<Point x="800" y="2971"/>
+	<Point x="797" y="3026"/>
+	<Point x="1011" y="3007"/>
+	<Point x="2173" y="3007"/>
+	<Point x="2173" y="2971"/></Coords></SeparatorRegion>
+	<TextRegion id="r118" type="paragraph">
+	<Coords>
+	<Point x="1035" y="3014"/>
+	<Point x="1035" y="3135"/>
+	<Point x="2150" y="3135"/>
+	<Point x="2150" y="3014"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Concordat Summa vtra C. 17. 1. m./3. 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r119" type="catch-word">
+	<Coords>
+	<Point x="2035" y="3216"/>
+	<Point x="2035" y="3300"/>
+	<Point x="2211" y="3300"/>
+	<Point x="2211" y="3216"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Owsà</Unicode></TextEquiv></TextRegion></Page></PcGts>

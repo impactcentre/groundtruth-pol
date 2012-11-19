@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00437089" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T14:01:37</Created>
+	<LastChange>2011-08-24T03:37:38</LastChange></Metadata>
+	<Page imageFilename="00437089.tif" imageHeight="3263" imageWidth="2576">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r35"/>
+	<RegionRefIndexed index="1" regionRef="r37"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r31" type="handwritten-annotation">
+	<Coords>
+	<Point x="229" y="19"/>
+	<Point x="229" y="180"/>
+	<Point x="396" y="180"/>
+	<Point x="396" y="19"/></Coords></GraphicRegion>
+	<GraphicRegion id="r34" type="handwritten-annotation">
+	<Coords>
+	<Point x="1812" y="148"/>
+	<Point x="1812" y="335"/>
+	<Point x="2290" y="335"/>
+	<Point x="2290" y="148"/></Coords></GraphicRegion>
+	<TextRegion id="r35" textColour="black" type="heading">
+	<Coords>
+	<Point x="132" y="929"/>
+	<Point x="132" y="1167"/>
+	<Point x="2383" y="1167"/>
+	<Point x="2383" y="929"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SŁAWNA VICTORYA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" textColour="black" type="heading">
+	<Coords>
+	<Point x="6" y="1209"/>
+	<Point x="6" y="1851"/>
+	<Point x="2558" y="1851"/>
+	<Point x="2558" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nád Turkami od Woyſk Koronnych, y
+Wielkìego Xiɇwá Litewſkiego, pod
+Choćimiem otrzymána w dźien̄ Swiɇtego
+Marćiná 1673.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r38" type="stamp">
+	<Coords>
+	<Point x="990" y="1867"/>
+	<Point x="990" y="2235"/>
+	<Point x="1416" y="2235"/>
+	<Point x="1416" y="1867"/></Coords></GraphicRegion>
+	<GraphicRegion id="r40" type="handwritten-annotation">
+	<Coords>
+	<Point x="1474" y="2948"/>
+	<Point x="1474" y="3248"/>
+	<Point x="2554" y="3248"/>
+	<Point x="2554" y="2948"/></Coords></GraphicRegion></Page></PcGts>

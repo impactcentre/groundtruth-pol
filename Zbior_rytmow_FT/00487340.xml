@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00487340" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T14:05:41</Created>
+	<LastChange>2011-08-25T08:10:05</LastChange></Metadata>
+	<Page imageFilename="00487340.tif" imageHeight="4120" imageWidth="3005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r120"/>
+	<RegionRefIndexed index="1" regionRef="r122"/>
+	<RegionRefIndexed index="2" regionRef="r124"/>
+	<RegionRefIndexed index="3" regionRef="r126"/>
+	<RegionRefIndexed index="4" regionRef="r128"/>
+	<RegionRefIndexed index="5" regionRef="r130"/>
+	<RegionRefIndexed index="6" regionRef="r132"/>
+	<RegionRefIndexed index="7" regionRef="r134"/>
+	<RegionRefIndexed index="8" regionRef="r115"/>
+	<RegionRefIndexed index="9" regionRef="r116"/>
+	<RegionRefIndexed index="10" regionRef="r117"/>
+	<RegionRefIndexed index="11" regionRef="r118"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r115" type="heading">
+	<Coords>
+	<Point x="363" y="3033"/>
+	<Point x="363" y="3166"/>
+	<Point x="2940" y="3166"/>
+	<Point x="2940" y="3033"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ARCY‑GODNEMU DAM POLSKICH ZBIOROWI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="heading">
+	<Coords>
+	<Point x="1223" y="3223"/>
+	<Point x="1223" y="3376"/>
+	<Point x="2100" y="3376"/>
+	<Point x="2100" y="3223"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dedykuie ten Zbior</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r117" type="heading">
+	<Coords>
+	<Point x="1153" y="3413"/>
+	<Point x="1153" y="3546"/>
+	<Point x="1308" y="3545"/>
+	<Point x="1394" y="3518"/>
+	<Point x="1553" y="3521"/>
+	<Point x="1591" y="3545"/>
+	<Point x="1679" y="3541"/>
+	<Point x="1743" y="3518"/>
+	<Point x="2068" y="3545"/>
+	<Point x="2173" y="3546"/>
+	<Point x="2173" y="3413"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nayuniżeńßy ich Siuga</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r118" type="heading">
+	<Coords>
+	<Point x="1350" y="3553"/>
+	<Point x="1350" y="3666"/>
+	<Point x="1920" y="3666"/>
+	<Point x="1920" y="3553"/>
+	<Point x="1894" y="3540"/>
+	<Point x="1832" y="3535"/>
+	<Point x="1670" y="3546"/>
+	<Point x="1610" y="3570"/>
+	<Point x="1571" y="3546"/>
+	<Point x="1535" y="3543"/>
+	<Point x="1398" y="3533"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>J. Z. R. K.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r120" type="heading">
+	<Coords>
+	<Point x="2953" y="390"/>
+	<Point x="2953" y="543"/>
+	<Point x="2687" y="543"/>
+	<Point x="2687" y="544"/>
+	<Point x="2501" y="544"/>
+	<Point x="2501" y="545"/>
+	<Point x="2314" y="545"/>
+	<Point x="2314" y="546"/>
+	<Point x="2126" y="546"/>
+	<Point x="2126" y="547"/>
+	<Point x="2002" y="547"/>
+	<Point x="2002" y="548"/>
+	<Point x="1878" y="548"/>
+	<Point x="1878" y="549"/>
+	<Point x="1754" y="549"/>
+	<Point x="1754" y="550"/>
+	<Point x="1630" y="550"/>
+	<Point x="1630" y="551"/>
+	<Point x="833" y="551"/>
+	<Point x="833" y="550"/>
+	<Point x="780" y="550"/>
+	<Point x="780" y="549"/>
+	<Point x="727" y="549"/>
+	<Point x="727" y="548"/>
+	<Point x="673" y="548"/>
+	<Point x="673" y="547"/>
+	<Point x="620" y="547"/>
+	<Point x="620" y="546"/>
+	<Point x="567" y="546"/>
+	<Point x="567" y="545"/>
+	<Point x="513" y="545"/>
+	<Point x="513" y="544"/>
+	<Point x="460" y="544"/>
+	<Point x="460" y="543"/>
+	<Point x="407" y="543"/>
+	<Point x="407" y="542"/>
+	<Point x="376" y="542"/>
+	<Point x="376" y="390"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>CNYM HEROINOM POLSKIM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r122" type="heading">
+	<Coords>
+	<Point x="405" y="544"/>
+	<Point x="405" y="545"/>
+	<Point x="458" y="545"/>
+	<Point x="458" y="546"/>
+	<Point x="511" y="546"/>
+	<Point x="511" y="547"/>
+	<Point x="565" y="547"/>
+	<Point x="565" y="548"/>
+	<Point x="618" y="548"/>
+	<Point x="618" y="549"/>
+	<Point x="671" y="549"/>
+	<Point x="671" y="550"/>
+	<Point x="725" y="550"/>
+	<Point x="725" y="551"/>
+	<Point x="778" y="551"/>
+	<Point x="778" y="552"/>
+	<Point x="831" y="552"/>
+	<Point x="831" y="553"/>
+	<Point x="1632" y="553"/>
+	<Point x="1632" y="552"/>
+	<Point x="1756" y="552"/>
+	<Point x="1756" y="551"/>
+	<Point x="1880" y="551"/>
+	<Point x="1880" y="550"/>
+	<Point x="2004" y="550"/>
+	<Point x="2004" y="549"/>
+	<Point x="2128" y="549"/>
+	<Point x="2128" y="548"/>
+	<Point x="2316" y="548"/>
+	<Point x="2316" y="547"/>
+	<Point x="2503" y="547"/>
+	<Point x="2503" y="546"/>
+	<Point x="2689" y="546"/>
+	<Point x="2689" y="545"/>
+	<Point x="2953" y="545"/>
+	<Point x="2953" y="940"/>
+	<Point x="376" y="940"/>
+	<Point x="376" y="544"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>JASNIE OSWIECONEY XIEZNIE JEYMOSCI
+JZABELLI z MORSZTYNOW CZARTORYISKIEY
+KASZTELLANOWEY WILENSKIEY &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r124" type="heading">
+	<Coords>
+	<Point x="2960" y="1060"/>
+	<Point x="2960" y="1446"/>
+	<Point x="1023" y="1446"/>
+	<Point x="1023" y="1445"/>
+	<Point x="857" y="1445"/>
+	<Point x="857" y="1444"/>
+	<Point x="690" y="1444"/>
+	<Point x="690" y="1443"/>
+	<Point x="524" y="1443"/>
+	<Point x="524" y="1442"/>
+	<Point x="380" y="1442"/>
+	<Point x="380" y="1060"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>JASNIE OSWIECONEY XIĘZNIE JEYMOSCI
+KONSTANCYI z XIĄŻĘCEGO DOMU CZARTORYI‑
+SKICH PONIATOWSKIEY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r126" type="heading">
+	<Coords>
+	<Point x="522" y="1444"/>
+	<Point x="522" y="1445"/>
+	<Point x="688" y="1445"/>
+	<Point x="688" y="1446"/>
+	<Point x="855" y="1446"/>
+	<Point x="855" y="1447"/>
+	<Point x="1021" y="1447"/>
+	<Point x="1021" y="1448"/>
+	<Point x="2960" y="1448"/>
+	<Point x="2960" y="1606"/>
+	<Point x="380" y="1606"/>
+	<Point x="380" y="1444"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>KASZTELLANOWEY KRAKOWSKIEY &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r128" type="heading">
+	<Coords>
+	<Point x="2950" y="1686"/>
+	<Point x="2950" y="2086"/>
+	<Point x="2828" y="2086"/>
+	<Point x="2828" y="2087"/>
+	<Point x="2694" y="2087"/>
+	<Point x="2694" y="2088"/>
+	<Point x="2561" y="2088"/>
+	<Point x="2561" y="2089"/>
+	<Point x="2427" y="2089"/>
+	<Point x="2427" y="2090"/>
+	<Point x="2293" y="2090"/>
+	<Point x="2293" y="2091"/>
+	<Point x="1935" y="2091"/>
+	<Point x="1935" y="2092"/>
+	<Point x="1577" y="2092"/>
+	<Point x="1577" y="2093"/>
+	<Point x="1218" y="2093"/>
+	<Point x="1218" y="2094"/>
+	<Point x="363" y="2094"/>
+	<Point x="363" y="1686"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>JASNIE OSWIECONEY XIĘZNIE JEYMOSCI
+MARYI ZOFIEY z SIENIAWSKICH XIĘZNIE
+CZARTORYISKIEY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r130" type="heading">
+	<Coords>
+	<Point x="2950" y="2088"/>
+	<Point x="2950" y="2380"/>
+	<Point x="363" y="2380"/>
+	<Point x="363" y="2096"/>
+	<Point x="1220" y="2096"/>
+	<Point x="1220" y="2095"/>
+	<Point x="1579" y="2095"/>
+	<Point x="1579" y="2094"/>
+	<Point x="1937" y="2094"/>
+	<Point x="1937" y="2093"/>
+	<Point x="2295" y="2093"/>
+	<Point x="2295" y="2092"/>
+	<Point x="2429" y="2092"/>
+	<Point x="2429" y="2091"/>
+	<Point x="2563" y="2091"/>
+	<Point x="2563" y="2090"/>
+	<Point x="2696" y="2090"/>
+	<Point x="2696" y="2089"/>
+	<Point x="2830" y="2089"/>
+	<Point x="2830" y="2088"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>WOJEWODZINIE, GENERAŁOWEY ZIEM
+RUSKICH, GENERAŁOWEY PODOLSKIEY &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r132" type="heading">
+	<Coords>
+	<Point x="2950" y="2450"/>
+	<Point x="2950" y="2847"/>
+	<Point x="2759" y="2847"/>
+	<Point x="2759" y="2846"/>
+	<Point x="2531" y="2846"/>
+	<Point x="2531" y="2847"/>
+	<Point x="2340" y="2847"/>
+	<Point x="2340" y="2848"/>
+	<Point x="2149" y="2848"/>
+	<Point x="2149" y="2849"/>
+	<Point x="1957" y="2849"/>
+	<Point x="1957" y="2850"/>
+	<Point x="1766" y="2850"/>
+	<Point x="1766" y="2851"/>
+	<Point x="1078" y="2851"/>
+	<Point x="1078" y="2850"/>
+	<Point x="995" y="2850"/>
+	<Point x="995" y="2849"/>
+	<Point x="912" y="2849"/>
+	<Point x="912" y="2848"/>
+	<Point x="829" y="2848"/>
+	<Point x="829" y="2847"/>
+	<Point x="746" y="2847"/>
+	<Point x="746" y="2846"/>
+	<Point x="663" y="2846"/>
+	<Point x="663" y="2845"/>
+	<Point x="580" y="2845"/>
+	<Point x="580" y="2844"/>
+	<Point x="497" y="2844"/>
+	<Point x="497" y="2843"/>
+	<Point x="414" y="2843"/>
+	<Point x="414" y="2842"/>
+	<Point x="350" y="2842"/>
+	<Point x="350" y="2450"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>y JASNIE OSWIECONEY XIĘZNIE JEYMOSCI
+ELEONORZE z DOMU GRAFFOW WALSTEYNOW
+XIĘŻNIE CZARTORYISKIEY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r134" type="heading">
+	<Coords>
+	<Point x="412" y="2844"/>
+	<Point x="412" y="2845"/>
+	<Point x="495" y="2845"/>
+	<Point x="495" y="2846"/>
+	<Point x="578" y="2846"/>
+	<Point x="578" y="2847"/>
+	<Point x="661" y="2847"/>
+	<Point x="661" y="2848"/>
+	<Point x="744" y="2848"/>
+	<Point x="744" y="2849"/>
+	<Point x="827" y="2849"/>
+	<Point x="827" y="2850"/>
+	<Point x="910" y="2850"/>
+	<Point x="910" y="2851"/>
+	<Point x="993" y="2851"/>
+	<Point x="993" y="2852"/>
+	<Point x="1076" y="2852"/>
+	<Point x="1076" y="2853"/>
+	<Point x="1768" y="2853"/>
+	<Point x="1768" y="2852"/>
+	<Point x="1959" y="2852"/>
+	<Point x="1959" y="2851"/>
+	<Point x="2151" y="2851"/>
+	<Point x="2151" y="2850"/>
+	<Point x="2342" y="2850"/>
+	<Point x="2342" y="2849"/>
+	<Point x="2533" y="2849"/>
+	<Point x="2533" y="2848"/>
+	<Point x="2757" y="2848"/>
+	<Point x="2757" y="2849"/>
+	<Point x="2950" y="2849"/>
+	<Point x="2950" y="2996"/>
+	<Point x="350" y="2996"/>
+	<Point x="350" y="2844"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>KANCLERZYNEY W. W. X. Litewſkiego &amp;c.</Unicode></TextEquiv></TextRegion></Page></PcGts>

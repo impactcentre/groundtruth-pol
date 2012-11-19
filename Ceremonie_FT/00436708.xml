@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436708" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T15:41:12</Created>
+	<LastChange>2011-09-06T10:05:10</LastChange></Metadata>
+	<Page imageFilename="00436708.tif" imageHeight="2376" imageWidth="1888">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r47"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="396" y="60"/>
+	<Point x="396" y="625"/>
+	<Point x="1832" y="625"/>
+	<Point x="1832" y="60"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>lowⱥſwⱥrzⱥdce / zȧ Krolewice bráćiⱥ y Krole⸗
+wny śiory Iego Krol. Mośći/y zá Admini⸗
+rátory tego Krolewá/ áby przez wiele lat ßcžɇ
+śliwie krolowáli/wdobrympokoiu y zgo⸗
+dźie. A ſpráwuiⱥc to vbogie Krole⸗
+wo / áby ɇ świɇtobliwie/
+co day Bože/ rzⱥdźili.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r48" type="other">
+	<Coords>
+	<Point x="585" y="964"/>
+	<Point x="585" y="1350"/>
+	<Point x="1675" y="1350"/>
+	<Point x="1675" y="964"/></Coords></GraphicRegion></Page></PcGts>

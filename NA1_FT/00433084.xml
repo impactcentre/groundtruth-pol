@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433084" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-12-27T12:13:52</Created>
+	<LastChange>2011-06-02T05:29:04</LastChange></Metadata>
+	<Page imageFilename="00433084.tif" imageHeight="2209" imageWidth="1767">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r1069"/>
+	<RegionRefIndexed index="1" regionRef="r17"/>
+	<RegionRefIndexed index="2" regionRef="r1073"/>
+	<RegionRefIndexed index="3" regionRef="r1074"/>
+	<RegionRefIndexed index="4" regionRef="r1075"/>
+	<RegionRefIndexed index="5" regionRef="r1081"/>
+	<RegionRefIndexed index="6" regionRef="r1083"/>
+	<RegionRefIndexed index="7" regionRef="r1084"/>
+	<RegionRefIndexed index="8" regionRef="r1086"/>
+	<RegionRefIndexed index="9" regionRef="r1087"/>
+	<RegionRefIndexed index="10" regionRef="r1076"/>
+	<RegionRefIndexed index="11" regionRef="r1077"/>
+	<RegionRefIndexed index="12" regionRef="r1078"/>
+	<RegionRefIndexed index="13" regionRef="r1079"/>
+	<RegionRefIndexed index="14" regionRef="r1080"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1069" type="heading">
+	<Coords>
+	<Point x="164" y="58"/>
+	<Point x="248" y="455"/>
+	<Point x="1526" y="455"/>
+	<Point x="1535" y="58"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>FUNDAMENTA Tych ATEN
+Tudzieſz KORTYNY zaaniaiące
+AUTORA od ſzturmow
+</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r1070" type="handwritten-annotation">
+	<Coords>
+	<Point x="119" y="2083"/>
+	<Point x="119" y="2196"/>
+	<Point x="382" y="2196"/>
+	<Point x="382" y="2082"/></Coords></GraphicRegion>
+	<GraphicRegion id="r1071" type="handwritten-annotation">
+	<Coords>
+	<Point x="666" y="2087"/>
+	<Point x="666" y="2200"/>
+	<Point x="1240" y="2205"/>
+	<Point x="1307" y="2200"/>
+	<Point x="1307" y="2087"/>
+	<Point x="1303" y="2055"/>
+	<Point x="1289" y="2044"/>
+	<Point x="1108" y="2075"/>
+	<Point x="897" y="2075"/></Coords></GraphicRegion>
+	<TextRegion id="r1073" type="paragraph">
+	<Coords>
+	<Point x="93" y="651"/>
+	<Point x="93" y="716"/>
+	<Point x="1291" y="716"/>
+	<Point x="1291" y="651"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Placuit nȯbis remȧnere ATHENIS. 1 Thealon: 3  1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1074" type="paragraph">
+	<Coords>
+	<Point x="409" y="762"/>
+	<Point x="409" y="822"/>
+	<Point x="1134" y="822"/>
+	<Point x="1134" y="762"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Via ad DEUM: Scientia. Hugo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1075" type="paragraph">
+	<Coords>
+	<Point x="79" y="846"/>
+	<Point x="79" y="972"/>
+	<Point x="1598" y="972"/>
+	<Point x="1598" y="846"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Omnes trahimur &amp; ducimur ad cognitionis &amp; Scientiæ cupiditatem, in qua
+excellere, pulchrum putamus. Cicero.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1076" type="paragraph">
+	<Coords>
+	<Point x="159" y="1459"/>
+	<Point x="159" y="1525"/>
+	<Point x="1305" y="1525"/>
+	<Point x="1305" y="1459"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W Holſacyi w Mieście Plòén w Galeryi iedney wierſze:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1077" type="paragraph">
+	<Coords>
+	<Point x="246" y="1553"/>
+	<Point x="246" y="1674"/>
+	<Point x="1203" y="1674"/>
+	<Point x="1203" y="1553"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Qui nihil ædiﬁcas, aliena quid improbè carpis?
+Hæc damnare cave, vel meliora rue.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1078" type="paragraph">
+	<Coords>
+	<Point x="162" y="1694"/>
+	<Point x="162" y="1775"/>
+	<Point x="1231" y="1775"/>
+	<Point x="1231" y="1694"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nad Lilią u Symboliy edzą Pſzczoły z napiſem:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1079" type="paragraph">
+	<Coords>
+	<Point x="596" y="1801"/>
+	<Point x="596" y="1872"/>
+	<Point x="1001" y="1872"/>
+	<Point x="1001" y="1801"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Legunt, non lædunt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1080" type="paragraph">
+	<Coords>
+	<Point x="272" y="1895"/>
+	<Point x="463" y="1903"/>
+	<Point x="866" y="1905"/>
+	<Point x="996" y="1910"/>
+	<Point x="1220" y="1909"/>
+	<Point x="1217" y="1975"/>
+	<Point x="1212" y="2011"/>
+	<Point x="1202" y="2028"/>
+	<Point x="1187" y="2039"/>
+	<Point x="1108" y="2065"/>
+	<Point x="755" y="2072"/>
+	<Point x="464" y="2083"/>
+	<Point x="378" y="2068"/>
+	<Point x="270" y="2052"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tak ɇ máią ſprawiać Czytelnicy.
+Leor,  humana &amp; Divina Volumina tentes;
+Hic aditus faciles, pandet ad omne Liber.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1081" type="paragraph">
+	<Coords>
+	<Point x="77" y="1011"/>
+	<Point x="846" y="1005"/>
+	<Point x="1599" y="1010"/>
+	<Point x="1597" y="1055"/>
+	<Point x="1590" y="1061"/>
+	<Point x="1591" y="1111"/>
+	<Point x="853" y="1101"/>
+	<Point x="809" y="1112"/>
+	<Point x="790" y="1108"/>
+	<Point x="709" y="1106"/>
+	<Point x="534" y="1107"/>
+	<Point x="531" y="1111"/>
+	<Point x="525" y="1117"/>
+	<Point x="521" y="1118"/>
+	<Point x="514" y="1114"/>
+	<Point x="503" y="1107"/>
+	<Point x="445" y="1107"/>
+	<Point x="442" y="1110"/>
+	<Point x="436" y="1118"/>
+	<Point x="420" y="1118"/>
+	<Point x="375" y="1106"/>
+	<Point x="208" y="1109"/>
+	<Point x="206" y="1117"/>
+	<Point x="200" y="1120"/>
+	<Point x="194" y="1119"/>
+	<Point x="192" y="1117"/>
+	<Point x="186" y="1106"/>
+	<Point x="117" y="1109"/>
+	<Point x="73" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Optimus &amp; Gravimus quisque conﬁtetur ſe multa ignorare &amp; multa bi etiam
+atque etiam ee diſcenda. Idem.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1083" type="paragraph">
+	<Coords>
+	<Point x="74" y="1117"/>
+	<Point x="172" y="1117"/>
+	<Point x="198" y="1124"/>
+	<Point x="224" y="1124"/>
+	<Point x="258" y="1123"/>
+	<Point x="321" y="1114"/>
+	<Point x="355" y="1114"/>
+	<Point x="401" y="1117"/>
+	<Point x="427" y="1121"/>
+	<Point x="450" y="1120"/>
+	<Point x="513" y="1120"/>
+	<Point x="532" y="1122"/>
+	<Point x="553" y="1116"/>
+	<Point x="572" y="1116"/>
+	<Point x="748" y="1113"/>
+	<Point x="779" y="1117"/>
+	<Point x="838" y="1120"/>
+	<Point x="884" y="1113"/>
+	<Point x="1001" y="1116"/>
+	<Point x="1025" y="1115"/>
+	<Point x="1306" y="1116"/>
+	<Point x="1377" y="1118"/>
+	<Point x="1595" y="1120"/>
+	<Point x="1592" y="1150"/>
+	<Point x="1592" y="1187"/>
+	<Point x="385" y="1168"/>
+	<Point x="380" y="1194"/>
+	<Point x="374" y="1204"/>
+	<Point x="361" y="1211"/>
+	<Point x="324" y="1211"/>
+	<Point x="306" y="1210"/>
+	<Point x="115" y="1211"/>
+	<Point x="96" y="1210"/>
+	<Point x="77" y="1207"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nullum ee LIBRUM tam malum, ut non aliqua parte prodeet. Plinius,
+Senior ait.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1084" type="paragraph">
+	<Coords>
+	<Point x="82" y="1225"/>
+	<Point x="144" y="1218"/>
+	<Point x="184" y="1218"/>
+	<Point x="281" y="1215"/>
+	<Point x="538" y="1218"/>
+	<Point x="628" y="1212"/>
+	<Point x="818" y="1214"/>
+	<Point x="926" y="1212"/>
+	<Point x="1174" y="1216"/>
+	<Point x="1592" y="1221"/>
+	<Point x="1591" y="1262"/>
+	<Point x="1579" y="1290"/>
+	<Point x="1576" y="1297"/>
+	<Point x="857" y="1277"/>
+	<Point x="448" y="1265"/>
+	<Point x="450" y="1293"/>
+	<Point x="450" y="1304"/>
+	<Point x="443" y="1308"/>
+	<Point x="350" y="1307"/>
+	<Point x="343" y="1317"/>
+	<Point x="341" y="1318"/>
+	<Point x="330" y="1318"/>
+	<Point x="320" y="1309"/>
+	<Point x="82" y="1308"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Qui judicare tantum de aliis erroneè, &amp; ip reè facere nihil noveruns
+s Hieronymus.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1086" type="paragraph">
+	<Coords>
+	<Point x="78" y="1318"/>
+	<Point x="141" y="1315"/>
+	<Point x="258" y="1315"/>
+	<Point x="307" y="1320"/>
+	<Point x="309" y="1322"/>
+	<Point x="339" y="1324"/>
+	<Point x="361" y="1324"/>
+	<Point x="417" y="1322"/>
+	<Point x="495" y="1313"/>
+	<Point x="738" y="1309"/>
+	<Point x="1132" y="1306"/>
+	<Point x="1291" y="1311"/>
+	<Point x="1352" y="1317"/>
+	<Point x="1349" y="1342"/>
+	<Point x="1346" y="1361"/>
+	<Point x="1343" y="1367"/>
+	<Point x="1341" y="1370"/>
+	<Point x="968" y="1358"/>
+	<Point x="958" y="1365"/>
+	<Point x="950" y="1370"/>
+	<Point x="943" y="1364"/>
+	<Point x="849" y="1360"/>
+	<Point x="695" y="1357"/>
+	<Point x="687" y="1370"/>
+	<Point x="635" y="1358"/>
+	<Point x="535" y="1357"/>
+	<Point x="530" y="1365"/>
+	<Point x="526" y="1369"/>
+	<Point x="480" y="1367"/>
+	<Point x="472" y="1363"/>
+	<Point x="249" y="1359"/>
+	<Point x="242" y="1371"/>
+	<Point x="227" y="1371"/>
+	<Point x="227" y="1358"/>
+	<Point x="115" y="1362"/>
+	<Point x="82" y="1360"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Felices forent artes,  ſoli Artiﬁces de illis judicarent. Fabius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1087" type="paragraph">
+	<Coords>
+	<Point x="83" y="1370"/>
+	<Point x="161" y="1365"/>
+	<Point x="208" y="1373"/>
+	<Point x="243" y="1377"/>
+	<Point x="276" y="1371"/>
+	<Point x="292" y="1365"/>
+	<Point x="381" y="1367"/>
+	<Point x="434" y="1370"/>
+	<Point x="469" y="1369"/>
+	<Point x="488" y="1369"/>
+	<Point x="496" y="1374"/>
+	<Point x="658" y="1370"/>
+	<Point x="687" y="1375"/>
+	<Point x="706" y="1375"/>
+	<Point x="728" y="1365"/>
+	<Point x="823" y="1365"/>
+	<Point x="890" y="1371"/>
+	<Point x="941" y="1375"/>
+	<Point x="964" y="1373"/>
+	<Point x="984" y="1367"/>
+	<Point x="1088" y="1368"/>
+	<Point x="1145" y="1376"/>
+	<Point x="1144" y="1407"/>
+	<Point x="1123" y="1416"/>
+	<Point x="1017" y="1422"/>
+	<Point x="842" y="1422"/>
+	<Point x="161" y="1437"/>
+	<Point x="80" y="1434"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ee procul Lites, &amp; amaræ prælia lingvæ. Ovidius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="560" y="507"/>
+	<Point x="560" y="598"/>
+	<Point x="1191" y="598"/>
+	<Point x="1191" y="507"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ZOILA</Unicode></TextEquiv></TextRegion></Page></PcGts>

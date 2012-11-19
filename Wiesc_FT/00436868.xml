@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436868" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T23:02:30</Created>
+	<LastChange>2011-06-17T03:50:45</LastChange></Metadata>
+	<Page imageFilename="00436868.tif" imageHeight="1886" imageWidth="1487">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r8"/>
+	<RegionRefIndexed index="1" regionRef="r9"/>
+	<RegionRefIndexed index="2" regionRef="r10"/>
+	<RegionRefIndexed index="3" regionRef="r11"/>
+	<RegionRefIndexed index="4" regionRef="r12"/>
+	<RegionRefIndexed index="5" regionRef="r13"/>
+	<RegionRefIndexed index="6" regionRef="r14"/>
+	<RegionRefIndexed index="7" regionRef="r15"/>
+	<RegionRefIndexed index="8" regionRef="r16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" textColour="black" type="heading">
+	<Coords>
+	<Point x="323" y="310"/>
+	<Point x="323" y="532"/>
+	<Point x="1091" y="532"/>
+	<Point x="1091" y="310"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>WIESC</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" textColour="black" type="heading">
+	<Coords>
+	<Point x="275" y="560"/>
+	<Point x="275" y="712"/>
+	<Point x="1158" y="712"/>
+	<Point x="1158" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Z MOSKWY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" textColour="black" type="heading">
+	<Coords>
+	<Point x="271" y="766"/>
+	<Point x="271" y="887"/>
+	<Point x="1164" y="887"/>
+	<Point x="1164" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PRAWDZIWA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" textColour="black" type="heading">
+	<Coords>
+	<Point x="610" y="912"/>
+	<Point x="610" y="983"/>
+	<Point x="848" y="983"/>
+	<Point x="848" y="912"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Krotkim</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" textColour="black" type="heading">
+	<Coords>
+	<Point x="266" y="1001"/>
+	<Point x="266" y="1087"/>
+	<Point x="1180" y="1087"/>
+	<Point x="1180" y="1001"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>HENRYKA CHELCHOWSKIEGO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" textColour="black" type="heading">
+	<Coords>
+	<Point x="517" y="1092"/>
+	<Point x="517" y="1217"/>
+	<Point x="925" y="1217"/>
+	<Point x="925" y="1092"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rymem
+Wyprowadzona</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" textColour="black" type="heading">
+	<Coords>
+	<Point x="341" y="1239"/>
+	<Point x="341" y="1324"/>
+	<Point x="1096" y="1324"/>
+	<Point x="1096" y="1239"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Roku Páńſkiego M. DC. XXXIIII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" textColour="black" type="heading">
+	<Coords>
+	<Point x="400" y="1345"/>
+	<Point x="400" y="1462"/>
+	<Point x="1030" y="1462"/>
+	<Point x="1030" y="1345"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W THORUNIU,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" textColour="black" type="heading">
+	<Coords>
+	<Point x="290" y="1487"/>
+	<Point x="290" y="1581"/>
+	<Point x="1137" y="1581"/>
+	<Point x="1137" y="1487"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Apud Franciſcum Schnellboltz.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r17" type="handwritten-annotation">
+	<Coords>
+	<Point x="1100" y="26"/>
+	<Point x="1100" y="145"/>
+	<Point x="1352" y="145"/>
+	<Point x="1352" y="26"/></Coords></GraphicRegion></Page></PcGts>

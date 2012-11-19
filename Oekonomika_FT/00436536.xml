@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436536" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:50:44</Created>
+	<LastChange>2011-08-24T02:22:32</LastChange></Metadata>
+	<Page imageFilename="00436536.tif" imageHeight="3825" imageWidth="2416">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r71"/>
+	<RegionRefIndexed index="1" regionRef="r75"/>
+	<RegionRefIndexed index="2" regionRef="r77"/>
+	<RegionRefIndexed index="3" regionRef="r73"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r71" type="heading">
+	<Coords>
+	<Point x="2154" y="1485"/>
+	<Point x="2154" y="1342"/>
+	<Point x="383" y="1342"/>
+	<Point x="383" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>EXPLICATIA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="catch-word">
+	<Coords>
+	<Point x="2035" y="3192"/>
+	<Point x="2035" y="3302"/>
+	<Point x="2276" y="3302"/>
+	<Point x="2276" y="3192"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rela‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="drop-capital">
+	<Coords>
+	<Point x="375" y="1554"/>
+	<Point x="375" y="1559"/>
+	<Point x="374" y="1559"/>
+	<Point x="374" y="1587"/>
+	<Point x="373" y="1587"/>
+	<Point x="373" y="1614"/>
+	<Point x="372" y="1614"/>
+	<Point x="372" y="1658"/>
+	<Point x="371" y="1658"/>
+	<Point x="371" y="1702"/>
+	<Point x="370" y="1702"/>
+	<Point x="370" y="1703"/>
+	<Point x="369" y="1703"/>
+	<Point x="369" y="1704"/>
+	<Point x="367" y="1704"/>
+	<Point x="367" y="1705"/>
+	<Point x="365" y="1705"/>
+	<Point x="365" y="1706"/>
+	<Point x="363" y="1706"/>
+	<Point x="363" y="1707"/>
+	<Point x="361" y="1707"/>
+	<Point x="361" y="1708"/>
+	<Point x="359" y="1708"/>
+	<Point x="359" y="1709"/>
+	<Point x="357" y="1709"/>
+	<Point x="357" y="1710"/>
+	<Point x="355" y="1710"/>
+	<Point x="355" y="1711"/>
+	<Point x="353" y="1711"/>
+	<Point x="353" y="1712"/>
+	<Point x="351" y="1712"/>
+	<Point x="351" y="1713"/>
+	<Point x="349" y="1713"/>
+	<Point x="349" y="1714"/>
+	<Point x="347" y="1714"/>
+	<Point x="347" y="1715"/>
+	<Point x="345" y="1715"/>
+	<Point x="345" y="1716"/>
+	<Point x="343" y="1716"/>
+	<Point x="343" y="1717"/>
+	<Point x="341" y="1717"/>
+	<Point x="341" y="1718"/>
+	<Point x="338" y="1718"/>
+	<Point x="338" y="1719"/>
+	<Point x="325" y="1719"/>
+	<Point x="325" y="1720"/>
+	<Point x="311" y="1720"/>
+	<Point x="311" y="1721"/>
+	<Point x="297" y="1721"/>
+	<Point x="297" y="1722"/>
+	<Point x="283" y="1722"/>
+	<Point x="283" y="1723"/>
+	<Point x="269" y="1723"/>
+	<Point x="269" y="1724"/>
+	<Point x="256" y="1724"/>
+	<Point x="256" y="1725"/>
+	<Point x="242" y="1725"/>
+	<Point x="242" y="1726"/>
+	<Point x="228" y="1726"/>
+	<Point x="228" y="1727"/>
+	<Point x="214" y="1727"/>
+	<Point x="214" y="1728"/>
+	<Point x="214" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords>
+	<Point x="2321" y="1554"/>
+	<Point x="2321" y="2057"/>
+	<Point x="214" y="2057"/>
+	<Point x="214" y="1730"/>
+	<Point x="216" y="1730"/>
+	<Point x="216" y="1729"/>
+	<Point x="230" y="1729"/>
+	<Point x="230" y="1728"/>
+	<Point x="244" y="1728"/>
+	<Point x="244" y="1727"/>
+	<Point x="258" y="1727"/>
+	<Point x="258" y="1726"/>
+	<Point x="271" y="1726"/>
+	<Point x="271" y="1725"/>
+	<Point x="285" y="1725"/>
+	<Point x="285" y="1724"/>
+	<Point x="299" y="1724"/>
+	<Point x="299" y="1723"/>
+	<Point x="313" y="1723"/>
+	<Point x="313" y="1722"/>
+	<Point x="327" y="1722"/>
+	<Point x="327" y="1721"/>
+	<Point x="340" y="1721"/>
+	<Point x="340" y="1720"/>
+	<Point x="343" y="1720"/>
+	<Point x="343" y="1719"/>
+	<Point x="345" y="1719"/>
+	<Point x="345" y="1718"/>
+	<Point x="347" y="1718"/>
+	<Point x="347" y="1717"/>
+	<Point x="349" y="1717"/>
+	<Point x="349" y="1716"/>
+	<Point x="351" y="1716"/>
+	<Point x="351" y="1715"/>
+	<Point x="353" y="1715"/>
+	<Point x="353" y="1714"/>
+	<Point x="355" y="1714"/>
+	<Point x="355" y="1713"/>
+	<Point x="357" y="1713"/>
+	<Point x="357" y="1712"/>
+	<Point x="359" y="1712"/>
+	<Point x="359" y="1711"/>
+	<Point x="361" y="1711"/>
+	<Point x="361" y="1710"/>
+	<Point x="363" y="1710"/>
+	<Point x="363" y="1709"/>
+	<Point x="365" y="1709"/>
+	<Point x="365" y="1708"/>
+	<Point x="367" y="1708"/>
+	<Point x="367" y="1707"/>
+	<Point x="369" y="1707"/>
+	<Point x="369" y="1706"/>
+	<Point x="371" y="1706"/>
+	<Point x="371" y="1705"/>
+	<Point x="372" y="1705"/>
+	<Point x="372" y="1704"/>
+	<Point x="373" y="1704"/>
+	<Point x="373" y="1660"/>
+	<Point x="374" y="1660"/>
+	<Point x="374" y="1616"/>
+	<Point x="375" y="1616"/>
+	<Point x="375" y="1589"/>
+	<Point x="376" y="1589"/>
+	<Point x="376" y="1561"/>
+	<Point x="377" y="1561"/>
+	<Point x="377" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Oniewaß przy Pierwßym, Wtorym, y Trzećim MODELLVSZV, wßel‑
+kich z Creſcentiey Percept, Dyribut y Remanentow, tákże Arythme‑
+tycznych Diiniey Explicatie doátecznie ſⱥ opiſáne: ktore że y do tego
+Summaryußu Relationis wyrozumienia należⱥ. Zác zym ná tym mieyſcu,
+idem non repetendo, adſyłam powyż Łȧſkáwego Czytelnika, áby ták ſnà‑
+dniey poiⱥć mogł, tę in Compendium zebránⱥ Numerycznⱥ Táryﬀę.</Unicode></TextEquiv></TextRegion></Page></PcGts>

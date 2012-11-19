@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436508" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:39:40</Created>
+	<LastChange>2011-08-24T08:25:05</LastChange></Metadata>
+	<Page imageFilename="00436508.tif" imageHeight="3795" imageWidth="2416">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r289"/>
+	<RegionRefIndexed index="1" regionRef="r291"/>
+	<RegionRefIndexed index="2" regionRef="r292"/>
+	<RegionRefIndexed index="3" regionRef="r295"/>
+	<RegionRefIndexed index="4" regionRef="r296"/>
+	<RegionRefIndexed index="5" regionRef="r298"/>
+	<RegionRefIndexed index="6" regionRef="r300"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r289" type="heading">
+	<Coords>
+	<Point x="438" y="359"/>
+	<Point x="438" y="492"/>
+	<Point x="2059" y="492"/>
+	<Point x="2059" y="359"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iárzyn roźnych Ogrodnych Speciﬁcatio.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r290">
+	<Coords>
+	<Point x="173" y="523"/>
+	<Point x="173" y="1464"/>
+	<Point x="2326" y="1464"/>
+	<Point x="2326" y="523"/></Coords></TableRegion>
+	<TextRegion id="r291" type="heading">
+	<Coords>
+	<Point x="200" y="1592"/>
+	<Point x="200" y="1726"/>
+	<Point x="2319" y="1726"/>
+	<Point x="2319" y="1592"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Siáná we Trzech pomienionych Folwárkách znáyduie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r292" type="paragraph">
+	<Coords>
+	<Point x="347" y="1769"/>
+	<Point x="347" y="1983"/>
+	<Point x="1323" y="1983"/>
+	<Point x="1323" y="1769"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ɇ Brogow in numero, 8.
+Potrawu Brogow in numero, 4.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r294">
+	<Coords>
+	<Point x="1330" y="1759"/>
+	<Point x="1330" y="1976"/>
+	<Point x="1397" y="1976"/>
+	<Point x="1397" y="1759"/></Coords></GraphicRegion>
+	<TextRegion id="r295" type="paragraph">
+	<Coords>
+	<Point x="1414" y="1807"/>
+	<Point x="1414" y="1902"/>
+	<Point x="2178" y="1902"/>
+	<Point x="2178" y="1807"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>in ſumma Brogow nro. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r296" type="paragraph">
+	<Coords>
+	<Point x="285" y="2000"/>
+	<Point x="285" y="2228"/>
+	<Point x="2035" y="2228"/>
+	<Point x="2035" y="2000"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dyrybutà Siàná ná Domowⱥ wyſzło potrzebę Brogow 6.
+Ná Intratɇ do przedazy   ‑   ‑   ‑   Brogow 6.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r297">
+	<Coords>
+	<Point x="2040" y="2007"/>
+	<Point x="2040" y="2230"/>
+	<Point x="2092" y="2230"/>
+	<Point x="2092" y="2007"/></Coords></GraphicRegion>
+	<TextRegion id="r298" type="paragraph">
+	<Coords>
+	<Point x="2104" y="2073"/>
+	<Point x="2104" y="2135"/>
+	<Point x="2316" y="2135"/>
+	<Point x="2316" y="2073"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>nro 12.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r299" type="other">
+	<Coords>
+	<Point x="657" y="2345"/>
+	<Point x="657" y="3257"/>
+	<Point x="1926" y="3257"/>
+	<Point x="1926" y="2345"/></Coords></GraphicRegion>
+	<TextRegion id="r300" type="catch-word">
+	<Coords>
+	<Point x="1971" y="3278"/>
+	<Point x="1971" y="3416"/>
+	<Point x="2285" y="3416"/>
+	<Point x="2285" y="3278"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MO‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

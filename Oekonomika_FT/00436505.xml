@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436505" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:38:43</Created>
+	<LastChange>2011-08-23T09:27:32</LastChange></Metadata>
+	<Page imageFilename="00436505.tif" imageHeight="3784" imageWidth="2410">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r225"/>
+	<RegionRefIndexed index="1" regionRef="r226"/>
+	<RegionRefIndexed index="2" regionRef="r229"/>
+	<RegionRefIndexed index="3" regionRef="r231"/>
+	<RegionRefIndexed index="4" regionRef="r233"/>
+	<RegionRefIndexed index="5" regionRef="r234"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r225" type="heading">
+	<Coords>
+	<Point x="411" y="333"/>
+	<Point x="411" y="464"/>
+	<Point x="1711" y="464"/>
+	<Point x="1711" y="333"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Lniánego Siemieniá Creſcencya.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r226" type="paragraph">
+	<Coords>
+	<Point x="569" y="547"/>
+	<Point x="569" y="911"/>
+	<Point x="2090" y="911"/>
+	<Point x="2090" y="547"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zwieźiono nà Folwàrk A. Kop nro. 9. Snopow 30.
+Nà Folwárk B. Kop nro. 4.   ‑   ‑   ‑   ‑
+Nà Folwàrk C. Kop nro. 7.   ‑   ‑   ‑   ‑</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r228">
+	<Coords>
+	<Point x="1009" y="942"/>
+	<Point x="1009" y="988"/>
+	<Point x="2069" y="988"/>
+	<Point x="2069" y="942"/></Coords></SeparatorRegion>
+	<TextRegion id="r229" type="paragraph">
+	<Coords>
+	<Point x="1050" y="1009"/>
+	<Point x="1050" y="1114"/>
+	<Point x="2061" y="1114"/>
+	<Point x="2061" y="1009"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>In Summa Kop nro. 20. Snop. 30.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r230">
+	<Coords>
+	<Point x="80" y="1292"/>
+	<Point x="80" y="2469"/>
+	<Point x="2216" y="2469"/>
+	<Point x="2216" y="1292"/></Coords></TableRegion>
+	<TextRegion id="r231" type="paragraph">
+	<Coords>
+	<Point x="304" y="2604"/>
+	<Point x="304" y="2957"/>
+	<Point x="2097" y="2957"/>
+	<Point x="2097" y="2604"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Comput Dyributy ad Veriﬁcationem żiárná z wymłotu.
+Ná śiewy ná pomienione trzy Folwàr: Cwiertni nro. 1. 1. m./3. 6.
+Ná Intratę reat   ‑   ‑   ‑   ‑   ‑   ‑   Cwiertni nro. 3. 1. m./3. 2.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r232">
+	<Coords>
+	<Point x="830" y="2971"/>
+	<Point x="830" y="3019"/>
+	<Point x="2176" y="3019"/>
+	<Point x="2176" y="2971"/></Coords></SeparatorRegion>
+	<TextRegion id="r233" type="paragraph">
+	<Coords>
+	<Point x="909" y="3038"/>
+	<Point x="909" y="3133"/>
+	<Point x="1997" y="3133"/>
+	<Point x="1997" y="3038"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Concordat vtra Summa C. nro. 5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r234" type="catch-word">
+	<Coords>
+	<Point x="1947" y="3304"/>
+	<Point x="1947" y="3385"/>
+	<Point x="2159" y="3385"/>
+	<Point x="2159" y="3304"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Kono‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

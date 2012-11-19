@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433299" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T09:02:37</Created>
+	<LastChange>2011-07-21T06:28:10</LastChange></Metadata>
+	<Page imageFilename="00433299.tif" imageHeight="2209" imageWidth="1820">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r501"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r385" type="header">
+	<Coords>
+	<Point x="571" y="85"/>
+	<Point x="571" y="157"/>
+	<Point x="1257" y="157"/>
+	<Point x="1257" y="85"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>CHRONOLOGIA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r386" type="page-number">
+	<Coords>
+	<Point x="1558" y="94"/>
+	<Point x="1557" y="157"/>
+	<Point x="1653" y="168"/>
+	<Point x="1657" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>208</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r388">
+	<Coords>
+	<Point x="171" y="170"/>
+	<Point x="380" y="166"/>
+	<Point x="550" y="166"/>
+	<Point x="680" y="167"/>
+	<Point x="914" y="165"/>
+	<Point x="1048" y="166"/>
+	<Point x="1470" y="166"/>
+	<Point x="1496" y="159"/>
+	<Point x="1578" y="165"/>
+	<Point x="1643" y="173"/>
+	<Point x="1636" y="185"/>
+	<Point x="1450" y="185"/>
+	<Point x="1349" y="179"/>
+	<Point x="1237" y="180"/>
+	<Point x="1090" y="180"/>
+	<Point x="884" y="179"/>
+	<Point x="748" y="177"/>
+	<Point x="655" y="179"/>
+	<Point x="576" y="177"/>
+	<Point x="457" y="181"/>
+	<Point x="314" y="186"/>
+	<Point x="163" y="186"/></Coords></SeparatorRegion>
+	<TextRegion id="r501" type="catch-word">
+	<Coords>
+	<Point x="1548" y="2042"/>
+	<Point x="1561" y="2043"/>
+	<Point x="1566" y="2053"/>
+	<Point x="1578" y="2057"/>
+	<Point x="1588" y="2073"/>
+	<Point x="1582" y="2097"/>
+	<Point x="1490" y="2099"/>
+	<Point x="1487" y="2053"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>rych</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r390">
+	<Coords>
+	<Point x="564" y="182"/>
+	<Point x="764" y="182"/>
+	<Point x="764" y="183"/>
+	<Point x="1192" y="183"/>
+	<Point x="1192" y="184"/>
+	<Point x="1315" y="184"/>
+	<Point x="1315" y="185"/>
+	<Point x="1324" y="185"/>
+	<Point x="1324" y="186"/>
+	<Point x="1333" y="186"/>
+	<Point x="1333" y="187"/>
+	<Point x="1341" y="187"/>
+	<Point x="1341" y="188"/>
+	<Point x="1350" y="188"/>
+	<Point x="1350" y="189"/>
+	<Point x="1359" y="189"/>
+	<Point x="1359" y="190"/>
+	<Point x="1621" y="190"/>
+	<Point x="1621" y="2061"/>
+	<Point x="1621" y="2060"/>
+	<Point x="1617" y="2060"/>
+	<Point x="1617" y="2059"/>
+	<Point x="1613" y="2059"/>
+	<Point x="1613" y="2058"/>
+	<Point x="1609" y="2058"/>
+	<Point x="1609" y="2057"/>
+	<Point x="1605" y="2057"/>
+	<Point x="1605" y="2056"/>
+	<Point x="1601" y="2056"/>
+	<Point x="1601" y="2055"/>
+	<Point x="1597" y="2055"/>
+	<Point x="1597" y="2054"/>
+	<Point x="1572" y="2051"/>
+	<Point x="1565" y="2037"/>
+	<Point x="1564" y="2037"/>
+	<Point x="1468" y="2047"/>
+	<Point x="1439" y="2061"/>
+	<Point x="135" y="2061"/>
+	<Point x="135" y="190"/>
+	<Point x="306" y="190"/>
+	<Point x="306" y="189"/>
+	<Point x="476" y="189"/>
+	<Point x="476" y="188"/>
+	<Point x="504" y="188"/>
+	<Point x="504" y="187"/>
+	<Point x="520" y="183"/>
+	<Point x="564" y="183"/></Coords></TableRegion></Page></PcGts>

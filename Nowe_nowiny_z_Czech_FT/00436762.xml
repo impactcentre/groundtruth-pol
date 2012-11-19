@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436762" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T22:47:41</Created>
+	<LastChange>2011-06-16T06:09:11</LastChange></Metadata>
+	<Page imageFilename="00436762.tif" imageHeight="3184" imageWidth="2568">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r2"/>
+	<RegionRefIndexed index="1" regionRef="r3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="816" y="416"/>
+	<Point x="816" y="595"/>
+	<Point x="1809" y="595"/>
+	<Point x="1809" y="416"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>�� ZRZENCZYCKI,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="947" y="690"/>
+	<Point x="947" y="866"/>
+	<Point x="1721" y="866"/>
+	<Point x="1721" y="690"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>NOWINY.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="other">
+	<Coords>
+	<Point x="1050" y="1228"/>
+	<Point x="1050" y="1954"/>
+	<Point x="1583" y="1954"/>
+	<Point x="1583" y="1228"/></Coords></GraphicRegion></Page></PcGts>

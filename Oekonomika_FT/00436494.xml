@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436494" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:35:27</Created>
+	<LastChange>2011-08-23T08:19:45</LastChange></Metadata>
+	<Page imageFilename="00436494.tif" imageHeight="3799" imageWidth="2413">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r65"/>
+	<RegionRefIndexed index="1" regionRef="r66"/>
+	<RegionRefIndexed index="2" regionRef="r67"/>
+	<RegionRefIndexed index="3" regionRef="r68"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r65" type="heading">
+	<Coords>
+	<Point x="1085" y="238"/>
+	<Point x="1085" y="347"/>
+	<Point x="1266" y="347"/>
+	<Point x="1266" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="heading">
+	<Coords>
+	<Point x="152" y="373"/>
+	<Point x="152" y="588"/>
+	<Point x="2190" y="588"/>
+	<Point x="2190" y="373"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MODELLVSZ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="heading">
+	<Coords>
+	<Point x="250" y="659"/>
+	<Point x="250" y="780"/>
+	<Point x="2097" y="780"/>
+	<Point x="2097" y="659"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ARYTHMETYCZNY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="heading">
+	<Coords>
+	<Point x="154" y="869"/>
+	<Point x="154" y="2000"/>
+	<Point x="2180" y="2000"/>
+	<Point x="2180" y="869"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iáko dochodźić przez zebránie Summá‑
+ryuſzá Calculationis, według waloru ná
+pieniⱥdze computoẃáney Creſcen‑
+cyey rożnego Zboza, Cwiertniⱥ
+Krákowſkⱥ pomierzonego: to
+ie: Perceptorum, Diri‑
+butorum &amp; Rema‑
+nentium.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r69" type="other">
+	<Coords>
+	<Point x="569" y="2147"/>
+	<Point x="569" y="3064"/>
+	<Point x="1823" y="3064"/>
+	<Point x="1823" y="2147"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436794" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T01:52:48</Created>
+	<LastChange>2011-11-09T08:09:28</LastChange></Metadata>
+	<Page imageFilename="00436794.tif" imageHeight="3224" imageWidth="2576">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r73"/>
+	<RegionRefIndexed index="1" regionRef="r74"/>
+	<RegionRefIndexed index="2" regionRef="r75"/>
+	<RegionRefIndexed index="3" regionRef="r76"/>
+	<RegionRefIndexed index="4" regionRef="r77"/>
+	<RegionRefIndexed index="5" regionRef="r78"/>
+	<RegionRefIndexed index="6" regionRef="r79"/>
+	<RegionRefIndexed index="7" regionRef="r80"/>
+	<RegionRefIndexed index="8" regionRef="r81"/>
+	<RegionRefIndexed index="9" regionRef="r82"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r72" type="other">
+	<Coords>
+	<Point x="1135" y="141"/>
+	<Point x="1135" y="251"/>
+	<Point x="1290" y="251"/>
+	<Point x="1290" y="141"/></Coords></GraphicRegion>
+	<TextRegion id="r73" textColour="black" type="heading">
+	<Coords>
+	<Point x="296" y="312"/>
+	<Point x="296" y="516"/>
+	<Point x="2183" y="516"/>
+	<Point x="2183" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>CHORAGIEW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" textColour="black" type="heading">
+	<Coords>
+	<Point x="306" y="532"/>
+	<Point x="306" y="712"/>
+	<Point x="2122" y="712"/>
+	<Point x="2122" y="532"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Sáuromátcka w Wołoſzech,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" textColour="black" type="heading">
+	<Coords>
+	<Point x="1083" y="751"/>
+	<Point x="1083" y="870"/>
+	<Point x="1393" y="870"/>
+	<Point x="1393" y="751"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>To ie/</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" textColour="black" type="heading">
+	<Coords>
+	<Point x="283" y="880"/>
+	<Point x="283" y="1032"/>
+	<Point x="496" y="1038"/>
+	<Point x="874" y="1014"/>
+	<Point x="901" y="1033"/>
+	<Point x="921" y="1037"/>
+	<Point x="984" y="1035"/>
+	<Point x="1089" y="1026"/>
+	<Point x="1190" y="1034"/>
+	<Point x="1215" y="1037"/>
+	<Point x="1290" y="1036"/>
+	<Point x="1376" y="1031"/>
+	<Point x="2203" y="1032"/>
+	<Point x="2203" y="880"/>
+	<Point x="362" y="876"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Poſpolite ruſzenie y ſczɇśliwe zwrocenie/</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" textColour="black" type="heading">
+	<Coords>
+	<Point x="825" y="1041"/>
+	<Point x="825" y="1125"/>
+	<Point x="850" y="1139"/>
+	<Point x="1235" y="1135"/>
+	<Point x="1582" y="1137"/>
+	<Point x="1654" y="1125"/>
+	<Point x="1654" y="1041"/>
+	<Point x="1457" y="1035"/>
+	<Point x="1370" y="1039"/>
+	<Point x="1332" y="1040"/>
+	<Point x="1141" y="1047"/>
+	<Point x="1053" y="1035"/>
+	<Point x="971" y="1038"/>
+	<Point x="952" y="1047"/>
+	<Point x="883" y="1032"/>
+	<Point x="849" y="1031"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Polakow z Wołoch :</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" textColour="black" type="heading">
+	<Coords>
+	<Point x="625" y="1145"/>
+	<Point x="625" y="1261"/>
+	<Point x="1441" y="1274"/>
+	<Point x="1807" y="1267"/>
+	<Point x="1870" y="1261"/>
+	<Point x="1870" y="1145"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W Roku teráźnieyßym / 1621.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" textColour="black" type="heading">
+	<Coords>
+	<Point x="970" y="1370"/>
+	<Point x="970" y="1493"/>
+	<Point x="1500" y="1493"/>
+	<Point x="1500" y="1370"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Opiſana przez</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" textColour="black" type="heading">
+	<Coords>
+	<Point x="287" y="1500"/>
+	<Point x="287" y="1596"/>
+	<Point x="1347" y="1595"/>
+	<Point x="1367" y="1621"/>
+	<Point x="1414" y="1631"/>
+	<Point x="1444" y="1614"/>
+	<Point x="1450" y="1598"/>
+	<Point x="2225" y="1596"/>
+	<Point x="2225" y="1500"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MARCINA PASZKOWSKIEGO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="745" y="1625"/>
+	<Point x="745" y="2687"/>
+	<Point x="1711" y="2689"/>
+	<Point x="1887" y="2687"/>
+	<Point x="1887" y="1625"/>
+	<Point x="1433" y="1641"/>
+	<Point x="1311" y="1630"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Poſpolite rußenie
+Y ſczɇśliwe zwrocenie.
+Z porażkⱥ złych Poháńcow/
+Bezecnych Biſurmáńcow.
+Pioro moie ryſuie/
+To co wdźiɇczno być czuie:
+Wßelkim anom ná świećie/
+Wykłádayćieß iák chcećie.
+Ia wɇp czyniɇ do rzeczy/
+Máiⱥc ten wierß nápieczy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r82" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="567" y="2780"/>
+	<Point x="567" y="2896"/>
+	<Point x="990" y="2912"/>
+	<Point x="1970" y="2896"/>
+	<Point x="1970" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dic nobis placita, &amp; audiemus te.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r105" type="stamp">
+	<Coords>
+	<Point x="1935" y="2577"/>
+	<Point x="2141" y="2529"/>
+	<Point x="2280" y="2529"/>
+	<Point x="2419" y="2570"/>
+	<Point x="2470" y="2696"/>
+	<Point x="2483" y="2845"/>
+	<Point x="2422" y="2925"/>
+	<Point x="2319" y="2945"/>
+	<Point x="2190" y="2961"/>
+	<Point x="2054" y="2929"/>
+	<Point x="2012" y="2890"/>
+	<Point x="1990" y="2770"/>
+	<Point x="1987" y="2745"/>
+	<Point x="1919" y="2748"/>
+	<Point x="1906" y="2651"/></Coords></GraphicRegion>
+	<GraphicRegion id="r106" type="stamp">
+	<Coords>
+	<Point x="1919" y="1677"/>
+	<Point x="2170" y="1651"/>
+	<Point x="2332" y="1696"/>
+	<Point x="2332" y="1877"/>
+	<Point x="2312" y="2032"/>
+	<Point x="2270" y="2096"/>
+	<Point x="2177" y="2122"/>
+	<Point x="1948" y="2154"/>
+	<Point x="1900" y="2141"/></Coords></GraphicRegion></Page></PcGts>

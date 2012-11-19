@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00426990" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T10:47:10</Created>
+	<LastChange>2011-09-28T05:46:24</LastChange></Metadata>
+	<Page imageFilename="00426990.tif" imageHeight="2639" imageWidth="1764">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r218"/>
+	<RegionRefIndexed index="1" regionRef="r219"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r217" textColour="black" type="header">
+	<Coords>
+	<Point x="636" y="28"/>
+	<Point x="636" y="110"/>
+	<Point x="711" y="111"/>
+	<Point x="716" y="133"/>
+	<Point x="743" y="133"/>
+	<Point x="752" y="112"/>
+	<Point x="1128" y="110"/>
+	<Point x="1128" y="28"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Diſcurs o Cenie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r218" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="56" y="121"/>
+	<Point x="17" y="2515"/>
+	<Point x="49" y="2521"/>
+	<Point x="134" y="2526"/>
+	<Point x="1239" y="2523"/>
+	<Point x="1704" y="2517"/>
+	<Point x="1714" y="139"/>
+	<Point x="1704" y="121"/>
+	<Point x="830" y="125"/>
+	<Point x="733" y="137"/>
+	<Point x="700" y="134"/>
+	<Point x="628" y="123"/>
+	<Point x="427" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Talerow dźieśiɇć złotych trzy/ ktorych záraz vm⸗
+knⱥ. Czegoby inßym Cudzoźiemcom vczynić nie
+mogli ktorzy wßyſcy tyleż kłádⱥ złotych w dźieśiⱥ⸗
+ći Talerách/ile w ßeśći czerwonych złotych. A Ná⸗
+ßyncy mußⱥ przeáć ná złotych trzydźieu Pol⸗
+ſkich/miáo ßeśći Czerwonych złotych; ktorymiby
+tám wedle ußnośći zápłáćić miano Talerow dźie⸗
+śi�ć/ gdy złotem pieniⱥdze zá towar oddáć powin⸗
+no. Ponieważ v nich iednaká Cená dźieśiⱥći Tale⸗
+row z ßeśćiⱥ Czerwonych złotych. (Aczći tymi czá⸗
+ſy/ to ie/ nie rychło iuż po wywołániu onych złych
+Ortow Plebs trochɇ w Slⱥſku/ Moráwie / y Cze⸗
+chách Czerwonych złotych dla Zołnierzá zbieráiⱥ⸗
+cego ie do káftaná / podwyßyłá. iednák że trwáć to
+długo nie może. Bo Conytucye Ceſárſkie ſrodze
+ná to oborzone.) A doświádczono tego/ że tám y
+práwem w tey mierzɇ z niemi nie wſkora. Bo mu
+záraz powiedzⱥ/ iż krzywdy nie ma/ odbieráiⱥc lu⸗
+bo to w Czerwonych złotych tyle złotych; ile mu w
+Talerách co mu przychodzⱥ bydź ma.Gdyż powiá⸗
+dáiⱥ/w nich ták wiele Talerow bierze; iák wiele mu
+ich przychodzi. Gdzieby záś złoto dano ták/ iáko v
+nich w Niemczech idźie ; mowiⱥ żeby przebrał. Bo⸗
+by domá miał nád káżdy dźieśiⱥtek wiɇcey Tale⸗
+rem. Y ták dißkuruiⱥ : Kiedyby ten/ coć płáćić ma
+Towar/ w Polßcze pieniⱥdze oddawał ; prawdá
+iżćiby nie dał ßeśći Czerwonych złotych/ zá Tale⸗</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r219" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1516" y="2531"/>
+	<Point x="1516" y="2593"/>
+	<Point x="1678" y="2593"/>
+	<Point x="1678" y="2531"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>row</Unicode></TextEquiv></TextRegion></Page></PcGts>

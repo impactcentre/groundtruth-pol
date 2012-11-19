@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436532" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:49:33</Created>
+	<LastChange>2011-08-24T06:06:40</LastChange></Metadata>
+	<Page imageFilename="00436532.tif" imageHeight="3820" imageWidth="2413">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r427"/>
+	<RegionRefIndexed index="1" regionRef="r429"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r427" type="heading">
+	<Coords>
+	<Point x="2319" y="321"/>
+	<Point x="2319" y="564"/>
+	<Point x="192" y="564"/>
+	<Point x="192" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Summariuſz Generáłny Roczney Intraty według IV.
+ſárzà Prowentowe°: przez iákie dyynkcye yſpecyﬁca‑</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r428">
+	<Coords>
+	<Point x="2335" y="630"/>
+	<Point x="2335" y="2914"/>
+	<Point x="183" y="2914"/>
+	<Point x="183" y="630"/></Coords></TableRegion>
+	<TextRegion id="r429" type="catch-word">
+	<Coords>
+	<Point x="1702" y="3330"/>
+	<Point x="1702" y="3423"/>
+	<Point x="1895" y="3423"/>
+	<Point x="1895" y="3330"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dir‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

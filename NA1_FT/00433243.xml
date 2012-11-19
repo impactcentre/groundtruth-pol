@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433243" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T01:45:05</Created>
+	<LastChange>2011-09-23T02:27:24</LastChange></Metadata>
+	<Page imageFilename="00433243.tif" imageHeight="2200" imageWidth="1810">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r470"/>
+	<RegionRefIndexed index="1" regionRef="r472"/>
+	<RegionRefIndexed index="2" regionRef="r468"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r454" type="header">
+	<Coords>
+	<Point x="345" y="80"/>
+	<Point x="346" y="135"/>
+	<Point x="849" y="144"/>
+	<Point x="1361" y="148"/>
+	<Point x="1361" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O RELIKWIACH S. JANA CHRZCICIELA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r456" type="page-number">
+	<Coords>
+	<Point x="1561" y="110"/>
+	<Point x="1561" y="157"/>
+	<Point x="1625" y="157"/>
+	<Point x="1625" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>151</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r458">
+	<Coords>
+	<Point x="134" y="149"/>
+	<Point x="299" y="146"/>
+	<Point x="373" y="147"/>
+	<Point x="527" y="148"/>
+	<Point x="686" y="150"/>
+	<Point x="862" y="155"/>
+	<Point x="1085" y="158"/>
+	<Point x="1277" y="160"/>
+	<Point x="1460" y="161"/>
+	<Point x="1603" y="163"/>
+	<Point x="1619" y="168"/>
+	<Point x="1624" y="184"/>
+	<Point x="1551" y="175"/>
+	<Point x="1527" y="176"/>
+	<Point x="1439" y="176"/>
+	<Point x="1260" y="171"/>
+	<Point x="1070" y="168"/>
+	<Point x="885" y="165"/>
+	<Point x="764" y="164"/>
+	<Point x="569" y="161"/>
+	<Point x="378" y="160"/>
+	<Point x="307" y="157"/>
+	<Point x="202" y="160"/>
+	<Point x="135" y="162"/></Coords></SeparatorRegion>
+	<TextRegion id="r468" type="catch-word">
+	<Coords>
+	<Point x="1434" y="2050"/>
+	<Point x="1434" y="2106"/>
+	<Point x="1547" y="2106"/>
+	<Point x="1546" y="2058"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>śniay‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r470" type="paragraph">
+	<Coords>
+	<Point x="350" y="160"/>
+	<Point x="350" y="161"/>
+	<Point x="364" y="161"/>
+	<Point x="364" y="162"/>
+	<Point x="379" y="162"/>
+	<Point x="379" y="163"/>
+	<Point x="394" y="163"/>
+	<Point x="394" y="164"/>
+	<Point x="409" y="164"/>
+	<Point x="409" y="165"/>
+	<Point x="424" y="165"/>
+	<Point x="424" y="166"/>
+	<Point x="439" y="166"/>
+	<Point x="439" y="167"/>
+	<Point x="454" y="167"/>
+	<Point x="454" y="168"/>
+	<Point x="473" y="168"/>
+	<Point x="473" y="167"/>
+	<Point x="477" y="167"/>
+	<Point x="477" y="166"/>
+	<Point x="481" y="166"/>
+	<Point x="481" y="165"/>
+	<Point x="485" y="165"/>
+	<Point x="485" y="164"/>
+	<Point x="489" y="164"/>
+	<Point x="489" y="163"/>
+	<Point x="538" y="163"/>
+	<Point x="538" y="164"/>
+	<Point x="584" y="164"/>
+	<Point x="584" y="165"/>
+	<Point x="630" y="165"/>
+	<Point x="630" y="166"/>
+	<Point x="676" y="166"/>
+	<Point x="676" y="167"/>
+	<Point x="765" y="167"/>
+	<Point x="765" y="168"/>
+	<Point x="854" y="168"/>
+	<Point x="854" y="169"/>
+	<Point x="864" y="169"/>
+	<Point x="864" y="170"/>
+	<Point x="874" y="170"/>
+	<Point x="874" y="171"/>
+	<Point x="960" y="171"/>
+	<Point x="960" y="172"/>
+	<Point x="1046" y="172"/>
+	<Point x="1046" y="173"/>
+	<Point x="1132" y="173"/>
+	<Point x="1132" y="174"/>
+	<Point x="1218" y="174"/>
+	<Point x="1218" y="175"/>
+	<Point x="1272" y="175"/>
+	<Point x="1272" y="176"/>
+	<Point x="1326" y="176"/>
+	<Point x="1326" y="177"/>
+	<Point x="1381" y="177"/>
+	<Point x="1381" y="178"/>
+	<Point x="1435" y="178"/>
+	<Point x="1435" y="179"/>
+	<Point x="1489" y="179"/>
+	<Point x="1489" y="180"/>
+	<Point x="1544" y="180"/>
+	<Point x="1544" y="181"/>
+	<Point x="1549" y="181"/>
+	<Point x="1549" y="182"/>
+	<Point x="1554" y="182"/>
+	<Point x="1554" y="183"/>
+	<Point x="1560" y="183"/>
+	<Point x="1560" y="184"/>
+	<Point x="1565" y="184"/>
+	<Point x="1565" y="185"/>
+	<Point x="1570" y="185"/>
+	<Point x="1570" y="186"/>
+	<Point x="1576" y="186"/>
+	<Point x="1576" y="187"/>
+	<Point x="1581" y="187"/>
+	<Point x="1581" y="188"/>
+	<Point x="1586" y="188"/>
+	<Point x="1586" y="189"/>
+	<Point x="1592" y="189"/>
+	<Point x="1592" y="190"/>
+	<Point x="1597" y="190"/>
+	<Point x="1597" y="191"/>
+	<Point x="1602" y="191"/>
+	<Point x="1602" y="192"/>
+	<Point x="1608" y="192"/>
+	<Point x="1608" y="193"/>
+	<Point x="1613" y="193"/>
+	<Point x="1613" y="194"/>
+	<Point x="1619" y="194"/>
+	<Point x="1619" y="1123"/>
+	<Point x="1618" y="1123"/>
+	<Point x="1618" y="1226"/>
+	<Point x="1261" y="1226"/>
+	<Point x="1261" y="1225"/>
+	<Point x="1138" y="1225"/>
+	<Point x="1138" y="1224"/>
+	<Point x="1014" y="1224"/>
+	<Point x="1014" y="1223"/>
+	<Point x="890" y="1223"/>
+	<Point x="890" y="1222"/>
+	<Point x="764" y="1222"/>
+	<Point x="764" y="1223"/>
+	<Point x="687" y="1223"/>
+	<Point x="687" y="1224"/>
+	<Point x="609" y="1224"/>
+	<Point x="609" y="1225"/>
+	<Point x="532" y="1225"/>
+	<Point x="532" y="1226"/>
+	<Point x="456" y="1226"/>
+	<Point x="456" y="1225"/>
+	<Point x="338" y="1225"/>
+	<Point x="338" y="1226"/>
+	<Point x="332" y="1226"/>
+	<Point x="332" y="1227"/>
+	<Point x="325" y="1227"/>
+	<Point x="325" y="1228"/>
+	<Point x="318" y="1228"/>
+	<Point x="318" y="1229"/>
+	<Point x="313" y="1229"/>
+	<Point x="313" y="1228"/>
+	<Point x="309" y="1228"/>
+	<Point x="309" y="1227"/>
+	<Point x="304" y="1227"/>
+	<Point x="304" y="1226"/>
+	<Point x="300" y="1226"/>
+	<Point x="300" y="1225"/>
+	<Point x="295" y="1225"/>
+	<Point x="295" y="1224"/>
+	<Point x="115" y="1224"/>
+	<Point x="115" y="171"/>
+	<Point x="127" y="171"/>
+	<Point x="127" y="170"/>
+	<Point x="140" y="170"/>
+	<Point x="140" y="169"/>
+	<Point x="152" y="169"/>
+	<Point x="152" y="168"/>
+	<Point x="165" y="168"/>
+	<Point x="165" y="167"/>
+	<Point x="178" y="167"/>
+	<Point x="178" y="166"/>
+	<Point x="190" y="166"/>
+	<Point x="190" y="165"/>
+	<Point x="203" y="165"/>
+	<Point x="203" y="164"/>
+	<Point x="216" y="164"/>
+	<Point x="216" y="163"/>
+	<Point x="234" y="163"/>
+	<Point x="234" y="162"/>
+	<Point x="253" y="162"/>
+	<Point x="253" y="161"/>
+	<Point x="271" y="161"/>
+	<Point x="271" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>nowie konſerwowall kości: tak Jozefa Patryarchy, śmiertelne zwłoki z Egy‑
+ptu Bracia do Ziɇmi Swiętey tranſportowali. A zacożby S. JANA więcey
+niżeli Proroka, więkſzego nad Synow ludzkich, na ogień ſkazali? Poganie
+to tylko, y inne Narody od nich ſkandalizowane z umárłych przez ogień, czy‑
+nili popioły, oſy nie mogiły eryguiⱥc. Czy Swięty, czy przeklęty u nich
+ognia godzień: Fatum człeka u nich na śmierć, a oni na płomień dekretowałi:
+Fenixow, ale nie Felixow, czynili ſzczęśliwych. Przecież ta opinia ſpale‑
+nia S. JANA Ciała nie ie fałſzywa; palony ten S. Mⱥż, ale nie rychło po
+śmierci, probowany, czy ie Aurum eleum, od Heroda ejeum. Ucznio
+wie go pochowali, a Uczeń Piekielny Julianus Ceſarz od Wiary Apoata‛od‑
+kopać go kazał, iako CHRYSTUSA Pana, Obrazow Swiętych aż do wyko‑
+rzenienia ich, zawzięty, y poprzyężony Adwerſarz. Wyięte z grobu w
+Sebaście, albo Samaryi Ciało, na ogień ſkazał. Pobożność Chrześciańſka o
+ſmalone z ognia wychwyciła czⱥki, y do Alexandryi, według zdania Szen‑
+tywániego przenioa, tam konſerwowała, przy czci należytey. Głowa tego
+Swiętego, ktora zawſze pragnełá uniżenia przed Chryuſem: Illum oportet
+creſcere, me autem minui, według Baroniuſza ſub Aunô 388 przenieona była do
+Hebdomon, Kòścioł dla niey wſpaniały wyawiwſzy. Te przenieenie Teo‑
+dozyuſz uczynił ze w Koslai bliſko Chalcedonu leżⱥcey, gdyż tam była zna‑
+leziona za Walenſa, y Kosciołem od niegoż uwenerowana. Toż ſwiadczⱥ
+Cedrenus, y Nicephorus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r472" type="paragraph">
+	<Coords>
+	<Point x="888" y="1224"/>
+	<Point x="888" y="1225"/>
+	<Point x="1012" y="1225"/>
+	<Point x="1012" y="1226"/>
+	<Point x="1136" y="1226"/>
+	<Point x="1136" y="1227"/>
+	<Point x="1259" y="1227"/>
+	<Point x="1259" y="1228"/>
+	<Point x="1618" y="1228"/>
+	<Point x="1618" y="2052"/>
+	<Point x="1589" y="2052"/>
+	<Point x="1589" y="2051"/>
+	<Point x="1561" y="2051"/>
+	<Point x="1561" y="2050"/>
+	<Point x="1532" y="2050"/>
+	<Point x="1532" y="2049"/>
+	<Point x="1527" y="2049"/>
+	<Point x="1527" y="2048"/>
+	<Point x="1522" y="2048"/>
+	<Point x="1522" y="2047"/>
+	<Point x="1517" y="2047"/>
+	<Point x="1517" y="2046"/>
+	<Point x="1512" y="2046"/>
+	<Point x="1512" y="2045"/>
+	<Point x="1507" y="2045"/>
+	<Point x="1507" y="2044"/>
+	<Point x="1502" y="2044"/>
+	<Point x="1502" y="2043"/>
+	<Point x="1497" y="2043"/>
+	<Point x="1497" y="2042"/>
+	<Point x="1444" y="2042"/>
+	<Point x="1444" y="2043"/>
+	<Point x="1442" y="2043"/>
+	<Point x="1442" y="2044"/>
+	<Point x="1439" y="2044"/>
+	<Point x="1439" y="2045"/>
+	<Point x="1437" y="2045"/>
+	<Point x="1437" y="2046"/>
+	<Point x="1434" y="2046"/>
+	<Point x="1434" y="2047"/>
+	<Point x="1432" y="2047"/>
+	<Point x="1432" y="2048"/>
+	<Point x="1429" y="2048"/>
+	<Point x="1429" y="2049"/>
+	<Point x="1427" y="2049"/>
+	<Point x="1427" y="2050"/>
+	<Point x="1424" y="2050"/>
+	<Point x="1424" y="2051"/>
+	<Point x="770" y="2051"/>
+	<Point x="770" y="2052"/>
+	<Point x="115" y="2052"/>
+	<Point x="115" y="1226"/>
+	<Point x="293" y="1226"/>
+	<Point x="293" y="1227"/>
+	<Point x="298" y="1227"/>
+	<Point x="298" y="1228"/>
+	<Point x="302" y="1228"/>
+	<Point x="302" y="1229"/>
+	<Point x="307" y="1229"/>
+	<Point x="307" y="1230"/>
+	<Point x="311" y="1230"/>
+	<Point x="311" y="1231"/>
+	<Point x="320" y="1231"/>
+	<Point x="320" y="1230"/>
+	<Point x="327" y="1230"/>
+	<Point x="327" y="1229"/>
+	<Point x="334" y="1229"/>
+	<Point x="334" y="1228"/>
+	<Point x="340" y="1228"/>
+	<Point x="340" y="1227"/>
+	<Point x="454" y="1227"/>
+	<Point x="454" y="1228"/>
+	<Point x="534" y="1228"/>
+	<Point x="534" y="1227"/>
+	<Point x="611" y="1227"/>
+	<Point x="611" y="1226"/>
+	<Point x="689" y="1226"/>
+	<Point x="689" y="1225"/>
+	<Point x="766" y="1225"/>
+	<Point x="766" y="1224"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Náda piſze in Anno Cælei dnia 24. Junii że S. Atanazemu Patryarſze
+Alexándryiſkiemu JAN S. Chrżciciel pokazawſzy ę w dzień Zwiáowania
+Nayśw: Panny, kazał dać Aniołowi Obraz Naydrożſzey MARYI Panny y
+ſwoie Relikwie ( pewnie owe z Samaryi przenieone do Alexandryi ) y te
+zanieśli do Rzymu. Obraz Nayśw: Panny doał ę Miau Sycyliyſkiemu
+Panormus: Relikwie zaś S. JANA doały ę Kościołom w Włoſzech Ia‑
+koż w G�nui Miescie Stołecznym Reipublicæ Genuens w Kościele Katedral‑
+nym tituli S Láurentii ſⱥ Popioły y Ręka S JANA, ktore Morze pobudzone
+częokroć uś�ierza noſzⱥc w Proceyi ſolenney też Swięte Oatki Kto‑
+re tam za ſześciu kluczami, u ſzesciu Oſob zacnych z Senatu dopu�owa‑
+nych zlożone, oprocz Feu nie mogⱥ bydź prezentowane ne conſenſu Se‑
+na�u, iako ſwiadczⱥ Oculati Peregrinantes. Kęga intytułowana Deſcriptio
+Italiæ ſwiadczy, że te Rel�kwie Swięte z innemi Roku 1149: z Myry Ma‑
+a Lycii ſⱥ tam przenieone. Szentywani piſze in Synop Chronologica, że
+Roku 956. z Antyochii do Konantynopola Ręka S. JANA Chrzciciela z ſo‑
+lennⱥ pompⱥ przenieona, ktorá teraz ie w Kaplicy Zamkowey Nayia‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

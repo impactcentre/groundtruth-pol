@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436844" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T18:59:02</Created>
+	<LastChange>2011-11-10T04:17:03</LastChange></Metadata>
+	<Page imageFilename="00436844.tif" imageHeight="3262" imageWidth="2600">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r42"/>
+	<RegionRefIndexed index="1" regionRef="r43"/>
+	<RegionRefIndexed index="2" regionRef="r44"/>
+	<RegionRefIndexed index="3" regionRef="r45"/>
+	<RegionRefIndexed index="4" regionRef="r46"/>
+	<RegionRefIndexed index="5" regionRef="r47"/>
+	<RegionRefIndexed index="6" regionRef="r48"/>
+	<RegionRefIndexed index="7" regionRef="r49"/>
+	<RegionRefIndexed index="8" regionRef="r50"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r41" type="other">
+	<Coords>
+	<Point x="1134" y="102"/>
+	<Point x="1134" y="229"/>
+	<Point x="1324" y="229"/>
+	<Point x="1324" y="102"/></Coords></GraphicRegion>
+	<TextRegion id="r42" textColour="black" type="heading">
+	<Coords>
+	<Point x="222" y="250"/>
+	<Point x="222" y="477"/>
+	<Point x="2259" y="477"/>
+	<Point x="2259" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ADVERSARIA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" textColour="black" type="heading">
+	<Coords>
+	<Point x="1107" y="500"/>
+	<Point x="1107" y="618"/>
+	<Point x="1329" y="618"/>
+	<Point x="1329" y="500"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Abo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" textColour="black" type="heading">
+	<Coords>
+	<Point x="212" y="651"/>
+	<Point x="212" y="829"/>
+	<Point x="2251" y="833"/>
+	<Point x="2251" y="651"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>TERMINATA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" textColour="black" type="heading">
+	<Coords>
+	<Point x="204" y="862"/>
+	<Point x="204" y="1001"/>
+	<Point x="342" y="1001"/>
+	<Point x="342" y="1109"/>
+	<Point x="717" y="1109"/>
+	<Point x="717" y="1221"/>
+	<Point x="1630" y="1215"/>
+	<Point x="1664" y="1107"/>
+	<Point x="2246" y="1107"/>
+	<Point x="2259" y="865"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Spráwy Woienney/ ktora � toczyłá w Wołoſkiey
+Ziemi / z Tureckim Ceſárzem : W Roku
+teráźnieyßym / 1621.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" textColour="black" type="heading">
+	<Coords>
+	<Point x="900" y="1303"/>
+	<Point x="900" y="1440"/>
+	<Point x="1522" y="1440"/>
+	<Point x="1522" y="1327"/>
+	<Point x="1331" y="1328"/>
+	<Point x="1306" y="1304"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Opiſana przez</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" textColour="black" type="heading">
+	<Coords>
+	<Point x="211" y="1431"/>
+	<Point x="211" y="1588"/>
+	<Point x="2232" y="1588"/>
+	<Point x="2232" y="1450"/>
+	<Point x="1596" y="1447"/>
+	<Point x="1560" y="1444"/>
+	<Point x="870" y="1444"/>
+	<Point x="849" y="1432"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PROCOPA ZBIGNIEWSKIEGO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" textColour="black" type="heading">
+	<Coords>
+	<Point x="207" y="1644"/>
+	<Point x="207" y="1840"/>
+	<Point x="2200" y="1840"/>
+	<Point x="2200" y="1644"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PROTREPTICON.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" textColour="black" type="heading">
+	<Coords>
+	<Point x="191" y="1896"/>
+	<Point x="191" y="2396"/>
+	<Point x="2192" y="2396"/>
+	<Point x="2242" y="2056"/>
+	<Point x="2242" y="1896"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Vnum opus in Turcas Chrii pro nomine, pro quo
+Debeat, &amp; decies nemo timere mori,
+Rex Chrius fortis aertor noer in orbe,
+Augurij taceat, lingua timore małi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" textColour="black" type="heading">
+	<Coords>
+	<Point x="458" y="2647"/>
+	<Point x="459" y="2859"/>
+	<Point x="1892" y="2859"/>
+	<Point x="1892" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Roku Pánſkiego/ 1621.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r51" type="handwritten-annotation">
+	<Coords>
+	<Point x="1550" y="105"/>
+	<Point x="1550" y="197"/>
+	<Point x="1625" y="216"/>
+	<Point x="1758" y="197"/>
+	<Point x="1758" y="105"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r52">
+	<Coords>
+	<Point x="197" y="2569"/>
+	<Point x="197" y="2636"/>
+	<Point x="2188" y="2638"/>
+	<Point x="2188" y="2569"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r53">
+	<Coords>
+	<Point x="263" y="2872"/>
+	<Point x="263" y="2955"/>
+	<Point x="2197" y="2955"/>
+	<Point x="2197" y="2872"/></Coords></SeparatorRegion>
+	<GraphicRegion id="r54" type="handwritten-annotation">
+	<Coords>
+	<Point x="1704" y="1116"/>
+	<Point x="1704" y="1201"/>
+	<Point x="1684" y="1218"/>
+	<Point x="1681" y="1224"/>
+	<Point x="1659" y="1227"/>
+	<Point x="1475" y="1228"/>
+	<Point x="1475" y="1318"/>
+	<Point x="1684" y="1319"/>
+	<Point x="1711" y="1446"/>
+	<Point x="2351" y="1446"/>
+	<Point x="2351" y="1117"/></Coords></GraphicRegion></Page></PcGts>

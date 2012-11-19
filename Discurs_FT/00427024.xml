@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00427024" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T07:51:39</Created>
+	<LastChange>2011-09-28T02:42:12</LastChange></Metadata>
+	<Page imageFilename="00427024.tif" imageHeight="2685" imageWidth="2023">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r177"/>
+	<RegionRefIndexed index="1" regionRef="r178"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r176" textColour="black" type="header">
+	<Coords>
+	<Point x="864" y="26"/>
+	<Point x="864" y="120"/>
+	<Point x="951" y="120"/>
+	<Point x="951" y="139"/>
+	<Point x="996" y="139"/>
+	<Point x="996" y="120"/>
+	<Point x="1394" y="120"/>
+	<Point x="1394" y="26"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Diſcurs o Cenie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r177" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="288" y="123"/>
+	<Point x="288" y="2566"/>
+	<Point x="1737" y="2566"/>
+	<Point x="1737" y="2544"/>
+	<Point x="1970" y="2544"/>
+	<Point x="1970" y="123"/>
+	<Point x="1014" y="123"/>
+	<Point x="1010" y="143"/>
+	<Point x="941" y="143"/>
+	<Point x="941" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ták żeby ɇ mogło o náßey Polßcze mowić / co nie⸗
+gdy Włoßy o ſwym Rzymie powiádáli: Strident
+littora ; repitant triremes, &amp; fatigantur famuli in
+conquirendis iis, quæ ad luxum, &amp; gullam faciunt. To
+ie. Aż po morzu ßum z poburzoney gwałtownymi o‑
+krętámi głębokośći;A y te nam ieſcze náárczyć zby⸗
+tkow nie mogⱥ.Bo ɇ czɇokroć y Páchołkowego
+Páchołká Páchołek vmorduie / biegáiⱥc padáiⱥc/
+dla rzeczy/ do roiow ßumnych / y potraw roſko⸗
+ßnych należⱥcych. A zátym co idźie? Piſmo mowi:
+Extrema gaudĳ luus occupat. W nɇdzɇ y w niedo⸗
+átek wpadamy. Gdyż ɇ y naywiekßych ſkárbow
+przebráć muśi gdźie miáry nie máß. Máximilian
+pierwßy Ceſarz mawiał. Tene menſuram, &amp; reſpi‑
+ce ﬁnem. Záchoway miárɇ á pátrz końcá. Alexán⸗
+der wielki ſrogie karánie poánowił ná tych ktorzy
+by śmieli ſkárby ná publikɇ ſobie powierzone / ácz
+z nich żyć mogli / ná znáczne iákie delicye ſweo⸗
+bracáć.Nie máß ná świećie człowieká coby od Bo⸗
+gá/ czego należⱥcego publice y potrzebnemu / chy⸗
+báby on ſam tákże potrzebnym był/ ſobie nie miał
+powierzonego. Przetoż tákim ßáfárzem bydź ma ;
+áby/ gdy potrzebá Rzeczypoſpolitey álbo potrzeb
+żywotá łáknⱥcego wyćiⱥga ; oné wedle condicyey
+ſwey y przemożenia wſpomagał. Gdźieby záś te⸗
+mu nie wygodźił przeto ſámo ; że ná ſwoiɇ lubie⸗
+żuość wßyko obroćił/ karánia vyść nie ma/ kto⸗</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r178" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1784" y="2557"/>
+	<Point x="1784" y="2640"/>
+	<Point x="1960" y="2640"/>
+	<Point x="1960" y="2557"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>rego</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r179" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="48" y="1735"/>
+	<Point x="48" y="2213"/>
+	<Point x="282" y="2213"/>
+	<Point x="282" y="1735"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Káżdy
+człowiek
+ná świe‑
+ćie ie
+ßáfá‑
+rżem Bo‑
+żym.</Unicode></TextEquiv></TextRegion></Page></PcGts>

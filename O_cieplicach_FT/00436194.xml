@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436194" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T22:04:08</Created>
+	<LastChange>2011-06-14T04:20:13</LastChange></Metadata>
+	<Page imageFilename="00436194.tif" imageHeight="2743" imageWidth="2096">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r331"/>
+	<RegionRefIndexed index="1" regionRef="r333"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r317" type="page-number">
+	<Coords>
+	<Point x="1714" y="128"/>
+	<Point x="1714" y="239"/>
+	<Point x="1657" y="239"/>
+	<Point x="1657" y="238"/>
+	<Point x="1591" y="238"/>
+	<Point x="1591" y="197"/>
+	<Point x="1592" y="197"/>
+	<Point x="1592" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>59.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r325" type="header">
+	<Coords>
+	<Point x="1222" y="128"/>
+	<Point x="1222" y="190"/>
+	<Point x="1221" y="190"/>
+	<Point x="1221" y="233"/>
+	<Point x="1142" y="233"/>
+	<Point x="1142" y="232"/>
+	<Point x="1057" y="232"/>
+	<Point x="1057" y="231"/>
+	<Point x="971" y="231"/>
+	<Point x="971" y="230"/>
+	<Point x="885" y="230"/>
+	<Point x="885" y="229"/>
+	<Point x="799" y="229"/>
+	<Point x="799" y="228"/>
+	<Point x="714" y="228"/>
+	<Point x="714" y="227"/>
+	<Point x="646" y="227"/>
+	<Point x="646" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rozdźiał Trzeći</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r329" type="signature-mark">
+	<Coords>
+	<Point x="1045" y="2553"/>
+	<Point x="1045" y="2554"/>
+	<Point x="1087" y="2554"/>
+	<Point x="1087" y="2555"/>
+	<Point x="1129" y="2555"/>
+	<Point x="1129" y="2556"/>
+	<Point x="1171" y="2556"/>
+	<Point x="1171" y="2557"/>
+	<Point x="1172" y="2557"/>
+	<Point x="1172" y="2652"/>
+	<Point x="1005" y="2652"/>
+	<Point x="1005" y="2553"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>H   ij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r331" type="paragraph">
+	<Coords>
+	<Point x="197" y="223"/>
+	<Point x="197" y="224"/>
+	<Point x="283" y="224"/>
+	<Point x="283" y="225"/>
+	<Point x="369" y="225"/>
+	<Point x="369" y="226"/>
+	<Point x="454" y="226"/>
+	<Point x="454" y="227"/>
+	<Point x="540" y="227"/>
+	<Point x="540" y="228"/>
+	<Point x="626" y="228"/>
+	<Point x="626" y="229"/>
+	<Point x="712" y="229"/>
+	<Point x="712" y="230"/>
+	<Point x="797" y="230"/>
+	<Point x="797" y="231"/>
+	<Point x="883" y="231"/>
+	<Point x="883" y="232"/>
+	<Point x="969" y="232"/>
+	<Point x="969" y="233"/>
+	<Point x="1055" y="233"/>
+	<Point x="1055" y="234"/>
+	<Point x="1140" y="234"/>
+	<Point x="1140" y="235"/>
+	<Point x="1226" y="235"/>
+	<Point x="1226" y="236"/>
+	<Point x="1312" y="236"/>
+	<Point x="1312" y="237"/>
+	<Point x="1398" y="237"/>
+	<Point x="1398" y="238"/>
+	<Point x="1483" y="238"/>
+	<Point x="1483" y="239"/>
+	<Point x="1569" y="239"/>
+	<Point x="1569" y="240"/>
+	<Point x="1655" y="240"/>
+	<Point x="1655" y="241"/>
+	<Point x="1714" y="241"/>
+	<Point x="1714" y="2549"/>
+	<Point x="1400" y="2549"/>
+	<Point x="1400" y="2577"/>
+	<Point x="1399" y="2577"/>
+	<Point x="1399" y="2605"/>
+	<Point x="1398" y="2605"/>
+	<Point x="1398" y="2633"/>
+	<Point x="1397" y="2633"/>
+	<Point x="1397" y="2652"/>
+	<Point x="1174" y="2652"/>
+	<Point x="1174" y="2555"/>
+	<Point x="1173" y="2555"/>
+	<Point x="1173" y="2554"/>
+	<Point x="1131" y="2554"/>
+	<Point x="1131" y="2553"/>
+	<Point x="1089" y="2553"/>
+	<Point x="1089" y="2552"/>
+	<Point x="1047" y="2552"/>
+	<Point x="1047" y="2551"/>
+	<Point x="1003" y="2551"/>
+	<Point x="1003" y="2652"/>
+	<Point x="123" y="2652"/>
+	<Point x="123" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>wyzßey pokazáło/na pewnych mieyſcách y cžáſow nie⸗
+ktorych dždže padaiⱥ śiárcžye / iž w tamtych krai⸗
+nách wiele ie krußcow / z ktorych grube bárzo y śiár⸗
+cžye / álbo też inákße mgły wawáiⱥ / á z nich po⸗
+tym one dždžye wody ɇ rodzⱥ. Y ten pierwßy ſpo⸗
+ſob rodzenia ɇ wod pomießánych álbo ćieplicžnych /
+ie naſkutecžnieyßy y napomocnieyßy ná choroby / ia⸗
+ko ɇ potym ßeroko pokaže. Wtory ſpoſob / ktory iá⸗
+koby z iakiegoś tráfunku álbo z przypadku zawa ɇ/
+á nie z pocžⱥtku ſamey wody/ á ten tákowy ie : wyni⸗
+ka wodá z źiemie / y záraz ɇ rodźi doſyć podobna o⸗
+ney wodźie / ktorⱥ opiſałem bydź podobnⱥ właſnemu
+žywiołowi wody : w tym płynⱥc przez ziemiɇ / nátraﬂ
+ná parɇ y ná mgłɇ podźiemna/ ktora przenikáiⱥc/ one
+wodɇ/ odmienia iⱥ/ cżym z ßcžerey y niepomießáney z⸗
+awa ɇ nátychmia inákßⱥ/iákoby iność maiⱥc w
+ſobie y zápách nie wody/ ále rácžey oney páry y mgły/
+ktora onɇ przechodzⱥc y przenikáiⱥc/mießa ɇ z niⱥ/ y
+z awáiⱥ ɇ iuž y oná mgłá/y oná wodá za iednɇrzecž
+zmießánⱥ : nie inácžey iáko owo bywa cžɇokroć/ gdy
+przyáwi kto w gárnku albo w kotle do ognia/á on nie
+dobrze ogień gore / ále dymny ie bárzo : oná wodá
+wprawdzie bɇdźie ćiepła od onego gorⱥcá ogniá : ale
+iž párá y dym on y przez gárnek przenikał w onɇ wo⸗
+dɇ : iákowy dym / z iákowych drew / tákowy tež bywa
+y zapách oney wody ćiepłey : y cžɇo ɇ traﬁa/ že by
+naidlužey oná wodá byłá chowana / tedy nigdy iuß o⸗
+nego zapáchu pozbydź nie može. Takowy ten ie ſpo⸗
+ſob wtory rodzenia ɇ wod pomießánych podziem⸗
+nych/iako ɇ to može potym ſnadniey pokazać. Trze⸗</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r333" type="catch-word">
+	<Coords>
+	<Point x="1714" y="2551"/>
+	<Point x="1714" y="2652"/>
+	<Point x="1399" y="2652"/>
+	<Point x="1399" y="2635"/>
+	<Point x="1400" y="2635"/>
+	<Point x="1400" y="2607"/>
+	<Point x="1401" y="2607"/>
+	<Point x="1401" y="2579"/>
+	<Point x="1402" y="2579"/>
+	<Point x="1402" y="2551"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ći ſpoſob</Unicode></TextEquiv></TextRegion></Page></PcGts>

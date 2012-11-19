@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436101" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T12:35:00</Created>
+	<LastChange>2011-08-22T04:57:33</LastChange></Metadata>
+	<Page imageFilename="00436101.tif" imageHeight="2300" imageWidth="1912">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r379"/>
+	<RegionRefIndexed index="1" regionRef="r368"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r368" type="catch-word">
+	<Coords>
+	<Point x="1477" y="2074"/>
+	<Point x="1502" y="2074"/>
+	<Point x="1505" y="2085"/>
+	<Point x="1524" y="2085"/>
+	<Point x="1528" y="2086"/>
+	<Point x="1545" y="2086"/>
+	<Point x="1554" y="2075"/>
+	<Point x="1572" y="2075"/>
+	<Point x="1576" y="2085"/>
+	<Point x="1595" y="2085"/>
+	<Point x="1601" y="2088"/>
+	<Point x="1624" y="2088"/>
+	<Point x="1627" y="2105"/>
+	<Point x="1624" y="2117"/>
+	<Point x="1477" y="2117"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>bardzo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r372" type="page-number">
+	<Coords>
+	<Point x="281" y="116"/>
+	<Point x="311" y="122"/>
+	<Point x="308" y="155"/>
+	<Point x="309" y="155"/>
+	<Point x="309" y="166"/>
+	<Point x="310" y="166"/>
+	<Point x="311" y="169"/>
+	<Point x="284" y="169"/>
+	<Point x="275" y="165"/>
+	<Point x="243" y="160"/>
+	<Point x="243" y="161"/>
+	<Point x="232" y="161"/>
+	<Point x="232" y="127"/>
+	<Point x="244" y="127"/>
+	<Point x="244" y="116"/>
+	<Point x="274" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>617</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r378" type="header">
+	<Coords>
+	<Point x="665" y="118"/>
+	<Point x="683" y="131"/>
+	<Point x="683" y="132"/>
+	<Point x="697" y="132"/>
+	<Point x="697" y="131"/>
+	<Point x="726" y="131"/>
+	<Point x="726" y="130"/>
+	<Point x="766" y="130"/>
+	<Point x="766" y="128"/>
+	<Point x="765" y="128"/>
+	<Point x="765" y="127"/>
+	<Point x="764" y="127"/>
+	<Point x="764" y="125"/>
+	<Point x="763" y="125"/>
+	<Point x="763" y="124"/>
+	<Point x="762" y="124"/>
+	<Point x="762" y="122"/>
+	<Point x="761" y="122"/>
+	<Point x="761" y="121"/>
+	<Point x="760" y="121"/>
+	<Point x="760" y="120"/>
+	<Point x="759" y="120"/>
+	<Point x="798" y="120"/>
+	<Point x="797" y="120"/>
+	<Point x="838" y="127"/>
+	<Point x="838" y="126"/>
+	<Point x="842" y="126"/>
+	<Point x="842" y="125"/>
+	<Point x="847" y="125"/>
+	<Point x="847" y="124"/>
+	<Point x="851" y="124"/>
+	<Point x="851" y="123"/>
+	<Point x="855" y="123"/>
+	<Point x="855" y="122"/>
+	<Point x="859" y="122"/>
+	<Point x="859" y="121"/>
+	<Point x="890" y="121"/>
+	<Point x="932" y="134"/>
+	<Point x="932" y="135"/>
+	<Point x="951" y="135"/>
+	<Point x="951" y="134"/>
+	<Point x="971" y="134"/>
+	<Point x="971" y="136"/>
+	<Point x="972" y="136"/>
+	<Point x="972" y="137"/>
+	<Point x="993" y="137"/>
+	<Point x="994" y="127"/>
+	<Point x="995" y="127"/>
+	<Point x="995" y="122"/>
+	<Point x="1012" y="122"/>
+	<Point x="1011" y="122"/>
+	<Point x="1111" y="136"/>
+	<Point x="1111" y="135"/>
+	<Point x="1115" y="135"/>
+	<Point x="1115" y="134"/>
+	<Point x="1119" y="134"/>
+	<Point x="1119" y="133"/>
+	<Point x="1122" y="133"/>
+	<Point x="1122" y="132"/>
+	<Point x="1146" y="132"/>
+	<Point x="1146" y="135"/>
+	<Point x="1169" y="135"/>
+	<Point x="1169" y="136"/>
+	<Point x="1190" y="136"/>
+	<Point x="1190" y="135"/>
+	<Point x="1201" y="136"/>
+	<Point x="1231" y="126"/>
+	<Point x="1232" y="126"/>
+	<Point x="1232" y="123"/>
+	<Point x="1277" y="123"/>
+	<Point x="1277" y="125"/>
+	<Point x="1297" y="125"/>
+	<Point x="1296" y="125"/>
+	<Point x="1334" y="138"/>
+	<Point x="1334" y="136"/>
+	<Point x="1333" y="136"/>
+	<Point x="1348" y="136"/>
+	<Point x="1348" y="137"/>
+	<Point x="1383" y="137"/>
+	<Point x="1393" y="152"/>
+	<Point x="1383" y="172"/>
+	<Point x="1346" y="172"/>
+	<Point x="1347" y="172"/>
+	<Point x="1347" y="170"/>
+	<Point x="1297" y="170"/>
+	<Point x="1297" y="171"/>
+	<Point x="1277" y="171"/>
+	<Point x="1277" y="172"/>
+	<Point x="1231" y="172"/>
+	<Point x="1231" y="174"/>
+	<Point x="1230" y="174"/>
+	<Point x="1230" y="175"/>
+	<Point x="1229" y="175"/>
+	<Point x="1229" y="177"/>
+	<Point x="1228" y="177"/>
+	<Point x="1228" y="178"/>
+	<Point x="1198" y="179"/>
+	<Point x="1190" y="170"/>
+	<Point x="1190" y="167"/>
+	<Point x="1146" y="167"/>
+	<Point x="1146" y="178"/>
+	<Point x="1076" y="178"/>
+	<Point x="1076" y="177"/>
+	<Point x="1073" y="177"/>
+	<Point x="1073" y="176"/>
+	<Point x="1071" y="176"/>
+	<Point x="1071" y="175"/>
+	<Point x="1069" y="175"/>
+	<Point x="1069" y="174"/>
+	<Point x="1067" y="174"/>
+	<Point x="1067" y="173"/>
+	<Point x="1065" y="173"/>
+	<Point x="1065" y="172"/>
+	<Point x="1063" y="172"/>
+	<Point x="1063" y="171"/>
+	<Point x="1061" y="171"/>
+	<Point x="1061" y="170"/>
+	<Point x="1059" y="170"/>
+	<Point x="1059" y="169"/>
+	<Point x="1057" y="169"/>
+	<Point x="1057" y="168"/>
+	<Point x="1033" y="168"/>
+	<Point x="1033" y="167"/>
+	<Point x="951" y="167"/>
+	<Point x="951" y="166"/>
+	<Point x="933" y="166"/>
+	<Point x="933" y="165"/>
+	<Point x="908" y="165"/>
+	<Point x="908" y="166"/>
+	<Point x="859" y="166"/>
+	<Point x="859" y="165"/>
+	<Point x="837" y="165"/>
+	<Point x="837" y="164"/>
+	<Point x="794" y="164"/>
+	<Point x="767" y="174"/>
+	<Point x="723" y="172"/>
+	<Point x="722" y="172"/>
+	<Point x="723" y="172"/>
+	<Point x="696" y="172"/>
+	<Point x="666" y="162"/>
+	<Point x="666" y="161"/>
+	<Point x="638" y="161"/>
+	<Point x="638" y="154"/>
+	<Point x="628" y="150"/>
+	<Point x="635" y="118"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Geograﬁa Generalna y partykularna</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r379" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="214" y="187"/>
+	<Point x="214" y="2075"/>
+	<Point x="1514" y="2071"/>
+	<Point x="1530" y="2073"/>
+	<Point x="1768" y="2075"/>
+	<Point x="1765" y="202"/>
+	<Point x="1575" y="202"/>
+	<Point x="696" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>dzkie nie lɇkaiąc ę, do Kraiu namienionego Aurea, do łodzi
+mocno ɇ przykrępowawſzy ſznurami, z wodą na dół lecą y
+rzucaią ɇ, z niebeſpieczeńwem życia oczywiym. Wiele tak
+do owey Krainy ne læone zdrowia wtargneło, ktorey ma bydź
+Stolica Manoa, ſedes Krolika. Je według iednych tey rzeki na
+mil 100. Początek ſwoy bierze z pod Miaa Quito, wpada w
+morze pułnocne; a przy wpadku tym, iedni namierzyli rzeki
+mil 25. drudzy 30. inni tandem 70. znać mile nie iednakowe. Dru‑
+ga w Ameryce wielka rzeka DELRIO de la Plata, to ie złota
+rzeka, albo Paraguay, podobne Niluſowi Egypſkiemu, maiąca in‑
+crementa z deſzczow, z gor, przez trzy Mieące wyłewa ę na
+grunta, potym ę do ſwego zmyka alveum. Wſzykie wodne
+po niey pływaią atki. Trzecia rzeka ie w Ameryce S. Ma‑
+gdaleny, y ta w morze wpada. Je w Peru Krolewie rzeka
+Sangvineus zwana, iż wodę w ſobie ma, iak krew czerwoną. W
+Rzece Urquaia, ſą węże na 14. krokow długie, ſzerokie na dwa
+łokcie. Głowę z wody wyawiwſzy pływaią, ludzi kompią‑
+cych ę ogonem chwytaią, ziadaią. W Perwańſkiey Prowincyi,
+ie JEZIORO mil 80. w cyrkumferencyi ſwoiey zabieraiące,
+Tuicaca zwane, w ktore rzek 12. wpada. Z tego ieziorá rodzi
+ę, drugie Paria zwane. Dodaie te iezioro pawy dla owiec, y
+dla wieprzow karmienia. Ze bárdzo głɇbokie, moow na nim
+wyawić nie można, ale ſobie ludzie promy pletą z towin y
+porou letkiego. Są też Inſułki na tym ieziorze. W Kraiu Pa‑
+rapay, nie daleko Poto ſrebrney gory, ie iezioro Ciepłe, tak
+okrągłey ſytuacyi, iakby cyrklem obwiedzione było; lubo tam
+grunta bardzo zimne. W pośrzodku tego ieziora woda wre y
+w gorę ę podno. Te też iezioro, na ktorego wyſpie Mexik
+Miao oi w Nowey Hiſzpanii, albo Mexikańſkim Krolewie,
+ma dwoiaką wodɇ, iedne oną morſką, drugą odką rzeczną, a
+to ratione rzek wpadaiących z taką wodą. Ale teraz accet in‑
+duria, bo Aquæ‑duus przez krokow trzy tyące prowadzony,
+odką wodę maiący, w Miao ie ſporządzony. Rybne ie</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r380">
+	<Coords>
+	<Point x="233" y="172"/>
+	<Point x="281" y="173"/>
+	<Point x="319" y="172"/>
+	<Point x="566" y="172"/>
+	<Point x="671" y="173"/>
+	<Point x="697" y="175"/>
+	<Point x="738" y="177"/>
+	<Point x="825" y="179"/>
+	<Point x="968" y="183"/>
+	<Point x="1046" y="182"/>
+	<Point x="1129" y="182"/>
+	<Point x="1195" y="183"/>
+	<Point x="1285" y="185"/>
+	<Point x="1440" y="183"/>
+	<Point x="1590" y="184"/>
+	<Point x="1733" y="187"/>
+	<Point x="1731" y="200"/>
+	<Point x="1700" y="200"/>
+	<Point x="1635" y="199"/>
+	<Point x="1539" y="198"/>
+	<Point x="1406" y="197"/>
+	<Point x="1320" y="196"/>
+	<Point x="1180" y="194"/>
+	<Point x="1008" y="193"/>
+	<Point x="943" y="192"/>
+	<Point x="822" y="189"/>
+	<Point x="725" y="186"/>
+	<Point x="650" y="185"/>
+	<Point x="539" y="185"/>
+	<Point x="495" y="186"/>
+	<Point x="433" y="186"/>
+	<Point x="297" y="184"/>
+	<Point x="230" y="184"/>
+	<Point x="233" y="171"/></Coords></SeparatorRegion></Page></PcGts>

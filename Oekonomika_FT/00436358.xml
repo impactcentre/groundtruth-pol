@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436358" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T05:38:27</Created>
+	<LastChange>2011-08-22T09:22:07</LastChange></Metadata>
+	<Page imageFilename="00436358.tif" imageHeight="3784" imageWidth="2429">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r288"/>
+	<RegionRefIndexed index="1" regionRef="r291"/>
+	<RegionRefIndexed index="2" regionRef="r293"/>
+	<RegionRefIndexed index="3" regionRef="r294"/>
+	<RegionRefIndexed index="4" regionRef="r295"/>
+	<RegionRefIndexed index="5" regionRef="r296"/>
+	<RegionRefIndexed index="6" regionRef="r297"/>
+	<RegionRefIndexed index="7" regionRef="r298"/>
+	<RegionRefIndexed index="8" regionRef="r299"/>
+	<RegionRefIndexed index="9" regionRef="r300"/>
+	<RegionRefIndexed index="10" regionRef="r304"/>
+	<RegionRefIndexed index="11" regionRef="r301"/>
+	<RegionRefIndexed index="12" regionRef="r303"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r287" type="other">
+	<Coords>
+	<Point x="551" y="235"/>
+	<Point x="551" y="361"/>
+	<Point x="1558" y="361"/>
+	<Point x="1558" y="235"/></Coords></GraphicRegion>
+	<TextRegion id="r288" textColour="black" type="heading">
+	<Coords>
+	<Point x="217" y="374"/>
+	<Point x="217" y="502"/>
+	<Point x="1928" y="502"/>
+	<Point x="1928" y="374"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>APPROBACYA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r291" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="409" y="515"/>
+	<Point x="423" y="754"/>
+	<Point x="424" y="754"/>
+	<Point x="424" y="784"/>
+	<Point x="425" y="784"/>
+	<Point x="423" y="888"/>
+	<Point x="70" y="890"/>
+	<Point x="69" y="515"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r293" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="2092" y="515"/>
+	<Point x="2092" y="1174"/>
+	<Point x="69" y="1174"/>
+	<Point x="77" y="917"/>
+	<Point x="429" y="905"/>
+	<Point x="433" y="870"/>
+	<Point x="428" y="856"/>
+	<Point x="430" y="773"/>
+	<Point x="429" y="754"/>
+	<Point x="426" y="723"/>
+	<Point x="427" y="622"/>
+	<Point x="417" y="515"/>
+	<Point x="416" y="515"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Poſob z okoliçznośćiàmi do ſpráwowánia porzⱥdnie y
+pożytecznie Goſpodárwà w Koronie Polſkiey Ziemiań‑
+ſkiego, Vrzɇdnikom, Piſarzom prowentowym, Ráchu�‑
+kow z Intrat uchaiⱥcym barzo potrzebny: piorem
+Vrodzonego PANA IAKVBA KAŹIMIERZA HAVRA,
+�ilniey ániźeli przez innych pomienionego Spoſobu wynaleſzcow
+�ebràńy; áby o oczy wielu goſpodarzow tym prɇdzey otrzeć ɇ
+�ogł, drukowáć pozwalam. Roku 1675. Dniá 10. Kwietniá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r294" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="968" y="1188"/>
+	<Point x="968" y="1435"/>
+	<Point x="2100" y="1435"/>
+	<Point x="2100" y="1188"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>X. IĘDRZEY KVCHARSKI P. S. D.
+Kośćioła Káthedrálneg� Kánonik, Xiⱥg
+w Diœcezyey Krakowſkiey Cenſor.
+m. p.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r295" textColour="black" type="heading">
+	<Coords>
+	<Point x="260" y="1455"/>
+	<Point x="260" y="1581"/>
+	<Point x="1955" y="1581"/>
+	<Point x="1955" y="1455"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>APPLAVZY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r296" textColour="black" type="heading">
+	<Coords>
+	<Point x="386" y="1589"/>
+	<Point x="386" y="1697"/>
+	<Point x="1826" y="1697"/>
+	<Point x="1826" y="1589"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PRZYIACIELSKIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r297" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="123" y="1710"/>
+	<Point x="123" y="2100"/>
+	<Point x="2115" y="2100"/>
+	<Point x="2115" y="1710"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Kopia Liu Wielmożnego I.M. Pánà MICHAŁA z Wi‑
+wic CZERNEGO, Stàroy Párnawſkiego, Sɇdżiego
+apturowego, y nà Trybunał Koronny Deputátá Woiewodztwá
+Krakowſkiego, Podrzɇczego. Wielkorzⱥdow Krákowſkich I.K.M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r298" textColour="black" type="heading">
+	<Coords>
+	<Point x="539" y="2110"/>
+	<Point x="539" y="2186"/>
+	<Point x="1689" y="2186"/>
+	<Point x="1689" y="2110"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>DO AVTORA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r299" textColour="black" type="heading">
+	<Coords>
+	<Point x="634" y="2195"/>
+	<Point x="634" y="2269"/>
+	<Point x="1606" y="2269"/>
+	<Point x="1606" y="2195"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Mośći PANIE HAVR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r300" textColour="black" type="heading">
+	<Coords>
+	<Point x="553" y="2277"/>
+	<Point x="543" y="2335"/>
+	<Point x="552" y="2347"/>
+	<Point x="632" y="2346"/>
+	<Point x="629" y="2367"/>
+	<Point x="644" y="2370"/>
+	<Point x="666" y="2362"/>
+	<Point x="688" y="2347"/>
+	<Point x="717" y="2349"/>
+	<Point x="1269" y="2360"/>
+	<Point x="1694" y="2353"/>
+	<Point x="1695" y="2277"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Moy Wielce Mośći Pánie y Przyiáćielu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r301" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="112" y="2716"/>
+	<Point x="112" y="3319"/>
+	<Point x="207" y="3346"/>
+	<Point x="1004" y="3323"/>
+	<Point x="1052" y="3319"/>
+	<Point x="1223" y="3321"/>
+	<Point x="1295" y="3334"/>
+	<Point x="1720" y="3347"/>
+	<Point x="1782" y="3348"/>
+	<Point x="1790" y="3323"/>
+	<Point x="1815" y="3318"/>
+	<Point x="1977" y="3280"/>
+	<Point x="2100" y="3278"/>
+	<Point x="2127" y="3240"/>
+	<Point x="2125" y="2362"/>
+	<Point x="1277" y="2369"/>
+	<Point x="683" y="2369"/>
+	<Point x="664" y="2376"/>
+	<Point x="630" y="2377"/>
+	<Point x="607" y="2370"/>
+	<Point x="474" y="2363"/>
+	<Point x="477" y="2671"/>
+	<Point x="475" y="2699"/>
+	<Point x="445" y="2703"/>
+	<Point x="162" y="2706"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ic nie watpiɇ że Cenſorali Iudicio Przewielebny I.M.X.
+Kucharſki M. Mśći Pan, iuż Pracⱥ W. M. Pànà debitè re‑
+commendował Typis. Aby iednàk Tá, nie tylko Curioſa
+à ngulari Cura W.M.M. Páná Experientiaq; diuturna y
+z wiadomośćiⱥ moiⱥ elaborowana, ále y potrzebna Páńſkim tákże u‑
+żebnym Kondycyom, w teſchliwym nie zoáwàłà ſperanśie Infor‑
+macyá, ktora iuż powinna w kożdego wiadomośći clareſcere; Com‑
+muni aﬀeu od W. M. M. Páná Expeo, requiroq;. Y lubo modeia
+W.M.M Páná chce bydź záwſze neſcia Elogiorum; nie zàmilczⱥ vwa‑
+żni, Poeritasq;: à nádto,Ipſa quidem virtus bimet pulcherrima merces.
+Moie przytym zwykłe W. M. M. Pànu pilnie w łàſkę zalecam chɇći
+Dat. w Zamku Kràkowſkim Roku P. 1675. Die 20. April.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r302" textColour="black" type="signature-mark">
+	<Coords>
+	<Point x="1008" y="3346"/>
+	<Point x="1012" y="3403"/>
+	<Point x="1128" y="3403"/>
+	<Point x="1123" y="3336"/>
+	<Point x="1109" y="3329"/>
+	<Point x="1026" y="3328"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>)I(</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r303" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1898" y="3322"/>
+	<Point x="1898" y="3389"/>
+	<Point x="2112" y="3389"/>
+	<Point x="2112" y="3322"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>CLARIS‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r304" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="128" y="2357"/>
+	<Point x="128" y="2694"/>
+	<Point x="162" y="2699"/>
+	<Point x="242" y="2699"/>
+	<Point x="469" y="2695"/>
+	<Point x="471" y="2670"/>
+	<Point x="470" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>N</Unicode></TextEquiv></TextRegion></Page></PcGts>

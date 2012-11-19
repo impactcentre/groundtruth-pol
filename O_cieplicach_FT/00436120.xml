@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436120" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T07:54:38</Created>
+	<LastChange>2011-06-13T03:39:15</LastChange></Metadata>
+	<Page imageFilename="00436120.tif" imageHeight="2712" imageWidth="2132">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r13"/>
+	<RegionRefIndexed index="1" regionRef="r15"/>
+	<RegionRefIndexed index="2" regionRef="r16"/>
+	<RegionRefIndexed index="3" regionRef="r17"/>
+	<RegionRefIndexed index="4" regionRef="r18"/>
+	<RegionRefIndexed index="5" regionRef="r19"/>
+	<RegionRefIndexed index="6" regionRef="r20"/>
+	<RegionRefIndexed index="7" regionRef="r22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	</TextRegion>
+	<GraphicRegion id="r12" type="other">
+	<Coords>
+	<Point x="697" y="172"/>
+	<Point x="697" y="247"/>
+	<Point x="929" y="247"/>
+	<Point x="929" y="172"/></Coords></GraphicRegion>
+	<TextRegion id="r13" textColour="black" type="heading">
+	<Coords>
+	<Point x="327" y="281"/>
+	<Point x="327" y="391"/>
+	<Point x="1460" y="391"/>
+	<Point x="1460" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jáśńie Wielmożnemu Pánu,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" textColour="black" type="heading">
+	<Coords>
+	<Point x="506" y="400"/>
+	<Point x="506" y="522"/>
+	<Point x="1289" y="522"/>
+	<Point x="1289" y="400"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>JEGO MSCI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" textColour="black" type="heading">
+	<Coords>
+	<Point x="133" y="519"/>
+	<Point x="133" y="672"/>
+	<Point x="369" y="681"/>
+	<Point x="746" y="685"/>
+	<Point x="1479" y="679"/>
+	<Point x="1683" y="672"/>
+	<Point x="1683" y="519"/>
+	<Point x="1339" y="519"/>
+	<Point x="1326" y="530"/>
+	<Point x="484" y="530"/>
+	<Point x="430" y="519"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PANV IANOWI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" textColour="black" type="heading">
+	<Coords>
+	<Point x="116" y="688"/>
+	<Point x="116" y="1355"/>
+	<Point x="1688" y="1355"/>
+	<Point x="1688" y="688"/>
+	<Point x="737" y="701"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>HRABI Z OSTRORO‑
+GA, Woiewodźie Poznán‑
+ſkiemu, Gárwolinſkie‑
+mu, &amp;c. Stárośćie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" textColour="black" type="heading">
+	<Coords>
+	<Point x="250" y="1372"/>
+	<Point x="250" y="1572"/>
+	<Point x="1597" y="1572"/>
+	<Point x="1597" y="1372"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Pánu mnie z dawná Miłośćiwemu.
+Z. D.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="155" y="1661"/>
+	<Point x="155" y="2155"/>
+	<Point x="201" y="2159"/>
+	<Point x="680" y="2155"/>
+	<Point x="677" y="1962"/>
+	<Point x="675" y="1829"/>
+	<Point x="676" y="1661"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Z</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="702" y="1680"/>
+	<Point x="702" y="1808"/>
+	<Point x="678" y="1822"/>
+	<Point x="677" y="1858"/>
+	<Point x="680" y="1924"/>
+	<Point x="680" y="1976"/>
+	<Point x="685" y="2105"/>
+	<Point x="685" y="2163"/>
+	<Point x="146" y="2163"/>
+	<Point x="146" y="2462"/>
+	<Point x="804" y="2462"/>
+	<Point x="827" y="2438"/>
+	<Point x="1040" y="2438"/>
+	<Point x="1109" y="2457"/>
+	<Point x="1424" y="2457"/>
+	<Point x="1433" y="2438"/>
+	<Point x="1688" y="2438"/>
+	<Point x="1688" y="1680"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>A przyoynⱥ y powin��
+rzecż záwße to ludźie m��
+iⱥ, Iáśńie Wielmożny á mni��
+Młśćiwy Pánie Woiewod�
+Poznáńſki; áby potomkowie
+dobrzy przy ſpoſabiáli ę do cnót , y dżielnych
+ſpraw rodżiców y przodków ſwoich. A ußnie.
+gdyż iáko náępuiⱥ ná máiętnośći,y ßerokie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" textColour="black" type="signature-mark">
+	<Coords>
+	<Point x="834" y="2450"/>
+	<Point x="834" y="2530"/>
+	<Point x="1000" y="2530"/>
+	<Point x="1000" y="2450"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>a ii</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1406" y="2487"/>
+	<Point x="1406" y="2526"/>
+	<Point x="1676" y="2526"/>
+	<Point x="1676" y="2451"/>
+	<Point x="1642" y="2447"/>
+	<Point x="1588" y="2451"/>
+	<Point x="1443" y="2452"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>dźierżá‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

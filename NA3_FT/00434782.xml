@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00434782" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T18:39:15</Created>
+	<LastChange>2011-08-08T05:27:54</LastChange></Metadata>
+	<Page imageFilename="00434782.tif" imageHeight="2421" imageWidth="1866">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r372"/>
+	<RegionRefIndexed index="1" regionRef="r374"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r364" type="header">
+	<Coords>
+	<Point x="1460" y="111"/>
+	<Point x="1460" y="227"/>
+	<Point x="1398" y="227"/>
+	<Point x="1398" y="226"/>
+	<Point x="1316" y="226"/>
+	<Point x="1316" y="225"/>
+	<Point x="1233" y="225"/>
+	<Point x="1233" y="224"/>
+	<Point x="1149" y="224"/>
+	<Point x="1149" y="223"/>
+	<Point x="1064" y="223"/>
+	<Point x="1064" y="222"/>
+	<Point x="980" y="222"/>
+	<Point x="980" y="221"/>
+	<Point x="895" y="221"/>
+	<Point x="895" y="220"/>
+	<Point x="811" y="220"/>
+	<Point x="811" y="219"/>
+	<Point x="636" y="219"/>
+	<Point x="636" y="218"/>
+	<Point x="597" y="218"/>
+	<Point x="597" y="217"/>
+	<Point x="558" y="217"/>
+	<Point x="558" y="216"/>
+	<Point x="519" y="216"/>
+	<Point x="519" y="215"/>
+	<Point x="480" y="215"/>
+	<Point x="480" y="214"/>
+	<Point x="440" y="214"/>
+	<Point x="440" y="213"/>
+	<Point x="378" y="213"/>
+	<Point x="378" y="212"/>
+	<Point x="316" y="212"/>
+	<Point x="316" y="211"/>
+	<Point x="254" y="211"/>
+	<Point x="254" y="210"/>
+	<Point x="192" y="210"/>
+	<Point x="192" y="209"/>
+	<Point x="157" y="209"/>
+	<Point x="157" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czy ﬆary czy nowy wiek lepſzy?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r366" type="page-number">
+	<Coords>
+	<Point x="1704" y="111"/>
+	<Point x="1704" y="230"/>
+	<Point x="1644" y="230"/>
+	<Point x="1644" y="229"/>
+	<Point x="1562" y="229"/>
+	<Point x="1562" y="228"/>
+	<Point x="1480" y="228"/>
+	<Point x="1480" y="227"/>
+	<Point x="1462" y="227"/>
+	<Point x="1462" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>29</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r368">
+	<Coords>
+	<Point x="190" y="211"/>
+	<Point x="190" y="212"/>
+	<Point x="252" y="212"/>
+	<Point x="252" y="213"/>
+	<Point x="314" y="213"/>
+	<Point x="314" y="214"/>
+	<Point x="376" y="214"/>
+	<Point x="376" y="215"/>
+	<Point x="438" y="215"/>
+	<Point x="438" y="216"/>
+	<Point x="478" y="216"/>
+	<Point x="478" y="217"/>
+	<Point x="517" y="217"/>
+	<Point x="517" y="218"/>
+	<Point x="556" y="218"/>
+	<Point x="556" y="219"/>
+	<Point x="595" y="219"/>
+	<Point x="595" y="220"/>
+	<Point x="634" y="220"/>
+	<Point x="634" y="221"/>
+	<Point x="809" y="221"/>
+	<Point x="809" y="222"/>
+	<Point x="893" y="222"/>
+	<Point x="893" y="223"/>
+	<Point x="978" y="223"/>
+	<Point x="978" y="224"/>
+	<Point x="1062" y="224"/>
+	<Point x="1062" y="225"/>
+	<Point x="1147" y="225"/>
+	<Point x="1147" y="226"/>
+	<Point x="1231" y="226"/>
+	<Point x="1231" y="227"/>
+	<Point x="1314" y="227"/>
+	<Point x="1314" y="228"/>
+	<Point x="1396" y="228"/>
+	<Point x="1396" y="229"/>
+	<Point x="1478" y="229"/>
+	<Point x="1478" y="230"/>
+	<Point x="1560" y="230"/>
+	<Point x="1560" y="231"/>
+	<Point x="1642" y="231"/>
+	<Point x="1642" y="232"/>
+	<Point x="1704" y="232"/>
+	<Point x="1704" y="237"/>
+	<Point x="1671" y="240"/>
+	<Point x="1517" y="237"/>
+	<Point x="1517" y="236"/>
+	<Point x="1284" y="236"/>
+	<Point x="1284" y="235"/>
+	<Point x="1168" y="235"/>
+	<Point x="1168" y="234"/>
+	<Point x="1087" y="234"/>
+	<Point x="1087" y="233"/>
+	<Point x="1006" y="233"/>
+	<Point x="1006" y="232"/>
+	<Point x="924" y="232"/>
+	<Point x="924" y="231"/>
+	<Point x="843" y="231"/>
+	<Point x="843" y="230"/>
+	<Point x="762" y="230"/>
+	<Point x="762" y="229"/>
+	<Point x="680" y="229"/>
+	<Point x="680" y="228"/>
+	<Point x="612" y="228"/>
+	<Point x="612" y="227"/>
+	<Point x="542" y="227"/>
+	<Point x="542" y="228"/>
+	<Point x="412" y="228"/>
+	<Point x="412" y="229"/>
+	<Point x="282" y="229"/>
+	<Point x="282" y="230"/>
+	<Point x="253" y="230"/>
+	<Point x="253" y="231"/>
+	<Point x="224" y="231"/>
+	<Point x="224" y="232"/>
+	<Point x="195" y="232"/>
+	<Point x="195" y="233"/>
+	<Point x="166" y="233"/>
+	<Point x="166" y="234"/>
+	<Point x="157" y="234"/>
+	<Point x="157" y="211"/></Coords></SeparatorRegion>
+	<TextRegion id="r372" type="paragraph">
+	<Coords>
+	<Point x="610" y="229"/>
+	<Point x="610" y="230"/>
+	<Point x="678" y="230"/>
+	<Point x="678" y="231"/>
+	<Point x="760" y="231"/>
+	<Point x="760" y="232"/>
+	<Point x="841" y="232"/>
+	<Point x="841" y="233"/>
+	<Point x="922" y="233"/>
+	<Point x="922" y="234"/>
+	<Point x="1004" y="234"/>
+	<Point x="1004" y="235"/>
+	<Point x="1085" y="235"/>
+	<Point x="1085" y="236"/>
+	<Point x="1166" y="236"/>
+	<Point x="1166" y="237"/>
+	<Point x="1282" y="237"/>
+	<Point x="1282" y="238"/>
+	<Point x="1515" y="238"/>
+	<Point x="1515" y="240"/>
+	<Point x="1546" y="240"/>
+	<Point x="1546" y="241"/>
+	<Point x="1577" y="241"/>
+	<Point x="1577" y="242"/>
+	<Point x="1608" y="242"/>
+	<Point x="1608" y="243"/>
+	<Point x="1639" y="243"/>
+	<Point x="1639" y="244"/>
+	<Point x="1670" y="244"/>
+	<Point x="1670" y="245"/>
+	<Point x="1701" y="245"/>
+	<Point x="1701" y="885"/>
+	<Point x="1702" y="885"/>
+	<Point x="1702" y="1525"/>
+	<Point x="1703" y="1525"/>
+	<Point x="1703" y="2069"/>
+	<Point x="1679" y="2069"/>
+	<Point x="1679" y="2068"/>
+	<Point x="1635" y="2068"/>
+	<Point x="1635" y="2067"/>
+	<Point x="1592" y="2067"/>
+	<Point x="1592" y="2066"/>
+	<Point x="1546" y="2066"/>
+	<Point x="1546" y="2067"/>
+	<Point x="1519" y="2067"/>
+	<Point x="1519" y="2068"/>
+	<Point x="1493" y="2068"/>
+	<Point x="1493" y="2126"/>
+	<Point x="1494" y="2126"/>
+	<Point x="1494" y="2164"/>
+	<Point x="157" y="2164"/>
+	<Point x="157" y="236"/>
+	<Point x="168" y="236"/>
+	<Point x="168" y="235"/>
+	<Point x="197" y="235"/>
+	<Point x="197" y="234"/>
+	<Point x="226" y="234"/>
+	<Point x="226" y="233"/>
+	<Point x="255" y="233"/>
+	<Point x="255" y="232"/>
+	<Point x="284" y="232"/>
+	<Point x="284" y="231"/>
+	<Point x="414" y="231"/>
+	<Point x="414" y="230"/>
+	<Point x="544" y="230"/>
+	<Point x="544" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>teyże rzeki wſzedł do Babilonii, Baltazara trupem, á Miao po
+czɇści wɇglem, y popiołem uczyniwſzy. I tu nie leniwa Ale‑
+xandra Wielkiego ochota była, y ręka; kiedy AIexandryą Mia‑
+o murem op�ś�ł na 6. Tyɇcy krokow ciągnionym, dni 17.
+tylko nad tą raciwſzy robotą: według Iuyna Lib: 11. Cyrus
+zaś Pannopolia koło Carogrodu dał mur trzeci in ſpatio dni 66.
+iako ſwiadczy Svidas. A czy ɇ tak ktory z Monarchow wie‑
+kow ſwieżych chybko zakrząta? podobno y pieniądze iego zoł‑
+wiem pieczętowane, y nogi zarażone owym lentè feﬆina: bo
+im żaglow ſwoich nie dodaie fortuna. Kościoł Salomon wieku
+arożytnego lat tylko edm y Mieęcy edm |z marmurow,
+Cedru, złota, przy wielkich inwencyach murował. A ozaſow
+ſwieżſzych Kościoł S. Piotra Rzymſki, in Vaticano nie o lat fun‑
+dowano, á ieſzcze w Ołtarzach ſwoiey niedoſzedł perfekcyi: toć
+wiek młody nie lepſzy nad ary. Nie przeczɇ temu, że wie‑
+ku ſwieżſzego wynalezione ſkorzane moy, łodzie, młyny na
+wozach idących mielące, ale że to fragile, deruibile, bardziey mi
+ę podobał mo Xerxeſa, dawnych wiekow zinwentowany na
+ciaſnym morzu Boſphorus z trzyu atkow, balkami do ebie
+ſpoionych, 300. kotwicami utwierdzony, albo drugi murowany
+na tak wielkiey rzece Dunaiu, od Traiana Ceſarza; trzeci nad rze‑
+ką Thames, od Anglikow &amp;c. Gdzie tych wiekow takowy An‑
+nibal, żeby Alpes Gory ſkalie do Wloch uczynił przecho‑
+dniemi? wſkruś przez nie bramy przekowawſzy, oem twar‑
+dość kamienia molliﬁkuiąc? ktory Monarcha nad morzem Kaſpii‑
+ſkim na 1000. krokow przekował ſkalią gorę przez nią do morza
+z lądu gotuiąc akceſs? kto |tych wiekow ſwieżych takiey fortuny
+y ły, żeby imitował Chineńczykow, ktorzy mur koło Pańwa
+ſwego od pułnocy na mil 300. Niemieckich ciągneli, wyſoki
+na łokci 30. ſzeroki na łokci 12. á ieżeli w ciągu tego mu‑
+ru, iakie traﬁlo ɇ iezioro, lub rzeka, tedy atki pełne kruſzcu
+y kamieni zanurzali, na fundamenta, áto uczynili arych wiekow</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r374" type="catch-word">
+	<Coords>
+	<Point x="1590" y="2068"/>
+	<Point x="1590" y="2069"/>
+	<Point x="1633" y="2069"/>
+	<Point x="1633" y="2070"/>
+	<Point x="1677" y="2070"/>
+	<Point x="1677" y="2071"/>
+	<Point x="1703" y="2071"/>
+	<Point x="1703" y="2164"/>
+	<Point x="1704" y="2164"/>
+	<Point x="1496" y="2164"/>
+	<Point x="1496" y="2124"/>
+	<Point x="1495" y="2124"/>
+	<Point x="1495" y="2070"/>
+	<Point x="1521" y="2070"/>
+	<Point x="1521" y="2069"/>
+	<Point x="1548" y="2069"/>
+	<Point x="1548" y="2068"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>bo</Unicode></TextEquiv></TextRegion></Page></PcGts>

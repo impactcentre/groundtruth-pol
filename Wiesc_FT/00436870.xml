@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436870" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T09:02:38</Created>
+	<LastChange>2011-11-10T09:46:11</LastChange></Metadata>
+	<Page imageFilename="00436870.tif" imageHeight="1902" imageWidth="1484">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r13"/>
+	<RegionRefIndexed index="1" regionRef="r14"/>
+	<RegionRefIndexed index="2" regionRef="r15"/>
+	<RegionRefIndexed index="3" regionRef="r16"/>
+	<RegionRefIndexed index="4" regionRef="r17"/>
+	<RegionRefIndexed index="5" regionRef="r18"/>
+	<RegionRefIndexed index="6" regionRef="r19"/>
+	<RegionRefIndexed index="7" regionRef="r20"/>
+	<RegionRefIndexed index="8" regionRef="r21"/>
+	<RegionRefIndexed index="9" regionRef="r22"/>
+	<RegionRefIndexed index="10" regionRef="r23"/>
+	<RegionRefIndexed index="11" regionRef="r24"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	</TextRegion>
+	<GraphicRegion id="r11" type="handwritten-annotation">
+	<Coords>
+	<Point x="1156" y="34"/>
+	<Point x="1156" y="132"/>
+	<Point x="1231" y="132"/>
+	<Point x="1246" y="150"/>
+	<Point x="1300" y="150"/>
+	<Point x="1344" y="182"/>
+	<Point x="1400" y="132"/>
+	<Point x="1400" y="34"/></Coords></GraphicRegion>
+	<GraphicRegion id="r12" type="other">
+	<Coords>
+	<Point x="180" y="136"/>
+	<Point x="180" y="271"/>
+	<Point x="1284" y="271"/>
+	<Point x="1284" y="152"/>
+	<Point x="1243" y="152"/>
+	<Point x="1215" y="136"/></Coords></GraphicRegion>
+	<TextRegion id="r13" textColour="black" type="heading">
+	<Coords>
+	<Point x="171" y="284"/>
+	<Point x="171" y="413"/>
+	<Point x="1273" y="413"/>
+	<Point x="1273" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przezacney Proſapiey Mezowi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" textColour="black" type="heading">
+	<Coords>
+	<Point x="484" y="428"/>
+	<Point x="484" y="521"/>
+	<Point x="965" y="521"/>
+	<Point x="965" y="428"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ie° Mśći PANV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" textColour="black" type="heading">
+	<Coords>
+	<Point x="181" y="547"/>
+	<Point x="181" y="686"/>
+	<Point x="1267" y="686"/>
+	<Point x="1267" y="547"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SAMVELOWI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" textColour="black" type="heading">
+	<Coords>
+	<Point x="180" y="703"/>
+	<Point x="180" y="824"/>
+	<Point x="1254" y="824"/>
+	<Point x="1254" y="703"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>NADOLSKIEMV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" textColour="black" type="heading">
+	<Coords>
+	<Point x="178" y="832"/>
+	<Point x="178" y="940"/>
+	<Point x="1263" y="940"/>
+	<Point x="1263" y="832"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>KAPITANOVVI KROLA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" textColour="black" type="heading">
+	<Coords>
+	<Point x="173" y="945"/>
+	<Point x="173" y="1236"/>
+	<Point x="1268" y="1236"/>
+	<Point x="1268" y="945"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ie° Mśći ná Pruſkich Præſydy‑
+iach Generalnemu STARO‑
+GARDZKIEMV &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" textColour="black" type="heading">
+	<Coords>
+	<Point x="481" y="1240"/>
+	<Point x="481" y="1339"/>
+	<Point x="965" y="1339"/>
+	<Point x="965" y="1240"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>STAROŚĆIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" textColour="black" type="heading">
+	<Coords>
+	<Point x="440" y="1352"/>
+	<Point x="440" y="1429"/>
+	<Point x="1034" y="1429"/>
+	<Point x="1034" y="1352"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PANV ſwęmu Mśćięmu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" textColour="black" type="heading">
+	<Coords>
+	<Point x="259" y="1436"/>
+	<Point x="259" y="1503"/>
+	<Point x="1206" y="1503"/>
+	<Point x="1206" y="1427"/>
+	<Point x="1057" y="1427"/>
+	<Point x="1045" y="1436"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>HENRYK CHELCHOWSKI, wiecżney slawy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="204" y="1521"/>
+	<Point x="204" y="1704"/>
+	<Point x="360" y="1704"/>
+	<Point x="360" y="1632"/>
+	<Point x="387" y="1582"/>
+	<Point x="387" y="1521"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="390" y="1508"/>
+	<Point x="390" y="1591"/>
+	<Point x="364" y="1632"/>
+	<Point x="364" y="1765"/>
+	<Point x="1112" y="1765"/>
+	<Point x="1112" y="1726"/>
+	<Point x="1267" y="1726"/>
+	<Point x="1267" y="1508"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>IESC pioręm z Moſkwy predkim wynieśionⱥ,
+ZACNEY Oſobie Twoiey poslubionⱥ;
+Ná ſwiat, z Drukowey, wypuśćilęm, práſy :
+By Polſkie dźieie głoła w wße cżáſy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1142" y="1749"/>
+	<Point x="1142" y="1819"/>
+	<Point x="1280" y="1819"/>
+	<Point x="1280" y="1749"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Więc</Unicode></TextEquiv></TextRegion></Page></PcGts>

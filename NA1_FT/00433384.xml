@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433384" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T08:30:48</Created>
+	<LastChange>2011-10-03T14:33:41</LastChange></Metadata>
+	<Page imageFilename="00433384.tif" imageHeight="2210" imageWidth="1830">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r470"/>
+	<RegionRefIndexed index="1" regionRef="r474"/>
+	<RegionRefIndexed index="2" regionRef="r478"/>
+	<RegionRefIndexed index="3" regionRef="r480"/>
+	<RegionRefIndexed index="4" regionRef="r463"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r463" type="catch-word">
+	<Coords>
+	<Point x="1530" y="2055"/>
+	<Point x="1530" y="2106"/>
+	<Point x="1655" y="2106"/>
+	<Point x="1655" y="2055"/>
+	<Point x="1623" y="2047"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>rzyń‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r464" type="page-number">
+	<Coords>
+	<Point x="179" y="111"/>
+	<Point x="179" y="162"/>
+	<Point x="253" y="162"/>
+	<Point x="253" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>399</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r465" type="header">
+	<Coords>
+	<Point x="486" y="100"/>
+	<Point x="486" y="153"/>
+	<Point x="629" y="154"/>
+	<Point x="1420" y="153"/>
+	<Point x="1420" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>o Rzeczypoſpolitey, ktorey Incrementum Bogawa</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r468">
+	<Coords>
+	<Point x="192" y="165"/>
+	<Point x="250" y="165"/>
+	<Point x="291" y="162"/>
+	<Point x="419" y="161"/>
+	<Point x="473" y="158"/>
+	<Point x="532" y="161"/>
+	<Point x="618" y="164"/>
+	<Point x="734" y="164"/>
+	<Point x="829" y="159"/>
+	<Point x="917" y="158"/>
+	<Point x="1087" y="160"/>
+	<Point x="1210" y="159"/>
+	<Point x="1300" y="159"/>
+	<Point x="1418" y="160"/>
+	<Point x="1559" y="161"/>
+	<Point x="1679" y="164"/>
+	<Point x="1682" y="174"/>
+	<Point x="1677" y="177"/>
+	<Point x="1668" y="176"/>
+	<Point x="1563" y="173"/>
+	<Point x="1402" y="171"/>
+	<Point x="1229" y="170"/>
+	<Point x="1102" y="169"/>
+	<Point x="966" y="169"/>
+	<Point x="858" y="168"/>
+	<Point x="799" y="167"/>
+	<Point x="713" y="170"/>
+	<Point x="631" y="170"/>
+	<Point x="576" y="168"/>
+	<Point x="488" y="170"/>
+	<Point x="475" y="175"/>
+	<Point x="402" y="174"/>
+	<Point x="368" y="175"/>
+	<Point x="341" y="174"/>
+	<Point x="223" y="176"/>
+	<Point x="191" y="175"/></Coords></SeparatorRegion>
+	<TextRegion id="r470" type="paragraph">
+	<Coords>
+	<Point x="1294" y="174"/>
+	<Point x="1294" y="175"/>
+	<Point x="1361" y="175"/>
+	<Point x="1361" y="176"/>
+	<Point x="1429" y="176"/>
+	<Point x="1429" y="177"/>
+	<Point x="1497" y="177"/>
+	<Point x="1497" y="178"/>
+	<Point x="1564" y="178"/>
+	<Point x="1564" y="179"/>
+	<Point x="1632" y="179"/>
+	<Point x="1632" y="180"/>
+	<Point x="1700" y="180"/>
+	<Point x="1700" y="626"/>
+	<Point x="1512" y="626"/>
+	<Point x="1512" y="627"/>
+	<Point x="1305" y="627"/>
+	<Point x="1305" y="628"/>
+	<Point x="1100" y="628"/>
+	<Point x="1100" y="627"/>
+	<Point x="1029" y="627"/>
+	<Point x="1029" y="626"/>
+	<Point x="958" y="626"/>
+	<Point x="958" y="625"/>
+	<Point x="884" y="625"/>
+	<Point x="884" y="626"/>
+	<Point x="847" y="626"/>
+	<Point x="847" y="627"/>
+	<Point x="809" y="627"/>
+	<Point x="809" y="628"/>
+	<Point x="772" y="628"/>
+	<Point x="772" y="629"/>
+	<Point x="734" y="629"/>
+	<Point x="734" y="630"/>
+	<Point x="697" y="630"/>
+	<Point x="697" y="631"/>
+	<Point x="659" y="631"/>
+	<Point x="659" y="632"/>
+	<Point x="602" y="632"/>
+	<Point x="602" y="631"/>
+	<Point x="586" y="631"/>
+	<Point x="586" y="630"/>
+	<Point x="569" y="630"/>
+	<Point x="569" y="629"/>
+	<Point x="553" y="629"/>
+	<Point x="553" y="628"/>
+	<Point x="534" y="628"/>
+	<Point x="534" y="629"/>
+	<Point x="459" y="629"/>
+	<Point x="459" y="630"/>
+	<Point x="384" y="630"/>
+	<Point x="384" y="631"/>
+	<Point x="309" y="631"/>
+	<Point x="309" y="632"/>
+	<Point x="183" y="632"/>
+	<Point x="183" y="180"/>
+	<Point x="238" y="180"/>
+	<Point x="238" y="179"/>
+	<Point x="294" y="179"/>
+	<Point x="294" y="178"/>
+	<Point x="350" y="178"/>
+	<Point x="350" y="177"/>
+	<Point x="406" y="177"/>
+	<Point x="406" y="176"/>
+	<Point x="462" y="176"/>
+	<Point x="466" y="178"/>
+	<Point x="518" y="175"/>
+	<Point x="518" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Do zbogacenia Skárbu poſpolitego pomagaiⱥ naywięcey Złote, Srebrne Gory,
+Cłá, Kontrybucyę, doſkonała Ekonomika, Parmonia, bo ta magnum veigal
+byle nie było ex ſordidis rebus iako był poanowił Urinariū Veſpaanus Ceſarz,
+co denotat ſproſne łakomwo Monarchy, albo oatni niedoatek. Boni Prin‑
+cipis eﬆ tondere, non deglubere pecus. Czego że Rzymſcy Monarchowie Kaligu‑
+la y Heliogabalus nie mieli w obſerwie, w cięſzkiey u Poddanych byli abomina‑
+cyi. Alexandrowi Wielkiemu nie podobał ę Ogrodnik, że z korzeniem wy‑
+rywáł iarzynę. Nie ie to dyſkretny y miłoerny Pan, ktory tak ſkrzydeł przyci‑
+na, że odrość nie mogⱥ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r474" type="paragraph">
+	<Coords>
+	<Point x="956" y="627"/>
+	<Point x="956" y="628"/>
+	<Point x="1027" y="628"/>
+	<Point x="1027" y="629"/>
+	<Point x="1098" y="629"/>
+	<Point x="1098" y="630"/>
+	<Point x="1307" y="630"/>
+	<Point x="1307" y="629"/>
+	<Point x="1514" y="629"/>
+	<Point x="1514" y="628"/>
+	<Point x="1700" y="628"/>
+	<Point x="1700" y="1035"/>
+	<Point x="1586" y="1035"/>
+	<Point x="1586" y="1036"/>
+	<Point x="1548" y="1036"/>
+	<Point x="1548" y="1037"/>
+	<Point x="1510" y="1037"/>
+	<Point x="1510" y="1038"/>
+	<Point x="1473" y="1038"/>
+	<Point x="1473" y="1037"/>
+	<Point x="1444" y="1037"/>
+	<Point x="1444" y="1036"/>
+	<Point x="1415" y="1036"/>
+	<Point x="1415" y="1035"/>
+	<Point x="1385" y="1035"/>
+	<Point x="1385" y="1034"/>
+	<Point x="1356" y="1034"/>
+	<Point x="1356" y="1033"/>
+	<Point x="1326" y="1033"/>
+	<Point x="1326" y="1032"/>
+	<Point x="1012" y="1032"/>
+	<Point x="1012" y="1033"/>
+	<Point x="695" y="1033"/>
+	<Point x="695" y="1034"/>
+	<Point x="683" y="1034"/>
+	<Point x="683" y="1035"/>
+	<Point x="671" y="1035"/>
+	<Point x="671" y="1036"/>
+	<Point x="658" y="1036"/>
+	<Point x="658" y="1037"/>
+	<Point x="646" y="1037"/>
+	<Point x="646" y="1038"/>
+	<Point x="633" y="1038"/>
+	<Point x="633" y="1039"/>
+	<Point x="621" y="1039"/>
+	<Point x="621" y="1040"/>
+	<Point x="610" y="1040"/>
+	<Point x="610" y="1039"/>
+	<Point x="608" y="1039"/>
+	<Point x="608" y="1038"/>
+	<Point x="605" y="1038"/>
+	<Point x="605" y="1037"/>
+	<Point x="602" y="1037"/>
+	<Point x="602" y="1036"/>
+	<Point x="600" y="1036"/>
+	<Point x="600" y="1035"/>
+	<Point x="597" y="1035"/>
+	<Point x="597" y="1034"/>
+	<Point x="593" y="1034"/>
+	<Point x="593" y="1035"/>
+	<Point x="408" y="1035"/>
+	<Point x="408" y="1034"/>
+	<Point x="183" y="1034"/>
+	<Point x="183" y="634"/>
+	<Point x="311" y="634"/>
+	<Point x="311" y="633"/>
+	<Point x="386" y="633"/>
+	<Point x="386" y="632"/>
+	<Point x="461" y="632"/>
+	<Point x="461" y="631"/>
+	<Point x="536" y="631"/>
+	<Point x="536" y="630"/>
+	<Point x="551" y="630"/>
+	<Point x="551" y="631"/>
+	<Point x="567" y="631"/>
+	<Point x="567" y="632"/>
+	<Point x="584" y="632"/>
+	<Point x="584" y="633"/>
+	<Point x="600" y="633"/>
+	<Point x="600" y="634"/>
+	<Point x="661" y="634"/>
+	<Point x="661" y="633"/>
+	<Point x="699" y="633"/>
+	<Point x="699" y="632"/>
+	<Point x="736" y="632"/>
+	<Point x="736" y="631"/>
+	<Point x="774" y="631"/>
+	<Point x="774" y="630"/>
+	<Point x="811" y="630"/>
+	<Point x="811" y="629"/>
+	<Point x="849" y="629"/>
+	<Point x="849" y="628"/>
+	<Point x="886" y="628"/>
+	<Point x="886" y="627"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>KUCIE álbo BICIE MONETY należy ad REM‑PUBLICAM, y iey ſamey
+te Jus competit, innym per communicationem, wraz z przerzeganiem, aby pon‑
+dere &amp; pretió była juﬆa. MONETA ex vi imienia ſwego, zowie ę że monet
+przyſzłe wieki, o naſzych zwyczaiach, albo opubliczney Cenie. Nummus zaś
+czyli Numus z Greckiego znaczy Prawo, iż Prawem, Pieniędzy walor uano‑
+wiony. Naypierwſzy w Rzymie bić kazał Monetę Numa Krol Rzymſki Ztⱥd
+Pieniⱥdze Numi, albo Nummi od iego Imiemia, Pierwſzá była Srebrna Roku
+od Stworzenia Swiata 3785. Złota MONETA R. od Stworzenia Swiata 3847 naała.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r478" type="paragraph">
+	<Coords>
+	<Point x="1324" y="1034"/>
+	<Point x="1324" y="1035"/>
+	<Point x="1354" y="1035"/>
+	<Point x="1354" y="1036"/>
+	<Point x="1383" y="1036"/>
+	<Point x="1383" y="1037"/>
+	<Point x="1413" y="1037"/>
+	<Point x="1413" y="1038"/>
+	<Point x="1442" y="1038"/>
+	<Point x="1442" y="1039"/>
+	<Point x="1471" y="1039"/>
+	<Point x="1471" y="1040"/>
+	<Point x="1512" y="1040"/>
+	<Point x="1512" y="1039"/>
+	<Point x="1550" y="1039"/>
+	<Point x="1550" y="1038"/>
+	<Point x="1588" y="1038"/>
+	<Point x="1588" y="1037"/>
+	<Point x="1700" y="1037"/>
+	<Point x="1700" y="1384"/>
+	<Point x="1670" y="1384"/>
+	<Point x="1670" y="1385"/>
+	<Point x="1615" y="1385"/>
+	<Point x="1615" y="1386"/>
+	<Point x="1560" y="1386"/>
+	<Point x="1560" y="1387"/>
+	<Point x="1505" y="1387"/>
+	<Point x="1505" y="1388"/>
+	<Point x="1450" y="1388"/>
+	<Point x="1450" y="1389"/>
+	<Point x="1395" y="1389"/>
+	<Point x="1395" y="1390"/>
+	<Point x="1340" y="1390"/>
+	<Point x="1340" y="1391"/>
+	<Point x="1285" y="1391"/>
+	<Point x="1285" y="1392"/>
+	<Point x="1230" y="1392"/>
+	<Point x="1230" y="1393"/>
+	<Point x="183" y="1393"/>
+	<Point x="183" y="1036"/>
+	<Point x="406" y="1036"/>
+	<Point x="406" y="1037"/>
+	<Point x="595" y="1037"/>
+	<Point x="595" y="1036"/>
+	<Point x="595" y="1037"/>
+	<Point x="598" y="1037"/>
+	<Point x="598" y="1038"/>
+	<Point x="600" y="1038"/>
+	<Point x="600" y="1039"/>
+	<Point x="603" y="1039"/>
+	<Point x="603" y="1040"/>
+	<Point x="606" y="1040"/>
+	<Point x="606" y="1041"/>
+	<Point x="608" y="1041"/>
+	<Point x="608" y="1042"/>
+	<Point x="623" y="1042"/>
+	<Point x="623" y="1041"/>
+	<Point x="635" y="1041"/>
+	<Point x="635" y="1040"/>
+	<Point x="648" y="1040"/>
+	<Point x="648" y="1039"/>
+	<Point x="660" y="1039"/>
+	<Point x="660" y="1038"/>
+	<Point x="673" y="1038"/>
+	<Point x="673" y="1037"/>
+	<Point x="685" y="1037"/>
+	<Point x="685" y="1036"/>
+	<Point x="697" y="1036"/>
+	<Point x="697" y="1035"/>
+	<Point x="1014" y="1035"/>
+	<Point x="1014" y="1034"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PECUNIA zaś zowie ę od formy Portretu, Obrazu wybitego na Mone‑
+cie, ktory bywał Bydlęcia u Ateńczykow, z tey racyi MONETA źwała ę BOS:
+Zkⱥd uroo przyowie: Bos in lingva, kiedy kto wzioł korrupcyę, y milczał
+gdy mowić trzeba było, a tak à Pecude Pecunia. Teraz Portret lub Hierogliﬁk,
+lub Symbolum daiⱥ na MONECIE tego, ktorego ie MONETA. Zowiⱥ ę
+też Pieniⱥdze Opes, że Opem ferunt, zowiⱥ ę Facultates, że przynoſzⱥ |Facili‑
+tatem w nabyciu y doⱥpieniu wſzykiego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r480" type="paragraph">
+	<Coords>
+	<Point x="1700" y="1386"/>
+	<Point x="1700" y="2046"/>
+	<Point x="1685" y="2048"/>
+	<Point x="1675" y="2048"/>
+	<Point x="1657" y="2044"/>
+	<Point x="1657" y="2043"/>
+	<Point x="1643" y="2043"/>
+	<Point x="1643" y="2042"/>
+	<Point x="1579" y="2042"/>
+	<Point x="1579" y="2043"/>
+	<Point x="1530" y="2043"/>
+	<Point x="1530" y="2044"/>
+	<Point x="1481" y="2044"/>
+	<Point x="1481" y="2045"/>
+	<Point x="1431" y="2045"/>
+	<Point x="1431" y="2046"/>
+	<Point x="1417" y="2046"/>
+	<Point x="1417" y="2047"/>
+	<Point x="1403" y="2047"/>
+	<Point x="1403" y="2048"/>
+	<Point x="1389" y="2048"/>
+	<Point x="1389" y="2049"/>
+	<Point x="1375" y="2049"/>
+	<Point x="1375" y="2050"/>
+	<Point x="1361" y="2050"/>
+	<Point x="1361" y="2051"/>
+	<Point x="1347" y="2051"/>
+	<Point x="1347" y="2052"/>
+	<Point x="1333" y="2052"/>
+	<Point x="1333" y="2053"/>
+	<Point x="1319" y="2053"/>
+	<Point x="1319" y="2054"/>
+	<Point x="1305" y="2054"/>
+	<Point x="1305" y="2055"/>
+	<Point x="224" y="2055"/>
+	<Point x="224" y="2054"/>
+	<Point x="219" y="2054"/>
+	<Point x="219" y="2053"/>
+	<Point x="214" y="2053"/>
+	<Point x="214" y="2052"/>
+	<Point x="209" y="2052"/>
+	<Point x="209" y="2051"/>
+	<Point x="204" y="2051"/>
+	<Point x="204" y="2050"/>
+	<Point x="199" y="2050"/>
+	<Point x="199" y="2049"/>
+	<Point x="194" y="2049"/>
+	<Point x="194" y="2048"/>
+	<Point x="189" y="2048"/>
+	<Point x="189" y="2047"/>
+	<Point x="183" y="2047"/>
+	<Point x="183" y="1395"/>
+	<Point x="1232" y="1395"/>
+	<Point x="1232" y="1394"/>
+	<Point x="1287" y="1394"/>
+	<Point x="1287" y="1393"/>
+	<Point x="1342" y="1393"/>
+	<Point x="1342" y="1392"/>
+	<Point x="1397" y="1392"/>
+	<Point x="1397" y="1391"/>
+	<Point x="1452" y="1391"/>
+	<Point x="1452" y="1390"/>
+	<Point x="1507" y="1390"/>
+	<Point x="1507" y="1389"/>
+	<Point x="1562" y="1389"/>
+	<Point x="1562" y="1388"/>
+	<Point x="1617" y="1388"/>
+	<Point x="1617" y="1387"/>
+	<Point x="1672" y="1387"/>
+	<Point x="1672" y="1386"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>JUS KUCIA MONETY oſobliwie Złotey, dawnych czaſow liczono inter
+Regalia, alias między Krolem przyzwoite Prawa, albo Summo Magiratui. Kro‑
+low Francuſkich bardzo dawna prerogatywa, Złotⱥ y Srebrnⱥ bić Monetę: Ma‑
+terya na Monetę ordinariè Złoto, Srebro, Miedź, z ktorey naywięcey y nay‑
+częściey robiła Pieniⱥdze Antiquitas, iako patet z imienia ÆS generalnie, każ‑
+dⱥ Monetę znaczⱥcego u Łacinnikow, racyę mieli, aby do zbierania tak podłe‑
+go metalu nie mieli appetytu. W Brytannii za Ju�iuſza Ceſarza Pierścienie
+Miedziane robiono miao Monety, pod pewnⱥ wagⱥ, iako ſam tenże Juliuſz
+in Commentariis ſwiadczy. W Prowincyi Indyiſkiey Caraian z Porcellany for‑
+muiⱥ Monetę Tee Marco Polo w Kędze 2. A zaś w Krolewie Cambulu ro‑
+biono z liścia drzewa Morwy białey, iako tenże Polus ſwiadczy Autor. W A‑
+fryce w Krolewie Tebut, Perłowⱥ Macicę uchwalono za Monetę, Leonius. W In‑
+dyi choć w Złoto bogatey, z Papieru robiono Monetę, Tee Majolo. W Mu‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

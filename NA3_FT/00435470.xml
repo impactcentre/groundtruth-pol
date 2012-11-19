@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00435470" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T08:45:21</Created>
+	<LastChange>2011-08-08T13:41:11</LastChange></Metadata>
+	<Page imageFilename="00435470.tif" imageHeight="2450" imageWidth="1834">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r175"/>
+	<RegionRefIndexed index="1" regionRef="r176"/>
+	<RegionRefIndexed index="2" regionRef="r178"/>
+	<RegionRefIndexed index="3" regionRef="r179"/>
+	<RegionRefIndexed index="4" regionRef="r181"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r175" type="heading">
+	<Coords>
+	<Point x="450" y="111"/>
+	<Point x="450" y="200"/>
+	<Point x="1295" y="200"/>
+	<Point x="1295" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>KONKLUZYA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r176" type="heading">
+	<Coords>
+	<Point x="169" y="247"/>
+	<Point x="169" y="364"/>
+	<Point x="1540" y="364"/>
+	<Point x="1540" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tey TRZECIEY CZɆSCI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r178" type="heading">
+	<Coords>
+	<Point x="264" y="392"/>
+	<Point x="264" y="488"/>
+	<Point x="1447" y="488"/>
+	<Point x="1447" y="392"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tres digiti ſcribunt, cætera membra dolent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r179" type="paragraph">
+	<Coords>
+	<Point x="59" y="523"/>
+	<Point x="35" y="1830"/>
+	<Point x="1554" y="1830"/>
+	<Point x="1554" y="523"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>To ie prawda, że Pioro nie ie cep, ni radło,
+Ani pług, ni ekiera, ani też zwiiadło.
+A przecie z fatygować, tak zwykło Piſarza,
+Ják pług, iyk oracza, á bika mularza.
+Trzy palce tylko piſzⱥ, wſzytkie ciało boli,
+Jakbyś go zebrał z krzyża, tak człeka zniewoli.
+A dopieroż co oczom, z nieſpania, czytania,
+Wyrzⱥdza ę z kilkuſet kⱥżek wartowania.
+Komponuiⱥc, gluzuiⱥc, przenoſzⱥc na czye,
+Jak to mozoł ie cięſzki, ty ſam widziſz Chryè
+Ale niemam za cięſzkość, gdy rzucam przed Tronem
+Twoim Troyco Nayświętſza, z głębokim ukłonem.
+Czytáne y piſane punkta, limy, owa,
+Ztym, gdy czyia pogani, lub pochwali głowa.
+Więc przyimiy o moy Stworco, ktory ſwiat na palcach
+Trzech noſz, tę Część Trzeciⱥ, y day po padalcach
+Jado witych, zazdroſnych, chodzić nic nie czuiⱥc,
+Albo też czuć z zaugⱥ, á tak tryumfuiⱥc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r180" type="signature-mark">
+	<Coords>
+	<Point x="654" y="1869"/>
+	<Point x="654" y="1961"/>
+	<Point x="819" y="1961"/>
+	<Point x="819" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rrrr</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r181" type="catch-word">
+	<Coords>
+	<Point x="1259" y="1871"/>
+	<Point x="1259" y="1978"/>
+	<Point x="1426" y="1978"/>
+	<Point x="1426" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ER‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

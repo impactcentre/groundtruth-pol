@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436732" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T15:43:36</Created>
+	<LastChange>2011-08-29T03:27:53</LastChange></Metadata>
+	<Page imageFilename="00436732.tif" imageHeight="3259" imageWidth="2641">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r215"/>
+	<RegionRefIndexed index="1" regionRef="r217"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r215" type="paragraph">
+	<Coords>
+	<Point x="250" y="150"/>
+	<Point x="250" y="2942"/>
+	<Point x="1372" y="2942"/>
+	<Point x="1387" y="2935"/>
+	<Point x="1525" y="2936"/>
+	<Point x="1531" y="2953"/>
+	<Point x="1728" y="2953"/>
+	<Point x="1750" y="2936"/>
+	<Point x="2271" y="2936"/>
+	<Point x="2265" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Sżpadámi/ rápirámi/ ńȧ obłanki weßli:
+Kȧko nas (Moſkwá mowi) Litwá iuż podoßli.
+Iák ɇ tám cny Káwáler Bártoß Nowodworſki/
+Eliar z petardámi Burgrábia Krákowſki.
+Rániuśieńko ſam áwił pod Smoleńſkie mury/
+Vkȧzáły to ſȧme procholetne chmury.
+Sam bo pod mur podſádźił prochy zapráwione /
+Ktore ták potrzaſkáły mury zacne one/
+Iż ośmiⱥ ſⱥżni wielkich wedla śiebie mogły/
+Ektorowe woyſká iśċ/ bo prochy pomogły.
+Pan Márßałek záś Wielki Kśiɇwá Litewſkiego/
+Raytáry y Vſarze támże z pułku ſwego
+Vßykowawßy poßedł/ przodkuiⱥc przed nimi/
+Stáwił ɇ wtⱥż potɇżnie poſpołu y z nimi.
+Kiedy iuż mɇżnie wpadßy to zacne rycerwo/
+Iák wraz práwie okryli wßytko tám poſpolwo.
+Eliaßowym znȧcz̄nie cudem zȧślepione/
+Moſkwɇ wßytkɇ/ y Sżeyná/ tȧkże iego z̄onɇ
+Armatɇ kleynoty ich/ y doȧtki wßelkie
+Zábráli ſkⱥd tám Moſkwɇ ráchy one wielkie
+Opánowáły táko że ɇ z dźiećmi ſwemi
+W ognie rzucáć muśieli/ á kupcy z inßemi
+Iák Boiáry/ tákże też z przedniemi Mießcżány /
+Ewine cory żony ich/ z drugimi Pȧny
+Całkiem prȧwie ɇ kłádli w prochy zȧpalone/
+Kɇdy w iednym momenćie duchy zádußone.
+Iuż ná ſwe obiecáne mieyſcá poßły pɇdem/
+Epeuſowy záś płon zdrȧdliwy ſwym rzɇdem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r216" type="signature-mark">
+	<Coords>
+	<Point x="1384" y="2939"/>
+	<Point x="1383" y="3035"/>
+	<Point x="1490" y="3035"/>
+	<Point x="1490" y="2940"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>B</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r217" type="catch-word">
+	<Coords>
+	<Point x="2100" y="2945"/>
+	<Point x="2100" y="3055"/>
+	<Point x="2370" y="3055"/>
+	<Point x="2370" y="2945"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Záraz</Unicode></TextEquiv></TextRegion></Page></PcGts>

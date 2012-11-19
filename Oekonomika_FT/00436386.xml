@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436386" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T04:50:11</Created>
+	<LastChange>2011-10-19T12:24:04</LastChange></Metadata>
+	<Page imageFilename="00436386.tif" imageHeight="3783" imageWidth="2404">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r330"/>
+	<RegionRefIndexed index="1" regionRef="r331"/>
+	<RegionRefIndexed index="2" regionRef="r332"/>
+	<RegionRefIndexed index="3" regionRef="r333"/>
+	<RegionRefIndexed index="4" regionRef="r334"/>
+	<RegionRefIndexed index="5" regionRef="r335"/>
+	<RegionRefIndexed index="6" regionRef="r336"/>
+	<RegionRefIndexed index="7" regionRef="r337"/>
+	<RegionRefIndexed index="8" regionRef="r338"/>
+	<RegionRefIndexed index="9" regionRef="r339"/>
+	<RegionRefIndexed index="10" regionRef="r340"/>
+	<RegionRefIndexed index="11" regionRef="r342"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r328" textColour="black" type="header">
+	<Coords>
+	<Point x="404" y="364"/>
+	<Point x="404" y="433"/>
+	<Point x="442" y="445"/>
+	<Point x="1566" y="433"/>
+	<Point x="1566" y="364"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PVNKTA PARTICVLARNE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r329" textColour="black" type="page-number">
+	<Coords>
+	<Point x="2021" y="347"/>
+	<Point x="2021" y="421"/>
+	<Point x="2090" y="421"/>
+	<Point x="2090" y="347"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r330" textColour="black" type="heading">
+	<Coords>
+	<Point x="938" y="447"/>
+	<Point x="938" y="528"/>
+	<Point x="1169" y="528"/>
+	<Point x="1169" y="447"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>XVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r331" textColour="black" type="heading">
+	<Coords>
+	<Point x="433" y="559"/>
+	<Point x="433" y="619"/>
+	<Point x="474" y="633"/>
+	<Point x="1630" y="619"/>
+	<Point x="1630" y="559"/>
+	<Point x="1568" y="536"/>
+	<Point x="1462" y="536"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ô BROWARZE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r332" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="152" y="680"/>
+	<Point x="152" y="792"/>
+	<Point x="280" y="792"/>
+	<Point x="284" y="680"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r333" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="289" y="687"/>
+	<Point x="285" y="798"/>
+	<Point x="191" y="832"/>
+	<Point x="160" y="836"/>
+	<Point x="126" y="888"/>
+	<Point x="164" y="899"/>
+	<Point x="363" y="923"/>
+	<Point x="375" y="923"/>
+	<Point x="501" y="921"/>
+	<Point x="576" y="921"/>
+	<Point x="629" y="900"/>
+	<Point x="1818" y="866"/>
+	<Point x="1926" y="888"/>
+	<Point x="1916" y="688"/>
+	<Point x="1911" y="672"/>
+	<Point x="1876" y="652"/>
+	<Point x="1355" y="660"/>
+	<Point x="531" y="672"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>IEŁE nàtym Prowenćie w kázdey naleźy Máiɇtnośći, kto
+go uſznie y porzⱥnnie dla prɇdkiego groſzà y pewney
+Intratey przypilnuie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r334" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="154" y="907"/>
+	<Point x="106" y="1012"/>
+	<Point x="154" y="1195"/>
+	<Point x="163" y="1216"/>
+	<Point x="196" y="1220"/>
+	<Point x="547" y="1226"/>
+	<Point x="661" y="1210"/>
+	<Point x="738" y="1221"/>
+	<Point x="831" y="1218"/>
+	<Point x="890" y="1219"/>
+	<Point x="1082" y="1216"/>
+	<Point x="1204" y="1202"/>
+	<Point x="1320" y="1212"/>
+	<Point x="1586" y="1196"/>
+	<Point x="1599" y="1193"/>
+	<Point x="1710" y="1211"/>
+	<Point x="1783" y="1193"/>
+	<Point x="1926" y="1195"/>
+	<Point x="1926" y="907"/>
+	<Point x="1847" y="885"/>
+	<Point x="1719" y="892"/>
+	<Point x="1036" y="901"/>
+	<Point x="730" y="906"/>
+	<Point x="618" y="922"/>
+	<Point x="477" y="924"/>
+	<Point x="346" y="925"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ie wiele mieyſc, co same tylko ná ody Pſzenice zále‑
+wáiⱥ, z ktorey ćiɇſzki zwykł bywáć nàpoi, z Ieczmieniá záś
+dodawſzy do niego w puł álbo trzećiⱥ część Pſzenice, lepſze,
+zdrowſze, łàgodnieyſze, y poźytecznieyſze dárzⱥ ɇ piwá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r335" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="159" y="1226"/>
+	<Point x="159" y="1430"/>
+	<Point x="180" y="1451"/>
+	<Point x="292" y="1468"/>
+	<Point x="323" y="1472"/>
+	<Point x="362" y="1453"/>
+	<Point x="590" y="1467"/>
+	<Point x="620" y="1452"/>
+	<Point x="923" y="1459"/>
+	<Point x="1007" y="1449"/>
+	<Point x="1212" y="1455"/>
+	<Point x="1299" y="1440"/>
+	<Point x="1412" y="1444"/>
+	<Point x="1476" y="1452"/>
+	<Point x="1616" y="1453"/>
+	<Point x="1651" y="1444"/>
+	<Point x="1661" y="1439"/>
+	<Point x="1713" y="1430"/>
+	<Point x="1937" y="1427"/>
+	<Point x="1927" y="1224"/>
+	<Point x="1879" y="1204"/>
+	<Point x="1799" y="1210"/>
+	<Point x="1689" y="1216"/>
+	<Point x="1614" y="1205"/>
+	<Point x="1352" y="1220"/>
+	<Point x="1333" y="1216"/>
+	<Point x="1275" y="1212"/>
+	<Point x="1179" y="1213"/>
+	<Point x="1160" y="1216"/>
+	<Point x="1087" y="1218"/>
+	<Point x="1010" y="1220"/>
+	<Point x="823" y="1229"/>
+	<Point x="672" y="1221"/>
+	<Point x="532" y="1229"/>
+	<Point x="432" y="1227"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná zalániu, nà wymoczeniu, ná roſczeniu, y ná ozdżeniu
+odow, wiele należy,do ktorych inny Zimie, inny w Lećie do‑
+zor; pilnie wtym, ſamɇ vpátrowáć potrzebɇ, y wygodę odõ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r336" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="169" y="1457"/>
+	<Point x="169" y="1992"/>
+	<Point x="348" y="2004"/>
+	<Point x="726" y="2017"/>
+	<Point x="933" y="2018"/>
+	<Point x="939" y="1997"/>
+	<Point x="1240" y="2007"/>
+	<Point x="1322" y="2005"/>
+	<Point x="1363" y="2004"/>
+	<Point x="1736" y="1970"/>
+	<Point x="1960" y="1981"/>
+	<Point x="1947" y="1541"/>
+	<Point x="1938" y="1453"/>
+	<Point x="1852" y="1437"/>
+	<Point x="1742" y="1439"/>
+	<Point x="1677" y="1447"/>
+	<Point x="1652" y="1447"/>
+	<Point x="1637" y="1455"/>
+	<Point x="1606" y="1456"/>
+	<Point x="1465" y="1464"/>
+	<Point x="1414" y="1452"/>
+	<Point x="1376" y="1453"/>
+	<Point x="1362" y="1459"/>
+	<Point x="1295" y="1449"/>
+	<Point x="1255" y="1457"/>
+	<Point x="1155" y="1456"/>
+	<Point x="990" y="1459"/>
+	<Point x="975" y="1461"/>
+	<Point x="643" y="1462"/>
+	<Point x="580" y="1472"/>
+	<Point x="549" y="1469"/>
+	<Point x="489" y="1466"/>
+	<Point x="389" y="1467"/>
+	<Point x="305" y="1477"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ozdzenie tàkże pilnośći, y orożnośći potrzebuie, áby
+nie gwałtownie, ále zwolná, ſuchemi go ſuſzyć drewkámi,àby
+go nie przypalić, kiedy ɇ od przyrumiɇni, to też piwo cer‑
+wonego bɇdźie koloru, à kiedy zwolná, y orożnie oſuſzy,
+to piwo źielono ɇ fárbuie; do tego, Soſnowych y Dɇmbo‑
+wych, dla przydymienia rzedz ɇ drew, Olſzowe záś, Grá‑
+bowe, Brozowe, byle były ſuche naylepſze.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r337" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="185" y="2009"/>
+	<Point x="185" y="2157"/>
+	<Point x="358" y="2159"/>
+	<Point x="536" y="2175"/>
+	<Point x="668" y="2169"/>
+	<Point x="1130" y="2162"/>
+	<Point x="1241" y="2161"/>
+	<Point x="1353" y="2149"/>
+	<Point x="1876" y="2135"/>
+	<Point x="1969" y="2157"/>
+	<Point x="1965" y="2009"/>
+	<Point x="1867" y="1984"/>
+	<Point x="1479" y="1999"/>
+	<Point x="1369" y="2009"/>
+	<Point x="1007" y="2008"/>
+	<Point x="942" y="2009"/>
+	<Point x="940" y="2024"/>
+	<Point x="622" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ożdownia, áby o podal innych budynkow byłá zbudo‑
+wána dla ogniá (rzez BOŻE) przypadku.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r338" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="192" y="2169"/>
+	<Point x="192" y="2695"/>
+	<Point x="287" y="2701"/>
+	<Point x="369" y="2698"/>
+	<Point x="387" y="2711"/>
+	<Point x="414" y="2711"/>
+	<Point x="419" y="2695"/>
+	<Point x="1986" y="2689"/>
+	<Point x="1970" y="2165"/>
+	<Point x="1886" y="2146"/>
+	<Point x="1558" y="2153"/>
+	<Point x="1472" y="2153"/>
+	<Point x="1342" y="2161"/>
+	<Point x="1331" y="2156"/>
+	<Point x="1282" y="2162"/>
+	<Point x="1138" y="2164"/>
+	<Point x="671" y="2171"/>
+	<Point x="532" y="2178"/>
+	<Point x="336" y="2164"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná zwárzeniu też piwá wiele należy, bo, nie zwárzywſzy
+uſznie, to ludżiom żywot odmie; áni przebieráć dla prɇdkie‑
+go ná kárczmy odbyćia, á według ſzynku, y potrzeby wyár‑
+czáć, ták dla ludzkiey wygody iáko też y dla ſamey przypil‑
+nowáć Intraty, áby było záwſze dobre; bo to conderowàć
+potrzebà, ze, choć z mnieyſzym zyſkiem, kiedy czɇym, to
+ɇ nágrodźi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r339" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="214" y="2704"/>
+	<Point x="214" y="3230"/>
+	<Point x="258" y="3255"/>
+	<Point x="415" y="3244"/>
+	<Point x="436" y="3253"/>
+	<Point x="486" y="3246"/>
+	<Point x="880" y="3269"/>
+	<Point x="938" y="3244"/>
+	<Point x="1090" y="3238"/>
+	<Point x="1992" y="3230"/>
+	<Point x="2000" y="3143"/>
+	<Point x="2001" y="3006"/>
+	<Point x="1987" y="2700"/>
+	<Point x="1914" y="2696"/>
+	<Point x="693" y="2700"/>
+	<Point x="438" y="2711"/>
+	<Point x="387" y="2716"/>
+	<Point x="372" y="2713"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Gdżie ſⱥ dobre, zyżne, y łágodne piwà, iáko dáleko tȧkie
+Miáà, Miaeczká, y Wśi ynⱥ? Oſobliwa to kázdey Dżie‑
+dźiny awá, y fortuná, y káżdego Goſpodarzà pochwałá, kto
+ɇ z tym dobrze vmie obeyść; á to, ná pilnym należy dozo‑
+rze:wprawdźieć to y wodⱥ idźie, ále też y do wody, wſzelkiey
+wygody, pilnośći, vmieiɇtnośći, ochɇdowá, y doátku po‑
+trzebá, Ie Włoſkie prouerbium.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r340" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="559" y="3254"/>
+	<Point x="559" y="3330"/>
+	<Point x="662" y="3352"/>
+	<Point x="859" y="3349"/>
+	<Point x="1002" y="3345"/>
+	<Point x="1366" y="3330"/>
+	<Point x="1366" y="3254"/>
+	<Point x="1138" y="3248"/>
+	<Point x="877" y="3271"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Chi ſpende piu, ſpende manco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r341" textColour="black" type="signature-mark">
+	<Coords>
+	<Point x="985" y="3347"/>
+	<Point x="985" y="3428"/>
+	<Point x="1083" y="3428"/>
+	<Point x="1083" y="3347"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>E 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r342" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1878" y="3321"/>
+	<Point x="1878" y="3419"/>
+	<Point x="2038" y="3419"/>
+	<Point x="2038" y="3321"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Kto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r343" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="1927" y="648"/>
+	<Point x="1927" y="761"/>
+	<Point x="2123" y="761"/>
+	<Point x="2123" y="648"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dozor Bro‑
+wáru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r344" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="1930" y="907"/>
+	<Point x="1930" y="1019"/>
+	<Point x="2107" y="1019"/>
+	<Point x="2107" y="907"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>��dach
+�nych.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r345" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="1944" y="1211"/>
+	<Point x="1944" y="1373"/>
+	<Point x="2142" y="1373"/>
+	<Point x="2142" y="1211"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Słodom iá‑
+ka ma bydz
+wygodȧ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r346" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="1951" y="1434"/>
+	<Point x="1951" y="1487"/>
+	<Point x="2146" y="1487"/>
+	<Point x="2146" y="1434"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O ozdzeniu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="1971" y="1968"/>
+	<Point x="1971" y="2115"/>
+	<Point x="2170" y="2115"/>
+	<Point x="2170" y="1968"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O budowá‑
+niu Ozdo‑
+wnie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r348" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="1981" y="2155"/>
+	<Point x="1981" y="2270"/>
+	<Point x="2182" y="2270"/>
+	<Point x="2182" y="2155"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O zwárze‑
+niu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="1993" y="2693"/>
+	<Point x="2009" y="2954"/>
+	<Point x="2200" y="2955"/>
+	<Point x="2200" y="2693"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Pozytki do‑
+breg� Piwá,
+dwoiákie
+pieniadz�
+y sławá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r350" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="2012" y="2993"/>
+	<Point x="2009" y="3202"/>
+	<Point x="2231" y="3202"/>
+	<Point x="2231" y="2995"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iákiego do‑
+átku po‑
+trzebuie Br�
+war.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436996" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T02:18:32</Created>
+	<LastChange>2011-11-12T02:21:32</LastChange></Metadata>
+	<Page imageFilename="00436996.tif" imageHeight="1919" imageWidth="1495">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r31"/>
+	<RegionRefIndexed index="1" regionRef="r32"/>
+	<RegionRefIndexed index="2" regionRef="r33"/>
+	<RegionRefIndexed index="3" regionRef="r34"/>
+	<RegionRefIndexed index="4" regionRef="r35"/>
+	<RegionRefIndexed index="5" regionRef="r36"/>
+	<RegionRefIndexed index="6" regionRef="r52"/>
+	<RegionRefIndexed index="7" regionRef="r54"/>
+	<RegionRefIndexed index="8" regionRef="r38"/>
+	<RegionRefIndexed index="9" regionRef="r39"/>
+	<RegionRefIndexed index="10" regionRef="r40"/>
+	<RegionRefIndexed index="11" regionRef="r42"/>
+	<RegionRefIndexed index="12" regionRef="r43"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r31" textColour="black" type="heading">
+	<Coords>
+	<Point x="67" y="55"/>
+	<Point x="67" y="165"/>
+	<Point x="1340" y="165"/>
+	<Point x="1340" y="55"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PRAWDZIWA RELACYA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" textColour="black" type="heading">
+	<Coords>
+	<Point x="665" y="202"/>
+	<Point x="665" y="267"/>
+	<Point x="757" y="267"/>
+	<Point x="757" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" textColour="black" type="heading">
+	<Coords>
+	<Point x="85" y="292"/>
+	<Point x="85" y="407"/>
+	<Point x="1320" y="407"/>
+	<Point x="1320" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>OPISANIE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" textColour="black" type="heading">
+	<Coords>
+	<Point x="410" y="415"/>
+	<Point x="410" y="557"/>
+	<Point x="970" y="557"/>
+	<Point x="970" y="415"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Straſzliwego</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" textColour="black" type="heading">
+	<Coords>
+	<Point x="70" y="565"/>
+	<Point x="70" y="672"/>
+	<Point x="1355" y="672"/>
+	<Point x="1355" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>TRZESIENIA ZIEMIE,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" textColour="black" type="heading">
+	<Coords>
+	<Point x="60" y="712"/>
+	<Point x="60" y="850"/>
+	<Point x="1335" y="850"/>
+	<Point x="1335" y="712"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ktore przypadło w Roku teraźnieyſzym, 1638.
+dnia 27. Miesiⱥcá Mȧrcȧ , o godzinie 21.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" textColour="black" type="heading">
+	<Coords>
+	<Point x="60" y="1007"/>
+	<Point x="60" y="1202"/>
+	<Point x="1337" y="1202"/>
+	<Point x="1337" y="1007"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Gdżie ɇ opiſniⱥ wßytkie zápádnienia w Miáách/
+y Miaeczkach/ y Wśiách/ Pȧłacow/ Domow/ z imi�n�⸗
+mi ich/ y z śmierći� oſ�b pomárłych.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" textColour="black" type="heading">
+	<Coords>
+	<Point x="332" y="1227"/>
+	<Point x="332" y="1315"/>
+	<Point x="1047" y="1315"/>
+	<Point x="1047" y="1227"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przełozona z VVłoskiego na Polskie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" textColour="black" type="heading">
+	<Coords>
+	<Point x="170" y="1337"/>
+	<Point x="170" y="1420"/>
+	<Point x="1220" y="1420"/>
+	<Point x="1220" y="1337"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Felix quem faeiunt aliena pericula cautum.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r41" type="other">
+	<Coords>
+	<Point x="405" y="1465"/>
+	<Point x="405" y="1630"/>
+	<Point x="990" y="1630"/>
+	<Point x="990" y="1465"/></Coords></GraphicRegion>
+	<TextRegion id="r42" textColour="black" type="heading">
+	<Coords>
+	<Point x="60" y="1660"/>
+	<Point x="60" y="1735"/>
+	<Point x="1322" y="1735"/>
+	<Point x="1322" y="1660"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W WARSZAWIE, Roku Pánſ: M. DC. XXXVIIL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" textColour="black" type="heading">
+	<Coords>
+	<Point x="310" y="1765"/>
+	<Point x="310" y="1862"/>
+	<Point x="1087" y="1862"/>
+	<Point x="1087" y="1765"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Z Dozwoleniem Przełożonych.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r44" type="stamp">
+	<Coords>
+	<Point x="1097" y="1767"/>
+	<Point x="1097" y="1885"/>
+	<Point x="1367" y="1885"/>
+	<Point x="1367" y="1767"/></Coords></GraphicRegion>
+	<GraphicRegion id="r45" type="handwritten-annotation">
+	<Coords>
+	<Point x="1330" y="365"/>
+	<Point x="1330" y="497"/>
+	<Point x="1402" y="497"/>
+	<Point x="1402" y="365"/></Coords></GraphicRegion>
+	<TextRegion id="r52" textColour="black" type="heading">
+	<Coords>
+	<Point x="1310" y="852"/>
+	<Point x="1310" y="914"/>
+	<Point x="1259" y="914"/>
+	<Point x="1259" y="915"/>
+	<Point x="1196" y="915"/>
+	<Point x="1196" y="914"/>
+	<Point x="1195" y="914"/>
+	<Point x="1195" y="910"/>
+	<Point x="1194" y="910"/>
+	<Point x="1194" y="906"/>
+	<Point x="1191" y="906"/>
+	<Point x="1191" y="907"/>
+	<Point x="893" y="907"/>
+	<Point x="893" y="906"/>
+	<Point x="578" y="906"/>
+	<Point x="578" y="907"/>
+	<Point x="85" y="907"/>
+	<Point x="85" y="852"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W PROWINCYEY CALABRIEY,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" textColour="black" type="heading">
+	<Coords>
+	<Point x="891" y="908"/>
+	<Point x="891" y="909"/>
+	<Point x="1192" y="909"/>
+	<Point x="1192" y="912"/>
+	<Point x="1193" y="912"/>
+	<Point x="1193" y="916"/>
+	<Point x="1194" y="916"/>
+	<Point x="1194" y="917"/>
+	<Point x="1261" y="917"/>
+	<Point x="1261" y="916"/>
+	<Point x="1310" y="916"/>
+	<Point x="1310" y="982"/>
+	<Point x="85" y="982"/>
+	<Point x="85" y="909"/>
+	<Point x="580" y="909"/>
+	<Point x="580" y="908"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Bliżſzey y Dȧlſzey.</Unicode></TextEquiv></TextRegion></Page></PcGts>

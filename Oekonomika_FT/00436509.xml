@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436509" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:39:49</Created>
+	<LastChange>2011-08-23T09:51:29</LastChange></Metadata>
+	<Page imageFilename="00436509.tif" imageHeight="3795" imageWidth="2414">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r96"/>
+	<RegionRefIndexed index="1" regionRef="r97"/>
+	<RegionRefIndexed index="2" regionRef="r98"/>
+	<RegionRefIndexed index="3" regionRef="r99"/>
+	<RegionRefIndexed index="4" regionRef="r101"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r96" type="heading">
+	<Coords>
+	<Point x="1021" y="447"/>
+	<Point x="1150" y="447"/>
+	<Point x="1150" y="342"/>
+	<Point x="1021" y="342"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r97" type="heading">
+	<Coords>
+	<Point x="76" y="538"/>
+	<Point x="76" y="719"/>
+	<Point x="2114" y="692"/>
+	<Point x="2111" y="507"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MODELLVSZ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r98" type="heading">
+	<Coords>
+	<Point x="180" y="783"/>
+	<Point x="180" y="885"/>
+	<Point x="2014" y="859"/>
+	<Point x="2014" y="745"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ARYTHMETYCZNY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r99" type="heading">
+	<Coords>
+	<Point x="95" y="964"/>
+	<Point x="95" y="2069"/>
+	<Point x="2121" y="2069"/>
+	<Point x="2111" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iáka ma być Speciﬁkácya Percepty y Dirybuty
+Folwárcznego Dobytku, to ie: Bydłá Obornego,
+iáko to Krow, Iáłowic, Cielcow, Ciołkow, Cie‑
+lⱥt, Przychowkow, Wołow, Koni, Wieprzow
+ták ſámcow, iàko też ſámic, &amp;c. ſkor bydlɇ‑
+cych: tákże wſzelkiego Drobiu, iàko to:
+Kur,Gɇśi,Kápłonow, Indykow &amp;c.
+A to wſzytko dla ſnádnieyſzego
+porozumienia, y dowodu Ro‑
+czney ztⱥd Intraty.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r100" type="other">
+	<Coords>
+	<Point x="557" y="2133"/>
+	<Point x="557" y="3273"/>
+	<Point x="1685" y="3273"/>
+	<Point x="1685" y="2133"/></Coords></GraphicRegion>
+	<TextRegion id="r101" type="catch-word">
+	<Coords>
+	<Point x="1828" y="3307"/>
+	<Point x="1828" y="3445"/>
+	<Point x="2092" y="3445"/>
+	<Point x="2092" y="3307"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Speci‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

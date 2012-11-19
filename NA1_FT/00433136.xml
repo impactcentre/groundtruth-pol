@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433136" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T15:11:14</Created>
+	<LastChange>2011-07-11T06:19:17</LastChange></Metadata>
+	<Page imageFilename="00433136.tif" imageHeight="2201" imageWidth="1781">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r298"/>
+	<RegionRefIndexed index="1" regionRef="r299"/>
+	<RegionRefIndexed index="2" regionRef="r301"/>
+	<RegionRefIndexed index="3" regionRef="r302"/>
+	<RegionRefIndexed index="4" regionRef="r303"/>
+	<RegionRefIndexed index="5" regionRef="r304"/>
+	<RegionRefIndexed index="6" regionRef="r305"/>
+	<RegionRefIndexed index="7" regionRef="r306"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r295" type="page-number">
+	<Coords>
+	<Point x="130" y="80"/>
+	<Point x="130" y="140"/>
+	<Point x="223" y="140"/>
+	<Point x="223" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>44</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r296" type="header">
+	<Coords>
+	<Point x="353" y="60"/>
+	<Point x="352" y="135"/>
+	<Point x="461" y="136"/>
+	<Point x="687" y="136"/>
+	<Point x="863" y="138"/>
+	<Point x="1078" y="139"/>
+	<Point x="1483" y="143"/>
+	<Point x="1483" y="60"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>TYTUŁ PIȺTY TEY XIɆGI.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r297">
+	<Coords>
+	<Point x="153" y="144"/>
+	<Point x="152" y="159"/>
+	<Point x="413" y="159"/>
+	<Point x="553" y="158"/>
+	<Point x="728" y="160"/>
+	<Point x="920" y="161"/>
+	<Point x="1007" y="160"/>
+	<Point x="1412" y="164"/>
+	<Point x="1567" y="166"/>
+	<Point x="1679" y="169"/>
+	<Point x="1683" y="152"/>
+	<Point x="1641" y="154"/>
+	<Point x="1414" y="150"/>
+	<Point x="984" y="147"/>
+	<Point x="782" y="149"/>
+	<Point x="561" y="145"/>
+	<Point x="414" y="144"/></Coords></SeparatorRegion>
+	<TextRegion id="r298" type="heading">
+	<Coords>
+	<Point x="142" y="161"/>
+	<Point x="140" y="283"/>
+	<Point x="1710" y="283"/>
+	<Point x="1710" y="173"/>
+	<Point x="1692" y="171"/>
+	<Point x="1532" y="167"/>
+	<Point x="1335" y="165"/>
+	<Point x="1018" y="165"/>
+	<Point x="576" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ECHOGLOSNE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r299" type="heading">
+	<Coords>
+	<Point x="216" y="296"/>
+	<Point x="216" y="380"/>
+	<Point x="1573" y="380"/>
+	<Point x="1576" y="388"/>
+	<Point x="1605" y="388"/>
+	<Point x="1606" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>NIEMYCH BAŁWANOW,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r301" type="heading">
+	<Coords>
+	<Point x="870" y="383"/>
+	<Point x="870" y="436"/>
+	<Point x="983" y="436"/>
+	<Point x="983" y="383"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>albo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r302" type="heading">
+	<Coords>
+	<Point x="261" y="438"/>
+	<Point x="261" y="509"/>
+	<Point x="1593" y="506"/>
+	<Point x="1593" y="433"/>
+	<Point x="1004" y="442"/>
+	<Point x="893" y="441"/>
+	<Point x="846" y="444"/>
+	<Point x="770" y="442"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SCYENCYA de ORACULIS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r303" type="heading">
+	<Coords>
+	<Point x="403" y="516"/>
+	<Point x="401" y="565"/>
+	<Point x="449" y="566"/>
+	<Point x="451" y="576"/>
+	<Point x="477" y="576"/>
+	<Point x="493" y="565"/>
+	<Point x="629" y="563"/>
+	<Point x="631" y="571"/>
+	<Point x="650" y="570"/>
+	<Point x="665" y="561"/>
+	<Point x="1061" y="560"/>
+	<Point x="1066" y="570"/>
+	<Point x="1087" y="570"/>
+	<Point x="1105" y="560"/>
+	<Point x="1353" y="562"/>
+	<Point x="1393" y="562"/>
+	<Point x="1393" y="516"/>
+	<Point x="1319" y="512"/>
+	<Point x="821" y="513"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>czyli o Odpowiedziach niektorych Deaﬆrow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r304" type="drop-capital">
+	<Coords>
+	<Point x="156" y="556"/>
+	<Point x="156" y="686"/>
+	<Point x="254" y="686"/>
+	<Point x="254" y="599"/>
+	<Point x="265" y="574"/>
+	<Point x="256" y="556"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>N</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r305" type="paragraph">
+	<Coords>
+	<Point x="272" y="581"/>
+	<Point x="260" y="589"/>
+	<Point x="258" y="693"/>
+	<Point x="110" y="693"/>
+	<Point x="139" y="1993"/>
+	<Point x="373" y="1986"/>
+	<Point x="1303" y="1993"/>
+	<Point x="1426" y="1982"/>
+	<Point x="1505" y="1977"/>
+	<Point x="1564" y="1973"/>
+	<Point x="1570" y="1985"/>
+	<Point x="1584" y="1986"/>
+	<Point x="1608" y="1974"/>
+	<Point x="1680" y="1980"/>
+	<Point x="1680" y="563"/>
+	<Point x="1094" y="572"/>
+	<Point x="688" y="569"/>
+	<Point x="653" y="573"/>
+	<Point x="612" y="572"/>
+	<Point x="515" y="576"/>
+	<Point x="500" y="579"/>
+	<Point x="429" y="578"/>
+	<Point x="290" y="574"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>OTANDUM, że Bałwany, Statuy, od Pogańwá Cultu Reli‑
+gionis wenerowane, czaſem po wielu do śiebie powtorzo‑
+nych Sup�likacyach, y uczynionych ſutych Oﬁárach z lu‑
+dzi y z bydlⱥt dawali rezolucye, Conlia, Oracula, albo odpo‑
+wiedzi. Ztey racyi zaś názwane Oraculum, że długo trzeba by‑
+ło orare Bożka, albo że ab ore iego tandem iaka wypádała rezo‑
+lucya, deklaracya, decyzya, bardzo krotkim ylem, y to za‑
+wichłanym. Co nie Bałwány czynili, bo żadnego ani życia,
+áni notitiam futurorum, neceariò, aut liberè contingentium, ani Bowa,
+ani Spiritum Prophetiæ w ſobie nie maiⱥce, ále czart przeklɇty
+Operum Divinorum mia, mocą ſwoią wⱥpiwſzy wBałwan, albo
+mieyſce opánowawſzy, ſwoie wydawał rezolucyɇ ubłagany oﬁa‑
+rami, ſobie ie przypiſawſzy. Ze zaś czaſem ten Princeps mendacij
+powiedział práwdę, álbo wydał Prorowo, verô ſecutô eﬀeû
+komprobowáne, to trzeba mieć za accidens, &amp; pro mero caſu albo
+też prawdziwemu BOGU, Omnipotenti, omniſcio, imputandum, kto‑
+ry iak infantium tak nefandorum Delubrorum lingvas facit ee diſer‑
+tas, dla niedościgłych ſwoich końcow: y że tego Adwerſarza com‑
+pellit, albo czaſem iemu permittit, co przyſzłego dobrego, lub złe‑
+go, lub taiemnego, powiɇdzieć Swiátu. Jeżeli chciał y raczył
+Wſzechmocny Pan BOG, aby oślica| Baalama Numerorum 22. do
+tegoż Baalama nieuſznie ią ſmagaiącego zroſkazu Boſkiego prze‑
+mowiła: Quid feci tibi? cur percutis me? Czemu tenże Pan Pa nu‑
+iⱥcych, nie może y Bałwánom pozwolić mowić, denuntiando lu‑
+dziom iakie ſwoie taiemnice; iako rozkazał Delphickiemu Apol‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r306" type="catch-word">
+	<Coords>
+	<Point x="1450" y="1990"/>
+	<Point x="1450" y="2046"/>
+	<Point x="1616" y="2046"/>
+	<Point x="1616" y="1984"/>
+	<Point x="1593" y="1984"/>
+	<Point x="1590" y="1990"/>
+	<Point x="1492" y="1988"/>
+	<Point x="1487" y="1985"/>
+	<Point x="1459" y="1984"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>linowi</Unicode></TextEquiv></TextRegion></Page></PcGts>

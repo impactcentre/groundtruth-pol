@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436739" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T18:44:21</Created>
+	<LastChange>2011-11-08T08:55:08</LastChange></Metadata>
+	<Page imageFilename="00436739.tif" imageHeight="2892" imageWidth="2068">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r26"/>
+	<RegionRefIndexed index="1" regionRef="r27"/>
+	<RegionRefIndexed index="2" regionRef="r28"/>
+	<RegionRefIndexed index="3" regionRef="r29"/>
+	<RegionRefIndexed index="4" regionRef="r30"/>
+	<RegionRefIndexed index="5" regionRef="r31"/>
+	<RegionRefIndexed index="6" regionRef="r32"/>
+	<RegionRefIndexed index="7" regionRef="r33"/>
+	<RegionRefIndexed index="8" regionRef="r34"/>
+	<RegionRefIndexed index="9" regionRef="r39"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r25" type="other">
+	<Coords>
+	<Point x="846" y="120"/>
+	<Point x="846" y="230"/>
+	<Point x="1002" y="230"/>
+	<Point x="1002" y="120"/></Coords></GraphicRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords>
+	<Point x="258" y="266"/>
+	<Point x="258" y="424"/>
+	<Point x="1590" y="424"/>
+	<Point x="1590" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PASSIA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="76" y="442"/>
+	<Point x="76" y="598"/>
+	<Point x="1752" y="598"/>
+	<Point x="1752" y="442"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ZOŁNIERZOW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="heading">
+	<Coords>
+	<Point x="476" y="620"/>
+	<Point x="476" y="760"/>
+	<Point x="1362" y="760"/>
+	<Point x="1362" y="620"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O boygá Narodow/</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="78" y="800"/>
+	<Point x="78" y="902"/>
+	<Point x="1756" y="902"/>
+	<Point x="1756" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W STOLICY MOSKIEWSKIEY:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="672" y="926"/>
+	<Point x="672" y="1010"/>
+	<Point x="1158" y="1010"/>
+	<Point x="1158" y="926"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>TO IEST,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords>
+	<Point x="80" y="1034"/>
+	<Point x="80" y="1260"/>
+	<Point x="1756" y="1260"/>
+	<Point x="1756" y="1034"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Wytrzymánie nieznośnych oſow w oblɇżeniu ćiɇżkim/ głodu/
+nɇdze / żimná / ßturmy nieprzyiaċielſkie czee /
+z wielkim krwie ich przelaniem :</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="heading">
+	<Coords>
+	<Point x="196" y="1276"/>
+	<Point x="196" y="1436"/>
+	<Point x="1682" y="1436"/>
+	<Point x="1682" y="1276"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Krotko opiſána/ dla vważenia Stanom Koronnym/
+y wßykiey Rzeczypoſpolitey/ w Roku</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="heading">
+	<Coords>
+	<Point x="702" y="1454"/>
+	<Point x="702" y="1572"/>
+	<Point x="1118" y="1572"/>
+	<Point x="1118" y="1454"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>1613.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="heading">
+	<Coords>
+	<Point x="116" y="1736"/>
+	<Point x="116" y="1874"/>
+	<Point x="1714" y="1874"/>
+	<Point x="1714" y="1736"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O Paſsi grauiora, dabit Deus his quoque ﬁnem.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r35" type="other">
+	<Coords>
+	<Point x="716" y="2018"/>
+	<Point x="716" y="2234"/>
+	<Point x="1114" y="2234"/>
+	<Point x="1114" y="2018"/></Coords></GraphicRegion>
+	<GraphicRegion id="r36" type="stamp">
+	<Coords>
+	<Point x="1218" y="1888"/>
+	<Point x="1218" y="2266"/>
+	<Point x="1644" y="2266"/>
+	<Point x="1644" y="1888"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="109" y="2409"/>
+	<Point x="105" y="2431"/>
+	<Point x="281" y="2432"/>
+	<Point x="309" y="2420"/>
+	<Point x="357" y="2421"/>
+	<Point x="403" y="2424"/>
+	<Point x="416" y="2427"/>
+	<Point x="424" y="2430"/>
+	<Point x="649" y="2438"/>
+	<Point x="873" y="2441"/>
+	<Point x="1186" y="2446"/>
+	<Point x="1748" y="2449"/>
+	<Point x="1751" y="2430"/>
+	<Point x="1281" y="2427"/>
+	<Point x="902" y="2426"/>
+	<Point x="390" y="2414"/></Coords></SeparatorRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="288" y="2586"/>
+	<Point x="1558" y="2592"/>
+	<Point x="1560" y="2453"/>
+	<Point x="1338" y="2450"/>
+	<Point x="1168" y="2450"/>
+	<Point x="787" y="2442"/>
+	<Point x="762" y="2447"/>
+	<Point x="530" y="2446"/>
+	<Point x="506" y="2436"/>
+	<Point x="453" y="2435"/>
+	<Point x="392" y="2433"/>
+	<Point x="364" y="2425"/>
+	<Point x="316" y="2423"/>
+	<Point x="312" y="2428"/>
+	<Point x="288" y="2432"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Roku wysſzey miánowánego.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r40" type="stamp">
+	<Coords>
+	<Point x="748" y="2610"/>
+	<Point x="748" y="2748"/>
+	<Point x="1108" y="2748"/>
+	<Point x="1108" y="2610"/></Coords></GraphicRegion>
+	<GraphicRegion id="r41" type="handwritten-annotation">
+	<Coords>
+	<Point x="1626" y="168"/>
+	<Point x="1626" y="402"/>
+	<Point x="1860" y="402"/>
+	<Point x="1860" y="168"/></Coords></GraphicRegion>
+	<GraphicRegion id="r42" type="handwritten-annotation">
+	<Coords>
+	<Point x="1448" y="608"/>
+	<Point x="1448" y="732"/>
+	<Point x="1660" y="732"/>
+	<Point x="1660" y="608"/></Coords></GraphicRegion>
+	<GraphicRegion id="r43" type="handwritten-annotation">
+	<Coords>
+	<Point x="1848" y="554"/>
+	<Point x="1848" y="740"/>
+	<Point x="2041" y="738"/>
+	<Point x="2038" y="541"/></Coords></GraphicRegion></Page></PcGts>

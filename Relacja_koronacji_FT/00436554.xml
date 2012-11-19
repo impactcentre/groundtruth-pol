@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436554" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:55:49</Created>
+	<LastChange>2011-08-25T08:29:28</LastChange></Metadata>
+	<Page imageFilename="00436554.tif" imageHeight="2872" imageWidth="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r192"/>
+	<RegionRefIndexed index="1" regionRef="r193"/>
+	<RegionRefIndexed index="2" regionRef="r194"/>
+	<RegionRefIndexed index="3" regionRef="r195"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r192" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="502" y="214"/>
+	<Point x="502" y="919"/>
+	<Point x="2104" y="919"/>
+	<Point x="2104" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>encyⱥ, wźiⱥwſzy z ſobⱥ korony konferowáne,
+wyiechał ná przeciwko I. W. KORONATO‑
+ROWI, ktorego Polſkiey ſwády przywitáwſzy
+fákundyⱥ onemu korony ná bogátey tácy oddał,
+záco I. W. KORONATOR w krotkiey mowie
+ſwoiey wielkie zamknowſzy Elogium. I. W.
+Fundátorowi eruditime podziękował y korony
+odebrał.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r193" textColour="black" type="heading">
+	<Coords>
+	<Point x="598" y="926"/>
+	<Point x="598" y="1098"/>
+	<Point x="2003" y="1098"/>
+	<Point x="2003" y="926"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Wiazd KORONATORSKI y introdakoya
+Koron ná Gorę Rozȧńcowⱥ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r194" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="521" y="1103"/>
+	<Point x="471" y="2505"/>
+	<Point x="2091" y="2510"/>
+	<Point x="2091" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Odebráwſzy Korony od I. W. Fundátorá I.
+W. KORONATOR záczⱥł ſolenny ſwoy In‑
+gres y introdukcyⱥ koron z Zámiaá ná Gorę
+Rożáńcowⱥ tákim porzⱥdkiem. Naypierwey
+ſzły kárety poſzuſne Roźnego Páńwá wzdłuż,
+z áyencyⱥ Woyſka y kompánii Gościnnych
+áż odewsi ná kwáſzy o pułmile od Podkámie‑
+nia lezⱥcey, rozściⱥgnelá e ta wſzyka pompa
+od namienioney w áz do ſámych bram trym‑
+falnych, w pomienionych karetách iechało nie‑
+máło Senátorow, y Pánow Swieckich, Prałátow
+Duchownych, oſobliwie iednák iechał w iedney
+karecie I.W.N.I. X. IOZEF WYHOWSKI Epi‑
+ſkop Lucki, w drugiey I. W. N. I. X. SAMV‑
+EL OZGA Biſkup Kijowſki,w trzeciey I.W.N.I.
+X. STANISLAW HOZYVSZ Biſkup kámie‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r195" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1805" y="2514"/>
+	<Point x="1805" y="2598"/>
+	<Point x="2023" y="2598"/>
+	<Point x="2023" y="2514"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>niecki</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r196" textColour="black" type="marginalia">
+	<Coords>
+	<Point x="275" y="223"/>
+	<Point x="275" y="560"/>
+	<Point x="489" y="560"/>
+	<Point x="489" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>przeci‑
+wko J.
+W. Ko‑
+ronáto‑
+rowi.</Unicode></TextEquiv></TextRegion></Page></PcGts>

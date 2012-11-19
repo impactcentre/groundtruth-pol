@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436132" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T07:55:57</Created>
+	<LastChange>2011-09-27T02:04:05</LastChange></Metadata>
+	<Page imageFilename="00436132.tif" imageHeight="2719" imageWidth="2104">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r144"/>
+	<RegionRefIndexed index="1" regionRef="r145"/>
+	<RegionRefIndexed index="2" regionRef="r148"/>
+	<RegionRefIndexed index="3" regionRef="r146"/>
+	<RegionRefIndexed index="4" regionRef="r147"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r144" type="paragraph">
+	<Coords>
+	<Point x="386" y="122"/>
+	<Point x="386" y="1390"/>
+	<Point x="1713" y="1390"/>
+	<Point x="1713" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Vſus , quos ﬂuidi tenent aquarum
+Riui : quos habeant humi meatus :
+Quæ diſcrimina: originis fontes.
+Sklani ſulphureos tamen liquores ,
+Quos mittit gremio ferax amæno
+Iugiter plaga nobilis Polona,
+Laudat , concelebrat : magis vires
+Multas prædicat , explicat , docet
+Quantum, quid valeat , quibus in ægris
+Depellant cutis , artuum &amp; dolores.
+Cum verò liceat tibi tueri ,
+Impens vacuo , tuam ſalutem :
+Autorem bene c velis valere,
+Sic eius nitidum vigere corpus ,
+Sêcla vt Neorea exigat , nec vnquam
+Is Sklanas properet videre lymphas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r145" type="heading">
+	<Coords>
+	<Point x="377" y="1404"/>
+	<Point x="377" y="1604"/>
+	<Point x="1850" y="1604"/>
+	<Point x="1850" y="1404"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dołáſkáwego Cżytelniká.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r146" type="paragraph">
+	<Coords>
+	<Point x="260" y="1631"/>
+	<Point x="250" y="1812"/>
+	<Point x="60" y="1804"/>
+	<Point x="60" y="2603"/>
+	<Point x="1429" y="2603"/>
+	<Point x="1502" y="2563"/>
+	<Point x="1693" y="2561"/>
+	<Point x="1730" y="2557"/>
+	<Point x="1837" y="2557"/>
+	<Point x="1900" y="2562"/>
+	<Point x="1936" y="2563"/>
+	<Point x="1936" y="1631"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ierwey á niżeli do cżytánia tey kśiⱥżki przyⱥpiß łá‑
+ſkáwy Cżytelniku, chcę ćię nápomnieć o trzy rzecży.
+Naprzod , ábyś ſobie nie teſknił , że ták długa kśiⱥżká.
+Abowiem im kto krocey chce piſáć,tym niepoiętnieyßⱥ onę
+rzecż cżyni o ktorey piße: dla tegoż im kto ßerzey co powiá‑
+da , ábo piße , tym bárźiey onę rzecż obiaśnia. Do tego , kto
+gruntownie y porzⱥdnie chce iákⱥ rzecż ábo ſpráwę vdáć,
+potrzebá mu ę ná niey zábáwić. Możeß iednák ná tę dłu‑
+gość moię, y ná cknienie ſwoie tákowego lekárwá zá‑
+żyć. Nie cżytay pierwßych dwóch kśiⱥg, iedno trzećiⱥ ,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r147" type="catch-word">
+	<Coords>
+	<Point x="1731" y="2572"/>
+	<Point x="1731" y="2677"/>
+	<Point x="1931" y="2677"/>
+	<Point x="1930" y="2572"/>
+	<Point x="1842" y="2563"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>tedy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r148" type="drop-capital">
+	<Coords>
+	<Point x="68" y="1563"/>
+	<Point x="68" y="1795"/>
+	<Point x="245" y="1795"/>
+	<Point x="257" y="1561"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>P</Unicode></TextEquiv></TextRegion></Page></PcGts>

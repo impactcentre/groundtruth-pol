@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433194" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T07:29:37</Created>
+	<LastChange>2011-10-03T12:09:24</LastChange></Metadata>
+	<Page imageFilename="00433194.tif" imageHeight="2201" imageWidth="1837">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r420"/>
+	<RegionRefIndexed index="1" regionRef="r421"/>
+	<RegionRefIndexed index="2" regionRef="r422"/>
+	<RegionRefIndexed index="3" regionRef="r423"/>
+	<RegionRefIndexed index="4" regionRef="r426"/>
+	<RegionRefIndexed index="5" regionRef="r424"/>
+	<RegionRefIndexed index="6" regionRef="r425"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r417" type="page-number">
+	<Coords>
+	<Point x="183" y="83"/>
+	<Point x="183" y="122"/>
+	<Point x="254" y="122"/>
+	<Point x="254" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r418" type="header">
+	<Coords>
+	<Point x="388" y="78"/>
+	<Point x="391" y="123"/>
+	<Point x="552" y="126"/>
+	<Point x="585" y="135"/>
+	<Point x="610" y="127"/>
+	<Point x="912" y="127"/>
+	<Point x="1147" y="133"/>
+	<Point x="1332" y="133"/>
+	<Point x="1326" y="89"/>
+	<Point x="962" y="84"/>
+	<Point x="587" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O LUDZIACH INNYCH OSOBLIWYCH</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r419">
+	<Coords>
+	<Point x="206" y="132"/>
+	<Point x="204" y="141"/>
+	<Point x="1098" y="156"/>
+	<Point x="1616" y="161"/>
+	<Point x="1633" y="161"/>
+	<Point x="1679" y="162"/>
+	<Point x="1681" y="146"/>
+	<Point x="1357" y="148"/>
+	<Point x="588" y="140"/></Coords></SeparatorRegion>
+	<TextRegion id="r420" type="paragraph">
+	<Coords>
+	<Point x="173" y="162"/>
+	<Point x="173" y="247"/>
+	<Point x="350" y="250"/>
+	<Point x="375" y="242"/>
+	<Point x="404" y="249"/>
+	<Point x="431" y="243"/>
+	<Point x="525" y="245"/>
+	<Point x="543" y="253"/>
+	<Point x="564" y="242"/>
+	<Point x="600" y="255"/>
+	<Point x="614" y="255"/>
+	<Point x="623" y="240"/>
+	<Point x="678" y="245"/>
+	<Point x="718" y="244"/>
+	<Point x="733" y="255"/>
+	<Point x="758" y="245"/>
+	<Point x="895" y="248"/>
+	<Point x="927" y="254"/>
+	<Point x="945" y="249"/>
+	<Point x="1237" y="252"/>
+	<Point x="1271" y="260"/>
+	<Point x="1298" y="253"/>
+	<Point x="1692" y="247"/>
+	<Point x="1683" y="173"/>
+	<Point x="1624" y="164"/>
+	<Point x="1554" y="165"/>
+	<Point x="1458" y="164"/>
+	<Point x="1336" y="164"/>
+	<Point x="1230" y="171"/>
+	<Point x="1165" y="161"/>
+	<Point x="1052" y="159"/>
+	<Point x="985" y="158"/>
+	<Point x="811" y="155"/>
+	<Point x="642" y="154"/>
+	<Point x="314" y="148"/>
+	<Point x="209" y="156"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ra małym rzeczom Pigmeyczykow, a wielkim. Olbrzymow álbo Gigaſom for‑
+muie ﬁgury; z myſzy uczyni onia, ze onia muchę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r421" type="heading">
+	<Coords>
+	<Point x="375" y="257"/>
+	<Point x="380" y="309"/>
+	<Point x="705" y="313"/>
+	<Point x="1484" y="319"/>
+	<Point x="1483" y="261"/>
+	<Point x="1341" y="262"/>
+	<Point x="1271" y="265"/>
+	<Point x="1243" y="263"/>
+	<Point x="1200" y="260"/>
+	<Point x="969" y="256"/>
+	<Point x="747" y="255"/>
+	<Point x="727" y="263"/>
+	<Point x="718" y="255"/>
+	<Point x="621" y="255"/>
+	<Point x="613" y="262"/>
+	<Point x="598" y="258"/>
+	<Point x="555" y="256"/>
+	<Point x="402" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O INNYCH CUDOWNYCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r422" type="heading">
+	<Coords>
+	<Point x="445" y="326"/>
+	<Point x="445" y="390"/>
+	<Point x="577" y="377"/>
+	<Point x="709" y="383"/>
+	<Point x="733" y="393"/>
+	<Point x="747" y="391"/>
+	<Point x="771" y="380"/>
+	<Point x="1404" y="387"/>
+	<Point x="1393" y="329"/>
+	<Point x="541" y="320"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>y Oſobliwych ludziach w Swiecie:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r423" type="heading">
+	<Coords>
+	<Point x="190" y="386"/>
+	<Point x="190" y="509"/>
+	<Point x="843" y="513"/>
+	<Point x="1318" y="516"/>
+	<Point x="1686" y="509"/>
+	<Point x="1689" y="396"/>
+	<Point x="1412" y="401"/>
+	<Point x="1030" y="398"/>
+	<Point x="724" y="395"/>
+	<Point x="685" y="396"/>
+	<Point x="549" y="390"/>
+	<Point x="439" y="404"/>
+	<Point x="440" y="393"/>
+	<Point x="332" y="387"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>To ie o Anacephalach, aliás bez Głowy, o Cynocephalach, alías pśiⱥ
+głowɇ maiⱥcycb; y o innych dziwney formy ludziach.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r424" type="paragraph">
+	<Coords>
+	<Point x="279" y="547"/>
+	<Point x="273" y="572"/>
+	<Point x="283" y="643"/>
+	<Point x="187" y="644"/>
+	<Point x="183" y="984"/>
+	<Point x="187" y="1957"/>
+	<Point x="658" y="1969"/>
+	<Point x="1327" y="1976"/>
+	<Point x="1363" y="1967"/>
+	<Point x="1449" y="1966"/>
+	<Point x="1656" y="1963"/>
+	<Point x="1672" y="1969"/>
+	<Point x="1694" y="1960"/>
+	<Point x="1689" y="556"/>
+	<Point x="816" y="555"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ogł by ę iakowy znaleść Cato Cenſorius z̄e Mnie piſzⱥcego o Acepha‑
+lach, toie o Ludziach bez głowy, śmiałby näzwać A�ephalum, z̄e
+takowe rzeczy piſząc y Autor, ie ſam bez głowy y rozumu. Ale ante ju‑
+dicium powzięte z naępuiⱥcego dyſkurſu, niech nie formuie ſupplicîum
+y Kondemnaty na pioro ciekawe; Primo audiat, potym |adeat co chcieć w
+tey mowić Materyi, Naprzod Autor Mela lib: 1. cap: 4. rzetelnie y do‑
+wodnie piſze, z̄e znayduie ę Narod Blemij nazwany, ktory Idorus názy‑
+wa Lemnios, a ci wſzykę naſzyńcow ludzi maiⱥc ﬁgurę y ſymmetryę,
+głowy cale nie maiⱥ, tylko twarz wpośrodku pier. Toż świadczy y
+Solinus aroz̄ytny Autor cap: 55. Oczy tym ludziom przypiſuiⱥc na ramio‑
+nách. Pliniusz zaś wielki rzeczy naturalnych badacz lib. 5. &amp; 7: nietyl‑
+ko tenz̄e ſentyment de Acephalis, alias bezgłownych ludziach potwier‑
+dza, ale tez̄ ich nie daleko Troglodytow lokuie w Etyopij, albo w Murzyń‑
+ſkim Pańwie. Tym Autorom nie małe powagi ſwoiey przydaie Mo‑
+mentum, oculatus Teis S. Auguyn, w tamtey Krainie [ będⱥc Hipponeńſkim w
+Afryce Biſkupem ztamtⱥd nie bardzo daleko ) peregrynuiⱥc, y Swiętey
+Chrześciańſkiey wiary rozewaiⱥc ſemina, iako wyraźnie w Kazaniu ſwo‑
+im mianym in Eremo do Braci Auguynianow od e bie fudowarych mowi.
+Ego jam Epiſcopus Hipponens eram, &amp; cum qu�busdam ſervis CHRISTI ad Æ‑
+thiopiam perrexi ut eis Sanum JESU CHRISTI Evangelium prædicarem;&amp; vidi‑
+mus ibi multos homines ac mulieres capita non habentes, ſed oculos groos ﬁxos in pe‑
+ore, cetera membra æqualia nobis habentes. Tegoz̄ ie zdania y Fulgosus. Podo‑
+bnym Ludziom Autorowie naznaczaiⱥ ſedes w Scytyi nie daleko á Ryphæis
+montibus. Dio�yus nazywa ich Arymaneas ,albo Ar�mannos: A ſchilus E�y‑
+m�n, albo nomenclaturam Imienia ich wywodzi, z̄e ę zowią od ow Scy‑
+thiæ Lingvæ, Ari toie ieden, &amp; Maspos oko: zowiⱥc ich od Arimaſpos,
+Nie żeby mieli iedne oko ale z̄e będąc głowni rzelcy, z Luku rzelaiⱥc, mru‑
+z̄ą iedne oko, ale ci podobno cale ſą inni od tamtych przez Mele, Solina,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r425" type="catch-word">
+	<Coords>
+	<Point x="1550" y="1969"/>
+	<Point x="1550" y="2018"/>
+	<Point x="1641" y="2018"/>
+	<Point x="1641" y="1969"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Pli‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r426" type="drop-capital">
+	<Coords>
+	<Point x="188" y="546"/>
+	<Point x="188" y="625"/>
+	<Point x="271" y="625"/>
+	<Point x="271" y="546"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>M</Unicode></TextEquiv></TextRegion></Page></PcGts>

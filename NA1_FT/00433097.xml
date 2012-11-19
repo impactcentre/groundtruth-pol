@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433097" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-12-28T03:17:37</Created>
+	<LastChange>2011-04-15T08:24:17</LastChange></Metadata>
+	<Page imageFilename="00433097.tif" imageHeight="2211" imageWidth="1845">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r2243"/>
+	<RegionRefIndexed index="1" regionRef="r2244"/>
+	<RegionRefIndexed index="2" regionRef="r2245"/>
+	<RegionRefIndexed index="3" regionRef="r2246"/>
+	<RegionRefIndexed index="4" regionRef="r2247"/>
+	<RegionRefIndexed index="5" regionRef="r2248"/>
+	<RegionRefIndexed index="6" regionRef="r2249"/>
+	<RegionRefIndexed index="7" regionRef="r2250"/>
+	<RegionRefIndexed index="8" regionRef="r2251"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2240" type="header">
+	<Coords>
+	<Point x="806" y="51"/>
+	<Point x="806" y="115"/>
+	<Point x="1090" y="115"/>
+	<Point x="1090" y="51"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>o BOGU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2241" type="page-number">
+	<Coords>
+	<Point x="1694" y="72"/>
+	<Point x="1694" y="115"/>
+	<Point x="1719" y="115"/>
+	<Point x="1719" y="72"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2242">
+	<Coords>
+	<Point x="191" y="136"/>
+	<Point x="260" y="129"/>
+	<Point x="370" y="126"/>
+	<Point x="629" y="126"/>
+	<Point x="847" y="127"/>
+	<Point x="983" y="124"/>
+	<Point x="1130" y="120"/>
+	<Point x="1214" y="120"/>
+	<Point x="1430" y="115"/>
+	<Point x="1609" y="115"/>
+	<Point x="1695" y="117"/>
+	<Point x="1712" y="119"/>
+	<Point x="1712" y="135"/>
+	<Point x="1641" y="136"/>
+	<Point x="1596" y="131"/>
+	<Point x="1584" y="131"/>
+	<Point x="1572" y="130"/>
+	<Point x="1536" y="131"/>
+	<Point x="1313" y="132"/>
+	<Point x="1298" y="135"/>
+	<Point x="1087" y="135"/>
+	<Point x="986" y="139"/>
+	<Point x="887" y="140"/>
+	<Point x="758" y="143"/>
+	<Point x="689" y="146"/>
+	<Point x="611" y="149"/>
+	<Point x="487" y="147"/>
+	<Point x="260" y="147"/>
+	<Point x="193" y="156"/></Coords></SeparatorRegion>
+	<TextRegion id="r2243" type="paragraph">
+	<Coords>
+	<Point x="180" y="166"/>
+	<Point x="258" y="157"/>
+	<Point x="357" y="152"/>
+	<Point x="370" y="150"/>
+	<Point x="453" y="150"/>
+	<Point x="538" y="152"/>
+	<Point x="658" y="153"/>
+	<Point x="665" y="150"/>
+	<Point x="675" y="149"/>
+	<Point x="889" y="144"/>
+	<Point x="1015" y="141"/>
+	<Point x="1119" y="138"/>
+	<Point x="1220" y="137"/>
+	<Point x="1302" y="138"/>
+	<Point x="1314" y="133"/>
+	<Point x="1343" y="135"/>
+	<Point x="1563" y="133"/>
+	<Point x="1572" y="132"/>
+	<Point x="1584" y="133"/>
+	<Point x="1666" y="142"/>
+	<Point x="1717" y="143"/>
+	<Point x="1719" y="166"/>
+	<Point x="1724" y="185"/>
+	<Point x="1653" y="195"/>
+	<Point x="1328" y="195"/>
+	<Point x="1323" y="238"/>
+	<Point x="1293" y="241"/>
+	<Point x="1094" y="241"/>
+	<Point x="1088" y="249"/>
+	<Point x="1075" y="250"/>
+	<Point x="1060" y="248"/>
+	<Point x="1047" y="253"/>
+	<Point x="1031" y="253"/>
+	<Point x="1028" y="242"/>
+	<Point x="872" y="245"/>
+	<Point x="868" y="251"/>
+	<Point x="864" y="254"/>
+	<Point x="858" y="256"/>
+	<Point x="848" y="256"/>
+	<Point x="842" y="250"/>
+	<Point x="842" y="246"/>
+	<Point x="764" y="247"/>
+	<Point x="761" y="255"/>
+	<Point x="753" y="257"/>
+	<Point x="740" y="253"/>
+	<Point x="734" y="258"/>
+	<Point x="730" y="261"/>
+	<Point x="721" y="261"/>
+	<Point x="713" y="251"/>
+	<Point x="567" y="254"/>
+	<Point x="563" y="266"/>
+	<Point x="555" y="266"/>
+	<Point x="527" y="259"/>
+	<Point x="471" y="256"/>
+	<Point x="466" y="264"/>
+	<Point x="464" y="266"/>
+	<Point x="458" y="266"/>
+	<Point x="454" y="265"/>
+	<Point x="452" y="253"/>
+	<Point x="384" y="255"/>
+	<Point x="291" y="253"/>
+	<Point x="286" y="261"/>
+	<Point x="283" y="265"/>
+	<Point x="279" y="266"/>
+	<Point x="273" y="258"/>
+	<Point x="271" y="253"/>
+	<Point x="183" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>rzeczy Boſkie iako niewymowione ludzkim iezykiem, tym ſamym
+nietykane bydź powinny, Lingvam compeſce labelllô.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2244" type="paragraph">
+	<Coords>
+	<Point x="250" y="264"/>
+	<Point x="267" y="263"/>
+	<Point x="277" y="273"/>
+	<Point x="283" y="271"/>
+	<Point x="290" y="264"/>
+	<Point x="416" y="264"/>
+	<Point x="442" y="265"/>
+	<Point x="452" y="267"/>
+	<Point x="459" y="268"/>
+	<Point x="466" y="268"/>
+	<Point x="490" y="266"/>
+	<Point x="545" y="265"/>
+	<Point x="555" y="270"/>
+	<Point x="560" y="268"/>
+	<Point x="568" y="266"/>
+	<Point x="636" y="263"/>
+	<Point x="710" y="262"/>
+	<Point x="733" y="262"/>
+	<Point x="788" y="259"/>
+	<Point x="865" y="258"/>
+	<Point x="933" y="255"/>
+	<Point x="988" y="256"/>
+	<Point x="1018" y="253"/>
+	<Point x="1036" y="257"/>
+	<Point x="1069" y="258"/>
+	<Point x="1108" y="253"/>
+	<Point x="1186" y="252"/>
+	<Point x="1294" y="249"/>
+	<Point x="1369" y="245"/>
+	<Point x="1490" y="246"/>
+	<Point x="1620" y="248"/>
+	<Point x="1726" y="250"/>
+	<Point x="1728" y="395"/>
+	<Point x="1735" y="571"/>
+	<Point x="1733" y="728"/>
+	<Point x="1735" y="865"/>
+	<Point x="1735" y="1064"/>
+	<Point x="1730" y="1095"/>
+	<Point x="1632" y="1103"/>
+	<Point x="1422" y="1103"/>
+	<Point x="1245" y="1108"/>
+	<Point x="951" y="1109"/>
+	<Point x="873" y="1110"/>
+	<Point x="783" y="1111"/>
+	<Point x="773" y="1156"/>
+	<Point x="768" y="1160"/>
+	<Point x="602" y="1160"/>
+	<Point x="502" y="1162"/>
+	<Point x="453" y="1163"/>
+	<Point x="449" y="1169"/>
+	<Point x="444" y="1173"/>
+	<Point x="434" y="1173"/>
+	<Point x="428" y="1170"/>
+	<Point x="425" y="1163"/>
+	<Point x="390" y="1164"/>
+	<Point x="178" y="1171"/>
+	<Point x="182" y="1057"/>
+	<Point x="177" y="942"/>
+	<Point x="174" y="767"/>
+	<Point x="176" y="633"/>
+	<Point x="173" y="509"/>
+	<Point x="169" y="376"/>
+	<Point x="172" y="330"/>
+	<Point x="219" y="327"/>
+	<Point x="237" y="312"/>
+	<Point x="248" y="272"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ATTRIBUTA BOSKIE, piɇknie P. Labbe in Elogiis Ludovici �v wy‑
+raził, z ktorych po kilka peryodow tu anneo: Nulliius egens, ſed quô e‑
+gent omnia. Unus e DEUS nec tamen e ſolus: Nec DEUS eet, ni eet ſo‑
+lus. Unitatem requirit Divinitás, Trinitatem Felicitas, &amp;c. Tres fluvij ejuſ‑
+dem fontis: tres radices ejuſdem Solis. Mądrością ſwoią infinitè: Sapiens U
+num neſcit, hoc e: errare, &amp;c. Implet cuna DEUS ſpatia, nec impletur, &amp;c.
+Antè omnem Mundum, Mundus bi erat &amp; locus. Cypryan zaś mowi:
+DEI Templum, totus e Mundus. Wſzechmocnością ſwoią pote omnia
+quæ vult, non vult omnia quæ pote. Magno Artifici debet ſuperee quod
+pot Unum e DEUM peccare non poe. &amp; malum ee non poe. Daley
+tenże Autor BOGA enkomizuie. Patrem ſe Miſericordiæ appellat,
+non juitiæ, &amp;c. Miſeretur volens, punit invitus, &amp;c. Oceano milis; fla
+ere ex ſe dona permittit, &amp;c. Dat DEUS beneficia ſua, non vendit: dat ut
+munus, non ut fænus BOG ie Opatrzny: Serit palmites vinitor, Pr�‑
+videntia nutrit.Regit Paor Oves, Providentia Paorem. Aſpice Univerta‑
+tem: liber e Providentiæ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2245" type="paragraph">
+	<Coords>
+	<Point x="247" y="1176"/>
+	<Point x="317" y="1178"/>
+	<Point x="430" y="1182"/>
+	<Point x="473" y="1182"/>
+	<Point x="492" y="1171"/>
+	<Point x="586" y="1169"/>
+	<Point x="704" y="1165"/>
+	<Point x="848" y="1162"/>
+	<Point x="1061" y="1160"/>
+	<Point x="1247" y="1160"/>
+	<Point x="1416" y="1151"/>
+	<Point x="1625" y="1153"/>
+	<Point x="1731" y="1151"/>
+	<Point x="1741" y="1190"/>
+	<Point x="1742" y="1262"/>
+	<Point x="1743" y="1415"/>
+	<Point x="1745" y="1485"/>
+	<Point x="1733" y="1502"/>
+	<Point x="1674" y="1502"/>
+	<Point x="1667" y="1505"/>
+	<Point x="1520" y="1504"/>
+	<Point x="1419" y="1508"/>
+	<Point x="1404" y="1533"/>
+	<Point x="1395" y="1548"/>
+	<Point x="1360" y="1551"/>
+	<Point x="1192" y="1551"/>
+	<Point x="1189" y="1558"/>
+	<Point x="1184" y="1563"/>
+	<Point x="1179" y="1565"/>
+	<Point x="1172" y="1565"/>
+	<Point x="1170" y="1560"/>
+	<Point x="1167" y="1553"/>
+	<Point x="1008" y="1555"/>
+	<Point x="1004" y="1563"/>
+	<Point x="1002" y="1568"/>
+	<Point x="997" y="1570"/>
+	<Point x="990" y="1568"/>
+	<Point x="987" y="1565"/>
+	<Point x="984" y="1556"/>
+	<Point x="788" y="1558"/>
+	<Point x="478" y="1565"/>
+	<Point x="453" y="1568"/>
+	<Point x="432" y="1567"/>
+	<Point x="335" y="1568"/>
+	<Point x="193" y="1569"/>
+	<Point x="191" y="1441"/>
+	<Point x="180" y="1281"/>
+	<Point x="182" y="1224"/>
+	<Point x="242" y="1227"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rożne opinie, o P. BOGU były Pogan y niedowiarkow, ktore
+S. Religia Chrześćiáńſka za iedyne poczyta bayki, &amp; errorum Semi‑
+narium. Jakolito znaydowali ɇ niektorzy, eò amentiæ provei, że świat
+ten cały ie Bogiem, iako świadczy Origenes. HeracIius Epheſenus, mnie‑
+mał logień za Boga; Varro &amp; Auguinus Tees. Straton zaś twierdził,
+że Natura ie Bogiem. Co wſzytko ze ie kreaturą, nie może bydź
+Kreatorem, ani nauki ich rozumnym ſentymentem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2246" type="paragraph">
+	<Coords>
+	<Point x="462" y="1576"/>
+	<Point x="527" y="1571"/>
+	<Point x="604" y="1570"/>
+	<Point x="777" y="1566"/>
+	<Point x="897" y="1564"/>
+	<Point x="970" y="1564"/>
+	<Point x="991" y="1582"/>
+	<Point x="1020" y="1570"/>
+	<Point x="1046" y="1562"/>
+	<Point x="1154" y="1562"/>
+	<Point x="1171" y="1567"/>
+	<Point x="1181" y="1567"/>
+	<Point x="1187" y="1564"/>
+	<Point x="1242" y="1560"/>
+	<Point x="1324" y="1559"/>
+	<Point x="1430" y="1555"/>
+	<Point x="1445" y="1562"/>
+	<Point x="1445" y="1594"/>
+	<Point x="1435" y="1605"/>
+	<Point x="1398" y="1604"/>
+	<Point x="1383" y="1614"/>
+	<Point x="1368" y="1616"/>
+	<Point x="1361" y="1605"/>
+	<Point x="1259" y="1605"/>
+	<Point x="1254" y="1612"/>
+	<Point x="1248" y="1615"/>
+	<Point x="1241" y="1614"/>
+	<Point x="1236" y="1607"/>
+	<Point x="1177" y="1610"/>
+	<Point x="1045" y="1609"/>
+	<Point x="975" y="1609"/>
+	<Point x="972" y="1616"/>
+	<Point x="971" y="1619"/>
+	<Point x="962" y="1619"/>
+	<Point x="957" y="1611"/>
+	<Point x="919" y="1612"/>
+	<Point x="866" y="1612"/>
+	<Point x="864" y="1618"/>
+	<Point x="861" y="1621"/>
+	<Point x="857" y="1623"/>
+	<Point x="850" y="1624"/>
+	<Point x="844" y="1618"/>
+	<Point x="841" y="1611"/>
+	<Point x="722" y="1614"/>
+	<Point x="587" y="1619"/>
+	<Point x="460" y="1620"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Gdzie P. BOG mieſzkał, niżeli świat worzył?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2247" type="paragraph">
+	<Coords>
+	<Point x="256" y="1625"/>
+	<Point x="347" y="1626"/>
+	<Point x="457" y="1626"/>
+	<Point x="530" y="1624"/>
+	<Point x="598" y="1630"/>
+	<Point x="738" y="1623"/>
+	<Point x="824" y="1621"/>
+	<Point x="861" y="1637"/>
+	<Point x="891" y="1638"/>
+	<Point x="905" y="1621"/>
+	<Point x="941" y="1622"/>
+	<Point x="968" y="1628"/>
+	<Point x="983" y="1616"/>
+	<Point x="1002" y="1615"/>
+	<Point x="1105" y="1617"/>
+	<Point x="1213" y="1623"/>
+	<Point x="1255" y="1621"/>
+	<Point x="1281" y="1611"/>
+	<Point x="1338" y="1615"/>
+	<Point x="1366" y="1624"/>
+	<Point x="1408" y="1623"/>
+	<Point x="1434" y="1609"/>
+	<Point x="1492" y="1605"/>
+	<Point x="1582" y="1605"/>
+	<Point x="1742" y="1609"/>
+	<Point x="1745" y="1632"/>
+	<Point x="1750" y="1688"/>
+	<Point x="1743" y="1750"/>
+	<Point x="1744" y="1825"/>
+	<Point x="1716" y="1838"/>
+	<Point x="1493" y="1845"/>
+	<Point x="1480" y="1890"/>
+	<Point x="1455" y="1892"/>
+	<Point x="1324" y="1891"/>
+	<Point x="1324" y="1900"/>
+	<Point x="1322" y="1902"/>
+	<Point x="1237" y="1902"/>
+	<Point x="1236" y="1891"/>
+	<Point x="1096" y="1894"/>
+	<Point x="1091" y="1903"/>
+	<Point x="1084" y="1905"/>
+	<Point x="1079" y="1904"/>
+	<Point x="1075" y="1898"/>
+	<Point x="1075" y="1893"/>
+	<Point x="983" y="1894"/>
+	<Point x="981" y="1900"/>
+	<Point x="977" y="1903"/>
+	<Point x="974" y="1905"/>
+	<Point x="965" y="1904"/>
+	<Point x="962" y="1895"/>
+	<Point x="899" y="1896"/>
+	<Point x="618" y="1899"/>
+	<Point x="618" y="1907"/>
+	<Point x="617" y="1911"/>
+	<Point x="607" y="1912"/>
+	<Point x="603" y="1909"/>
+	<Point x="600" y="1899"/>
+	<Point x="546" y="1903"/>
+	<Point x="447" y="1906"/>
+	<Point x="331" y="1905"/>
+	<Point x="197" y="1907"/>
+	<Point x="196" y="1769"/>
+	<Point x="195" y="1703"/>
+	<Point x="246" y="1695"/>
+	<Point x="257" y="1671"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Odpowiada Lumen Ecclesiæ, Perła Hipponeńſkiey Infuły, Augu‑
+styn S. na Psalm 122: In se habitabat Deus, apud se habitabat, &amp; apud ſe e
+Deus, nec Cælô indiget, ubi habitet; ſed Cælum ipsô indiget, ut ab ipso inhabite‑
+tur. Tegoż Swiętego ſpytano: czymby ɇ bawił Bog przed stworze
+niem Swiata? Odpowiedział: Curios Infernum præparabat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2248" type="paragraph">
+	<Coords>
+	<Point x="390" y="1920"/>
+	<Point x="438" y="1919"/>
+	<Point x="520" y="1922"/>
+	<Point x="554" y="1913"/>
+	<Point x="595" y="1914"/>
+	<Point x="610" y="1922"/>
+	<Point x="625" y="1911"/>
+	<Point x="794" y="1911"/>
+	<Point x="875" y="1907"/>
+	<Point x="955" y="1912"/>
+	<Point x="979" y="1919"/>
+	<Point x="996" y="1904"/>
+	<Point x="1036" y="1904"/>
+	<Point x="1071" y="1907"/>
+	<Point x="1088" y="1911"/>
+	<Point x="1113" y="1904"/>
+	<Point x="1199" y="1907"/>
+	<Point x="1272" y="1913"/>
+	<Point x="1289" y="1906"/>
+	<Point x="1318" y="1906"/>
+	<Point x="1320" y="1927"/>
+	<Point x="1313" y="1949"/>
+	<Point x="1209" y="1949"/>
+	<Point x="1208" y="1958"/>
+	<Point x="1202" y="1960"/>
+	<Point x="1190" y="1960"/>
+	<Point x="1190" y="1949"/>
+	<Point x="1041" y="1950"/>
+	<Point x="1034" y="1961"/>
+	<Point x="1030" y="1965"/>
+	<Point x="1024" y="1966"/>
+	<Point x="1018" y="1963"/>
+	<Point x="1014" y="1951"/>
+	<Point x="818" y="1955"/>
+	<Point x="658" y="1955"/>
+	<Point x="649" y="1964"/>
+	<Point x="627" y="1970"/>
+	<Point x="596" y="1969"/>
+	<Point x="591" y="1957"/>
+	<Point x="507" y="1960"/>
+	<Point x="505" y="1965"/>
+	<Point x="501" y="1968"/>
+	<Point x="496" y="1970"/>
+	<Point x="488" y="1971"/>
+	<Point x="482" y="1969"/>
+	<Point x="478" y="1969"/>
+	<Point x="467" y="1961"/>
+	<Point x="457" y="1961"/>
+	<Point x="454" y="1967"/>
+	<Point x="449" y="1969"/>
+	<Point x="444" y="1971"/>
+	<Point x="436" y="1970"/>
+	<Point x="432" y="1965"/>
+	<Point x="432" y="1960"/>
+	<Point x="389" y="1959"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czy godzi ę w Taiemnicach Boſkich sżperat?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2249" type="paragraph">
+	<Coords>
+	<Point x="261" y="1968"/>
+	<Point x="348" y="1970"/>
+	<Point x="430" y="1977"/>
+	<Point x="453" y="1973"/>
+	<Point x="508" y="1973"/>
+	<Point x="552" y="1969"/>
+	<Point x="586" y="1974"/>
+	<Point x="642" y="1975"/>
+	<Point x="722" y="1971"/>
+	<Point x="749" y="1962"/>
+	<Point x="839" y="1962"/>
+	<Point x="926" y="1963"/>
+	<Point x="985" y="1963"/>
+	<Point x="1012" y="1971"/>
+	<Point x="1050" y="1973"/>
+	<Point x="1064" y="1961"/>
+	<Point x="1138" y="1962"/>
+	<Point x="1184" y="1969"/>
+	<Point x="1259" y="1971"/>
+	<Point x="1284" y="1959"/>
+	<Point x="1407" y="1963"/>
+	<Point x="1525" y="1951"/>
+	<Point x="1608" y="1954"/>
+	<Point x="1685" y="1964"/>
+	<Point x="1687" y="1990"/>
+	<Point x="1673" y="2003"/>
+	<Point x="1469" y="2001"/>
+	<Point x="1465" y="2009"/>
+	<Point x="1460" y="2014"/>
+	<Point x="1445" y="2013"/>
+	<Point x="1438" y="2001"/>
+	<Point x="1343" y="2005"/>
+	<Point x="1234" y="2005"/>
+	<Point x="1226" y="2010"/>
+	<Point x="1213" y="2006"/>
+	<Point x="1192" y="2005"/>
+	<Point x="1069" y="2008"/>
+	<Point x="1062" y="2015"/>
+	<Point x="1053" y="2018"/>
+	<Point x="1044" y="2015"/>
+	<Point x="1037" y="2007"/>
+	<Point x="973" y="2011"/>
+	<Point x="807" y="2012"/>
+	<Point x="625" y="2016"/>
+	<Point x="354" y="2019"/>
+	<Point x="352" y="2030"/>
+	<Point x="350" y="2031"/>
+	<Point x="341" y="2032"/>
+	<Point x="336" y="2031"/>
+	<Point x="333" y="2019"/>
+	<Point x="274" y="2022"/>
+	<Point x="262" y="2019"/>
+	<Point x="258" y="1998"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Odpowiada Innocentius III: Credere jubemur, discutere prohibemur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2250" type="paragraph">
+	<Coords>
+	<Point x="261" y="2031"/>
+	<Point x="304" y="2030"/>
+	<Point x="331" y="2034"/>
+	<Point x="349" y="2035"/>
+	<Point x="389" y="2036"/>
+	<Point x="446" y="2034"/>
+	<Point x="463" y="2026"/>
+	<Point x="523" y="2026"/>
+	<Point x="608" y="2023"/>
+	<Point x="1053" y="2023"/>
+	<Point x="1189" y="2025"/>
+	<Point x="1276" y="2019"/>
+	<Point x="1338" y="2017"/>
+	<Point x="1398" y="2013"/>
+	<Point x="1427" y="2016"/>
+	<Point x="1458" y="2021"/>
+	<Point x="1471" y="2014"/>
+	<Point x="1597" y="2013"/>
+	<Point x="1743" y="2018"/>
+	<Point x="1746" y="2043"/>
+	<Point x="1744" y="2060"/>
+	<Point x="1726" y="2062"/>
+	<Point x="1596" y="2059"/>
+	<Point x="1594" y="2066"/>
+	<Point x="1587" y="2070"/>
+	<Point x="1579" y="2066"/>
+	<Point x="1576" y="2062"/>
+	<Point x="1453" y="2076"/>
+	<Point x="1361" y="2081"/>
+	<Point x="1173" y="2084"/>
+	<Point x="815" y="2088"/>
+	<Point x="736" y="2088"/>
+	<Point x="734" y="2122"/>
+	<Point x="727" y="2131"/>
+	<Point x="703" y="2132"/>
+	<Point x="604" y="2135"/>
+	<Point x="484" y="2134"/>
+	<Point x="475" y="2150"/>
+	<Point x="446" y="2150"/>
+	<Point x="419" y="2139"/>
+	<Point x="229" y="2140"/>
+	<Point x="226" y="2153"/>
+	<Point x="205" y="2153"/>
+	<Point x="195" y="2146"/>
+	<Point x="195" y="2100"/>
+	<Point x="259" y="2093"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>S Auguyna zbytnie in Divinis curiosum przerzegł Anioł, morze
+przelewáiący w dołek.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2251" type="catch-word">
+	<Coords>
+	<Point x="1567" y="2073"/>
+	<Point x="1567" y="2119"/>
+	<Point x="1696" y="2119"/>
+	<Point x="1696" y="2073"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Mente</Unicode></TextEquiv></TextRegion></Page></PcGts>

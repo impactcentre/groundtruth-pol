@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436531" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:48:57</Created>
+	<LastChange>2011-08-24T06:05:33</LastChange></Metadata>
+	<Page imageFilename="00436531.tif" imageHeight="3833" imageWidth="2406">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r83"/>
+	<RegionRefIndexed index="1" regionRef="r84"/>
+	<RegionRefIndexed index="2" regionRef="r85"/>
+	<RegionRefIndexed index="3" regionRef="r86"/>
+	<RegionRefIndexed index="4" regionRef="r87"/>
+	<RegionRefIndexed index="5" regionRef="r89"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r83" type="heading">
+	<Coords>
+	<Point x="1030" y="361"/>
+	<Point x="1030" y="464"/>
+	<Point x="1259" y="464"/>
+	<Point x="1259" y="361"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="heading">
+	<Coords>
+	<Point x="128" y="504"/>
+	<Point x="128" y="702"/>
+	<Point x="2130" y="702"/>
+	<Point x="2130" y="504"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MODELLVSZ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r85" type="heading">
+	<Coords>
+	<Point x="228" y="728"/>
+	<Point x="228" y="847"/>
+	<Point x="2033" y="847"/>
+	<Point x="2033" y="728"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ARYTHMETYCZNY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="heading">
+	<Coords>
+	<Point x="747" y="876"/>
+	<Point x="747" y="966"/>
+	<Point x="1495" y="966"/>
+	<Point x="1495" y="876"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W KTORYM</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r87" type="heading">
+	<Coords>
+	<Point x="119" y="992"/>
+	<Point x="119" y="1997"/>
+	<Point x="2126" y="1997"/>
+	<Point x="2126" y="992"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Summaryuſz Generálny Roczney Intraty,
+według IV. MODELLVSZV
+kalkulatiey Vrzɇdnikowey, ábo Pro‑
+wentoẃego Piſárzá: przez iákie Dy‑
+inkcye y ſpecyﬁkácye, ma reálnie
+deduis expens pokażáć In‑
+tratę Rocznⱥ?</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r88" type="other">
+	<Coords>
+	<Point x="219" y="2004"/>
+	<Point x="219" y="3383"/>
+	<Point x="2009" y="3383"/>
+	<Point x="2009" y="2004"/></Coords></GraphicRegion>
+	<TextRegion id="r89" type="catch-word">
+	<Coords>
+	<Point x="1790" y="3407"/>
+	<Point x="1790" y="3485"/>
+	<Point x="2054" y="3485"/>
+	<Point x="2054" y="3407"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Summa‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

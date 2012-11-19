@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436127" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T00:55:26</Created>
+	<LastChange>2011-11-03T08:40:44</LastChange></Metadata>
+	<Page imageFilename="00436127.tif" imageHeight="2793" imageWidth="2087">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r21"/>
+	<RegionRefIndexed index="1" regionRef="r23"/>
+	<RegionRefIndexed index="2" regionRef="r24"/>
+	<RegionRefIndexed index="3" regionRef="r25"/>
+	<RegionRefIndexed index="4" regionRef="r26"/>
+	<RegionRefIndexed index="5" regionRef="r27"/>
+	<RegionRefIndexed index="6" regionRef="r28"/>
+	<RegionRefIndexed index="7" regionRef="r29"/>
+	<RegionRefIndexed index="8" regionRef="r30"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r20" textColour="black" type="header">
+	<Coords>
+	<Point x="1014" y="133"/>
+	<Point x="1014" y="233"/>
+	<Point x="1479" y="233"/>
+	<Point x="1479" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przedmowá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="2014" y="835"/>
+	<Point x="2014" y="239"/>
+	<Point x="462" y="239"/>
+	<Point x="462" y="835"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>że W. M. moy Młśćiwy Pan, to źrzodło
+wody w tych kśiⱥżkách weſoło y wdźięcżnie
+prziymie , y mnie w łáſce ſwey, iáko W. M.
+pocżⱥł , do końcá będźie chował. Dat: we
+Lwowie w Kámienicy moiey, 26. Ianuar.
+Roku Páńſkiego. 1617.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="1837" y="1100"/>
+	<Point x="1837" y="870"/>
+	<Point x="893" y="870"/>
+	<Point x="893" y="1100"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W. M. me° �����go Pánȧ
+vniżony ugȧ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="1331" y="1133"/>
+	<Point x="1331" y="1229"/>
+	<Point x="1941" y="1229"/>
+	<Point x="1941" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>D. Eraſmus Sixtus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" textColour="black" type="heading">
+	<Coords>
+	<Point x="483" y="1291"/>
+	<Point x="483" y="1389"/>
+	<Point x="1995" y="1389"/>
+	<Point x="1995" y="1291"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SIMON SIMONIDES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" textColour="black" type="heading">
+	<Coords>
+	<Point x="593" y="1410"/>
+	<Point x="593" y="1489"/>
+	<Point x="1875" y="1489"/>
+	<Point x="1875" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SIXTO LEOPOLIEN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" textColour="black" type="heading">
+	<Coords>
+	<Point x="950" y="1493"/>
+	<Point x="950" y="1562"/>
+	<Point x="1587" y="1562"/>
+	<Point x="1587" y="1493"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Medico Excellenti.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="475" y="1550"/>
+	<Point x="475" y="1779"/>
+	<Point x="714" y="1779"/>
+	<Point x="714" y="1550"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>N</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="722" y="1600"/>
+	<Point x="722" y="1797"/>
+	<Point x="473" y="1797"/>
+	<Point x="473" y="2588"/>
+	<Point x="715" y="2588"/>
+	<Point x="715" y="2568"/>
+	<Point x="2022" y="2568"/>
+	<Point x="2022" y="1600"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Æ multum, Optime Sixte, næ ſatis plus,
+Thermarum tibi debeant ﬂuenta ,
+�uæ tellus gre��� ſ�o Polona
+Fundit. Nam ne lege , nota nulli,
+Et ne artis ope haenus meabant
+Ingnita, benignitate ſola
+Naturæ : vbus haud ſat expedita
+Humanis veluti rudis metalli ,
+Terræ viſcera dum tenetur intrà
+Maa iners , pretio leui æimatur;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1764" y="2581"/>
+	<Point x="1764" y="2670"/>
+	<Point x="1997" y="2670"/>
+	<Point x="1997" y="2581"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Donec</Unicode></TextEquiv></TextRegion></Page></PcGts>

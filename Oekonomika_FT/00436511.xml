@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436511" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:40:22</Created>
+	<LastChange>2011-08-23T09:54:54</LastChange></Metadata>
+	<Page imageFilename="00436511.tif" imageHeight="3788" imageWidth="2395">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r180"/>
+	<RegionRefIndexed index="1" regionRef="r182"/>
+	<RegionRefIndexed index="2" regionRef="r184"/>
+	<RegionRefIndexed index="3" regionRef="r186"/>
+	<RegionRefIndexed index="4" regionRef="r188"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r180" type="heading">
+	<Coords>
+	<Point x="319" y="347"/>
+	<Point x="319" y="480"/>
+	<Point x="1961" y="480"/>
+	<Point x="1961" y="347"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dobytku, tákże y Drobiu Folwárcznego.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r181">
+	<Coords>
+	<Point x="78" y="497"/>
+	<Point x="78" y="1078"/>
+	<Point x="1766" y="1064"/>
+	<Point x="2240" y="1078"/>
+	<Point x="2240" y="497"/></Coords></TableRegion>
+	<TextRegion id="r182" type="heading">
+	<Coords>
+	<Point x="1738" y="1085"/>
+	<Point x="1738" y="1214"/>
+	<Point x="623" y="1214"/>
+	<Point x="623" y="1085"/>
+	<Point x="1614" y="1078"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>y Pożytkow poráchowánie.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r183">
+	<Coords>
+	<Point x="2247" y="1226"/>
+	<Point x="2250" y="1911"/>
+	<Point x="88" y="1911"/>
+	<Point x="88" y="1233"/></Coords></TableRegion>
+	<TextRegion id="r184" type="heading">
+	<Coords>
+	<Point x="802" y="1926"/>
+	<Point x="802" y="2047"/>
+	<Point x="1507" y="2047"/>
+	<Point x="1507" y="1926"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Wieprzow Ratio.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r185">
+	<Coords>
+	<Point x="100" y="2071"/>
+	<Point x="100" y="2433"/>
+	<Point x="2252" y="2433"/>
+	<Point x="2252" y="2071"/>
+	<Point x="1742" y="2061"/></Coords></TableRegion>
+	<TextRegion id="r186" type="heading">
+	<Coords>
+	<Point x="654" y="2440"/>
+	<Point x="654" y="2576"/>
+	<Point x="1669" y="2576"/>
+	<Point x="1669" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Chlewnego Bydłá Ratio.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r187">
+	<Coords>
+	<Point x="104" y="2590"/>
+	<Point x="104" y="3107"/>
+	<Point x="2252" y="3107"/>
+	<Point x="2252" y="2590"/>
+	<Point x="1714" y="2585"/></Coords></TableRegion>
+	<TextRegion id="r188" type="catch-word">
+	<Coords>
+	<Point x="1876" y="3321"/>
+	<Point x="1876" y="3423"/>
+	<Point x="2169" y="3423"/>
+	<Point x="2169" y="3321"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nabiał</Unicode></TextEquiv></TextRegion></Page></PcGts>

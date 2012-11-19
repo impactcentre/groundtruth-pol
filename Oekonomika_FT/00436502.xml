@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436502" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:38:00</Created>
+	<LastChange>2011-08-24T08:18:22</LastChange></Metadata>
+	<Page imageFilename="00436502.tif" imageHeight="3774" imageWidth="2391">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r125"/>
+	<RegionRefIndexed index="1" regionRef="r126"/>
+	<RegionRefIndexed index="2" regionRef="r128"/>
+	<RegionRefIndexed index="3" regionRef="r130"/>
+	<RegionRefIndexed index="4" regionRef="r131"/>
+	<RegionRefIndexed index="5" regionRef="r133"/>
+	<RegionRefIndexed index="6" regionRef="r134"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r125" type="heading">
+	<Coords>
+	<Point x="226" y="204"/>
+	<Point x="226" y="347"/>
+	<Point x="964" y="347"/>
+	<Point x="964" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Owſá Creſcencya.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r126" type="paragraph">
+	<Coords>
+	<Point x="345" y="433"/>
+	<Point x="345" y="807"/>
+	<Point x="1919" y="807"/>
+	<Point x="1919" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zwieźiono ná Folwárk A. Kop nro. 75. Snopow 36.
+Item Ná Folwárk B. Kop nro. 41. Snopow 30.
+Ná Folwárk C. Kop nro. 100. Snopow ‑ ‑</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r127">
+	<Coords>
+	<Point x="802" y="838"/>
+	<Point x="802" y="885"/>
+	<Point x="1978" y="885"/>
+	<Point x="1978" y="838"/></Coords></SeparatorRegion>
+	<TextRegion id="r128" type="paragraph">
+	<Coords>
+	<Point x="888" y="923"/>
+	<Point x="888" y="1023"/>
+	<Point x="1902" y="1023"/>
+	<Point x="1902" y="923"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Latus Kop nro. 217. Snopow 6.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r129">
+	<Coords>
+	<Point x="23" y="1200"/>
+	<Point x="23" y="2369"/>
+	<Point x="2280" y="2369"/>
+	<Point x="2280" y="1200"/></Coords></TableRegion>
+	<TextRegion id="r130" type="paragraph">
+	<Coords>
+	<Point x="278" y="2435"/>
+	<Point x="278" y="2528"/>
+	<Point x="714" y="2528"/>
+	<Point x="714" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Comput tego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r131" type="paragraph">
+	<Coords>
+	<Point x="1990" y="2528"/>
+	<Point x="1990" y="3014"/>
+	<Point x="126" y="3033"/>
+	<Point x="128" y="2561"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nà śiewy w pomienionych Folwàrkách Cwiertni 84. 1./3.
+Nà Ordynárye Vrzɇdnikowi, Goſpodarzom ‑ ‑ C. 10. ‑ ‑
+Ná Słody Piwne y Gorzałcáne ‑ ‑ ‑ ‑ C. 43. 2./3.
+Reat Nà Intratɇ do ſpiniɇźenia ‑ ‑ ‑ ‑ ‑ ‑ C. 157. 2./3.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r132">
+	<Coords>
+	<Point x="976" y="3040"/>
+	<Point x="976" y="3078"/>
+	<Point x="1707" y="3069"/>
+	<Point x="1992" y="3057"/>
+	<Point x="2100" y="3059"/>
+	<Point x="2097" y="3030"/></Coords></SeparatorRegion>
+	<TextRegion id="r133" type="paragraph">
+	<Coords>
+	<Point x="992" y="3102"/>
+	<Point x="995" y="3190"/>
+	<Point x="2000" y="3190"/>
+	<Point x="1995" y="3064"/>
+	<Point x="1926" y="3066"/>
+	<Point x="1890" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Concordat vtra Summa 295. 2./3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r134" type="catch-word">
+	<Coords>
+	<Point x="1883" y="3204"/>
+	<Point x="1883" y="3311"/>
+	<Point x="2154" y="3311"/>
+	<Point x="2154" y="3204"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tátár‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

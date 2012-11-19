@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00435958" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T10:59:46</Created>
+	<LastChange>2011-10-17T13:56:29</LastChange></Metadata>
+	<Page imageFilename="00435958.tif" imageHeight="2332" imageWidth="1899">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r373"/>
+	<RegionRefIndexed index="1" regionRef="r367"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r347" type="page-number">
+	<Coords>
+	<Point x="1670" y="93"/>
+	<Point x="1670" y="165"/>
+	<Point x="1657" y="165"/>
+	<Point x="1657" y="164"/>
+	<Point x="1624" y="164"/>
+	<Point x="1624" y="163"/>
+	<Point x="1591" y="163"/>
+	<Point x="1591" y="162"/>
+	<Point x="1558" y="162"/>
+	<Point x="1558" y="161"/>
+	<Point x="1541" y="161"/>
+	<Point x="1541" y="126"/>
+	<Point x="1540" y="126"/>
+	<Point x="1540" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>474</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r355" type="header">
+	<Coords>
+	<Point x="1309" y="93"/>
+	<Point x="1309" y="102"/>
+	<Point x="1310" y="102"/>
+	<Point x="1310" y="120"/>
+	<Point x="1311" y="120"/>
+	<Point x="1311" y="137"/>
+	<Point x="1312" y="137"/>
+	<Point x="1312" y="155"/>
+	<Point x="1313" y="155"/>
+	<Point x="1313" y="167"/>
+	<Point x="1297" y="167"/>
+	<Point x="1297" y="168"/>
+	<Point x="1269" y="168"/>
+	<Point x="1269" y="169"/>
+	<Point x="1241" y="169"/>
+	<Point x="1241" y="170"/>
+	<Point x="1214" y="170"/>
+	<Point x="1214" y="171"/>
+	<Point x="1186" y="171"/>
+	<Point x="1186" y="172"/>
+	<Point x="1159" y="172"/>
+	<Point x="1159" y="173"/>
+	<Point x="1131" y="173"/>
+	<Point x="1131" y="174"/>
+	<Point x="1103" y="174"/>
+	<Point x="1103" y="175"/>
+	<Point x="1020" y="175"/>
+	<Point x="1020" y="176"/>
+	<Point x="936" y="176"/>
+	<Point x="936" y="177"/>
+	<Point x="852" y="177"/>
+	<Point x="852" y="178"/>
+	<Point x="811" y="178"/>
+	<Point x="811" y="177"/>
+	<Point x="598" y="177"/>
+	<Point x="598" y="178"/>
+	<Point x="454" y="178"/>
+	<Point x="454" y="142"/>
+	<Point x="455" y="142"/>
+	<Point x="455" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Całego świata, præcipuè o CHANAAN</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r359">
+	<Coords>
+	<Point x="1523" y="162"/>
+	<Point x="1523" y="163"/>
+	<Point x="1556" y="163"/>
+	<Point x="1556" y="164"/>
+	<Point x="1589" y="164"/>
+	<Point x="1589" y="165"/>
+	<Point x="1622" y="165"/>
+	<Point x="1622" y="166"/>
+	<Point x="1655" y="166"/>
+	<Point x="1655" y="167"/>
+	<Point x="1670" y="167"/>
+	<Point x="1670" y="177"/>
+	<Point x="1641" y="177"/>
+	<Point x="1641" y="178"/>
+	<Point x="1606" y="178"/>
+	<Point x="1606" y="179"/>
+	<Point x="1571" y="179"/>
+	<Point x="1571" y="180"/>
+	<Point x="1536" y="180"/>
+	<Point x="1536" y="181"/>
+	<Point x="1501" y="181"/>
+	<Point x="1501" y="182"/>
+	<Point x="1466" y="182"/>
+	<Point x="1466" y="183"/>
+	<Point x="1431" y="183"/>
+	<Point x="1431" y="184"/>
+	<Point x="1395" y="184"/>
+	<Point x="1395" y="185"/>
+	<Point x="1335" y="185"/>
+	<Point x="1335" y="186"/>
+	<Point x="1274" y="186"/>
+	<Point x="1274" y="187"/>
+	<Point x="1213" y="187"/>
+	<Point x="1213" y="188"/>
+	<Point x="1153" y="188"/>
+	<Point x="1153" y="189"/>
+	<Point x="1092" y="189"/>
+	<Point x="1092" y="190"/>
+	<Point x="1031" y="190"/>
+	<Point x="1031" y="191"/>
+	<Point x="508" y="191"/>
+	<Point x="508" y="192"/>
+	<Point x="491" y="192"/>
+	<Point x="491" y="193"/>
+	<Point x="410" y="194"/>
+	<Point x="332" y="199"/>
+	<Point x="251" y="202"/>
+	<Point x="251" y="201"/>
+	<Point x="200" y="201"/>
+	<Point x="200" y="200"/>
+	<Point x="148" y="200"/>
+	<Point x="148" y="199"/>
+	<Point x="106" y="199"/>
+	<Point x="106" y="180"/>
+	<Point x="600" y="180"/>
+	<Point x="600" y="179"/>
+	<Point x="809" y="179"/>
+	<Point x="809" y="180"/>
+	<Point x="854" y="180"/>
+	<Point x="854" y="179"/>
+	<Point x="938" y="179"/>
+	<Point x="938" y="178"/>
+	<Point x="1022" y="178"/>
+	<Point x="1022" y="177"/>
+	<Point x="1105" y="177"/>
+	<Point x="1105" y="176"/>
+	<Point x="1133" y="176"/>
+	<Point x="1133" y="175"/>
+	<Point x="1161" y="175"/>
+	<Point x="1161" y="174"/>
+	<Point x="1188" y="174"/>
+	<Point x="1188" y="173"/>
+	<Point x="1216" y="173"/>
+	<Point x="1216" y="172"/>
+	<Point x="1243" y="172"/>
+	<Point x="1243" y="171"/>
+	<Point x="1271" y="171"/>
+	<Point x="1271" y="170"/>
+	<Point x="1299" y="170"/>
+	<Point x="1299" y="169"/>
+	<Point x="1326" y="169"/>
+	<Point x="1326" y="168"/>
+	<Point x="1354" y="168"/>
+	<Point x="1354" y="167"/>
+	<Point x="1381" y="167"/>
+	<Point x="1381" y="166"/>
+	<Point x="1409" y="166"/>
+	<Point x="1409" y="165"/>
+	<Point x="1436" y="165"/>
+	<Point x="1436" y="164"/>
+	<Point x="1464" y="164"/>
+	<Point x="1464" y="163"/>
+	<Point x="1492" y="163"/>
+	<Point x="1492" y="162"/></Coords></SeparatorRegion>
+	<TextRegion id="r363" type="signature-mark">
+	<Coords>
+	<Point x="922" y="2078"/>
+	<Point x="922" y="2138"/>
+	<Point x="771" y="2138"/>
+	<Point x="771" y="2078"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nnn</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r367" type="catch-word">
+	<Coords>
+	<Point x="1534" y="2079"/>
+	<Point x="1534" y="2080"/>
+	<Point x="1610" y="2080"/>
+	<Point x="1610" y="2081"/>
+	<Point x="1670" y="2081"/>
+	<Point x="1670" y="2138"/>
+	<Point x="1462" y="2138"/>
+	<Point x="1462" y="2110"/>
+	<Point x="1461" y="2110"/>
+	<Point x="1461" y="2079"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>mus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r373" type="paragraph">
+	<Coords>
+	<Point x="1670" y="179"/>
+	<Point x="1670" y="2079"/>
+	<Point x="1612" y="2079"/>
+	<Point x="1612" y="2078"/>
+	<Point x="1536" y="2078"/>
+	<Point x="1536" y="2077"/>
+	<Point x="1459" y="2077"/>
+	<Point x="1459" y="2084"/>
+	<Point x="1299" y="2084"/>
+	<Point x="1299" y="2085"/>
+	<Point x="1106" y="2085"/>
+	<Point x="1106" y="2086"/>
+	<Point x="924" y="2086"/>
+	<Point x="924" y="2076"/>
+	<Point x="769" y="2076"/>
+	<Point x="769" y="2100"/>
+	<Point x="721" y="2100"/>
+	<Point x="721" y="2099"/>
+	<Point x="651" y="2099"/>
+	<Point x="651" y="2098"/>
+	<Point x="581" y="2098"/>
+	<Point x="581" y="2097"/>
+	<Point x="511" y="2097"/>
+	<Point x="511" y="2096"/>
+	<Point x="441" y="2096"/>
+	<Point x="441" y="2095"/>
+	<Point x="371" y="2095"/>
+	<Point x="371" y="2094"/>
+	<Point x="301" y="2094"/>
+	<Point x="301" y="2093"/>
+	<Point x="228" y="2108"/>
+	<Point x="161" y="2092"/>
+	<Point x="161" y="2091"/>
+	<Point x="106" y="2091"/>
+	<Point x="106" y="201"/>
+	<Point x="146" y="201"/>
+	<Point x="146" y="202"/>
+	<Point x="198" y="202"/>
+	<Point x="198" y="203"/>
+	<Point x="249" y="203"/>
+	<Point x="249" y="204"/>
+	<Point x="301" y="204"/>
+	<Point x="301" y="205"/>
+	<Point x="315" y="205"/>
+	<Point x="315" y="204"/>
+	<Point x="328" y="204"/>
+	<Point x="328" y="203"/>
+	<Point x="342" y="203"/>
+	<Point x="342" y="202"/>
+	<Point x="355" y="202"/>
+	<Point x="355" y="201"/>
+	<Point x="378" y="201"/>
+	<Point x="378" y="200"/>
+	<Point x="401" y="200"/>
+	<Point x="401" y="199"/>
+	<Point x="424" y="199"/>
+	<Point x="424" y="198"/>
+	<Point x="447" y="198"/>
+	<Point x="447" y="197"/>
+	<Point x="470" y="197"/>
+	<Point x="470" y="196"/>
+	<Point x="493" y="196"/>
+	<Point x="493" y="194"/>
+	<Point x="510" y="194"/>
+	<Point x="510" y="193"/>
+	<Point x="1033" y="193"/>
+	<Point x="1033" y="192"/>
+	<Point x="1094" y="192"/>
+	<Point x="1094" y="191"/>
+	<Point x="1155" y="191"/>
+	<Point x="1155" y="190"/>
+	<Point x="1215" y="190"/>
+	<Point x="1215" y="189"/>
+	<Point x="1276" y="189"/>
+	<Point x="1276" y="188"/>
+	<Point x="1337" y="188"/>
+	<Point x="1337" y="187"/>
+	<Point x="1397" y="187"/>
+	<Point x="1397" y="186"/>
+	<Point x="1433" y="186"/>
+	<Point x="1433" y="185"/>
+	<Point x="1468" y="185"/>
+	<Point x="1468" y="184"/>
+	<Point x="1503" y="184"/>
+	<Point x="1503" y="183"/>
+	<Point x="1538" y="183"/>
+	<Point x="1538" y="182"/>
+	<Point x="1573" y="182"/>
+	<Point x="1573" y="181"/>
+	<Point x="1608" y="181"/>
+	<Point x="1608" y="180"/>
+	<Point x="1643" y="180"/>
+	<Point x="1643" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O tey JUDEI maſz niżey, y o Obywatelach obſzerny dyſkurs.
+GALILÆA ex vi Nominis iednoż ie, co Volubilis, Kray Zie‑
+mi obiecaney, y czɇść Syrii; od pułnocy, má tɇż Syriɇ, albo
+Fenicyɇ y Libán, od Południȧ Samariɇ, y gorɇ Kármel, od
+Wſchodu Jordan rzekę, od Zachodu morze wielkie, albo Za‑
+chodnie. Doała ę Pokoleniom wyżey namienionym. Od
+rony pułnocney, zwała ɇ GALILÆA Gentium, albo Wyżſza,
+ktorey Stolica Capharnaum: nazwana Gentium, aliàs Pogańſka, iż
+Hiram Krolowi Tyru Poganinowi uⱥpiona była od Salomo‑
+na, y od Pogan mieſzkana była, 3. Regum cap: 9. Druga, iż tu
+było mnowo Narodow, bo naymnieyſza Wioſka miała po
+15000. Obywatelow, a wioſek takich było 204. iako świadczy
+Joſephus in vita ſua. Ze tu Chryus przemieſzkiwał, zwany
+Galileyczykiem: ztⱥd Piotr y Jędrzey, Galileyczykowie: ztąd
+naypierwſze łupy Chryuſowe, według Izaiaſza Proroka cap: 9.
+ 1. Primo tempore, alleviata eﬆ terra Zabulon, &amp; terra Nephtali;
+to ie, dało Niebo ulgę tym Pokoleniom zbawienną, leżącym
+w Galilei. Tu Chryus Pan zaczⱥł ſwoiⱥ Ewangeliɇ: Exinde
+cæpit JESUS prædicare, Math: cap: 4.  17. Tu ie Genezareth,
+albo morze Tyberiackie, daley opiſane. Druga była GALILÆA
+niżſza, w ktorey Nazáreth Miao. Galileyczykowie byli igno‑
+biles: od nich ɇ Proroka nieſpodziewano: ztⱥd Sekta Judy
+Galileyczyka, zakazuiⱥca Ludowi Bożemu, dawać trybut Ce‑
+ſarzowi Rzymſkiemu. Tu panował Herod Antipas, ktory Chry‑
+uſa wyśmiał, Jana S. ściąć kazał. SAMARIA, Kray leżⱥcy
+miɇdzy judeą, y Galileą, gdzie było Krolewo dzieɇciu Po‑
+kolenia oderwanych od Judy, zwane Regnum Iſràél, maiące ſwo‑
+ich Krolow, zaczⱥwſzy od Jeroboáma, Syna Salomonowego,
+aż do zburzenia tegoż Krolewa, przez Nábuchonodozora Mo‑
+narchɇ Babylońſkiego; od tego czaſu, iuż Izraelitow Krolewa
+inauditum nomen, bo iedni wygineli w niewoli, drudzy rozpro‑
+ſzeni, to w Ayrii, to w Armenii, to z Zydami unam Gentem u‑
+czynili: A tak ę ſpełniły owa Proroka Amoſa, cap: 5.  1. Do‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

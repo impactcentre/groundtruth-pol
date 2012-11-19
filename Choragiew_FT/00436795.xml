@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436795" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T01:52:53</Created>
+	<LastChange>2011-09-06T02:44:11</LastChange></Metadata>
+	<Page imageFilename="00436795.tif" imageHeight="3192" imageWidth="2266">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r87"/>
+	<RegionRefIndexed index="1" regionRef="r88"/>
+	<RegionRefIndexed index="2" regionRef="r89"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r87" textColour="black" type="heading">
+	<Coords>
+	<Point x="330" y="680"/>
+	<Point x="330" y="812"/>
+	<Point x="374" y="846"/>
+	<Point x="1090" y="881"/>
+	<Point x="1479" y="867"/>
+	<Point x="1952" y="827"/>
+	<Point x="2030" y="812"/>
+	<Point x="2030" y="680"/>
+	<Point x="1884" y="662"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Do łáskáwego Czytelniká.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="202" y="905"/>
+	<Point x="202" y="1054"/>
+	<Point x="325" y="1055"/>
+	<Point x="330" y="916"/>
+	<Point x="327" y="905"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="326" y="1062"/>
+	<Point x="172" y="1060"/>
+	<Point x="177" y="2227"/>
+	<Point x="2032" y="2227"/>
+	<Point x="2032" y="937"/>
+	<Point x="1750" y="917"/>
+	<Point x="1449" y="914"/>
+	<Point x="340" y="931"/>
+	<Point x="340" y="1062"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rziymi to wdżiɇcznie Czytelniku miły/
+Náco miɇ Muzy moiepobudźiły.
+W rożnych ɇ rzeczách/ ludźie dźiś kocháiⱥ :
+Iedni ſolutɇ/ drudzy wierß czytáiⱥ.
+Ia dwu Authorow przy dłuzße zabáwy
+W ćiⱥź przeczytawßy : tey Marſowey ſpráwy.
+Obroćiłem też ná wierß pioro moie/
+Lecz nie ták iák ktoś / piſał gɇśie boie.
+Iáſnⱥ rzecz głoßɇ / bom też pátrzył ná to/
+Gdy Woyſká ſwoie Mars áwił czubáto:
+Przeto com widźiał/ to piorem ſwym głoßɇ/
+A ztym bⱥdź łáſkaw poáremu proßɇ.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r90" type="other">
+	<Coords>
+	<Point x="837" y="2482"/>
+	<Point x="837" y="2780"/>
+	<Point x="1090" y="2780"/>
+	<Point x="1079" y="2662"/>
+	<Point x="1054" y="2553"/>
+	<Point x="1054" y="2486"/>
+	<Point x="1064" y="2479"/></Coords></GraphicRegion>
+	<GraphicRegion id="r91" type="handwritten-annotation">
+	<Coords>
+	<Point x="870" y="2322"/>
+	<Point x="870" y="2445"/>
+	<Point x="1355" y="2445"/>
+	<Point x="1355" y="2322"/></Coords></GraphicRegion>
+	<GraphicRegion id="r92" type="handwritten-annotation">
+	<Coords>
+	<Point x="1068" y="2467"/>
+	<Point x="1083" y="2621"/>
+	<Point x="1635" y="2617"/>
+	<Point x="1635" y="2472"/></Coords></GraphicRegion></Page></PcGts>

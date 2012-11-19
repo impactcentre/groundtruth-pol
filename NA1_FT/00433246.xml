@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433246" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T22:46:12</Created>
+	<LastChange>2011-07-21T04:45:14</LastChange></Metadata>
+	<Page imageFilename="00433246.tif" imageHeight="2199" imageWidth="1815">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r308"/>
+	<RegionRefIndexed index="1" regionRef="r309"/>
+	<RegionRefIndexed index="2" regionRef="r310"/>
+	<RegionRefIndexed index="3" regionRef="r311"/>
+	<RegionRefIndexed index="4" regionRef="r312"/>
+	<RegionRefIndexed index="5" regionRef="r323"/>
+	<RegionRefIndexed index="6" regionRef="r325"/>
+	<RegionRefIndexed index="7" regionRef="r319"/>
+	<RegionRefIndexed index="8" regionRef="r321"/>
+	<RegionRefIndexed index="9" regionRef="r315"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r305" type="page-number">
+	<Coords>
+	<Point x="194" y="73"/>
+	<Point x="196" y="113"/>
+	<Point x="257" y="113"/>
+	<Point x="257" y="73"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>154</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r306" type="other">
+	<Coords>
+	<Point x="789" y="63"/>
+	<Point x="794" y="108"/>
+	<Point x="819" y="115"/>
+	<Point x="1121" y="120"/>
+	<Point x="1142" y="89"/>
+	<Point x="1124" y="65"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r307">
+	<Coords>
+	<Point x="272" y="108"/>
+	<Point x="261" y="124"/>
+	<Point x="351" y="123"/>
+	<Point x="576" y="128"/>
+	<Point x="738" y="128"/>
+	<Point x="945" y="131"/>
+	<Point x="1069" y="132"/>
+	<Point x="1200" y="131"/>
+	<Point x="1307" y="133"/>
+	<Point x="1328" y="133"/>
+	<Point x="1392" y="132"/>
+	<Point x="1682" y="140"/>
+	<Point x="1671" y="126"/>
+	<Point x="1425" y="122"/>
+	<Point x="1135" y="123"/>
+	<Point x="809" y="120"/>
+	<Point x="724" y="117"/></Coords></SeparatorRegion>
+	<TextRegion id="r308" type="heading">
+	<Coords>
+	<Point x="214" y="131"/>
+	<Point x="214" y="208"/>
+	<Point x="1634" y="208"/>
+	<Point x="1611" y="142"/>
+	<Point x="1359" y="136"/>
+	<Point x="1326" y="137"/>
+	<Point x="953" y="136"/>
+	<Point x="801" y="131"/>
+	<Point x="629" y="133"/>
+	<Point x="317" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>TYTUŁ DZIEWIȺTY, Tey XIɆGI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r309" type="heading">
+	<Coords>
+	<Point x="180" y="238"/>
+	<Point x="180" y="387"/>
+	<Point x="1685" y="387"/>
+	<Point x="1685" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ATOMY za cáłe GORY,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r310" type="heading">
+	<Coords>
+	<Point x="268" y="417"/>
+	<Point x="268" y="540"/>
+	<Point x="1576" y="540"/>
+	<Point x="1576" y="417"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PROMIENIE za SŁONCE,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r311" type="heading">
+	<Coords>
+	<Point x="370" y="568"/>
+	<Point x="370" y="642"/>
+	<Point x="1489" y="642"/>
+	<Point x="1489" y="568"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>STROMYKI za całe RZEKI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r312" type="heading">
+	<Coords>
+	<Point x="906" y="648"/>
+	<Point x="906" y="702"/>
+	<Point x="1027" y="702"/>
+	<Point x="1027" y="648"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Albo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r315" type="catch-word">
+	<Coords>
+	<Point x="1534" y="1982"/>
+	<Point x="1534" y="2040"/>
+	<Point x="1623" y="2040"/>
+	<Point x="1623" y="1982"/>
+	<Point x="1588" y="1977"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>gio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r319" type="drop-capital">
+	<Coords>
+	<Point x="256" y="868"/>
+	<Point x="256" y="906"/>
+	<Point x="257" y="906"/>
+	<Point x="257" y="909"/>
+	<Point x="258" y="909"/>
+	<Point x="258" y="912"/>
+	<Point x="259" y="912"/>
+	<Point x="259" y="915"/>
+	<Point x="260" y="915"/>
+	<Point x="260" y="918"/>
+	<Point x="261" y="918"/>
+	<Point x="261" y="921"/>
+	<Point x="262" y="921"/>
+	<Point x="262" y="924"/>
+	<Point x="263" y="924"/>
+	<Point x="263" y="927"/>
+	<Point x="264" y="927"/>
+	<Point x="264" y="930"/>
+	<Point x="265" y="930"/>
+	<Point x="265" y="933"/>
+	<Point x="266" y="933"/>
+	<Point x="266" y="935"/>
+	<Point x="267" y="935"/>
+	<Point x="267" y="939"/>
+	<Point x="266" y="939"/>
+	<Point x="266" y="945"/>
+	<Point x="265" y="945"/>
+	<Point x="265" y="951"/>
+	<Point x="264" y="951"/>
+	<Point x="264" y="956"/>
+	<Point x="263" y="956"/>
+	<Point x="263" y="962"/>
+	<Point x="262" y="962"/>
+	<Point x="262" y="968"/>
+	<Point x="261" y="968"/>
+	<Point x="261" y="974"/>
+	<Point x="260" y="974"/>
+	<Point x="260" y="979"/>
+	<Point x="259" y="979"/>
+	<Point x="259" y="985"/>
+	<Point x="258" y="985"/>
+	<Point x="258" y="991"/>
+	<Point x="257" y="991"/>
+	<Point x="257" y="996"/>
+	<Point x="157" y="996"/>
+	<Point x="157" y="868"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r321" type="paragraph">
+	<Coords>
+	<Point x="1682" y="868"/>
+	<Point x="1682" y="1978"/>
+	<Point x="1563" y="1972"/>
+	<Point x="1259" y="1982"/>
+	<Point x="987" y="1988"/>
+	<Point x="472" y="1990"/>
+	<Point x="255" y="1988"/>
+	<Point x="157" y="1978"/>
+	<Point x="157" y="998"/>
+	<Point x="255" y="998"/>
+	<Point x="255" y="999"/>
+	<Point x="258" y="999"/>
+	<Point x="258" y="998"/>
+	<Point x="259" y="998"/>
+	<Point x="259" y="993"/>
+	<Point x="260" y="993"/>
+	<Point x="260" y="987"/>
+	<Point x="261" y="987"/>
+	<Point x="261" y="981"/>
+	<Point x="262" y="981"/>
+	<Point x="262" y="976"/>
+	<Point x="263" y="976"/>
+	<Point x="263" y="970"/>
+	<Point x="264" y="970"/>
+	<Point x="264" y="964"/>
+	<Point x="265" y="964"/>
+	<Point x="265" y="958"/>
+	<Point x="266" y="958"/>
+	<Point x="266" y="953"/>
+	<Point x="267" y="953"/>
+	<Point x="267" y="947"/>
+	<Point x="268" y="947"/>
+	<Point x="268" y="941"/>
+	<Point x="269" y="941"/>
+	<Point x="269" y="933"/>
+	<Point x="268" y="933"/>
+	<Point x="268" y="931"/>
+	<Point x="267" y="931"/>
+	<Point x="267" y="928"/>
+	<Point x="266" y="928"/>
+	<Point x="266" y="925"/>
+	<Point x="265" y="925"/>
+	<Point x="265" y="922"/>
+	<Point x="264" y="922"/>
+	<Point x="264" y="919"/>
+	<Point x="263" y="919"/>
+	<Point x="263" y="916"/>
+	<Point x="262" y="916"/>
+	<Point x="262" y="913"/>
+	<Point x="261" y="913"/>
+	<Point x="261" y="910"/>
+	<Point x="260" y="910"/>
+	<Point x="260" y="907"/>
+	<Point x="259" y="907"/>
+	<Point x="259" y="904"/>
+	<Point x="258" y="904"/>
+	<Point x="258" y="868"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Od Imieniem MATEMATYCZNEY SCYENCYI veniunt 1. Aritmetica,
+2. Geometria. 3. Aronomia, 4. Arologia. 5. Chronographia, álbo Chrono‑
+logia, 6. Geographia, 7. Hydrographia, 8. Horographia, 9 Mechanica, 10.
+Statica. 11. Hydrotechnia, 12. Optica, 13. Architeura 14. Taica, 15. Mu‑
+ca, &amp;c. &amp;c. Tych wſzykich Scyencyi, rzeczy tylko eencyalne, opu‑
+ściwſzy trudności, dla mego opiſzę Czytelnika Naprzod nie będzie to rzecz
+mniey potrzebna, rozeznanemu Czytelnikowi wiedzieć awnieyſzych Mate‑
+matykow, ktorych tu wyliczam: Euclides Geometra, Archimedes Syraku‑
+zańſki, Sfery inwentor, Strabo Geograf, Ptolomæus Krol Egypſki, Geo‑
+grafow y Aronomow Princeps. Wieku drugiego: Carolus Magnus Ceſarz wie‑
+kn. 9 Alhumazar tegoż, wieku Averroes wieku 12. Alfons X. Krol Kaelli, Wie‑
+ku. 13. Mikołay Kopernik Pruſak, Kanonik Warmińſki z Torunia w Rzy‑
+mie uczył Matematyki, wſkrzeł arⱥ Sektę Matematykow trzymaiⱥcych
+Solem pro centro Mundi, potym tę ſwoię iako dánnatam porzucił Sentencyę,
+umarł 1543. Clavius Bambergenſki Jezuita z Frankonii w Konimbrice, w
+Luzytanii, y w Rzymie Matematyki admirandus Profeor, z takⱥ od wſzy‑
+kich Scyencyi iego approbacyⱥ, że Tych� Bracho, y Maginus, głowni Ma‑
+temátycy iako Oraculum iego radzili ę. Grzegorz XIII Papież poprawę
+Starego Juliuſzowego Kalendarza iemu zlecił. Umarł Roku 1612. w Rzy‑
+mie. Tycho Brache tegoż wieku, Gvillelmus Lancgraﬀ Hayi, z tym Tycho‑
+nem de palma primatus certuiⱥcy: Kapplerus Wittemberſki trzech Ceſarzow Ma‑
+cieia, Rudolfá, y Ferdynanda li. Mátematyk, żyiⱥcy tegoż Wieku 16. Re‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r323" type="heading">
+	<Coords>
+	<Point x="1525" y="721"/>
+	<Point x="1525" y="767"/>
+	<Point x="1513" y="767"/>
+	<Point x="1513" y="768"/>
+	<Point x="1478" y="768"/>
+	<Point x="1478" y="769"/>
+	<Point x="1442" y="769"/>
+	<Point x="1442" y="770"/>
+	<Point x="1407" y="770"/>
+	<Point x="1407" y="771"/>
+	<Point x="1371" y="771"/>
+	<Point x="1371" y="772"/>
+	<Point x="1336" y="772"/>
+	<Point x="1336" y="773"/>
+	<Point x="1300" y="773"/>
+	<Point x="1300" y="774"/>
+	<Point x="1231" y="774"/>
+	<Point x="1231" y="775"/>
+	<Point x="1162" y="775"/>
+	<Point x="1162" y="776"/>
+	<Point x="1093" y="776"/>
+	<Point x="1093" y="777"/>
+	<Point x="1024" y="777"/>
+	<Point x="1024" y="778"/>
+	<Point x="947" y="778"/>
+	<Point x="947" y="779"/>
+	<Point x="870" y="779"/>
+	<Point x="870" y="780"/>
+	<Point x="794" y="780"/>
+	<Point x="794" y="779"/>
+	<Point x="497" y="779"/>
+	<Point x="497" y="780"/>
+	<Point x="445" y="780"/>
+	<Point x="445" y="781"/>
+	<Point x="394" y="781"/>
+	<Point x="394" y="782"/>
+	<Point x="342" y="782"/>
+	<Point x="342" y="783"/>
+	<Point x="317" y="783"/>
+	<Point x="317" y="721"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>PUNKTA MATEMATYCZNEY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r325" type="heading">
+	<Coords>
+	<Point x="1525" y="769"/>
+	<Point x="1525" y="844"/>
+	<Point x="317" y="844"/>
+	<Point x="317" y="785"/>
+	<Point x="344" y="785"/>
+	<Point x="344" y="784"/>
+	<Point x="396" y="784"/>
+	<Point x="396" y="783"/>
+	<Point x="447" y="783"/>
+	<Point x="447" y="782"/>
+	<Point x="499" y="782"/>
+	<Point x="499" y="781"/>
+	<Point x="792" y="781"/>
+	<Point x="792" y="782"/>
+	<Point x="872" y="782"/>
+	<Point x="872" y="781"/>
+	<Point x="949" y="781"/>
+	<Point x="949" y="780"/>
+	<Point x="1026" y="780"/>
+	<Point x="1026" y="779"/>
+	<Point x="1095" y="779"/>
+	<Point x="1095" y="778"/>
+	<Point x="1164" y="778"/>
+	<Point x="1164" y="777"/>
+	<Point x="1233" y="777"/>
+	<Point x="1233" y="776"/>
+	<Point x="1302" y="776"/>
+	<Point x="1302" y="775"/>
+	<Point x="1338" y="775"/>
+	<Point x="1338" y="774"/>
+	<Point x="1373" y="774"/>
+	<Point x="1373" y="773"/>
+	<Point x="1409" y="773"/>
+	<Point x="1409" y="772"/>
+	<Point x="1444" y="772"/>
+	<Point x="1444" y="771"/>
+	<Point x="1480" y="771"/>
+	<Point x="1480" y="770"/>
+	<Point x="1515" y="770"/>
+	<Point x="1515" y="769"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SCYENCYI ESSENCYALNIEYSZE</Unicode></TextEquiv></TextRegion></Page></PcGts>

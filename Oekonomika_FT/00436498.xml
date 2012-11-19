@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436498" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T12:36:53</Created>
+	<LastChange>2011-10-17T10:25:15</LastChange></Metadata>
+	<Page imageFilename="00436498.tif" imageHeight="3779" imageWidth="2412">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r276"/>
+	<RegionRefIndexed index="1" regionRef="r277"/>
+	<RegionRefIndexed index="2" regionRef="r279"/>
+	<RegionRefIndexed index="3" regionRef="r281"/>
+	<RegionRefIndexed index="4" regionRef="r283"/>
+	<RegionRefIndexed index="5" regionRef="r284"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r276" type="heading">
+	<Coords>
+	<Point x="71" y="273"/>
+	<Point x="71" y="626"/>
+	<Point x="2283" y="626"/>
+	<Point x="2283" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Connotatia ze Trzech Folẃárkow, pod nazwiſkiem y
+znákiem Liter. A. B. C. Creſcentiey Zytá w kto‑
+rymkolwiek Roku zwieźionego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r277" type="paragraph">
+	<Coords>
+	<Point x="419" y="650"/>
+	<Point x="419" y="914"/>
+	<Point x="2042" y="914"/>
+	<Point x="2042" y="650"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zwieźiono ná Folwàrk A. Kop nro. 84. Snopow 21.
+Item Ná Folwàrk B. Kop nro. 83. Snopow 6.
+Item Nà Folwàrk C. Kop nro. 104.   ‑   ‑   ‑</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r278">
+	<Coords>
+	<Point x="778" y="947"/>
+	<Point x="778" y="985"/>
+	<Point x="2047" y="985"/>
+	<Point x="2047" y="947"/></Coords></SeparatorRegion>
+	<TextRegion id="r279" type="paragraph">
+	<Coords>
+	<Point x="776" y="1030"/>
+	<Point x="776" y="1126"/>
+	<Point x="2026" y="1126"/>
+	<Point x="2026" y="1030"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>In Summa Kop ‑ ‑ ‑ nro. 271. Snopow 27.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r280">
+	<Coords>
+	<Point x="66" y="1240"/>
+	<Point x="66" y="2385"/>
+	<Point x="2323" y="2385"/>
+	<Point x="2323" y="1240"/></Coords></TableRegion>
+	<TextRegion id="r281" type="paragraph">
+	<Coords>
+	<Point x="2195" y="2454"/>
+	<Point x="2195" y="3026"/>
+	<Point x="259" y="3026"/>
+	<Point x="259" y="2454"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Comput Dyributy ad Veriﬁcationem żiárná z wymłotu.
+Ná śiewy do trzech Folwàrkow ‑ ‑ ‑ Cwiertni 93. ‑
+Nà Ordynárye Vrzɇdnikom y Piw�warowi C. 37. 1./3.
+Nà Słody Gorzałcàne ‑ ‑ ‑ ‑ ‑ C. 25. 1./3.
+Reat Nà Intratɇ, ná wikt,ȧlbo ná ſpinięźenie ‑ ‑ C. 164.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r282">
+	<Coords>
+	<Point x="1000" y="3040"/>
+	<Point x="1000" y="3069"/>
+	<Point x="2135" y="3069"/>
+	<Point x="2135" y="3040"/></Coords></SeparatorRegion>
+	<TextRegion id="r283" type="paragraph">
+	<Coords>
+	<Point x="2054" y="3092"/>
+	<Point x="2054" y="3214"/>
+	<Point x="1045" y="3214"/>
+	<Point x="1045" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Concordat vtra Summa 319. 2./3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r284" type="catch-word">
+	<Coords>
+	<Point x="2011" y="3300"/>
+	<Point x="2011" y="3409"/>
+	<Point x="2235" y="3409"/>
+	<Point x="2235" y="3300"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Pſze‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

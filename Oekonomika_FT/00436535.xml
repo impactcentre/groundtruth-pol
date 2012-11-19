@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436535" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:50:32</Created>
+	<LastChange>2011-08-24T02:18:52</LastChange></Metadata>
+	<Page imageFilename="00436535.tif" imageHeight="3850" imageWidth="2412">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r75"/>
+	<RegionRefIndexed index="1" regionRef="r76"/>
+	<RegionRefIndexed index="2" regionRef="r77"/>
+	<RegionRefIndexed index="3" regionRef="r78"/>
+	<RegionRefIndexed index="4" regionRef="r81"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r75" type="heading">
+	<Coords>
+	<Point x="1007" y="285"/>
+	<Point x="1007" y="390"/>
+	<Point x="1202" y="390"/>
+	<Point x="1202" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="heading">
+	<Coords>
+	<Point x="2073" y="454"/>
+	<Point x="2073" y="673"/>
+	<Point x="88" y="673"/>
+	<Point x="88" y="454"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MODELLVSZ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="heading">
+	<Coords>
+	<Point x="1978" y="692"/>
+	<Point x="1978" y="835"/>
+	<Point x="183" y="835"/>
+	<Point x="183" y="692"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ARYTHMETYCZNY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="heading">
+	<Coords>
+	<Point x="2069" y="864"/>
+	<Point x="2069" y="1659"/>
+	<Point x="78" y="1659"/>
+	<Point x="78" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Wſzelkich Intrat, Percept, Diribut, y Remánen‑
+tow OEKONOMIKI. Iákim ſpoſobem Oeko‑
+nomowie po vczynieniu z Vrzɇdnikámi álbo
+Piſárzàmi Prowentowemi doáteczney
+Calculatiey, máiⱥ Pánom ſwoim
+podáć Summáryuſz
+Relationis.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r79" type="other">
+	<Coords>
+	<Point x="1757" y="1973"/>
+	<Point x="1757" y="2921"/>
+	<Point x="435" y="2921"/>
+	<Point x="435" y="1973"/></Coords></GraphicRegion>
+	<TextRegion id="r81" type="catch-word">
+	<Coords>
+	<Point x="1859" y="3233"/>
+	<Point x="1859" y="3340"/>
+	<Point x="2054" y="3340"/>
+	<Point x="2054" y="3233"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>EX‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

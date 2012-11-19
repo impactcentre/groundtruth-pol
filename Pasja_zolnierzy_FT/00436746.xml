@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436746" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T11:45:22</Created>
+	<LastChange>2011-11-14T02:07:50</LastChange></Metadata>
+	<Page imageFilename="00436746.tif" imageHeight="2891" imageWidth="2209">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r425"/>
+	<RegionRefIndexed index="1" regionRef="r284"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r283" type="other">
+	<Coords>
+	<Point x="1060" y="86"/>
+	<Point x="1060" y="159"/>
+	<Point x="1323" y="159"/>
+	<Point x="1323" y="86"/></Coords></GraphicRegion>
+	<TextRegion id="r284" type="catch-word">
+	<Coords>
+	<Point x="1894" y="2494"/>
+	<Point x="1894" y="2566"/>
+	<Point x="2005" y="2566"/>
+	<Point x="2005" y="2494"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>na</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r425" type="paragraph">
+	<Coords>
+	<Point x="2015" y="161"/>
+	<Point x="2015" y="402"/>
+	<Point x="2010" y="402"/>
+	<Point x="2010" y="403"/>
+	<Point x="2002" y="403"/>
+	<Point x="2002" y="404"/>
+	<Point x="1994" y="404"/>
+	<Point x="1994" y="405"/>
+	<Point x="1987" y="405"/>
+	<Point x="1987" y="411"/>
+	<Point x="1988" y="411"/>
+	<Point x="1988" y="416"/>
+	<Point x="1989" y="416"/>
+	<Point x="1989" y="420"/>
+	<Point x="1990" y="420"/>
+	<Point x="1990" y="425"/>
+	<Point x="1991" y="425"/>
+	<Point x="1991" y="430"/>
+	<Point x="1992" y="430"/>
+	<Point x="1992" y="434"/>
+	<Point x="1993" y="434"/>
+	<Point x="1993" y="439"/>
+	<Point x="1994" y="439"/>
+	<Point x="1994" y="444"/>
+	<Point x="1995" y="444"/>
+	<Point x="1995" y="448"/>
+	<Point x="1996" y="448"/>
+	<Point x="1996" y="453"/>
+	<Point x="1997" y="453"/>
+	<Point x="1997" y="458"/>
+	<Point x="1998" y="458"/>
+	<Point x="1998" y="462"/>
+	<Point x="1999" y="462"/>
+	<Point x="1999" y="500"/>
+	<Point x="1998" y="500"/>
+	<Point x="1998" y="540"/>
+	<Point x="1997" y="540"/>
+	<Point x="1997" y="598"/>
+	<Point x="1998" y="598"/>
+	<Point x="1998" y="654"/>
+	<Point x="1999" y="654"/>
+	<Point x="1999" y="687"/>
+	<Point x="1998" y="687"/>
+	<Point x="1998" y="721"/>
+	<Point x="1997" y="721"/>
+	<Point x="1997" y="755"/>
+	<Point x="1996" y="755"/>
+	<Point x="1996" y="789"/>
+	<Point x="1995" y="789"/>
+	<Point x="1995" y="824"/>
+	<Point x="1994" y="824"/>
+	<Point x="1994" y="858"/>
+	<Point x="1993" y="858"/>
+	<Point x="1993" y="892"/>
+	<Point x="1992" y="892"/>
+	<Point x="1992" y="926"/>
+	<Point x="1991" y="926"/>
+	<Point x="1991" y="1018"/>
+	<Point x="1992" y="1018"/>
+	<Point x="1992" y="1108"/>
+	<Point x="1993" y="1108"/>
+	<Point x="1993" y="1198"/>
+	<Point x="1992" y="1198"/>
+	<Point x="1992" y="1290"/>
+	<Point x="1991" y="1290"/>
+	<Point x="1991" y="1358"/>
+	<Point x="1990" y="1358"/>
+	<Point x="1990" y="1425"/>
+	<Point x="1989" y="1425"/>
+	<Point x="1989" y="1493"/>
+	<Point x="1988" y="1493"/>
+	<Point x="1988" y="1560"/>
+	<Point x="1987" y="1560"/>
+	<Point x="1987" y="1656"/>
+	<Point x="1986" y="1656"/>
+	<Point x="1986" y="1752"/>
+	<Point x="1985" y="1752"/>
+	<Point x="1985" y="1892"/>
+	<Point x="1984" y="1892"/>
+	<Point x="1984" y="2032"/>
+	<Point x="1983" y="2032"/>
+	<Point x="1983" y="2478"/>
+	<Point x="295" y="2478"/>
+	<Point x="295" y="179"/>
+	<Point x="385" y="179"/>
+	<Point x="385" y="178"/>
+	<Point x="475" y="178"/>
+	<Point x="475" y="177"/>
+	<Point x="566" y="177"/>
+	<Point x="566" y="176"/>
+	<Point x="656" y="176"/>
+	<Point x="656" y="175"/>
+	<Point x="747" y="175"/>
+	<Point x="747" y="174"/>
+	<Point x="837" y="174"/>
+	<Point x="837" y="173"/>
+	<Point x="928" y="173"/>
+	<Point x="928" y="172"/>
+	<Point x="1018" y="172"/>
+	<Point x="1018" y="171"/>
+	<Point x="1109" y="171"/>
+	<Point x="1109" y="170"/>
+	<Point x="1199" y="170"/>
+	<Point x="1199" y="169"/>
+	<Point x="1290" y="169"/>
+	<Point x="1290" y="168"/>
+	<Point x="1380" y="168"/>
+	<Point x="1380" y="167"/>
+	<Point x="1471" y="167"/>
+	<Point x="1471" y="166"/>
+	<Point x="1561" y="166"/>
+	<Point x="1561" y="165"/>
+	<Point x="1652" y="165"/>
+	<Point x="1652" y="164"/>
+	<Point x="1742" y="164"/>
+	<Point x="1742" y="163"/>
+	<Point x="1833" y="163"/>
+	<Point x="1833" y="162"/>
+	<Point x="1923" y="162"/>
+	<Point x="1923" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ktorymi był ſprawcⱥ Lepunowy Zarzucki/ á trzeći Trubecki : W
+dźień tedy Iana swiɇtego Moſkwá z obozu wyßłá/ Roku 1611.
+y ánⱥwßy nád rzekⱥ Iáżwⱥ/rzelce záſádźili/ á ſámi e do na�
+w polebliżey wypráwili. Co vyźrzawßy I. M. Pan Alexán
+der Korwin Gⱥśiewſki Reﬀerendarz Litew. ktory był ná miey⸗
+ſcu I. M. Páná Hetmáná koronnego/ ná ten czás Hetmánem
+naßym/ kazał záṙaz niektorym rotom z miáá wychodżić prze⸗
+ćiwko nieprzyiaćielowi. Tám pułk I. M. Páná Struſow był
+pogotowi� w polu/ktory záraz ßedł kunieprzyiaćielowi. A z miá
+á wyßłá rotá I. M. Páná Reﬀerendarzá/ I. M. P. Wá⸗
+iɇrowá/ I. M. Páná Kopyćinſkiego/ I.M. Páná Dunikow⸗
+ſkiego/ I. M. Páná Skuminowá. Te roty wyßedßy/ záraz z
+nieprzyiaćielem bitwɇ oczyły. Potkałá e chorⱥgiew I. M.
+Páná Struſowá práwym ſkrzydłem/ I. M. Páná Reﬀeren⸗
+darzowá y Páná Dunikowſkiego lewym. A ze srzodku ná czo⸗
+łoßłá I. M. Páná Kráyczego/ I. M. Páná Báłábanowá /
+I. M. Páná Máłynſkiego/I. M. Páná Kopyćinſkiego. Tám
+ſkoczywßy przećiwko nieprzyiaćielowi/ áż wrzekɇ Iáżwɇ Mo⸗
+ſkwɇ wegnáli. Aċi rzelcy ktorych byłá Moſkwá záſádżiłá
+nád brzegiem/ náßych bárzo wiele nárzeláli: á nawiɇcey koni.
+W ten dźień pod P. Struſowⱥ zábito towárzyßá P. Swán⸗
+ſkiego/ y pod chorⱥgwiⱥ I. M P. Mȧłynſkiego porzelono
+dwoch towárzyßow / Páná Ianá Przyśieckiego/ y Páná Sá⸗
+muelá Olßowſkiego. Potym záraz ná odwrot trⱥbiono / á roty
+wßytki z plácu pozwodźili: weßli do murow wßyſcy/y pułk I.
+M Páná Struſow : tylko woyſko nieboſczyká Páná Sápie⸗
+hy w polu zoáło : ktore niechcⱥc známi trwáć/ poßło dáley
+w źiemiɇ mil 20. zá olice / przy ktorych y my czeladź ſwoie
+dla żywnośći poáli. Po ktorych záraz odeßćiu Moſkwá wiel⸗
+kⱥ nawáłnoṡćiⱥ do nas ßturmowáłá. Gdźie iuż báßtɇ Páná
+Bobowſkiego / ktora byłá przy białym murze/ wźiɇli. Iednák
+towȧrzyße reſolute ſkoczywßy/ Moſkwɇ znowu záraz wysiekli.
+Miedzy ktoremi zábito Páná Stániáwá Dudźinſkiego/ Pá⸗</Unicode></TextEquiv></TextRegion></Page></PcGts>

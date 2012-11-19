@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433315" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T09:06:18</Created>
+	<LastChange>2011-09-07T03:36:52</LastChange></Metadata>
+	<Page imageFilename="00433315.tif" imageHeight="2213" imageWidth="1843">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r47"/>
+	<RegionRefIndexed index="1" regionRef="r73"/>
+	<RegionRefIndexed index="2" regionRef="r74"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r44" type="header">
+	<Coords>
+	<Point x="433" y="96"/>
+	<Point x="433" y="160"/>
+	<Point x="1183" y="160"/>
+	<Point x="1183" y="96"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>o HOROGRAPHII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="page-number">
+	<Coords>
+	<Point x="1483" y="110"/>
+	<Point x="1483" y="153"/>
+	<Point x="1573" y="153"/>
+	<Point x="1573" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>224</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="78" y="166"/>
+	<Point x="77" y="181"/>
+	<Point x="501" y="178"/>
+	<Point x="655" y="178"/>
+	<Point x="808" y="181"/>
+	<Point x="1022" y="183"/>
+	<Point x="1151" y="185"/>
+	<Point x="1261" y="185"/>
+	<Point x="1326" y="183"/>
+	<Point x="1428" y="181"/>
+	<Point x="1553" y="182"/>
+	<Point x="1550" y="170"/>
+	<Point x="1287" y="172"/>
+	<Point x="1150" y="176"/>
+	<Point x="1019" y="173"/>
+	<Point x="824" y="171"/>
+	<Point x="655" y="167"/>
+	<Point x="513" y="167"/>
+	<Point x="347" y="168"/></Coords></SeparatorRegion>
+	<TextRegion id="r47" type="heading">
+	<Coords>
+	<Point x="183" y="183"/>
+	<Point x="183" y="286"/>
+	<Point x="411" y="289"/>
+	<Point x="444" y="293"/>
+	<Point x="483" y="287"/>
+	<Point x="583" y="291"/>
+	<Point x="868" y="291"/>
+	<Point x="871" y="301"/>
+	<Point x="887" y="301"/>
+	<Point x="900" y="290"/>
+	<Point x="1024" y="295"/>
+	<Point x="1125" y="297"/>
+	<Point x="1134" y="304"/>
+	<Point x="1152" y="304"/>
+	<Point x="1162" y="297"/>
+	<Point x="1334" y="294"/>
+	<Point x="1490" y="286"/>
+	<Point x="1489" y="183"/>
+	<Point x="1342" y="185"/>
+	<Point x="1299" y="187"/>
+	<Point x="1139" y="188"/>
+	<Point x="1040" y="186"/>
+	<Point x="1008" y="187"/>
+	<Point x="905" y="185"/>
+	<Point x="691" y="181"/>
+	<Point x="539" y="180"/>
+	<Point x="440" y="181"/>
+	<Point x="338" y="182"/></Coords>
+	
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>KATALOG albo TABELLA ELEVATIONIS POLI
+&amp; ÆQUATORIS w rożnych Swiata Miaach.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="60" y="1943"/>
+	<Point x="57" y="2055"/>
+	<Point x="632" y="2054"/>
+	<Point x="642" y="1993"/>
+	<Point x="1600" y="1993"/>
+	<Point x="1601" y="1934"/>
+	<Point x="1398" y="1933"/>
+	<Point x="1108" y="1934"/>
+	<Point x="805" y="1935"/>
+	<Point x="429" y="1938"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Jeśli error iaki in Grádibus zda ę komu, Authoribus w tym diſcrepantibus
+imputandus, nie mnie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="catch-word">
+	<Coords>
+	<Point x="1463" y="2016"/>
+	<Point x="1463" y="2096"/>
+	<Point x="1663" y="2096"/>
+	<Point x="1663" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>STATI‑</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r486">
+	<Coords>
+	<Point x="80" y="325"/>
+	<Point x="80" y="1919"/>
+	<Point x="1712" y="1919"/>
+	<Point x="1713" y="295"/>
+	<Point x="1543" y="296"/>
+	<Point x="1414" y="296"/>
+	<Point x="1400" y="297"/>
+	<Point x="1300" y="303"/>
+	<Point x="1156" y="310"/>
+	<Point x="956" y="303"/>
+	<Point x="846" y="303"/>
+	<Point x="800" y="298"/>
+	<Point x="589" y="298"/>
+	<Point x="568" y="319"/></Coords></TableRegion></Page></PcGts>

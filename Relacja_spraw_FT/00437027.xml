@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00437027" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T23:22:19</Created>
+	<LastChange>2011-06-20T12:04:21</LastChange></Metadata>
+	<Page imageFilename="00437027.tif" imageHeight="3192" imageWidth="2420">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r42"/>
+	<RegionRefIndexed index="1" regionRef="r47"/>
+	<RegionRefIndexed index="2" regionRef="r48"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r42" type="heading">
+	<Coords>
+	<Point x="390" y="322"/>
+	<Point x="390" y="493"/>
+	<Point x="1600" y="493"/>
+	<Point x="1600" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>RELACIA</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r44" type="handwritten-annotation">
+	<Coords>
+	<Point x="41" y="319"/>
+	<Point x="41" y="493"/>
+	<Point x="280" y="493"/>
+	<Point x="280" y="319"/></Coords></GraphicRegion>
+	<GraphicRegion id="r45" type="handwritten-annotation">
+	<Coords>
+	<Point x="1780" y="341"/>
+	<Point x="1780" y="1477"/>
+	<Point x="2257" y="1452"/>
+	<Point x="2230" y="340"/></Coords></GraphicRegion>
+	<ImageRegion id="r46">
+	<Coords>
+	<Point x="341" y="1290"/>
+	<Point x="341" y="2574"/>
+	<Point x="1635" y="2574"/>
+	<Point x="1635" y="1290"/></Coords></ImageRegion>
+	<TextRegion id="r47" type="heading">
+	<Coords>
+	<Point x="258" y="598"/>
+	<Point x="1356" y="597"/>
+	<Point x="1438" y="588"/>
+	<Point x="1763" y="595"/>
+	<Point x="1754" y="816"/>
+	<Point x="1543" y="791"/>
+	<Point x="1501" y="827"/>
+	<Point x="1445" y="823"/>
+	<Point x="838" y="802"/>
+	<Point x="475" y="800"/>
+	<Point x="452" y="831"/>
+	<Point x="366" y="831"/>
+	<Point x="320" y="829"/>
+	<Point x="231" y="806"/>
+	<Point x="255" y="597"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Spraw Gdan̄skich ná</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="heading">
+	<Coords>
+	<Point x="238" y="828"/>
+	<Point x="295" y="826"/>
+	<Point x="361" y="842"/>
+	<Point x="620" y="857"/>
+	<Point x="662" y="820"/>
+	<Point x="928" y="835"/>
+	<Point x="1151" y="821"/>
+	<Point x="1447" y="841"/>
+	<Point x="1580" y="827"/>
+	<Point x="1751" y="852"/>
+	<Point x="1718" y="946"/>
+	<Point x="1545" y="952"/>
+	<Point x="1382" y="954"/>
+	<Point x="1345" y="970"/>
+	<Point x="1292" y="970"/>
+	<Point x="880" y="971"/>
+	<Point x="971" y="1001"/>
+	<Point x="1167" y="992"/>
+	<Point x="1371" y="1003"/>
+	<Point x="1371" y="1111"/>
+	<Point x="569" y="1115"/>
+	<Point x="615" y="971"/>
+	<Point x="218" y="973"/>
+	<Point x="243" y="828"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Seymie Wálnym Wárßáwskim/
+Roku 1570.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r49">
+	<Coords>
+	<Point x="792" y="1124"/>
+	<Point x="792" y="1239"/>
+	<Point x="1209" y="1239"/>
+	<Point x="1209" y="1124"/></Coords></GraphicRegion>
+	<GraphicRegion id="r50" type="stamp">
+	<Coords>
+	<Point x="1577" y="958"/>
+	<Point x="1686" y="990"/>
+	<Point x="1733" y="1049"/>
+	<Point x="1756" y="1130"/>
+	<Point x="1709" y="1233"/>
+	<Point x="1641" y="1273"/>
+	<Point x="1524" y="1281"/>
+	<Point x="1422" y="1249"/>
+	<Point x="1384" y="1158"/>
+	<Point x="1394" y="1050"/>
+	<Point x="1466" y="988"/>
+	<Point x="1583" y="960"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433247" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T14:46:27</Created>
+	<LastChange>2011-10-04T09:17:13</LastChange></Metadata>
+	<Page imageFilename="00433247.tif" imageHeight="2199" imageWidth="1813">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r406"/>
+	<RegionRefIndexed index="1" regionRef="r407"/>
+	<RegionRefIndexed index="2" regionRef="r412"/>
+	<RegionRefIndexed index="3" regionRef="r416"/>
+	<RegionRefIndexed index="4" regionRef="r418"/>
+	<RegionRefIndexed index="5" regionRef="r410"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r403" type="header">
+	<Coords>
+	<Point x="341" y="88"/>
+	<Point x="331" y="141"/>
+	<Point x="1213" y="141"/>
+	<Point x="1372" y="140"/>
+	<Point x="1368" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O ARITMETYCE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r404" type="page-number">
+	<Coords>
+	<Point x="1569" y="99"/>
+	<Point x="1574" y="142"/>
+	<Point x="1639" y="142"/>
+	<Point x="1634" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>155</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r405">
+	<Coords>
+	<Point x="132" y="155"/>
+	<Point x="269" y="152"/>
+	<Point x="482" y="152"/>
+	<Point x="773" y="151"/>
+	<Point x="1109" y="152"/>
+	<Point x="1457" y="150"/>
+	<Point x="1570" y="150"/>
+	<Point x="1616" y="152"/>
+	<Point x="1614" y="164"/>
+	<Point x="1586" y="163"/>
+	<Point x="1501" y="160"/>
+	<Point x="1332" y="160"/>
+	<Point x="1232" y="164"/>
+	<Point x="1080" y="162"/>
+	<Point x="964" y="165"/>
+	<Point x="681" y="164"/>
+	<Point x="501" y="163"/>
+	<Point x="372" y="168"/>
+	<Point x="239" y="167"/>
+	<Point x="131" y="173"/>
+	<Point x="130" y="154"/></Coords></SeparatorRegion>
+	<TextRegion id="r406" type="paragraph">
+	<Coords>
+	<Point x="129" y="185"/>
+	<Point x="129" y="629"/>
+	<Point x="1659" y="629"/>
+	<Point x="1659" y="185"/>
+	<Point x="1627" y="176"/>
+	<Point x="1489" y="164"/>
+	<Point x="1337" y="169"/>
+	<Point x="1096" y="167"/>
+	<Point x="964" y="169"/>
+	<Point x="520" y="166"/>
+	<Point x="434" y="170"/>
+	<Point x="265" y="173"/>
+	<Point x="189" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>giomóntanus Frankonii ozdoba: Schall Kolenczyk Soc: Iesu Scyencyⱥ Matema‑
+tycznⱥ Chińſkie ſobie niedoſrępne Chrześcianom na on czas otworzył
+Imperium, y trzech Chińſkich Ceſarzow maiⱥcy reſpekta, gdzie też był Man‑
+darynem alias Minirem, Kⱥg 150. wydał po Chińſku, o Matematycznych
+Scyencyach: w Pekinie Stolicy Chińſkiey zakońcył życie Roku 1665. Riccio‑
+lus y to Magnæ Authoritatis Soc: Ies� Matematyk: Gaſpar Schottus z Frankonii
+doſkonały Matematyk. Innych wybornych Matematykow ſexcenta leo No‑
+mina: krorych Swiat zawſze eymował, oprocz iednego Tyberyuſza Ceſa‑
+rza, ktory około wieku drugiego z Rzymu ich rugować kázał.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r407" type="heading">
+	<Coords>
+	<Point x="400" y="656"/>
+	<Point x="400" y="731"/>
+	<Point x="1350" y="731"/>
+	<Point x="1350" y="656"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ARITMETYKA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r409" type="signature-mark">
+	<Coords>
+	<Point x="791" y="2015"/>
+	<Point x="791" y="2070"/>
+	<Point x="866" y="2070"/>
+	<Point x="866" y="2015"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>U2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r410" type="catch-word">
+	<Coords>
+	<Point x="1482" y="2017"/>
+	<Point x="1482" y="2078"/>
+	<Point x="1575" y="2078"/>
+	<Point x="1575" y="2017"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tuż</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r412" type="drop-capital">
+	<Coords>
+	<Point x="224" y="756"/>
+	<Point x="224" y="774"/>
+	<Point x="225" y="774"/>
+	<Point x="225" y="801"/>
+	<Point x="226" y="801"/>
+	<Point x="226" y="813"/>
+	<Point x="225" y="813"/>
+	<Point x="225" y="827"/>
+	<Point x="224" y="827"/>
+	<Point x="224" y="841"/>
+	<Point x="223" y="841"/>
+	<Point x="223" y="850"/>
+	<Point x="222" y="850"/>
+	<Point x="222" y="858"/>
+	<Point x="221" y="858"/>
+	<Point x="221" y="866"/>
+	<Point x="220" y="866"/>
+	<Point x="220" y="874"/>
+	<Point x="219" y="874"/>
+	<Point x="219" y="883"/>
+	<Point x="218" y="883"/>
+	<Point x="218" y="891"/>
+	<Point x="217" y="891"/>
+	<Point x="217" y="899"/>
+	<Point x="216" y="899"/>
+	<Point x="216" y="907"/>
+	<Point x="215" y="907"/>
+	<Point x="215" y="915"/>
+	<Point x="147" y="915"/>
+	<Point x="147" y="756"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>J</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r416" type="paragraph">
+	<Coords>
+	<Point x="1645" y="756"/>
+	<Point x="1645" y="1070"/>
+	<Point x="1556" y="1070"/>
+	<Point x="1556" y="1071"/>
+	<Point x="1419" y="1071"/>
+	<Point x="1419" y="1072"/>
+	<Point x="1391" y="1072"/>
+	<Point x="1391" y="1073"/>
+	<Point x="1363" y="1073"/>
+	<Point x="1363" y="1074"/>
+	<Point x="1334" y="1074"/>
+	<Point x="1334" y="1075"/>
+	<Point x="1306" y="1075"/>
+	<Point x="1306" y="1076"/>
+	<Point x="1279" y="1076"/>
+	<Point x="1279" y="1075"/>
+	<Point x="1278" y="1075"/>
+	<Point x="1278" y="1074"/>
+	<Point x="1277" y="1074"/>
+	<Point x="1277" y="1073"/>
+	<Point x="1276" y="1073"/>
+	<Point x="1276" y="1072"/>
+	<Point x="1275" y="1072"/>
+	<Point x="1275" y="1071"/>
+	<Point x="1274" y="1071"/>
+	<Point x="1274" y="1070"/>
+	<Point x="1273" y="1070"/>
+	<Point x="1273" y="1069"/>
+	<Point x="1272" y="1069"/>
+	<Point x="1272" y="1068"/>
+	<Point x="1092" y="1068"/>
+	<Point x="1092" y="1069"/>
+	<Point x="1091" y="1069"/>
+	<Point x="1091" y="1070"/>
+	<Point x="1089" y="1070"/>
+	<Point x="1089" y="1071"/>
+	<Point x="1087" y="1071"/>
+	<Point x="1087" y="1072"/>
+	<Point x="1085" y="1072"/>
+	<Point x="1085" y="1073"/>
+	<Point x="1084" y="1073"/>
+	<Point x="1084" y="1074"/>
+	<Point x="1082" y="1074"/>
+	<Point x="1082" y="1075"/>
+	<Point x="1080" y="1075"/>
+	<Point x="1080" y="1076"/>
+	<Point x="1078" y="1076"/>
+	<Point x="1078" y="1077"/>
+	<Point x="1063" y="1077"/>
+	<Point x="1063" y="1076"/>
+	<Point x="1062" y="1076"/>
+	<Point x="1062" y="1075"/>
+	<Point x="1061" y="1075"/>
+	<Point x="1061" y="1074"/>
+	<Point x="1060" y="1074"/>
+	<Point x="1060" y="1073"/>
+	<Point x="1059" y="1073"/>
+	<Point x="1059" y="1072"/>
+	<Point x="1058" y="1072"/>
+	<Point x="1058" y="1071"/>
+	<Point x="1056" y="1071"/>
+	<Point x="1056" y="1070"/>
+	<Point x="1055" y="1070"/>
+	<Point x="1055" y="1069"/>
+	<Point x="1054" y="1069"/>
+	<Point x="1054" y="1068"/>
+	<Point x="1053" y="1068"/>
+	<Point x="1053" y="1067"/>
+	<Point x="1052" y="1067"/>
+	<Point x="1052" y="1066"/>
+	<Point x="1048" y="1066"/>
+	<Point x="1048" y="1067"/>
+	<Point x="1030" y="1067"/>
+	<Point x="1030" y="1068"/>
+	<Point x="1012" y="1068"/>
+	<Point x="1012" y="1069"/>
+	<Point x="994" y="1069"/>
+	<Point x="994" y="1070"/>
+	<Point x="978" y="1070"/>
+	<Point x="978" y="1069"/>
+	<Point x="719" y="1069"/>
+	<Point x="719" y="1070"/>
+	<Point x="541" y="1070"/>
+	<Point x="541" y="1071"/>
+	<Point x="539" y="1071"/>
+	<Point x="539" y="1072"/>
+	<Point x="537" y="1072"/>
+	<Point x="537" y="1073"/>
+	<Point x="535" y="1073"/>
+	<Point x="535" y="1074"/>
+	<Point x="533" y="1074"/>
+	<Point x="533" y="1075"/>
+	<Point x="531" y="1075"/>
+	<Point x="531" y="1076"/>
+	<Point x="529" y="1076"/>
+	<Point x="529" y="1077"/>
+	<Point x="529" y="1076"/>
+	<Point x="475" y="1076"/>
+	<Point x="475" y="1075"/>
+	<Point x="413" y="1075"/>
+	<Point x="413" y="1074"/>
+	<Point x="256" y="1074"/>
+	<Point x="256" y="1075"/>
+	<Point x="245" y="1075"/>
+	<Point x="245" y="1076"/>
+	<Point x="233" y="1076"/>
+	<Point x="233" y="1077"/>
+	<Point x="222" y="1077"/>
+	<Point x="222" y="1078"/>
+	<Point x="210" y="1078"/>
+	<Point x="210" y="1079"/>
+	<Point x="183" y="1079"/>
+	<Point x="183" y="1080"/>
+	<Point x="155" y="1080"/>
+	<Point x="155" y="1081"/>
+	<Point x="147" y="1081"/>
+	<Point x="147" y="917"/>
+	<Point x="213" y="917"/>
+	<Point x="213" y="918"/>
+	<Point x="216" y="918"/>
+	<Point x="216" y="917"/>
+	<Point x="217" y="917"/>
+	<Point x="217" y="909"/>
+	<Point x="218" y="909"/>
+	<Point x="218" y="901"/>
+	<Point x="219" y="901"/>
+	<Point x="219" y="893"/>
+	<Point x="220" y="893"/>
+	<Point x="220" y="885"/>
+	<Point x="221" y="885"/>
+	<Point x="221" y="876"/>
+	<Point x="222" y="876"/>
+	<Point x="222" y="868"/>
+	<Point x="223" y="868"/>
+	<Point x="223" y="860"/>
+	<Point x="224" y="860"/>
+	<Point x="224" y="852"/>
+	<Point x="225" y="852"/>
+	<Point x="225" y="843"/>
+	<Point x="226" y="843"/>
+	<Point x="226" y="829"/>
+	<Point x="227" y="829"/>
+	<Point x="227" y="815"/>
+	<Point x="228" y="815"/>
+	<Point x="228" y="799"/>
+	<Point x="227" y="799"/>
+	<Point x="227" y="772"/>
+	<Point x="226" y="772"/>
+	<Point x="226" y="756"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>E Ars Numerandi: Iedna Speculativo, Druga Praica. Mirzem Scyencyi
+tey, ten, kogo Fortuna uczyniła Rachmirzem: Łatwiey o kredkę, kto
+złota ma doatek. Spekulatywⱥ Matematycznⱥ głowa ę pſuie, a Pra‑
+ktycznⱥ naprawuie ſerce. Ubogi oły wala kredkⱥ, a bogaci Złotem, Sre‑
+bręm, Miedziⱥ. Záw� ze naylepſzy Arytmetyk bogacz: rzadko ę myli, bo
+gęó liczy, Ręka go boli od rachowania, nie głowa od ſpekulacyi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r418" type="paragraph">
+	<Coords>
+	<Point x="1050" y="1069"/>
+	<Point x="1051" y="1069"/>
+	<Point x="1051" y="1070"/>
+	<Point x="1052" y="1070"/>
+	<Point x="1052" y="1071"/>
+	<Point x="1053" y="1071"/>
+	<Point x="1053" y="1072"/>
+	<Point x="1054" y="1072"/>
+	<Point x="1054" y="1073"/>
+	<Point x="1056" y="1073"/>
+	<Point x="1056" y="1074"/>
+	<Point x="1057" y="1074"/>
+	<Point x="1057" y="1075"/>
+	<Point x="1058" y="1075"/>
+	<Point x="1058" y="1076"/>
+	<Point x="1059" y="1076"/>
+	<Point x="1059" y="1077"/>
+	<Point x="1060" y="1077"/>
+	<Point x="1060" y="1078"/>
+	<Point x="1061" y="1078"/>
+	<Point x="1061" y="1079"/>
+	<Point x="1080" y="1079"/>
+	<Point x="1080" y="1078"/>
+	<Point x="1082" y="1078"/>
+	<Point x="1082" y="1077"/>
+	<Point x="1084" y="1077"/>
+	<Point x="1084" y="1076"/>
+	<Point x="1086" y="1076"/>
+	<Point x="1086" y="1075"/>
+	<Point x="1087" y="1075"/>
+	<Point x="1087" y="1074"/>
+	<Point x="1089" y="1074"/>
+	<Point x="1089" y="1073"/>
+	<Point x="1091" y="1073"/>
+	<Point x="1091" y="1072"/>
+	<Point x="1093" y="1072"/>
+	<Point x="1093" y="1071"/>
+	<Point x="1094" y="1071"/>
+	<Point x="1094" y="1070"/>
+	<Point x="1270" y="1070"/>
+	<Point x="1270" y="1071"/>
+	<Point x="1271" y="1071"/>
+	<Point x="1271" y="1072"/>
+	<Point x="1272" y="1072"/>
+	<Point x="1272" y="1073"/>
+	<Point x="1273" y="1073"/>
+	<Point x="1273" y="1074"/>
+	<Point x="1274" y="1074"/>
+	<Point x="1274" y="1075"/>
+	<Point x="1275" y="1075"/>
+	<Point x="1275" y="1076"/>
+	<Point x="1276" y="1076"/>
+	<Point x="1276" y="1077"/>
+	<Point x="1277" y="1077"/>
+	<Point x="1277" y="1078"/>
+	<Point x="1308" y="1078"/>
+	<Point x="1308" y="1077"/>
+	<Point x="1336" y="1077"/>
+	<Point x="1336" y="1076"/>
+	<Point x="1365" y="1076"/>
+	<Point x="1365" y="1075"/>
+	<Point x="1393" y="1075"/>
+	<Point x="1393" y="1074"/>
+	<Point x="1421" y="1074"/>
+	<Point x="1421" y="1073"/>
+	<Point x="1558" y="1073"/>
+	<Point x="1558" y="1072"/>
+	<Point x="1645" y="1072"/>
+	<Point x="1645" y="1989"/>
+	<Point x="147" y="1989"/>
+	<Point x="147" y="1083"/>
+	<Point x="157" y="1083"/>
+	<Point x="157" y="1082"/>
+	<Point x="185" y="1082"/>
+	<Point x="185" y="1081"/>
+	<Point x="212" y="1081"/>
+	<Point x="212" y="1080"/>
+	<Point x="224" y="1080"/>
+	<Point x="224" y="1079"/>
+	<Point x="235" y="1079"/>
+	<Point x="235" y="1078"/>
+	<Point x="247" y="1078"/>
+	<Point x="247" y="1077"/>
+	<Point x="258" y="1077"/>
+	<Point x="258" y="1076"/>
+	<Point x="411" y="1076"/>
+	<Point x="411" y="1077"/>
+	<Point x="473" y="1077"/>
+	<Point x="473" y="1078"/>
+	<Point x="527" y="1078"/>
+	<Point x="527" y="1079"/>
+	<Point x="531" y="1079"/>
+	<Point x="531" y="1078"/>
+	<Point x="533" y="1078"/>
+	<Point x="533" y="1077"/>
+	<Point x="535" y="1077"/>
+	<Point x="535" y="1076"/>
+	<Point x="537" y="1076"/>
+	<Point x="537" y="1075"/>
+	<Point x="539" y="1075"/>
+	<Point x="539" y="1074"/>
+	<Point x="541" y="1074"/>
+	<Point x="541" y="1073"/>
+	<Point x="543" y="1073"/>
+	<Point x="543" y="1072"/>
+	<Point x="721" y="1072"/>
+	<Point x="721" y="1071"/>
+	<Point x="976" y="1071"/>
+	<Point x="976" y="1072"/>
+	<Point x="996" y="1072"/>
+	<Point x="996" y="1071"/>
+	<Point x="1014" y="1071"/>
+	<Point x="1014" y="1070"/>
+	<Point x="1032" y="1070"/>
+	<Point x="1032" y="1069"/>
+	<Point x="1050" y="1069"/>
+	<Point x="1050" y="1068"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O LICZBIE wiedzeć potrzeba, że tylko ie Numerow dziewięć, y
+Cyfra, z ktorych wſzykie liczby, Summy niezliczone ſkładaiⱥ ę, to ie
+1. 2. 3. 4. 5. 6. 7. 8. 9. 0. Z tych Elementow y Charakterow, iako naywię‑
+kſzⱥ zrobiſz Summę, tę anie inſze kładⱥc Numeros Częṡci naypryncypalniey‑
+ſzych Arytmetyki ie 5. Pierwſzá NUMERATIO, ktorⱥ naywiękſzⱥ liczbę
+chooby na karteluſzu tak wielkim iak Niebo zrachuie. Naprzykład tę
+liczbę 10870360. tak Numerare, albo liczyć y rozumieć potrzeba: Dzieęć
+Millionow, Ośm kroć y edmdzieⱥt tyęcy, trzya ſześćdzieat. Nay‑
+więkſzⱥ znalazłſzy SUMMĘ, nalezy pierwey pomiárkować gnis, od lewey
+ręki: olias z końca nie z poczⱥtku, naprzykład tę liczbę. 67546273. zaczniy
+od trzech z końca y miarkuy, że te trzy znaczⱥ Unitátem, to ie tyle, ile
+napiſano, trzy tyłko, Druga liczba 7. znaczy Denitatem, to ie Dzieⱥtki,
+trzecia 2: znaczy Centitátem, to ie ſetnⱥ liczbę: Czwarta 6. Millenarium, ty‑
+ⱥcznⱥ liczbę: Piⱥta 4 znaczy dzieⱥtki tyⱥcow: Szoa 5. znacży a ty‑
+ęcy, odma liczba 7. znaczy Milliony: Oſma �6, znaczy Dzieⱥtki Mil‑
+lionow, &amp;c. Tak od ogona liczbę namienionⱥ pomiárkowawſzy; od gło‑
+wy teraz rachuy; mowiⱥc: Sześćázieⱥt y edm Millionow, Pięćkroć Czterdzie‑
+ści y ſześć tyęcy, dwieście edmdzieⱥt y trzy.</Unicode></TextEquiv></TextRegion></Page></PcGts>

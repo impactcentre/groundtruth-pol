@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436738" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T01:44:16</Created>
+	<LastChange>2011-11-08T08:49:44</LastChange></Metadata>
+	<Page imageFilename="00436738.tif" imageHeight="3266" imageWidth="2655">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r117"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r117" type="paragraph">
+	<Coords>
+	<Point x="240" y="160"/>
+	<Point x="240" y="1613"/>
+	<Point x="2346" y="1613"/>
+	<Point x="2346" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Odpráwiwßy iuż wety/ zacny Senat wawßy/
+Y przed Pánem tȧm zȧraz niſko przyklɇknⱥwßy/
+Cȧłe trunki przez zdrowie wypełnili Krolá/
+Od nich gdźie nie dáleko zacny był Bobolȧ.
+Wiɇc záś Pan á Krol wielki przez zdrowie Rycerwá
+Sam przepił do miłego y cnego żołnierwá.
+Krzyknⱥ potym z dżiał wielkich ták áż ɇ namioty
+Iȧk od wiátru ćiɇßkiego trzɇy/ y ich płoty /
+Eurus do tⱥd nic ßkodźiċ niechćiał ſwoiⱥ mocⱥ /
+Ze ɇ ſkońcżył ten Tryumph zá Bożⱥ pomocⱥ.
+Yáko iedno z poránku/ ták áż do zmierzkánia/
+Cáły dźień tám śiedźieli/ że záśiɇ do ánia
+Zwracał ɇ káżdy ſwego/ gdźie przed Pánem wßyſcy
+Yȧdⱥc poſkákiwáli zwyćiɇżcy Smoleńſcy.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r118" type="other">
+	<Coords>
+	<Point x="893" y="2046"/>
+	<Point x="893" y="2560"/>
+	<Point x="1713" y="2560"/>
+	<Point x="1713" y="2046"/></Coords></GraphicRegion></Page></PcGts>

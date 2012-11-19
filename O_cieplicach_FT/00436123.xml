@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436123" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T00:54:59</Created>
+	<LastChange>2011-11-03T08:13:09</LastChange></Metadata>
+	<Page imageFilename="00436123.tif" imageHeight="2747" imageWidth="2079">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r61"/>
+	<RegionRefIndexed index="1" regionRef="r62"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r60" textColour="black" type="header">
+	<Coords>
+	<Point x="983" y="135"/>
+	<Point x="983" y="218"/>
+	<Point x="1416" y="218"/>
+	<Point x="1416" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przedmowá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="451" y="221"/>
+	<Point x="451" y="2453"/>
+	<Point x="2040" y="2453"/>
+	<Point x="2040" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>dykách , że ich inácżey nie názywano , iedno
+������ ������ , to ieﬆ ſynowie Lekárſcy. Ták
+Hippokrates przodków ſwych ſententie y ob‑
+ſeruácye do kupy zbieráiⱥc ; y rozumem , iá‑
+ko złotnicy kámieniem złoto, probuiⱥc , vcży‑
+nił znich náukę w kupę zebránⱥ. Toż iego
+ſyn Theálus po nim cżynił, tęż náukę roz‑
+ßerzał y rozmnażał , że teraz o wielu kśię‑
+gách Hippokráteſowych ludźie vcżeni wⱥt‑
+piⱥ, powiádáiⱥc że rácżey ſⱥ ſyná iego Theſ‑
+ſalá. Tym kßtałtem y drudzy po nich, iáko E‑
+ráſyratus, Archigenes, Aſklepiades, Celſus ,
+Gálenus , iáko mogli nalepiey y napilniey ob‑
+iaśńiáli tę náukę lekȧrſkⱥ , iáko to z piſm mo‑
+żemy bacżyć. Toż y teraz wiele ich cżyni,
+á oſobliwie w cudzych kráiách , ktorzy y wię‑
+�ße doátki , y zádoátki więcey cżáſu , á
+�o nawiętßa , podobno ſubtelnieyße dowći‑
+py , y rozſⱥdnieyße máiⱥ, że choćiaż náß Gá‑
+len doſyć ßeroko áż názbyt ę wylewa,przećię
+oni ábo ßerzey , ábo iáśńiey ſwęmi wynálaz‑
+kámi nam podáiⱥ : ábo też z wielu ksiⱥg iego,
+iáko pcżoły z wielu kwiećia ieden plar
+miodu bárzo wdźięcżny y ſmácżny z robiwá‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1921" y="2456"/>
+	<Point x="1921" y="2545"/>
+	<Point x="2024" y="2545"/>
+	<Point x="2024" y="2456"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>iⱥ.</Unicode></TextEquiv></TextRegion></Page></PcGts>

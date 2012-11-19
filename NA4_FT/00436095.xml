@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436095" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T05:34:00</Created>
+	<LastChange>2011-09-23T02:57:19</LastChange></Metadata>
+	<Page imageFilename="00436095.tif" imageHeight="2329" imageWidth="1917">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r388"/>
+	<RegionRefIndexed index="1" regionRef="r390"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r376" type="page-number">
+	<Coords>
+	<Point x="288" y="96"/>
+	<Point x="288" y="132"/>
+	<Point x="287" y="132"/>
+	<Point x="287" y="170"/>
+	<Point x="257" y="170"/>
+	<Point x="257" y="169"/>
+	<Point x="183" y="169"/>
+	<Point x="183" y="96"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>611</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r382" type="header">
+	<Coords>
+	<Point x="1425" y="96"/>
+	<Point x="1425" y="136"/>
+	<Point x="1426" y="136"/>
+	<Point x="1426" y="172"/>
+	<Point x="1417" y="172"/>
+	<Point x="1417" y="173"/>
+	<Point x="1402" y="173"/>
+	<Point x="1402" y="174"/>
+	<Point x="1387" y="174"/>
+	<Point x="1387" y="175"/>
+	<Point x="921" y="175"/>
+	<Point x="921" y="176"/>
+	<Point x="875" y="176"/>
+	<Point x="875" y="177"/>
+	<Point x="830" y="177"/>
+	<Point x="830" y="176"/>
+	<Point x="749" y="176"/>
+	<Point x="749" y="175"/>
+	<Point x="667" y="175"/>
+	<Point x="667" y="174"/>
+	<Point x="640" y="174"/>
+	<Point x="640" y="137"/>
+	<Point x="641" y="137"/>
+	<Point x="641" y="96"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Geograﬁa Generalna y partykularna</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r384">
+	<Coords>
+	<Point x="255" y="171"/>
+	<Point x="255" y="172"/>
+	<Point x="337" y="172"/>
+	<Point x="337" y="173"/>
+	<Point x="419" y="173"/>
+	<Point x="419" y="174"/>
+	<Point x="501" y="174"/>
+	<Point x="501" y="175"/>
+	<Point x="583" y="175"/>
+	<Point x="583" y="176"/>
+	<Point x="665" y="176"/>
+	<Point x="665" y="177"/>
+	<Point x="747" y="177"/>
+	<Point x="747" y="178"/>
+	<Point x="828" y="178"/>
+	<Point x="828" y="179"/>
+	<Point x="877" y="179"/>
+	<Point x="877" y="178"/>
+	<Point x="923" y="178"/>
+	<Point x="923" y="177"/>
+	<Point x="1389" y="177"/>
+	<Point x="1389" y="176"/>
+	<Point x="1404" y="176"/>
+	<Point x="1404" y="175"/>
+	<Point x="1419" y="175"/>
+	<Point x="1419" y="174"/>
+	<Point x="1434" y="174"/>
+	<Point x="1434" y="173"/>
+	<Point x="1448" y="173"/>
+	<Point x="1448" y="172"/>
+	<Point x="1761" y="172"/>
+	<Point x="1761" y="187"/>
+	<Point x="1635" y="187"/>
+	<Point x="1635" y="186"/>
+	<Point x="1202" y="186"/>
+	<Point x="1202" y="187"/>
+	<Point x="1069" y="187"/>
+	<Point x="1069" y="188"/>
+	<Point x="936" y="188"/>
+	<Point x="936" y="189"/>
+	<Point x="748" y="189"/>
+	<Point x="748" y="188"/>
+	<Point x="695" y="188"/>
+	<Point x="695" y="189"/>
+	<Point x="691" y="189"/>
+	<Point x="691" y="190"/>
+	<Point x="687" y="190"/>
+	<Point x="687" y="191"/>
+	<Point x="555" y="191"/>
+	<Point x="555" y="192"/>
+	<Point x="480" y="192"/>
+	<Point x="480" y="193"/>
+	<Point x="406" y="193"/>
+	<Point x="406" y="192"/>
+	<Point x="292" y="192"/>
+	<Point x="292" y="191"/>
+	<Point x="183" y="191"/>
+	<Point x="183" y="171"/></Coords></SeparatorRegion>
+	<TextRegion id="r388" type="paragraph">
+	<Coords>
+	<Point x="1633" y="188"/>
+	<Point x="1633" y="189"/>
+	<Point x="1761" y="189"/>
+	<Point x="1761" y="2065"/>
+	<Point x="1652" y="2061"/>
+	<Point x="1564" y="2057"/>
+	<Point x="1506" y="2067"/>
+	<Point x="1450" y="2066"/>
+	<Point x="1450" y="2100"/>
+	<Point x="1449" y="2100"/>
+	<Point x="1449" y="2135"/>
+	<Point x="183" y="2135"/>
+	<Point x="183" y="193"/>
+	<Point x="290" y="193"/>
+	<Point x="290" y="194"/>
+	<Point x="404" y="194"/>
+	<Point x="404" y="195"/>
+	<Point x="482" y="195"/>
+	<Point x="482" y="194"/>
+	<Point x="557" y="194"/>
+	<Point x="557" y="193"/>
+	<Point x="689" y="193"/>
+	<Point x="689" y="192"/>
+	<Point x="693" y="192"/>
+	<Point x="693" y="191"/>
+	<Point x="697" y="191"/>
+	<Point x="697" y="190"/>
+	<Point x="746" y="190"/>
+	<Point x="746" y="191"/>
+	<Point x="938" y="191"/>
+	<Point x="938" y="190"/>
+	<Point x="1071" y="190"/>
+	<Point x="1071" y="189"/>
+	<Point x="1204" y="189"/>
+	<Point x="1204" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ry. Gwalpa dla ebie żyłę zwaną Opulentam excypował, a to‑
+warzyſzowi Gwance uąpił żyły, Diego Centeno rzeczoney, tylko
+że bardzo trudney w kopaniu. Z tey racyi oba ɇ pokłucili,
+aż ę rzecz do Willaroela Hiſzpana wytoczyła, z donieenia
+zazdroſnego, y zawziɇtego Gwanki. Wiɇc Willaroel wąpił na
+wierſzchołek gory Poto, dociekł prawdy: Gwance delatorowi, y
+inwentorowi żyłę tęż ſamą, Centeno nazwiſkiem wymierzył, a ſo‑
+bie całą przywłaſzczył gorɇ. Znaleziona wkrótce trzecia vena
+Tin nazwana, potym odkrytá y czwarta, Mendieta rzeczona &amp;c.
+wſzykie od Wſchodu Słońca à Polo Arico, ad Antaricum po‑
+łożone, od Zachodu zaś iałowe. Naypierwſza vena ie w ſka‑
+le, iak grzebień waiącey, na łokci 300. wyſokości, a w ſzeroko‑
+ści na 13. Sama ta żyła iuż wybrana była w głąbſz na 50. albo
+60. ſążni, tandem ſkończyła ɇ. Im głębiey kopią, tym co ráz
+ſubtelnieyſze ſą żyły, a ku gorze grubſze y pożytecznieyſze. Dla
+ſzukania minerału tego porobione ſą okna, albo ſzyby poprze‑
+czne, iedna Feniin, do żyły owey bogatey lat 20. wyrabiana,
+maiąca 35. graduſów. A od mieyſca gdzie ɇ ta ſzyba żyły ty‑
+ka, ſzedł deſcens wgłąbſz na 155. ſążni. Gurnikow koło tey ro‑
+boty ie na 20. tyɇcy, nie wiedzących tam w ziemi, kiedy
+dzień, albo noc, przy świetle robiących godzinami, zrazu gdy
+tam ſpuſzczeni bywáią, womituiących. Białogłowy nawet ta‑
+mecznego Miaá, chorowite y czɇo przy rodzeniu umieraiące,
+z racyi minerałowey exhalacyi. Bryły, ktore żelazem łupaią przy
+pochodniach; drudzy gornicy wynoſzą na gorę po drabinach
+rzemiennych, troiym ciągiem ſporządzonych, po ſzczeblach
+w paſy te rzemienne wyciągnione, oſadzonych. Na Krola ztam‑
+tąd Hiſzpańſkiego idzie ſrebra Quintal, to ie cześć piąta. Od
+Roku 1547. do Roku 1585. aliàs in ſpatio 38. lat wybrali Hiſzpani
+z gory tey Poto do ſkárbu III. Millionow dukatow, iako wywo‑
+dzi Joannes Hybners w ſwoiey Geograﬁi; y kilka świadczy Au‑
+torow innych opiſuiących Amerykɇ. A ſummatim rachuiąc od
+czaſu odkrycia tey gory, aż do Roku 1597. wzieło ę ztamtąd
+436. millionow dukatow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r390" type="catch-word">
+	<Coords>
+	<Point x="1761" y="2067"/>
+	<Point x="1761" y="2135"/>
+	<Point x="1451" y="2135"/>
+	<Point x="1451" y="2102"/>
+	<Point x="1452" y="2102"/>
+	<Point x="1452" y="2068"/>
+	<Point x="1528" y="2068"/>
+	<Point x="1583" y="2066"/>
+	<Point x="1656" y="2068"/>
+	<Point x="1656" y="2067"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W BRA‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

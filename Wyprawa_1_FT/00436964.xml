@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436964" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T09:14:38</Created>
+	<LastChange>2011-07-22T02:46:33</LastChange></Metadata>
+	<Page imageFilename="00436964.tif" imageHeight="2152" imageWidth="1624">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r29"/>
+	<RegionRefIndexed index="1" regionRef="r30"/>
+	<RegionRefIndexed index="2" regionRef="r31"/>
+	<RegionRefIndexed index="3" regionRef="r32"/>
+	<RegionRefIndexed index="4" regionRef="r33"/>
+	<RegionRefIndexed index="5" regionRef="r34"/>
+	<RegionRefIndexed index="6" regionRef="r35"/>
+	<RegionRefIndexed index="7" regionRef="r36"/>
+	<RegionRefIndexed index="8" regionRef="r37"/>
+	<RegionRefIndexed index="9" regionRef="r38"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r29" textColour="black" type="heading">
+	<Coords>
+	<Point x="247" y="280"/>
+	<Point x="247" y="440"/>
+	<Point x="1428" y="440"/>
+	<Point x="1428" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>WYPRAWA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" textColour="black" type="heading">
+	<Coords>
+	<Point x="801" y="458"/>
+	<Point x="801" y="562"/>
+	<Point x="907" y="562"/>
+	<Point x="907" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" textColour="black" type="heading">
+	<Coords>
+	<Point x="282" y="587"/>
+	<Point x="282" y="689"/>
+	<Point x="1385" y="689"/>
+	<Point x="1385" y="587"/>
+	<Point x="1140" y="581"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>WYIAZD</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" textColour="black" type="heading">
+	<Coords>
+	<Point x="260" y="707"/>
+	<Point x="260" y="805"/>
+	<Point x="374" y="810"/>
+	<Point x="1418" y="815"/>
+	<Point x="1437" y="805"/>
+	<Point x="1437" y="707"/>
+	<Point x="490" y="696"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Woyſká, z Konántynopola,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" textColour="black" type="heading">
+	<Coords>
+	<Point x="330" y="846"/>
+	<Point x="330" y="917"/>
+	<Point x="541" y="925"/>
+	<Point x="828" y="924"/>
+	<Point x="1330" y="926"/>
+	<Point x="1369" y="917"/>
+	<Point x="1369" y="846"/>
+	<Point x="498" y="843"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Wielkiego y potężnego Monárchy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" textColour="black" type="heading">
+	<Coords>
+	<Point x="260" y="932"/>
+	<Point x="260" y="1003"/>
+	<Point x="1435" y="1003"/>
+	<Point x="1435" y="932"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>SVŁTANA AMVRATA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" textColour="black" type="heading">
+	<Coords>
+	<Point x="337" y="1007"/>
+	<Point x="337" y="1096"/>
+	<Point x="1367" y="1096"/>
+	<Point x="1367" y="1007"/>
+	<Point x="402" y="1006"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ceſárzá Tureckiego teráźnieyſzego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" textColour="black" type="heading">
+	<Coords>
+	<Point x="455" y="1108"/>
+	<Point x="455" y="1194"/>
+	<Point x="1255" y="1194"/>
+	<Point x="1255" y="1108"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná Woynɇ do Korony Polſkiey.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" textColour="black" type="heading">
+	<Coords>
+	<Point x="264" y="1255"/>
+	<Point x="264" y="1417"/>
+	<Point x="1444" y="1417"/>
+	<Point x="1444" y="1255"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>A to z namowy , rády , y przenáięćia, ták Luterſkiego, iáko y
+Czárá Wielkiego Moſkiewſkiego , y inßych
+Kátholickich Nieprzyiaćioł.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" textColour="black" type="heading">
+	<Coords>
+	<Point x="535" y="1439"/>
+	<Point x="535" y="1525"/>
+	<Point x="1185" y="1525"/>
+	<Point x="1185" y="1439"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Roku Páńſkiego 1634.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r39" type="other">
+	<Coords>
+	<Point x="587" y="1569"/>
+	<Point x="587" y="1730"/>
+	<Point x="1135" y="1730"/>
+	<Point x="1135" y="1569"/></Coords></GraphicRegion></Page></PcGts>

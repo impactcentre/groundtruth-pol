@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00433210" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T14:34:37</Created>
+	<LastChange>2011-10-03T13:52:13</LastChange></Metadata>
+	<Page imageFilename="00433210.tif" imageHeight="2199" imageWidth="1829">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r466"/>
+	<RegionRefIndexed index="1" regionRef="r467"/>
+	<RegionRefIndexed index="2" regionRef="r474"/>
+	<RegionRefIndexed index="3" regionRef="r472"/>
+	<RegionRefIndexed index="4" regionRef="r469"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r464" type="page-number">
+	<Coords>
+	<Point x="180" y="90"/>
+	<Point x="180" y="135"/>
+	<Point x="242" y="135"/>
+	<Point x="242" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>118</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r465" type="header">
+	<Coords>
+	<Point x="447" y="72"/>
+	<Point x="450" y="129"/>
+	<Point x="629" y="128"/>
+	<Point x="656" y="138"/>
+	<Point x="690" y="128"/>
+	<Point x="853" y="137"/>
+	<Point x="1211" y="126"/>
+	<Point x="1235" y="141"/>
+	<Point x="1259" y="128"/>
+	<Point x="1336" y="125"/>
+	<Point x="1341" y="72"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>o Lotowey Zonie, y Jabłkach Sodomſkich</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r466" type="heading">
+	<Coords>
+	<Point x="265" y="162"/>
+	<Point x="274" y="216"/>
+	<Point x="575" y="234"/>
+	<Point x="592" y="296"/>
+	<Point x="602" y="296"/>
+	<Point x="626" y="279"/>
+	<Point x="683" y="280"/>
+	<Point x="697" y="294"/>
+	<Point x="707" y="294"/>
+	<Point x="748" y="281"/>
+	<Point x="1591" y="287"/>
+	<Point x="1591" y="162"/>
+	<Point x="1440" y="157"/>
+	<Point x="930" y="156"/>
+	<Point x="657" y="157"/>
+	<Point x="294" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O Lotowey Zonie w Bałwan ſoli zamienioney,
+y o Jabłkach Sodomſkich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r467" type="heading">
+	<Coords>
+	<Point x="552" y="298"/>
+	<Point x="566" y="348"/>
+	<Point x="601" y="352"/>
+	<Point x="617" y="362"/>
+	<Point x="628" y="365"/>
+	<Point x="665" y="352"/>
+	<Point x="1027" y="351"/>
+	<Point x="1044" y="364"/>
+	<Point x="1056" y="365"/>
+	<Point x="1090" y="352"/>
+	<Point x="1189" y="350"/>
+	<Point x="1220" y="363"/>
+	<Point x="1239" y="350"/>
+	<Point x="1296" y="349"/>
+	<Point x="1298" y="298"/>
+	<Point x="1266" y="292"/>
+	<Point x="855" y="291"/>
+	<Point x="719" y="309"/>
+	<Point x="686" y="299"/>
+	<Point x="667" y="296"/>
+	<Point x="625" y="299"/>
+	<Point x="585" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Czyli to oboie znaydnie ɇ?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r469" type="catch-word">
+	<Coords>
+	<Point x="1552" y="2011"/>
+	<Point x="1552" y="2056"/>
+	<Point x="1626" y="2056"/>
+	<Point x="1626" y="2011"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>To</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r470">
+	<Coords>
+	<Point x="184" y="143"/>
+	<Point x="402" y="142"/>
+	<Point x="493" y="143"/>
+	<Point x="591" y="144"/>
+	<Point x="748" y="143"/>
+	<Point x="983" y="143"/>
+	<Point x="1232" y="144"/>
+	<Point x="1490" y="138"/>
+	<Point x="1668" y="140"/>
+	<Point x="1668" y="158"/>
+	<Point x="1573" y="153"/>
+	<Point x="1443" y="152"/>
+	<Point x="1307" y="153"/>
+	<Point x="1075" y="153"/>
+	<Point x="962" y="152"/>
+	<Point x="635" y="152"/>
+	<Point x="557" y="153"/>
+	<Point x="346" y="154"/>
+	<Point x="246" y="154"/>
+	<Point x="183" y="158"/>
+	<Point x="184" y="142"/></Coords></SeparatorRegion>
+	<TextRegion id="r472" type="paragraph">
+	<Coords>
+	<Point x="1680" y="356"/>
+	<Point x="1680" y="1969"/>
+	<Point x="648" y="1984"/>
+	<Point x="620" y="2015"/>
+	<Point x="567" y="2030"/>
+	<Point x="493" y="2028"/>
+	<Point x="164" y="2038"/>
+	<Point x="171" y="1965"/>
+	<Point x="171" y="1839"/>
+	<Point x="173" y="645"/>
+	<Point x="175" y="511"/>
+	<Point x="271" y="523"/>
+	<Point x="266" y="461"/>
+	<Point x="267" y="461"/>
+	<Point x="267" y="367"/>
+	<Point x="275" y="367"/>
+	<Point x="275" y="368"/>
+	<Point x="313" y="368"/>
+	<Point x="313" y="369"/>
+	<Point x="353" y="365"/>
+	<Point x="389" y="370"/>
+	<Point x="389" y="371"/>
+	<Point x="426" y="371"/>
+	<Point x="426" y="372"/>
+	<Point x="469" y="365"/>
+	<Point x="502" y="373"/>
+	<Point x="502" y="374"/>
+	<Point x="540" y="374"/>
+	<Point x="540" y="375"/>
+	<Point x="578" y="375"/>
+	<Point x="578" y="376"/>
+	<Point x="599" y="367"/>
+	<Point x="670" y="367"/>
+	<Point x="703" y="376"/>
+	<Point x="703" y="375"/>
+	<Point x="773" y="371"/>
+	<Point x="791" y="375"/>
+	<Point x="791" y="374"/>
+	<Point x="804" y="366"/>
+	<Point x="880" y="364"/>
+	<Point x="951" y="368"/>
+	<Point x="966" y="372"/>
+	<Point x="1054" y="372"/>
+	<Point x="1054" y="371"/>
+	<Point x="1103" y="371"/>
+	<Point x="1103" y="370"/>
+	<Point x="1152" y="370"/>
+	<Point x="1152" y="369"/>
+	<Point x="1201" y="369"/>
+	<Point x="1201" y="368"/>
+	<Point x="1250" y="368"/>
+	<Point x="1250" y="367"/>
+	<Point x="1300" y="367"/>
+	<Point x="1300" y="366"/>
+	<Point x="1334" y="366"/>
+	<Point x="1334" y="365"/>
+	<Point x="1369" y="365"/>
+	<Point x="1369" y="364"/>
+	<Point x="1403" y="364"/>
+	<Point x="1403" y="363"/>
+	<Point x="1438" y="363"/>
+	<Point x="1438" y="362"/>
+	<Point x="1472" y="362"/>
+	<Point x="1472" y="361"/>
+	<Point x="1507" y="361"/>
+	<Point x="1507" y="360"/>
+	<Point x="1541" y="360"/>
+	<Point x="1541" y="359"/>
+	<Point x="1576" y="359"/>
+	<Point x="1576" y="358"/>
+	<Point x="1610" y="358"/>
+	<Point x="1610" y="357"/>
+	<Point x="1645" y="357"/>
+	<Point x="1645" y="356"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>O nieomylna práwda z̄e Zonie Lotowey z Sodomy Miaa wycho‑
+dzⱥcey, P. BOG nie kazał ę obzierać: Noli reſpicere po tergum Ta
+nie tak nie pouſzna, iako ciekawa, w tył rzuciła okiem, y zaraz w
+Bałwan ſoli, nie rozumna, w Mądrości Symbolum zamieniła ę: Ze odkⱥ
+Oyczyznę nad Boſki preferowała Mandat, gorzkościⱥ ſoli ukarana. Sol
+pokazała, z̄e to nie ſą Sales przerogi Niebieſkie. Rupertus y Proſper u Ty‑
+ryna trzymaią z̄e Lotowa Zona powſzechnym ty�ko wykroczyła grze‑
+chem, y z̄e Duſza iey do mąk Czyſcowych, nie do Piekielnych doałá ę.
+Ale pewniey, z̄e wielki to był tey M�trony exces, gdy tak wielka za nim
+naępowała kara na ciele, alias temporalis pæna. O tey mowię iey w Bał‑
+wan ſoli tranſmutacyi, alias zamienieniu wſol Lodowatⱥ iako marmur
+albo krzyſztał twardⱥ [ bo o tym wyraz̄nie Litera świadczy Pańſka ) nie‑
+maſz z̄adnego dubium, ale tylko oritur Quæio czyli ę ten Bałwan ſoli po
+dziś dzień konſerwuie. Brochardus Autor, y Adrichomius Ziemię Swiętą
+opiſuiący, twierdzą z̄e dotychczas oi między Martwym Morzem, gdzie
+Sodoma y Gomorra zgorzały a według Cedren� zapadły ę, y między gorą
+Engaddi, na ktorⱥ Lot z Boſkiey był wynio ę dyſpozycyi. Toz̄ ſamo
+z n wielu yſzałem Niewolnikow, z tamtⱥd uciekaiⱥcych: ale ci cíeka‑
+wśi wſzukaniu drogi do ucieczki, y chleba, niżeli tey ſoli. Targum Je‑
+roſolymitanum ( ie to Kęga Zydowſka explikuiⱥcä Biblię ) twierdzi, że
+ten Bawan ſoli, tak trwać ma, az̄ do generalney Reſurrekcyi ludzi: y z̄e
+deſzcze iey ni ſzkodzą, bo ie ex Metallico Sale, alias z lodowatey ſoli Cæus
+lib: � de Mirac: Ho�nius. To certnm, z̄e Martwe Morze ie au, tak na‑
+zwane, z̄e na ſobie z̄adnych niema falow, burzliwości, częścią dla geych
+y ropiaych wod, nie ma tez̄ wſobie z̄adney rybki, z tąd infertur z̄e wo‑
+dy tameczne nie ſⱥ z̄ywe lecz zgniłe agnantes. Po nad to Martwe
+Morze cała Antiquitas lokuie JABŁKA SODOMSKIE, twierdząc, z̄e ę
+tam znayduiⱥ drzewa na gruntach popiołu pełnych w cyrkumferencyi
+Sodomy, ktore rodzą Jabłka na pozor piękne za dotknięeiem w popioł
+ę roſzypuiⱥce, o tych Fruktach piſzⱥ Philo z̄yd, Jozef Zydowi�, Str�bo,
+Solinus, Plinius, Tacitus, Tertullianus, S. Auguyn w Kędze de Civitate DEI,
+S. Cyprian, Burchardus, z̄yiący około Roku 1020, y Bredenbachiuś Oculati Te‑
+es widzieli te Jabłká.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r474" type="drop-capital">
+	<Coords>
+	<Point x="199" y="365"/>
+	<Point x="199" y="366"/>
+	<Point x="237" y="366"/>
+	<Point x="237" y="367"/>
+	<Point x="265" y="367"/>
+	<Point x="265" y="459"/>
+	<Point x="264" y="459"/>
+	<Point x="264" y="460"/>
+	<Point x="161" y="460"/>
+	<Point x="161" y="365"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>T</Unicode></TextEquiv></TextRegion></Page></PcGts>

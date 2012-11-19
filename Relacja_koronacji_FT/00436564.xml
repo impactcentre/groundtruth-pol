@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436564" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T05:57:48</Created>
+	<LastChange>2011-10-17T08:26:37</LastChange></Metadata>
+	<Page imageFilename="00436564.tif" imageHeight="2852" imageWidth="2145">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r216"/>
+	<RegionRefIndexed index="1" regionRef="r214"/>
+	<RegionRefIndexed index="2" regionRef="r215"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r214" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="202" y="298"/>
+	<Point x="206" y="2490"/>
+	<Point x="1625" y="2488"/>
+	<Point x="1644" y="2468"/>
+	<Point x="1822" y="2466"/>
+	<Point x="2073" y="2466"/>
+	<Point x="2073" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Cmentarz lubo dosć obſzerny, ten iednák był w ko‑
+ło gáleryⱥ o dwu piⱥtrách báláſámi y poręczámi ob‑
+wiedźiony, ádornowány pikturⱥ z nákryciem,nákáżdym
+iego ganku,ná iednym piętrze dolnym zmieściło e osm
+tyęcy ludźi, tyleż drugie ná drugim gornym ktory
+był wſzyek lámpami uroïony. Nátymże Cmenta‑
+rzu ie pięć Baſzt, w nich káplice poſklepione alfre‑
+ſko málowáne, wtych kȧplicách były ołtarze, gdźie
+ludźie (ktorym e niepodobna było pomieścić w ko‑
+ściele) Mſzy świętych ucháli,y kommunikowáli. Nád
+to nád Bramⱥ kazāno okno wyciⱥc wperſpektywe ná‑
+kſztałt káplicy, gdźie był wyáwiony ołtarz y Obrȧ�
+Nayświętſzey MARYI Pánny podobny temu ktory
+koronowánⱥ, ſukienkámi śrebrnozłociemi, y koroná‑
+mi drogiemi przyozdobiony, tám e nieprzeánnie
+Mſze święte odprawiáły á to dla mnowá ludźi
+ktorych áni kościoł, áni kroczgánki klaſztorne , áni
+cmentarz ogárnⱥć niemogł, ále ztámtⱥd o podal Woy‑
+ſko y Poſpolwo z wielkⱥ wygodⱥ Mſzy S. ucháło.
+Ná tymze Cmentarzu oiⱥcá ná koloſśie atua N.
+MARYI Pánny licznym ogniem y czterema pirámidá‑
+mi ádornowána byłá. Pod tym koloem był Tron pod
+báldáchimem miernie wyáwiony y bogato przybrá‑
+ny, ná ktorym I. W. KORONATOR Zakonowi Ká‑
+znodżieyſkiemu korony oddawał. Front Cmentárza</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r215" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1674" y="2500"/>
+	<Point x="1674" y="2574"/>
+	<Point x="1996" y="2574"/>
+	<Point x="1996" y="2500"/>
+	<Point x="1950" y="2480"/>
+	<Point x="1808" y="2479"/>
+	<Point x="1687" y="2480"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>y Brama</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r216" textColour="black" type="heading">
+	<Coords>
+	<Point x="767" y="200"/>
+	<Point x="767" y="290"/>
+	<Point x="1483" y="290"/>
+	<Point x="1483" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ornáment Cmentárza.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436089" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T11:32:49</Created>
+	<LastChange>2011-10-17T14:41:52</LastChange></Metadata>
+	<Page imageFilename="00436089.tif" imageHeight="2346" imageWidth="1945">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r357"/>
+	<RegionRefIndexed index="1" regionRef="r365"/>
+	<RegionRefIndexed index="2" regionRef="r363"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r349" type="page-number">
+	<Coords>
+	<Point x="389" y="116"/>
+	<Point x="389" y="183"/>
+	<Point x="271" y="183"/>
+	<Point x="271" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>605</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r355" type="header">
+	<Coords>
+	<Point x="1357" y="116"/>
+	<Point x="1357" y="148"/>
+	<Point x="1358" y="148"/>
+	<Point x="1358" y="179"/>
+	<Point x="1300" y="179"/>
+	<Point x="1300" y="180"/>
+	<Point x="1232" y="180"/>
+	<Point x="1232" y="181"/>
+	<Point x="1163" y="181"/>
+	<Point x="1163" y="180"/>
+	<Point x="1158" y="180"/>
+	<Point x="1158" y="179"/>
+	<Point x="1153" y="179"/>
+	<Point x="1153" y="178"/>
+	<Point x="1148" y="178"/>
+	<Point x="1148" y="177"/>
+	<Point x="1140" y="177"/>
+	<Point x="1140" y="178"/>
+	<Point x="1134" y="178"/>
+	<Point x="1134" y="179"/>
+	<Point x="1127" y="179"/>
+	<Point x="1127" y="180"/>
+	<Point x="1121" y="180"/>
+	<Point x="1121" y="181"/>
+	<Point x="1114" y="181"/>
+	<Point x="1114" y="182"/>
+	<Point x="1108" y="182"/>
+	<Point x="1108" y="183"/>
+	<Point x="1101" y="183"/>
+	<Point x="1101" y="184"/>
+	<Point x="1095" y="184"/>
+	<Point x="1095" y="185"/>
+	<Point x="1088" y="185"/>
+	<Point x="1088" y="186"/>
+	<Point x="742" y="186"/>
+	<Point x="742" y="185"/>
+	<Point x="734" y="185"/>
+	<Point x="734" y="184"/>
+	<Point x="726" y="184"/>
+	<Point x="726" y="183"/>
+	<Point x="718" y="183"/>
+	<Point x="718" y="182"/>
+	<Point x="710" y="182"/>
+	<Point x="710" y="181"/>
+	<Point x="700" y="181"/>
+	<Point x="700" y="182"/>
+	<Point x="694" y="182"/>
+	<Point x="694" y="183"/>
+	<Point x="688" y="183"/>
+	<Point x="688" y="184"/>
+	<Point x="682" y="184"/>
+	<Point x="682" y="185"/>
+	<Point x="677" y="185"/>
+	<Point x="677" y="184"/>
+	<Point x="596" y="184"/>
+	<Point x="596" y="183"/>
+	<Point x="594" y="183"/>
+	<Point x="594" y="175"/>
+	<Point x="593" y="175"/>
+	<Point x="593" y="158"/>
+	<Point x="592" y="158"/>
+	<Point x="592" y="141"/>
+	<Point x="591" y="141"/>
+	<Point x="591" y="124"/>
+	<Point x="590" y="124"/>
+	<Point x="590" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Geograﬁa Generalna y partykularna</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r357" type="paragraph">
+	<Coords>
+	<Point x="1146" y="179"/>
+	<Point x="1146" y="180"/>
+	<Point x="1151" y="180"/>
+	<Point x="1151" y="181"/>
+	<Point x="1156" y="181"/>
+	<Point x="1156" y="182"/>
+	<Point x="1161" y="182"/>
+	<Point x="1161" y="183"/>
+	<Point x="1234" y="183"/>
+	<Point x="1234" y="182"/>
+	<Point x="1302" y="182"/>
+	<Point x="1302" y="181"/>
+	<Point x="1370" y="181"/>
+	<Point x="1370" y="180"/>
+	<Point x="1437" y="180"/>
+	<Point x="1437" y="179"/>
+	<Point x="1635" y="179"/>
+	<Point x="1635" y="180"/>
+	<Point x="1826" y="180"/>
+	<Point x="1826" y="1826"/>
+	<Point x="1591" y="1826"/>
+	<Point x="1591" y="1825"/>
+	<Point x="1338" y="1825"/>
+	<Point x="1338" y="1824"/>
+	<Point x="1085" y="1824"/>
+	<Point x="1085" y="1823"/>
+	<Point x="831" y="1823"/>
+	<Point x="831" y="1824"/>
+	<Point x="733" y="1824"/>
+	<Point x="733" y="1825"/>
+	<Point x="636" y="1825"/>
+	<Point x="636" y="1824"/>
+	<Point x="630" y="1824"/>
+	<Point x="630" y="1823"/>
+	<Point x="623" y="1823"/>
+	<Point x="623" y="1822"/>
+	<Point x="616" y="1822"/>
+	<Point x="616" y="1821"/>
+	<Point x="610" y="1821"/>
+	<Point x="610" y="1820"/>
+	<Point x="603" y="1820"/>
+	<Point x="603" y="1819"/>
+	<Point x="594" y="1819"/>
+	<Point x="594" y="1820"/>
+	<Point x="571" y="1820"/>
+	<Point x="571" y="1821"/>
+	<Point x="547" y="1821"/>
+	<Point x="547" y="1822"/>
+	<Point x="523" y="1822"/>
+	<Point x="523" y="1823"/>
+	<Point x="499" y="1823"/>
+	<Point x="499" y="1824"/>
+	<Point x="475" y="1824"/>
+	<Point x="475" y="1825"/>
+	<Point x="451" y="1825"/>
+	<Point x="451" y="1826"/>
+	<Point x="427" y="1826"/>
+	<Point x="427" y="1827"/>
+	<Point x="403" y="1827"/>
+	<Point x="403" y="1828"/>
+	<Point x="379" y="1828"/>
+	<Point x="379" y="1829"/>
+	<Point x="355" y="1829"/>
+	<Point x="355" y="1830"/>
+	<Point x="331" y="1830"/>
+	<Point x="331" y="1831"/>
+	<Point x="307" y="1831"/>
+	<Point x="307" y="1832"/>
+	<Point x="283" y="1832"/>
+	<Point x="283" y="1833"/>
+	<Point x="271" y="1833"/>
+	<Point x="271" y="185"/>
+	<Point x="434" y="185"/>
+	<Point x="434" y="184"/>
+	<Point x="513" y="184"/>
+	<Point x="513" y="185"/>
+	<Point x="594" y="185"/>
+	<Point x="594" y="186"/>
+	<Point x="675" y="186"/>
+	<Point x="675" y="187"/>
+	<Point x="684" y="187"/>
+	<Point x="684" y="186"/>
+	<Point x="690" y="186"/>
+	<Point x="690" y="185"/>
+	<Point x="696" y="185"/>
+	<Point x="696" y="184"/>
+	<Point x="702" y="184"/>
+	<Point x="702" y="183"/>
+	<Point x="708" y="183"/>
+	<Point x="708" y="184"/>
+	<Point x="716" y="184"/>
+	<Point x="716" y="185"/>
+	<Point x="724" y="185"/>
+	<Point x="724" y="186"/>
+	<Point x="732" y="186"/>
+	<Point x="732" y="187"/>
+	<Point x="740" y="187"/>
+	<Point x="740" y="188"/>
+	<Point x="1090" y="188"/>
+	<Point x="1090" y="187"/>
+	<Point x="1097" y="187"/>
+	<Point x="1097" y="186"/>
+	<Point x="1103" y="186"/>
+	<Point x="1103" y="185"/>
+	<Point x="1110" y="185"/>
+	<Point x="1110" y="184"/>
+	<Point x="1116" y="184"/>
+	<Point x="1116" y="183"/>
+	<Point x="1123" y="183"/>
+	<Point x="1123" y="182"/>
+	<Point x="1129" y="182"/>
+	<Point x="1129" y="181"/>
+	<Point x="1136" y="181"/>
+	<Point x="1136" y="180"/>
+	<Point x="1142" y="180"/>
+	<Point x="1142" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>che rumiane: ciało zaś całe rożnemi ſobie farbuią kolorami, na‑
+go chodzⱥc, przecież białogłowy z futra, czyli ſkorek zwie‑
+rzɇciá Cioﬁ głowy ſobie záwiⱥzuiąc, końce tego zá‑
+wiⱥzania z lewey rony noſzⱥ opuſzczone ad |tegenda naturalia
+Włoſy mɇſzcyzni noſzⱥ długie, lecz idⱥc na woynɇ, ie wiązⱥ,
+y za te zawiązanie, iak w kołczan, strżały ſwe wtykaiⱥ. Strza‑
+łⱥ nigdy nie zbłⱥdżą od celu; żadnego dzieciom ſwym nieda‑
+iⱥ poleru, ani kary za wyępki, dla tego tam grzechy impunè
+graantur. Woiuiⱥ tylko z temi, ktorzy innego ięzyka. Koma‑
+row tam mnowo bardzo wielkich, ktore odraż�ia ogniem y
+dymem od domow ſwoich, zkⱥd aż trⱥdu, lub świerżbiączki do‑
+aią. Stroy ich naypiɇknieyſzy, z pior ptakow rożnego koloru.
+Moneta u nich z rybich kości, item kamyki zielone y czerwone.
+Na złoto nie ſą appetyczni; czaſu iednego worki pobrali, złoto wy‑
+sypawſzy. Zyiⱥ korzonkami, ziołami, rybami, oſobliwie rybⱥ
+tłuą Bauquave, iey tłuości zażywaią miao maa. Zboża
+nie mieli zrazu, chleb ſobie robiⱥ z owocu Maiz. Wino ɇ
+tam rodzi, ale kwȧśne: robiⱥ ſobie y piwo, Canet zwane, z pe‑
+wnych zioł. Gorzyy ich kray pełny zwierza ziadłego, o‑
+ſobliwie Krokodylow na 12. albo na 13. op długich, item wɇ‑
+żow ſkrzydlaych po nad ziemie częo lataiⱥcych. Gdy znale‑
+zieni Florydani, modlili ɇ rɇce do gory podnioſzy. Po
+znalezieniu przez Francuzow tey Florydy nie daleko Hiſpa‑
+nioli Inſuły Joannes Pontius Leogiens Hiſzpan, ználazł BORI‑
+QUENAM Inſułę, Joannis de Portu divite, potym nazwaną, gdzie
+o zrzodle Fons Mirus nazwanym, aremu człekowi młodość
+przywracaiącym, by�a fama. Sześć Mieęcy tego zrzodła
+szukał tam, ten ſam Joannes Leontius, ale nie znalazł, iako. pi‑
+ſze Benzo A�tor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r363" type="catch-word">
+	<Coords>
+	<Point x="1744" y="2054"/>
+	<Point x="1744" y="2055"/>
+	<Point x="1747" y="2055"/>
+	<Point x="1747" y="2056"/>
+	<Point x="1750" y="2056"/>
+	<Point x="1750" y="2057"/>
+	<Point x="1753" y="2057"/>
+	<Point x="1753" y="2058"/>
+	<Point x="1756" y="2058"/>
+	<Point x="1756" y="2059"/>
+	<Point x="1759" y="2059"/>
+	<Point x="1759" y="2060"/>
+	<Point x="1762" y="2060"/>
+	<Point x="1762" y="2061"/>
+	<Point x="1765" y="2061"/>
+	<Point x="1765" y="2062"/>
+	<Point x="1768" y="2062"/>
+	<Point x="1768" y="2063"/>
+	<Point x="1771" y="2063"/>
+	<Point x="1771" y="2064"/>
+	<Point x="1774" y="2064"/>
+	<Point x="1774" y="2065"/>
+	<Point x="1807" y="2065"/>
+	<Point x="1807" y="2064"/>
+	<Point x="1826" y="2064"/>
+	<Point x="1826" y="2116"/>
+	<Point x="1637" y="2116"/>
+	<Point x="1637" y="2054"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>wa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r365" type="paragraph">
+	<Coords>
+	<Point x="601" y="1821"/>
+	<Point x="601" y="1822"/>
+	<Point x="608" y="1822"/>
+	<Point x="608" y="1823"/>
+	<Point x="614" y="1823"/>
+	<Point x="614" y="1824"/>
+	<Point x="621" y="1824"/>
+	<Point x="621" y="1825"/>
+	<Point x="628" y="1825"/>
+	<Point x="628" y="1826"/>
+	<Point x="634" y="1826"/>
+	<Point x="634" y="1827"/>
+	<Point x="735" y="1827"/>
+	<Point x="735" y="1826"/>
+	<Point x="833" y="1826"/>
+	<Point x="833" y="1825"/>
+	<Point x="1083" y="1825"/>
+	<Point x="1083" y="1826"/>
+	<Point x="1336" y="1826"/>
+	<Point x="1336" y="1827"/>
+	<Point x="1589" y="1827"/>
+	<Point x="1589" y="1828"/>
+	<Point x="1826" y="1828"/>
+	<Point x="1826" y="2062"/>
+	<Point x="1805" y="2062"/>
+	<Point x="1805" y="2063"/>
+	<Point x="1776" y="2063"/>
+	<Point x="1776" y="2062"/>
+	<Point x="1773" y="2062"/>
+	<Point x="1773" y="2061"/>
+	<Point x="1770" y="2061"/>
+	<Point x="1770" y="2060"/>
+	<Point x="1767" y="2060"/>
+	<Point x="1767" y="2059"/>
+	<Point x="1764" y="2059"/>
+	<Point x="1764" y="2058"/>
+	<Point x="1761" y="2058"/>
+	<Point x="1761" y="2057"/>
+	<Point x="1758" y="2057"/>
+	<Point x="1758" y="2056"/>
+	<Point x="1755" y="2056"/>
+	<Point x="1755" y="2055"/>
+	<Point x="1752" y="2055"/>
+	<Point x="1752" y="2054"/>
+	<Point x="1749" y="2054"/>
+	<Point x="1749" y="2053"/>
+	<Point x="1746" y="2053"/>
+	<Point x="1746" y="2052"/>
+	<Point x="1635" y="2052"/>
+	<Point x="1635" y="2075"/>
+	<Point x="1509" y="2075"/>
+	<Point x="1509" y="2074"/>
+	<Point x="1371" y="2074"/>
+	<Point x="1371" y="2073"/>
+	<Point x="1233" y="2073"/>
+	<Point x="1233" y="2072"/>
+	<Point x="1094" y="2072"/>
+	<Point x="1094" y="2071"/>
+	<Point x="956" y="2071"/>
+	<Point x="956" y="2070"/>
+	<Point x="818" y="2070"/>
+	<Point x="818" y="2069"/>
+	<Point x="679" y="2069"/>
+	<Point x="679" y="2068"/>
+	<Point x="541" y="2068"/>
+	<Point x="541" y="2067"/>
+	<Point x="403" y="2067"/>
+	<Point x="403" y="2066"/>
+	<Point x="271" y="2066"/>
+	<Point x="271" y="1835"/>
+	<Point x="285" y="1835"/>
+	<Point x="285" y="1834"/>
+	<Point x="309" y="1834"/>
+	<Point x="309" y="1833"/>
+	<Point x="333" y="1833"/>
+	<Point x="333" y="1832"/>
+	<Point x="357" y="1832"/>
+	<Point x="357" y="1831"/>
+	<Point x="381" y="1831"/>
+	<Point x="381" y="1830"/>
+	<Point x="405" y="1830"/>
+	<Point x="405" y="1829"/>
+	<Point x="429" y="1829"/>
+	<Point x="429" y="1828"/>
+	<Point x="453" y="1828"/>
+	<Point x="453" y="1827"/>
+	<Point x="477" y="1827"/>
+	<Point x="477" y="1826"/>
+	<Point x="501" y="1826"/>
+	<Point x="501" y="1825"/>
+	<Point x="525" y="1825"/>
+	<Point x="525" y="1824"/>
+	<Point x="549" y="1824"/>
+	<Point x="549" y="1823"/>
+	<Point x="573" y="1823"/>
+	<Point x="573" y="1822"/>
+	<Point x="596" y="1822"/>
+	<Point x="596" y="1821"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W KRAIU, NOWȺHISZPANIȺ, nazwanym, olim Me‑
+xik na mil 300, długim, na 70. ſzerokim, à mieyſcami tylko na
+mil 15. ie piaſek złoty, ſrebrny, Krokodẏle, ktoremi tam
+Obywatele, iako też y wɇżami żyią, głowy ucinaiąc: też miɇ‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

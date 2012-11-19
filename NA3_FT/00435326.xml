@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00435326" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T08:55:59</Created>
+	<LastChange>2011-07-01T08:39:01</LastChange></Metadata>
+	<Page imageFilename="00435326.tif" imageHeight="2416" imageWidth="1803">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r353"/>
+	<RegionRefIndexed index="1" regionRef="r347"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r335" type="page-number">
+	<Coords>
+	<Point x="1581" y="126"/>
+	<Point x="1570" y="198"/>
+	<Point x="1677" y="196"/>
+	<Point x="1677" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>562</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r336">
+	<Coords>
+	<Point x="132" y="192"/>
+	<Point x="355" y="189"/>
+	<Point x="821" y="190"/>
+	<Point x="1322" y="191"/>
+	<Point x="1546" y="197"/>
+	<Point x="1576" y="202"/>
+	<Point x="1678" y="202"/>
+	<Point x="1678" y="216"/>
+	<Point x="1655" y="213"/>
+	<Point x="1492" y="215"/>
+	<Point x="1446" y="211"/>
+	<Point x="1220" y="211"/>
+	<Point x="874" y="206"/>
+	<Point x="594" y="207"/>
+	<Point x="289" y="210"/>
+	<Point x="240" y="208"/>
+	<Point x="129" y="215"/></Coords></SeparatorRegion>
+	<TextRegion id="r341" type="signature-mark">
+	<Coords>
+	<Point x="850" y="2026"/>
+	<Point x="850" y="2027"/>
+	<Point x="897" y="2027"/>
+	<Point x="897" y="2028"/>
+	<Point x="944" y="2028"/>
+	<Point x="944" y="2029"/>
+	<Point x="945" y="2029"/>
+	<Point x="945" y="2097"/>
+	<Point x="801" y="2097"/>
+	<Point x="801" y="2085"/>
+	<Point x="802" y="2085"/>
+	<Point x="802" y="2070"/>
+	<Point x="803" y="2070"/>
+	<Point x="803" y="2055"/>
+	<Point x="804" y="2055"/>
+	<Point x="804" y="2040"/>
+	<Point x="805" y="2040"/>
+	<Point x="805" y="2026"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Yyy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" type="catch-word">
+	<Coords>
+	<Point x="1692" y="2033"/>
+	<Point x="1692" y="2097"/>
+	<Point x="1473" y="2097"/>
+	<Point x="1473" y="2082"/>
+	<Point x="1474" y="2082"/>
+	<Point x="1474" y="2065"/>
+	<Point x="1475" y="2065"/>
+	<Point x="1475" y="2048"/>
+	<Point x="1476" y="2048"/>
+	<Point x="1476" y="2033"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>pracą</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r353" type="paragraph">
+	<Coords>
+	<Point x="1033" y="210"/>
+	<Point x="1033" y="211"/>
+	<Point x="1113" y="211"/>
+	<Point x="1113" y="212"/>
+	<Point x="1194" y="212"/>
+	<Point x="1194" y="213"/>
+	<Point x="1274" y="213"/>
+	<Point x="1274" y="214"/>
+	<Point x="1354" y="214"/>
+	<Point x="1354" y="215"/>
+	<Point x="1435" y="215"/>
+	<Point x="1435" y="216"/>
+	<Point x="1470" y="216"/>
+	<Point x="1470" y="217"/>
+	<Point x="1506" y="217"/>
+	<Point x="1506" y="218"/>
+	<Point x="1541" y="218"/>
+	<Point x="1541" y="219"/>
+	<Point x="1577" y="219"/>
+	<Point x="1577" y="220"/>
+	<Point x="1620" y="220"/>
+	<Point x="1620" y="219"/>
+	<Point x="1628" y="219"/>
+	<Point x="1628" y="218"/>
+	<Point x="1635" y="218"/>
+	<Point x="1635" y="217"/>
+	<Point x="1659" y="217"/>
+	<Point x="1659" y="218"/>
+	<Point x="1675" y="218"/>
+	<Point x="1675" y="219"/>
+	<Point x="1692" y="219"/>
+	<Point x="1692" y="2031"/>
+	<Point x="1476" y="2031"/>
+	<Point x="1476" y="2030"/>
+	<Point x="1474" y="2030"/>
+	<Point x="1474" y="2031"/>
+	<Point x="1473" y="2031"/>
+	<Point x="1473" y="2033"/>
+	<Point x="1474" y="2033"/>
+	<Point x="1474" y="2043"/>
+	<Point x="1355" y="2043"/>
+	<Point x="1355" y="2042"/>
+	<Point x="1216" y="2042"/>
+	<Point x="1216" y="2041"/>
+	<Point x="1077" y="2041"/>
+	<Point x="1077" y="2040"/>
+	<Point x="947" y="2040"/>
+	<Point x="947" y="2027"/>
+	<Point x="946" y="2027"/>
+	<Point x="946" y="2026"/>
+	<Point x="899" y="2026"/>
+	<Point x="899" y="2025"/>
+	<Point x="852" y="2025"/>
+	<Point x="852" y="2024"/>
+	<Point x="803" y="2024"/>
+	<Point x="803" y="2038"/>
+	<Point x="802" y="2038"/>
+	<Point x="802" y="2045"/>
+	<Point x="735" y="2045"/>
+	<Point x="735" y="2044"/>
+	<Point x="645" y="2044"/>
+	<Point x="645" y="2043"/>
+	<Point x="555" y="2043"/>
+	<Point x="555" y="2042"/>
+	<Point x="465" y="2042"/>
+	<Point x="465" y="2041"/>
+	<Point x="375" y="2041"/>
+	<Point x="375" y="2040"/>
+	<Point x="285" y="2040"/>
+	<Point x="285" y="2039"/>
+	<Point x="195" y="2039"/>
+	<Point x="195" y="2038"/>
+	<Point x="117" y="2038"/>
+	<Point x="117" y="2030"/>
+	<Point x="116" y="2030"/>
+	<Point x="116" y="2016"/>
+	<Point x="115" y="2016"/>
+	<Point x="115" y="2002"/>
+	<Point x="114" y="2002"/>
+	<Point x="114" y="1989"/>
+	<Point x="113" y="1989"/>
+	<Point x="113" y="1975"/>
+	<Point x="112" y="1975"/>
+	<Point x="112" y="1962"/>
+	<Point x="111" y="1962"/>
+	<Point x="111" y="1948"/>
+	<Point x="110" y="1948"/>
+	<Point x="110" y="1792"/>
+	<Point x="111" y="1792"/>
+	<Point x="111" y="1649"/>
+	<Point x="112" y="1649"/>
+	<Point x="112" y="1506"/>
+	<Point x="113" y="1506"/>
+	<Point x="113" y="1363"/>
+	<Point x="114" y="1363"/>
+	<Point x="114" y="1220"/>
+	<Point x="115" y="1220"/>
+	<Point x="115" y="1077"/>
+	<Point x="116" y="1077"/>
+	<Point x="116" y="935"/>
+	<Point x="117" y="935"/>
+	<Point x="117" y="792"/>
+	<Point x="118" y="792"/>
+	<Point x="118" y="649"/>
+	<Point x="119" y="649"/>
+	<Point x="119" y="506"/>
+	<Point x="120" y="506"/>
+	<Point x="120" y="363"/>
+	<Point x="121" y="363"/>
+	<Point x="121" y="220"/>
+	<Point x="176" y="220"/>
+	<Point x="176" y="219"/>
+	<Point x="180" y="219"/>
+	<Point x="180" y="218"/>
+	<Point x="185" y="218"/>
+	<Point x="185" y="217"/>
+	<Point x="190" y="217"/>
+	<Point x="190" y="216"/>
+	<Point x="195" y="216"/>
+	<Point x="195" y="215"/>
+	<Point x="200" y="215"/>
+	<Point x="200" y="214"/>
+	<Point x="205" y="214"/>
+	<Point x="205" y="213"/>
+	<Point x="210" y="213"/>
+	<Point x="210" y="212"/>
+	<Point x="215" y="212"/>
+	<Point x="215" y="211"/>
+	<Point x="352" y="211"/>
+	<Point x="352" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>czáſem wyklɇty, Apocryphus, Suſpeus, o czym ztąd wezmie
+informacyą. Alias nie znać Autora, à czytać go, zda ɇ mniey roz‑
+garnionego akcya człeka. Widzieć iaſność, a nie wiedzieć czyli od
+Słońca, czyli od Kężyca, czyli a fatuo pochodzi igne; ie wielka
+incuria, y dla oboch injuria. Czytelnik nie informowany o Au‑
+torze ſwoiey legendy, cæcus de colore judicat, ſurdus de sonitu, non tan‑
+gens de re taa. Ia tedy wielkiey zażywszy pracy, kilkanaście Au‑
+torow w tey przeczytawſzy materyi, wyawiam tu OSOBY; o
+ktorych Mądry wiedzieć y yſzeć powinien, ut t eruditior inde. SS.
+tu nie wielu wſpominam, co ſwiatu za Piſma zoawili, bo conat z
+Zywotow Czytelnikom. Mijam ſexcenta Nomina expenſy Drukar‑
+ſkiey unikaiąc, oſobliwie tych OSOB, ktore quid fabuloſum, dubium, &amp;
+minùs notabile maią w Hioryach. Wyrɇczyli miɇ też z tey pracy
+Pogańſcy Autorowie Greccy: Plutárchus, Diogenes, Laertius, Philora‑
+tus. Item Autorowie Łácińſcy także Poganie, Varro, Svetonius. iU‑
+przedzili mnię Autorowie Chrześciańſcy Greccy: Hesychius, Photius
+Svidas, à Łacińſcy także Chryusa Czciciele, S. Hieronym Scriptorum
+opiſuiąc Catalogum, Gennadius, S. Idorus Hiſzpaleńſki, Sigebertus, Ho‑
+norius; Henricus de Gandavo, Joannes Trithemius, Balthazar, Verlinus,
+Geſnerus, Poevinus, Bellarminus. Pɇłna tych Autorow Kęga Athe‑
+næ Belgicæ Franciſzka Swercyuſza Antwerpczyka; pełna Bibliotheca
+Joſue Simleri, pełna Bibliotheca Sanorum Patrum Sixti Senens Domi‑
+nikana &amp;c. Tych y innych wolno czytać, ieźli maſz ad manum; a‑
+le moim tym Katalogiem niechciey lekce ważyć, wiele ę nauczyſz.
+Tu zaraz przepraſzam przy naygłębſzey weneracyi y rzuceniu ɇ
+in ſcabellum, naprzod CLERUM SÆCULAREM; iż w Rewerendzie w
+Rokiecie, Fiolecie, Palliuſzu, w Purpurze, in Triregio Uczone, Mą‑
+dre, y Swięte Głowy nie wſzykie, ale niektore tylko, moim tu
+w Katalogu dotknołem piorem; bo z Faetontem y Jkarem, per fa‑
+igia ich godności y wyſokości rozumu latać nie potraﬁę Jdiota &amp;
+Teudo humi reptans. In Sinu ich ſkładam ſupplikɇ, że tych Ato‑
+mow y Tomow, z ktorych tak Mądrych y wielkich Bibliotek, ich</Unicode></TextEquiv></TextRegion></Page></PcGts>

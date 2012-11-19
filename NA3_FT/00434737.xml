@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00434737" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-12-28T17:38:25</Created>
+	<LastChange>2011-07-11T08:44:05</LastChange></Metadata>
+	<Page imageFilename="00434737.tif" imageHeight="2423" imageWidth="1877">
+	<GraphicRegion id="r2" type="other">
+	<Coords>
+	<Point x="494" y="550"/>
+	<Point x="500" y="876"/>
+	<Point x="505" y="1771"/>
+	<Point x="1441" y="1767"/>
+	<Point x="1428" y="875"/>
+	<Point x="1428" y="652"/>
+	<Point x="1426" y="549"/></Coords></GraphicRegion>
+	<GraphicRegion id="r3" type="handwritten-annotation">
+	<Coords>
+	<Point x="338" y="35"/>
+	<Point x="0" y="241"/>
+	<Point x="0" y="532"/>
+	<Point x="646" y="542"/>
+	<Point x="689" y="538"/>
+	<Point x="749" y="479"/>
+	<Point x="1436" y="472"/>
+	<Point x="1825" y="399"/>
+	<Point x="1816" y="187"/>
+	<Point x="1629" y="136"/>
+	<Point x="600" y="35"/></Coords></GraphicRegion>
+	<GraphicRegion id="r4" type="handwritten-annotation">
+	<Coords>
+	<Point x="32" y="677"/>
+	<Point x="32" y="806"/>
+	<Point x="194" y="973"/>
+	<Point x="332" y="977"/>
+	<Point x="496" y="969"/>
+	<Point x="495" y="835"/>
+	<Point x="488" y="583"/>
+	<Point x="328" y="567"/>
+	<Point x="73" y="562"/></Coords></GraphicRegion>
+	<GraphicRegion id="r6" type="handwritten-annotation">
+	<Coords>
+	<Point x="64" y="1903"/>
+	<Point x="64" y="2006"/>
+	<Point x="332" y="2006"/>
+	<Point x="332" y="1903"/></Coords></GraphicRegion>
+	<GraphicRegion id="r7" type="handwritten-annotation">
+	<Coords>
+	<Point x="1433" y="635"/>
+	<Point x="1700" y="616"/>
+	<Point x="1828" y="628"/>
+	<Point x="1820" y="839"/>
+	<Point x="1771" y="856"/>
+	<Point x="1598" y="867"/>
+	<Point x="1433" y="864"/></Coords></GraphicRegion></Page></PcGts>

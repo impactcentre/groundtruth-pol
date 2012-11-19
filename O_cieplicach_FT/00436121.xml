@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436121" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T00:54:45</Created>
+	<LastChange>2011-09-26T08:05:45</LastChange></Metadata>
+	<Page imageFilename="00436121.tif" imageHeight="2788" imageWidth="2096">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r153"/>
+	<RegionRefIndexed index="1" regionRef="r154"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r151" textColour="black" type="header">
+	<Coords>
+	<Point x="1039" y="124"/>
+	<Point x="1039" y="230"/>
+	<Point x="1506" y="230"/>
+	<Point x="1506" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przedmowá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r153" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="512" y="233"/>
+	<Point x="512" y="2521"/>
+	<Point x="1967" y="2521"/>
+	<Point x="1982" y="2511"/>
+	<Point x="2054" y="2511"/>
+	<Point x="2054" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>dźierżáwy przodków ſwych : ták dáleko przy‑
+oynieyßa rzecż ieﬆ , áby torem zacnych po‑
+ępków ich ták śli,áby y ſobie nagány żadney,
+y przodkom ſwym przyowia , ( ieśliż iákie
+onym może bydź ) nie zoáwiáli: ponieważ
+wßelákich doátnich máiętnośći , y ßerokich
+włośći , nie przez co innego przodkowie , ie‑
+dno przez cnotę , y przeawne ſpráwy ſwe
+nábywáli. Co ę tedy ma dźiać w ſucceyách,
+y w ſynách , y wnukách , toż ia rozumiałem
+záwße ma bydź w naępowániu w iákichkol‑
+wiek náukách, że nieinácżey ſpráwowáć ę
+máiⱥ ći, ktorzy w nich obieráiⱥ ę. Abowiem
+powinni oni ſobie przed ocży przełożyć, ábo
+wynáleźcę pierwßego tey náuki; ábo tego ,
+ktory oney przymnożył , y doſkonálßⱥ vcży‑
+�ił: y áráć ę áby ich torem idⱥc w oney
+�o náuce , iáko może bydź, iák nabliżey do
+onych ſwoich przodków przyępowáli: y áby
+one ich wynálazki , ieśliż mogⱥ ábo polero‑
+wnieyße , ábo iáśńieyße , ábo też obﬁtße y
+doſkonálße ludźiom pokázowáli. Tym trybem
+oni árzy Philozophi ( że teraz opußcżę
+Málárze y Sżnicżerze, ktorzy ę do Apelleſá</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r154" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1754" y="2527"/>
+	<Point x="1754" y="2620"/>
+	<Point x="2040" y="2620"/>
+	<Point x="2040" y="2513"/>
+	<Point x="1984" y="2513"/>
+	<Point x="1965" y="2527"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>y Poli‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

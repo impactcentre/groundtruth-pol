@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00437078" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T09:28:32</Created>
+	<LastChange>2011-11-11T08:48:02</LastChange></Metadata>
+	<Page imageFilename="00437078.tif" imageHeight="3112" imageWidth="2335">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r210"/>
+	<RegionRefIndexed index="1" regionRef="r212"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r209" textColour="black" type="header">
+	<Coords>
+	<Point x="608" y="186"/>
+	<Point x="608" y="275"/>
+	<Point x="1158" y="275"/>
+	<Point x="1158" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Spraw Gdaſkich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r210" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="109" y="278"/>
+	<Point x="109" y="2627"/>
+	<Point x="813" y="2627"/>
+	<Point x="813" y="2598"/>
+	<Point x="974" y="2598"/>
+	<Point x="986" y="2604"/>
+	<Point x="1127" y="2604"/>
+	<Point x="1127" y="2611"/>
+	<Point x="1341" y="2611"/>
+	<Point x="1341" y="2587"/>
+	<Point x="1633" y="2587"/>
+	<Point x="1633" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>rⱥ ácż potrzebnⱥ byc dla beſpiecżɇńwá y ozdo
+by rozumie/y w tym áránie chwali/ ále ták á⸗
+by wßyſcy zárowno/bez vbliżenia/ ſkwierku/ y
+vćiⱥżɇnia/ do tego e przycżyniȧli. A wiedzⱥc
+Krol I. M. dochody ktore przychodzⱥ z dobr
+żiemſkich/y tudzież też z inßych popłátkow/ iá⸗
+ko cżyże / browárow / domow ßynkownych /
+Piekárzow/Młynow/Ceł/y inßych pożytkow
+niemáłych. zá tym pokoiem/ w ktorym zȧ łáſkⱥ
+Bożⱥ przez niemáły cżás byli/rozumiał/iż má⸗
+ły wydatek dochodow okáżác e miał. Z nie⸗
+máłym podziwieniɇm to v ebie miec racży/ iż
+e do poſpolitych dochodow ſwymi ták niepo⸗
+mȧłu przykłȧdacie. Co e podobno dzieie tymi/
+przɇz ktore nie tylko ſkarb poſpolity obnáżon
+ie/ ȧle też wielki y nieznośny ná Miáo dług
+wnieśion: á co wiɇcey/liy ktore zowⱥ Repreſ⸗
+ſȧlia/pod piecżɇciⱥ mieyſckⱥ tákie ſⱥ wydáne/iż
+gdzieby ná pewny cżás długi nie były zápłáco⸗
+ne / áby ludziam obcym á możnym/ obywáte⸗
+lom Miáá tego dobrá wßykie ná Morzu y
+ná źiemi brác/hámowáċ/y onymi wedle woley
+ſwey ßáfowáċ wolno było. Merum &amp; mixtum
+dominium nád miáem/imo zwierzchnośċ páń⸗
+ſkⱥ ſobie przywłaßcżȧiⱥc : w cżym e záwiera
+nie iedno obelżenie zwierzchnośći Krolá I.M.
+ȧle y niebeſpiecżeńwo wßykich obywátelow</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r211" textColour="black" type="signature-mark">
+	<Coords>
+	<Point x="885" y="2599"/>
+	<Point x="885" y="2694"/>
+	<Point x="1090" y="2694"/>
+	<Point x="1090" y="2605"/>
+	<Point x="985" y="2605"/>
+	<Point x="974" y="2599"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>G   3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r212" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1355" y="2593"/>
+	<Point x="1355" y="2680"/>
+	<Point x="1629" y="2680"/>
+	<Point x="1629" y="2593"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Koron⸗</Unicode></TextEquiv></TextRegion></Page></PcGts>

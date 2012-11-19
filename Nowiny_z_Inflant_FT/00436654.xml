@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436654" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-20T12:33:45</Created>
+	<LastChange>2011-04-13T06:44:39</LastChange></Metadata>
+	<Page imageFilename="00436654.tif" imageHeight="2916" imageWidth="2319">
+	<GraphicRegion id="r2" type="stamp">
+	<Coords>
+	<Point x="980" y="1416"/>
+	<Point x="980" y="1606"/>
+	<Point x="1151" y="1606"/>
+	<Point x="1151" y="1416"/></Coords></GraphicRegion>
+	<GraphicRegion id="r3" type="handwritten-annotation">
+	<Coords>
+	<Point x="638" y="2661"/>
+	<Point x="638" y="2915"/>
+	<Point x="1367" y="2915"/>
+	<Point x="1367" y="2661"/>
+	<Point x="1209" y="2635"/>
+	<Point x="831" y="2657"/></Coords></GraphicRegion></Page></PcGts>

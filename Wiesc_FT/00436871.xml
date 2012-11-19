@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436871" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T16:02:42</Created>
+	<LastChange>2011-11-10T09:57:47</LastChange></Metadata>
+	<Page imageFilename="00436871.tif" imageHeight="1984" imageWidth="1488">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r2"/>
+	<RegionRefIndexed index="1" regionRef="r3"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r1" type="handwritten-annotation">
+	<Coords>
+	<Point x="127" y="68"/>
+	<Point x="127" y="199"/>
+	<Point x="224" y="199"/>
+	<Point x="240" y="172"/>
+	<Point x="336" y="172"/>
+	<Point x="336" y="68"/></Coords></GraphicRegion>
+	<TextRegion id="r2" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="236" y="201"/>
+	<Point x="222" y="209"/>
+	<Point x="222" y="1163"/>
+	<Point x="1122" y="1163"/>
+	<Point x="1122" y="190"/>
+	<Point x="255" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Więc że ná cżele Twoy iⱥ Tytuł znácży,
+ZAZNY NAPOLSKI, nie może inácży
+Bydź : muałać ę nápierwyi ukłonić,
+Tyzáto piora nie daß iey uronic.
+Wßędy icy wiatręm twoiey uprzeimśći
+Daß pochop, z ſwoiey wrodzoney ludzkośći :
+Onę, dźielne twe Cnoty, poprowadzⱥ
+Wßędy, y cerⱥ ozdolnⱥ przyſadzⱥ ;
+Ták, że kto uirzy tę z twoim imięniem,
+Zezna zárázęm twym onę bydź ćieniem
+Bowiem iáko ćień pochodźi od ćiǎła,
+Ták ta, od ćiebie dźis, WIESC wylećiała.
+A przećię z tobⱥ wßedy przemięßkywa,
+Bo o to ſwoim Pánem ćię náźywa.
+Ktory gdy ę iey, iák rozumie awiß :
+Wiecżnego, ebie z niey, ßugi nábáwiß.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1102" y="1313"/>
+	<Point x="1102" y="1386"/>
+	<Point x="1334" y="1386"/>
+	<Point x="1334" y="1313"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>WIESC</Unicode></TextEquiv></TextRegion></Page></PcGts>

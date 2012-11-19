@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436499" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T06:37:09</Created>
+	<LastChange>2011-08-23T09:24:28</LastChange></Metadata>
+	<Page imageFilename="00436499.tif" imageHeight="3779" imageWidth="2411">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r376"/>
+	<RegionRefIndexed index="1" regionRef="r377"/>
+	<RegionRefIndexed index="2" regionRef="r379"/>
+	<RegionRefIndexed index="3" regionRef="r381"/>
+	<RegionRefIndexed index="4" regionRef="r383"/>
+	<RegionRefIndexed index="5" regionRef="r384"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r376" type="heading">
+	<Coords>
+	<Point x="319" y="300"/>
+	<Point x="319" y="440"/>
+	<Point x="1178" y="440"/>
+	<Point x="1178" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Pſzenice Creſcencya.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r377" type="paragraph">
+	<Coords>
+	<Point x="409" y="523"/>
+	<Point x="409" y="904"/>
+	<Point x="2007" y="904"/>
+	<Point x="2007" y="523"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zwieźiono ná Folwárk A. Kop nro. 67. Snopow 54.
+Item Ná Folwárk B. Kop nro. 44. Snopow 42.
+Ná Folwárk C. Kop nro. 52. Snopow 30.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r378">
+	<Coords>
+	<Point x="826" y="916"/>
+	<Point x="826" y="976"/>
+	<Point x="2000" y="976"/>
+	<Point x="2000" y="916"/></Coords></SeparatorRegion>
+	<TextRegion id="r379" type="paragraph">
+	<Coords>
+	<Point x="959" y="1016"/>
+	<Point x="959" y="1123"/>
+	<Point x="1988" y="1123"/>
+	<Point x="1988" y="1016"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Latus Kop nro. 165. y Snopow 6.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r380">
+	<Coords>
+	<Point x="71" y="1269"/>
+	<Point x="71" y="2423"/>
+	<Point x="2345" y="2423"/>
+	<Point x="2345" y="1269"/></Coords></TableRegion>
+	<TextRegion id="r381" type="paragraph">
+	<Coords>
+	<Point x="259" y="2500"/>
+	<Point x="259" y="3073"/>
+	<Point x="2147" y="3073"/>
+	<Point x="2147" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Comput Dyributy ad veriﬁcátionem Ziárná z wymłotu.
+Nà śiewy do Trzech Folwàrkow Cwiertni 46. 5./6.
+Ná Ordynárye Vrzędnikowi z Piwowarem 2. 1./3.
+Ná Słody Piwne ‑ ‑ ‑ ‑ ‑ ‑ ‑ C. 43. ‑ ‑
+Reat Nà Intratɇ, ná wikt, ábo ná ſpiniɇźenie ‑ C. 37. 5./6.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r382">
+	<Coords>
+	<Point x="873" y="3088"/>
+	<Point x="873" y="3138"/>
+	<Point x="2023" y="3138"/>
+	<Point x="2023" y="3088"/></Coords></SeparatorRegion>
+	<TextRegion id="r383" type="paragraph">
+	<Coords>
+	<Point x="889" y="3146"/>
+	<Point x="888" y="3250"/>
+	<Point x="1980" y="3250"/>
+	<Point x="1980" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Concordat vtra Summa nro. 130. ‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r384" type="catch-word">
+	<Coords>
+	<Point x="2058" y="3354"/>
+	<Point x="2058" y="3474"/>
+	<Point x="2290" y="3474"/>
+	<Point x="2290" y="3354"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iɇcz‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436817" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T15:55:12</Created>
+	<LastChange>2011-09-06T03:57:04</LastChange></Metadata>
+	<Page imageFilename="00436817.tif" imageHeight="3159" imageWidth="2370">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r152"/>
+	<RegionRefIndexed index="1" regionRef="r153"/>
+	<RegionRefIndexed index="2" regionRef="r154"/>
+	<RegionRefIndexed index="3" regionRef="r155"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r151" type="other">
+	<Coords>
+	<Point x="561" y="158"/>
+	<Point x="561" y="406"/>
+	<Point x="1848" y="406"/>
+	<Point x="1848" y="158"/></Coords></GraphicRegion>
+	<TextRegion id="r152" textColour="black" type="heading">
+	<Coords>
+	<Point x="670" y="480"/>
+	<Point x="670" y="658"/>
+	<Point x="1703" y="658"/>
+	<Point x="1703" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Do Czytelniká.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r153" textColour="black" type="heading">
+	<Coords>
+	<Point x="345" y="780"/>
+	<Point x="345" y="903"/>
+	<Point x="2035" y="903"/>
+	<Point x="2035" y="780"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>THEOPHIL SZEMBERG.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r154" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="116" y="941"/>
+	<Point x="116" y="1135"/>
+	<Point x="403" y="1135"/>
+	<Point x="403" y="941"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r155" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="405" y="1138"/>
+	<Point x="124" y="1138"/>
+	<Point x="84" y="1154"/>
+	<Point x="87" y="2229"/>
+	<Point x="1065" y="2234"/>
+	<Point x="2267" y="2229"/>
+	<Point x="2267" y="954"/>
+	<Point x="406" y="930"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Idziawßy piſmo Pogrom Tátárow názwáne / nie chwa⸗
+liłem go. Bo niɇ dołożne y z wielkimi błɇdámi. Z megoć
+wprawdzie ( iák ɇ domyślam ) liu zebráne : ále ládáiáko y nie⸗
+dbále/bo tám nie godziło ɇ wßykiego tknⱥć. Co miɇ przywio⸗
+dło / ábym znowu opiſał tɇ potrzebɇ Wołoſkⱥ. Naprzod áby
+káżdy prawdziwie wiedział/ co ɇ tám y iáko działo. Druga/ á⸗
+by ɇ zábieżáło vßczypliwym mowom / tych ktorzy nie wiedzⱥc
+rzeczy / z domyu ſwego popɇdliwie nas obmawiáiⱥ. Trzećia /
+áby ɇ iáko w źwierćiedle przeyźrzawßy káżdy / obaczył czego
+ɇ ná woynie chronić / co gánić : z náßⱥć prawdzie niektorych
+ßkodⱥ / ále przećiɇ nie ze złⱥ awⱥ / ile bydź mogło w tákim
+zámießániu. Ná ktorⱥ káżdy prⱥwdziwy żołnierz ma
+vśilnie robić. Co przyimi wdziɇcznie/
+proßɇ.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r156" type="stamp">
+	<Coords>
+	<Point x="740" y="2250"/>
+	<Point x="740" y="2500"/>
+	<Point x="1620" y="2500"/>
+	<Point x="1620" y="2250"/></Coords></GraphicRegion>
+	<GraphicRegion id="r157" type="other">
+	<Coords>
+	<Point x="507" y="2502"/>
+	<Point x="507" y="2780"/>
+	<Point x="1807" y="2780"/>
+	<Point x="1807" y="2502"/>
+	<Point x="1598" y="2509"/>
+	<Point x="717" y="2509"/></Coords></GraphicRegion>
+	<GraphicRegion id="r158" type="handwritten-annotation">
+	<Coords>
+	<Point x="457" y="2807"/>
+	<Point x="457" y="3097"/>
+	<Point x="1082" y="3097"/>
+	<Point x="1082" y="2807"/></Coords></GraphicRegion></Page></PcGts>

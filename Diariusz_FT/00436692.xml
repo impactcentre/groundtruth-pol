@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436692" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T08:39:37</Created>
+	<LastChange>2011-11-07T06:05:45</LastChange></Metadata>
+	<Page imageFilename="00436692.tif" imageHeight="3072" imageWidth="2493">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r42"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	</TextRegion>
+	<GraphicRegion id="r41" type="other">
+	<Coords>
+	<Point x="858" y="1087"/>
+	<Point x="864" y="1416"/>
+	<Point x="955" y="1414"/>
+	<Point x="1030" y="1446"/>
+	<Point x="1078" y="1480"/>
+	<Point x="1092" y="1514"/>
+	<Point x="1091" y="1535"/>
+	<Point x="1130" y="1578"/>
+	<Point x="1130" y="1676"/>
+	<Point x="858" y="2116"/>
+	<Point x="2048" y="2116"/>
+	<Point x="2048" y="1087"/></Coords></GraphicRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="409" y="132"/>
+	<Point x="409" y="651"/>
+	<Point x="2380" y="651"/>
+	<Point x="2380" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Niechay vważy poſelwo oycowſkie do ṡiebie p�áne / á wroċi ɇ
+do powinnoṡċi wiernego poddȧnego y ſczerego Polaká/ktory
+ni� cudzożiemſkim zapáłem/ ále zwyczáynym Polakom
+wßykim/ y wrodzonⱥ cnotⱥ/tȧk z oyczyznⱥ/
+iáko y z Pánem poɇpowáć
+winien.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r59" type="stamp">
+	<Coords>
+	<Point x="775" y="1473"/>
+	<Point x="860" y="1442"/>
+	<Point x="925" y="1428"/>
+	<Point x="957" y="1428"/>
+	<Point x="1010" y="1453"/>
+	<Point x="1058" y="1473"/>
+	<Point x="1087" y="1546"/>
+	<Point x="1114" y="1576"/>
+	<Point x="1114" y="1664"/>
+	<Point x="1067" y="1719"/>
+	<Point x="962" y="1735"/>
+	<Point x="791" y="1705"/>
+	<Point x="755" y="1525"/></Coords></GraphicRegion></Page></PcGts>

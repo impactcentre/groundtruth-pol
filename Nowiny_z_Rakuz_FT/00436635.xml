@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436635" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T22:31:32</Created>
+	<LastChange>2011-06-15T09:51:27</LastChange></Metadata>
+	<Page imageFilename="00436635.tif" imageHeight="2942" imageWidth="2271">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r103"/>
+	<RegionRefIndexed index="1" regionRef="r104"/>
+	<RegionRefIndexed index="2" regionRef="r105"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r103" textColour="black" type="heading">
+	<Coords>
+	<Point x="561" y="435"/>
+	<Point x="561" y="578"/>
+	<Point x="1483" y="578"/>
+	<Point x="1483" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>S. Augu: Serm: 181.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r104" textColour="black" type="drop-capital">
+	<Coords>
+	<Point x="204" y="611"/>
+	<Point x="204" y="730"/>
+	<Point x="304" y="730"/>
+	<Point x="304" y="611"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>K</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r105" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="309" y="609"/>
+	<Point x="309" y="735"/>
+	<Point x="200" y="735"/>
+	<Point x="200" y="1823"/>
+	<Point x="1854" y="1823"/>
+	<Point x="1854" y="609"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Tokolwiek ie/ y iákikolwiek ie/ Chrze⸗
+śćiánin nie ie/ ktory nie ie w kośćiele Ch⸗
+ryuſowym. Abowiem ten ſam ie/ przez kto
+ry Pan oﬁárɇ rad prziymuie : ten ſam ie/kto⸗
+ry e zá błⱥdzⱥce z vfnośćiⱥ przycžynia. Prze⸗
+tož tež o oﬁerze báránká Pan roſkazał mowiⱥc:
+W iednym domu bɇdziećie go požywáć : á nie
+wynieśiećie nic ná dwor z miɇſá iego. Abo⸗
+wiem w iednym domu báránká požywáiⱥ : iž w
+iednym kośćiele powßechnym prawdziwa oﬁá⸗
+rá odkupićielá oﬁárowána bywa. Z ktorego
+miɇſá Bog co wynośić ná dwor zákázuie/
+iž świɇtego dawáć pſom nie kaže.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r106" type="other">
+	<Coords>
+	<Point x="943" y="1828"/>
+	<Point x="943" y="1937"/>
+	<Point x="1082" y="1937"/>
+	<Point x="1082" y="1828"/></Coords></GraphicRegion></Page></PcGts>

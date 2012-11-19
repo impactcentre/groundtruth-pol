@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436548" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:54:47</Created>
+	<LastChange>2011-08-24T02:35:04</LastChange></Metadata>
+	<Page imageFilename="00436548.tif" imageHeight="2872" imageWidth="2124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r50"/>
+	<RegionRefIndexed index="1" regionRef="r51"/>
+	<RegionRefIndexed index="2" regionRef="r52"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r50" textColour="black" type="heading">
+	<Coords>
+	<Point x="776" y="725"/>
+	<Point x="770" y="733"/>
+	<Point x="770" y="922"/>
+	<Point x="1912" y="922"/>
+	<Point x="1912" y="716"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Imprimatur</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="467" y="951"/>
+	<Point x="467" y="1193"/>
+	<Point x="2012" y="1193"/>
+	<Point x="2012" y="951"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Facultatem do &amp; concedo. Leop�
+li d. 5. Iulij Anno Domini 1728.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="725" y="1267"/>
+	<Point x="725" y="1851"/>
+	<Point x="2070" y="1851"/>
+	<Point x="2070" y="1267"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>BARTHOLOMÆVS THADÆVS
+TARKOWSKI S. Th. D. Canoni‑
+cus Iudex Surrogatꝰ &amp; Ordina‑
+rius per Archidiœcem Libro‑
+rum Cenſor mpp,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r53" type="handwritten-annotation">
+	<Coords>
+	<Point x="458" y="493"/>
+	<Point x="458" y="696"/>
+	<Point x="691" y="731"/>
+	<Point x="723" y="736"/>
+	<Point x="838" y="702"/>
+	<Point x="908" y="687"/>
+	<Point x="945" y="696"/>
+	<Point x="945" y="493"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436500" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:37:26</Created>
+	<LastChange>2011-08-24T08:13:30</LastChange></Metadata>
+	<Page imageFilename="00436500.tif" imageHeight="3776" imageWidth="2399">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r254"/>
+	<RegionRefIndexed index="1" regionRef="r255"/>
+	<RegionRefIndexed index="2" regionRef="r257"/>
+	<RegionRefIndexed index="3" regionRef="r259"/>
+	<RegionRefIndexed index="4" regionRef="r261"/>
+	<RegionRefIndexed index="5" regionRef="r262"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r254" type="heading">
+	<Coords>
+	<Point x="1266" y="335"/>
+	<Point x="1266" y="461"/>
+	<Point x="316" y="461"/>
+	<Point x="316" y="335"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iɇczmieniá Creſcencya.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r255" type="paragraph">
+	<Coords>
+	<Point x="2057" y="600"/>
+	<Point x="2057" y="969"/>
+	<Point x="192" y="969"/>
+	<Point x="192" y="600"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Vzɇto y źwieźiono ná Folwárk A. Kop in nro. 51. Snopow 56.
+Item Ná Folwárk B. Kop in nro. 53. Snopow 36.
+Ná Folwárk C. Kop in nro. 46.   ‑   ‑   ‑   ‑</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r256">
+	<Coords>
+	<Point x="873" y="1004"/>
+	<Point x="873" y="1047"/>
+	<Point x="2109" y="1047"/>
+	<Point x="2109" y="1004"/></Coords></SeparatorRegion>
+	<TextRegion id="r257" type="paragraph">
+	<Coords>
+	<Point x="1083" y="1080"/>
+	<Point x="1083" y="1188"/>
+	<Point x="2052" y="1188"/>
+	<Point x="2052" y="1080"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Latus Kop nro. 15�� Snopow 32.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r258">
+	<Coords>
+	<Point x="2328" y="1309"/>
+	<Point x="2328" y="2526"/>
+	<Point x="45" y="2526"/>
+	<Point x="45" y="1309"/></Coords></TableRegion>
+	<TextRegion id="r259" type="paragraph">
+	<Coords>
+	<Point x="2000" y="2590"/>
+	<Point x="1997" y="3154"/>
+	<Point x="1966" y="3183"/>
+	<Point x="835" y="3185"/>
+	<Point x="159" y="3202"/>
+	<Point x="159" y="2590"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Comput Dyributy ad veriﬁcationem Ziárná z wymłotu,
+Ná Sieẃy do Trzech Folwárkow Cwiertni nro. 37. 2./3.
+Ná Ordynárye Vrzɇdnikowi, Goſpodarzom nro. 15. 2./3.
+Ná Słody Piwne y Gorzałcáne   ‑   ‑   ‑   ‑   nro. 51. 2./3.
+Reat Ná Intratɇ dla ſpieniɇźenia   ‑   ‑   ‑   ‑   ‑   nro. 94. 1./3.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r260">
+	<Coords>
+	<Point x="811" y="3209"/>
+	<Point x="1288" y="3202"/>
+	<Point x="1554" y="3195"/>
+	<Point x="1766" y="3195"/>
+	<Point x="1876" y="3192"/>
+	<Point x="1969" y="3190"/>
+	<Point x="2011" y="3183"/>
+	<Point x="2038" y="3183"/>
+	<Point x="2040" y="3207"/>
+	<Point x="1833" y="3219"/>
+	<Point x="1407" y="3228"/>
+	<Point x="921" y="3238"/>
+	<Point x="811" y="3238"/></Coords></SeparatorRegion>
+	<TextRegion id="r261" type="paragraph">
+	<Coords>
+	<Point x="880" y="3264"/>
+	<Point x="1450" y="3259"/>
+	<Point x="1926" y="3250"/>
+	<Point x="1938" y="3223"/>
+	<Point x="1992" y="3221"/>
+	<Point x="2014" y="3261"/>
+	<Point x="2002" y="3352"/>
+	<Point x="1811" y="3357"/>
+	<Point x="1516" y="3359"/>
+	<Point x="892" y="3364"/>
+	<Point x="878" y="3350"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Concordat Summa vtra nro. 199. 1./3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r262" type="catch-word">
+	<Coords>
+	<Point x="2083" y="3295"/>
+	<Point x="2083" y="3407"/>
+	<Point x="2285" y="3407"/>
+	<Point x="2285" y="3295"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Groc�</Unicode></TextEquiv></TextRegion></Page></PcGts>

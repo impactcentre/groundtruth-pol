@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436347" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T22:23:45</Created>
+	<LastChange>2011-06-20T09:02:44</LastChange></Metadata>
+	<Page imageFilename="00436347.tif" imageHeight="2759" imageWidth="2132">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r186"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r186" type="catch-word">
+	<Coords>
+	<Point x="1885" y="2503"/>
+	<Point x="1885" y="2504"/>
+	<Point x="1925" y="2504"/>
+	<Point x="1925" y="2505"/>
+	<Point x="1965" y="2505"/>
+	<Point x="1965" y="2506"/>
+	<Point x="2005" y="2506"/>
+	<Point x="2005" y="2507"/>
+	<Point x="2045" y="2507"/>
+	<Point x="2045" y="2508"/>
+	<Point x="2050" y="2508"/>
+	<Point x="2050" y="2590"/>
+	<Point x="1837" y="2590"/>
+	<Point x="1837" y="2586"/>
+	<Point x="1838" y="2586"/>
+	<Point x="1838" y="2578"/>
+	<Point x="1839" y="2578"/>
+	<Point x="1839" y="2571"/>
+	<Point x="1840" y="2571"/>
+	<Point x="1840" y="2563"/>
+	<Point x="1841" y="2563"/>
+	<Point x="1841" y="2555"/>
+	<Point x="1842" y="2555"/>
+	<Point x="1842" y="2548"/>
+	<Point x="1843" y="2548"/>
+	<Point x="1843" y="2540"/>
+	<Point x="1844" y="2540"/>
+	<Point x="1844" y="2533"/>
+	<Point x="1845" y="2533"/>
+	<Point x="1845" y="2525"/>
+	<Point x="1846" y="2525"/>
+	<Point x="1846" y="2518"/>
+	<Point x="1847" y="2518"/>
+	<Point x="1847" y="2510"/>
+	<Point x="1848" y="2510"/>
+	<Point x="1848" y="2503"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>169.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r224">
+	<Coords>
+	<Point x="383" y="50"/>
+	<Point x="392" y="2566"/>
+	<Point x="1623" y="2569"/>
+	<Point x="1671" y="2452"/>
+	<Point x="2022" y="2450"/>
+	<Point x="2022" y="50"/></Coords></TableRegion></Page></PcGts>

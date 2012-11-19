@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436125" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T00:55:13</Created>
+	<LastChange>2011-11-14T02:16:21</LastChange></Metadata>
+	<Page imageFilename="00436125.tif" imageHeight="2775" imageWidth="2069">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r185"/>
+	<RegionRefIndexed index="1" regionRef="r186"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r184" textColour="black" type="header">
+	<Coords>
+	<Point x="988" y="154"/>
+	<Point x="988" y="236"/>
+	<Point x="1427" y="236"/>
+	<Point x="1427" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przedmowá.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r185" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="420" y="247"/>
+	<Point x="420" y="2520"/>
+	<Point x="1735" y="2520"/>
+	<Point x="1735" y="2506"/>
+	<Point x="1892" y="2506"/>
+	<Point x="1910" y="2517"/>
+	<Point x="1925" y="2513"/>
+	<Point x="1935" y="2506"/>
+	<Point x="2025" y="2506"/>
+	<Point x="2025" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>roby pomocna: zdáło mi ę zá rzecż ußnⱥ
+ábym oney napierwey przyrodzenie y wßelá‑
+kⱥ pomoc , ábo też ßkodę ludźiom do wiádo‑
+mośći podał. Wiem to dobrze , że nie dawnych
+cżáſów awny y vcżony Medyk Woyćiech
+Ocżko , wydał o tey wodźie kśiaßkę : iedno
+iż prędko ( iáko ſam piße o ſobie ) w kilká dni
+to wßytko nápiſáł : przeto wiele vcżonych lu‑
+dźi, cżęśćiⱥ porzⱥdku, cżęśćiⱥ też doſkoná‑
+łośći nieiákiey wnim potrzebuiⱥ. Iam ę wa‑
+żył nie iego nágániáć , gdyż tego nierad cży‑
+nię , ále rácżey iego niedoátki obiáśńić. A
+iż ten ieﬆ obycżay Iáśńie Wielmożny á
+mnie Miłośćiwy Pánie Woiewodá Poznáń‑
+ſki ; że wynálazki y prace ſwoie ludźie zwy‑
+kli Pánóm wielkim przypiſowáć : y mnie ę
+ß�iezdáłá rzecż ußna , áby tá praca moiá
+�ie miáłá bydź komu w obronę oddána. Ako‑
+muż innemu lepiey , iedno W. M. memu
+� Mśćiwemu Pánu , tę kśiⱥżkę máłⱥ przy‑
+piſáć ; máiⱥc oſobliwiete przycżyny ? Ze Me‑
+dyki W. M. ták miłuie , że nietylko ſam
+ich W. M. ßánuieß , ále też wielkim lu‑
+dźiom y Monárchom do wielkiey exii‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r186" textColour="black" type="catch-word">
+	<Coords>
+	<Point x="1756" y="2511"/>
+	<Point x="1756" y="2615"/>
+	<Point x="2018" y="2615"/>
+	<Point x="2019" y="2514"/>
+	<Point x="1935" y="2514"/>
+	<Point x="1909" y="2519"/>
+	<Point x="1875" y="2511"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>mátiey</Unicode></TextEquiv></TextRegion></Page></PcGts>

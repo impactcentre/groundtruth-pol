@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436578" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T14:01:32</Created>
+	<LastChange>2011-08-24T06:10:37</LastChange></Metadata>
+	<Page imageFilename="00436578.tif" imageHeight="2861" imageWidth="2130">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r59"/>
+	<RegionRefIndexed index="1" regionRef="r60"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r59" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="159" y="178"/>
+	<Point x="159" y="657"/>
+	<Point x="2033" y="657"/>
+	<Point x="2033" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Inſzych Inſkrypcyi ktore tę swiere zdobiⱥ mieyſce tu
+e dla tego niewyráziło, że niedáwno z Pod Drukár‑
+ſkiey práſy w oſobliwſzych Xiⱥżecżkách ná świát wy‑
+ſzły, te e tylko námieniło ktore pod czás koronácyi
+popiſáne były.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" textColour="black" type="heading">
+	<Coords>
+	<Point x="161" y="800"/>
+	<Point x="161" y="1711"/>
+	<Point x="2035" y="1711"/>
+	<Point x="2035" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná więkſzⱥ Część Bogá, y
+Chwałe cudámi ynⱥcey, ná
+Tronie Podkámienieckim
+N. Máryi Pánny
+Vkoronowáney.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r61" type="other">
+	<Coords>
+	<Point x="592" y="1800"/>
+	<Point x="592" y="2573"/>
+	<Point x="1728" y="2573"/>
+	<Point x="1728" y="1800"/></Coords></GraphicRegion></Page></PcGts>

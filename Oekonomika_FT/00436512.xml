@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436512" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:40:43</Created>
+	<LastChange>2011-08-24T08:25:52</LastChange></Metadata>
+	<Page imageFilename="00436512.tif" imageHeight="3780" imageWidth="2401">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r21"/>
+	<RegionRefIndexed index="1" regionRef="r23"/>
+	<RegionRefIndexed index="2" regionRef="r24"/>
+	<RegionRefIndexed index="3" regionRef="r27"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	</TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="671" y="361"/>
+	<Point x="671" y="500"/>
+	<Point x="1785" y="500"/>
+	<Point x="1785" y="361"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Nabiáłow Speciﬁcatio ktore</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r22">
+	<Coords>
+	<Point x="142" y="538"/>
+	<Point x="142" y="1400"/>
+	<Point x="2283" y="1400"/>
+	<Point x="2283" y="538"/></Coords></TableRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="1680" y="1414"/>
+	<Point x="1680" y="1514"/>
+	<Point x="2269" y="1514"/>
+	<Point x="2269" y="1414"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>VI. M O.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="142" y="1561"/>
+	<Point x="142" y="1723"/>
+	<Point x="2273" y="1723"/>
+	<Point x="2273" y="1561"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przez iáki ſpoſob dochodżić z Browáru, tákźe z Gorzalnie præuiâ calcu‑
+tu y Intraty.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r25">
+	<Coords>
+	<Point x="133" y="1766"/>
+	<Point x="133" y="3145"/>
+	<Point x="1907" y="3145"/>
+	<Point x="1907" y="3469"/>
+	<Point x="2285" y="3473"/>
+	<Point x="2285" y="1766"/></Coords></TableRegion>
+	<TextRegion id="r27" type="catch-word">
+	<Coords>
+	<Point x="1645" y="3345"/>
+	<Point x="1645" y="3461"/>
+	<Point x="1890" y="3461"/>
+	<Point x="1890" y="3345"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dir‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

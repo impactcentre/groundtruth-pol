@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436491" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:34:07</Created>
+	<LastChange>2011-08-23T09:48:42</LastChange></Metadata>
+	<Page imageFilename="00436491.tif" imageHeight="3811" imageWidth="2416">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r86"/>
+	<RegionRefIndexed index="1" regionRef="r87"/>
+	<RegionRefIndexed index="2" regionRef="r88"/>
+	<RegionRefIndexed index="3" regionRef="r89"/>
+	<RegionRefIndexed index="4" regionRef="r90"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r86" type="heading">
+	<Coords>
+	<Point x="161" y="361"/>
+	<Point x="161" y="552"/>
+	<Point x="2164" y="552"/>
+	<Point x="2164" y="361"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>MODELLVSZ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r87" type="heading">
+	<Coords>
+	<Point x="619" y="604"/>
+	<Point x="619" y="754"/>
+	<Point x="1692" y="754"/>
+	<Point x="1692" y="604"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>DRVGI,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="heading">
+	<Coords>
+	<Point x="171" y="821"/>
+	<Point x="171" y="1685"/>
+	<Point x="2169" y="1685"/>
+	<Point x="2169" y="821"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>W ktorym Nowⱥ y inſzⱥ mánierⱥ rozpo‑
+rzⱥdzony ie ẃymiar Arythmetyczny,
+Ná doẃod żyſku z Creſcentiey ro‑
+żnego zboza, oſuiⱥcy ę we wſzy‑
+tkim do Pierwſzego Model‑
+luſzá Tabuły.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="heading">
+	<Coords>
+	<Point x="1071" y="1804"/>
+	<Point x="1071" y="1880"/>
+	<Point x="1297" y="1880"/>
+	<Point x="1297" y="1804"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>To ie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r90" type="heading">
+	<Coords>
+	<Point x="178" y="1904"/>
+	<Point x="178" y="2235"/>
+	<Point x="2176" y="2235"/>
+	<Point x="2176" y="1904"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przez iáki ſpoſob Pánowie Dżiedżiczni, Arendarze, lub ich Oekone‑
+mowie y Vrzędnicy, máiⱥ dochodżić ( po wydánus Ordynáriyney Dy‑
+rybuty ) z Remánentu Ziárná ná Miárę Krakowſkⱥ
+właſnych Dochodow, y Intraty.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r91" type="other">
+	<Coords>
+	<Point x="588" y="2407"/>
+	<Point x="588" y="3295"/>
+	<Point x="1771" y="3295"/>
+	<Point x="1771" y="2407"/></Coords></GraphicRegion></Page></PcGts>

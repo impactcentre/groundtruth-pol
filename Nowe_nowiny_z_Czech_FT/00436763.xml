@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436763" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T08:47:46</Created>
+	<LastChange>2011-11-09T07:32:30</LastChange></Metadata>
+	<Page imageFilename="00436763.tif" imageHeight="3184" imageWidth="2600">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r33"/>
+	<RegionRefIndexed index="1" regionRef="r34"/>
+	<RegionRefIndexed index="2" regionRef="r35"/>
+	<RegionRefIndexed index="3" regionRef="r37"/>
+	<RegionRefIndexed index="4" regionRef="r38"/>
+	<RegionRefIndexed index="5" regionRef="r39"/>
+	<RegionRefIndexed index="6" regionRef="r40"/>
+	<RegionRefIndexed index="7" regionRef="r41"/>
+	<RegionRefIndexed index="8" regionRef="r42"/>
+	<RegionRefIndexed index="9" regionRef="r45"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r33" type="heading">
+	<Coords>
+	<Point x="585" y="319"/>
+	<Point x="585" y="454"/>
+	<Point x="2085" y="454"/>
+	<Point x="2085" y="319"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>NOWE NOWINY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="heading">
+	<Coords>
+	<Point x="652" y="492"/>
+	<Point x="652" y="673"/>
+	<Point x="2045" y="673"/>
+	<Point x="2045" y="492"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Z CZECH,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="heading">
+	<Coords>
+	<Point x="2202" y="719"/>
+	<Point x="2202" y="873"/>
+	<Point x="445" y="873"/>
+	<Point x="445" y="719"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ZTATAR, Y ZWĘGIER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="1109" y="957"/>
+	<Point x="1109" y="1107"/>
+	<Point x="1611" y="1107"/>
+	<Point x="1611" y="957"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Przy tym</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="heading">
+	<Coords>
+	<Point x="450" y="1116"/>
+	<Point x="450" y="1307"/>
+	<Point x="592" y="1307"/>
+	<Point x="850" y="1283"/>
+	<Point x="2214" y="1307"/>
+	<Point x="2214" y="1116"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>REVOKACYA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="447" y="1340"/>
+	<Point x="447" y="1521"/>
+	<Point x="2219" y="1521"/>
+	<Point x="2219" y="1340"/>
+	<Point x="926" y="1333"/>
+	<Point x="876" y="1297"/>
+	<Point x="823" y="1300"/>
+	<Point x="804" y="1333"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>XIȺŻĘCIA SASKIEGO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="heading">
+	<Coords>
+	<Point x="1326" y="1554"/>
+	<Point x="1326" y="1654"/>
+	<Point x="1423" y="1654"/>
+	<Point x="1423" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="heading">
+	<Coords>
+	<Point x="452" y="1730"/>
+	<Point x="452" y="1938"/>
+	<Point x="2223" y="1938"/>
+	<Point x="2223" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Iáko Rádɇ Ceſárſkⱥ z Zamku oknem z wyrzucáli á
+inßego Krolá ſobie obráli.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="heading">
+	<Coords>
+	<Point x="761" y="1997"/>
+	<Point x="761" y="2171"/>
+	<Point x="2019" y="2171"/>
+	<Point x="2019" y="1997"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Prez IANA ZRZENCZYCKIEGO
+Wydàne.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r43" type="other">
+	<Coords>
+	<Point x="1004" y="2276"/>
+	<Point x="1004" y="2678"/>
+	<Point x="1621" y="2678"/>
+	<Point x="1621" y="2276"/></Coords></GraphicRegion>
+	<GraphicRegion id="r44" type="handwritten-annotation">
+	<Coords>
+	<Point x="1633" y="2471"/>
+	<Point x="1633" y="2742"/>
+	<Point x="2302" y="2742"/>
+	<Point x="2302" y="2471"/></Coords></GraphicRegion>
+	<TextRegion id="r45" type="heading">
+	<Coords>
+	<Point x="873" y="2830"/>
+	<Point x="873" y="2950"/>
+	<Point x="1823" y="2950"/>
+	<Point x="1823" y="2830"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Roku Páńſkiego / 1620.</Unicode></TextEquiv></TextRegion></Page></PcGts>

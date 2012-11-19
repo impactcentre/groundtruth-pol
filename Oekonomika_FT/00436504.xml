@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436504" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:38:29</Created>
+	<LastChange>2011-08-24T04:38:46</LastChange></Metadata>
+	<Page imageFilename="00436504.tif" imageHeight="3784" imageWidth="2412">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r172"/>
+	<RegionRefIndexed index="1" regionRef="r173"/>
+	<RegionRefIndexed index="2" regionRef="r175"/>
+	<RegionRefIndexed index="3" regionRef="r177"/>
+	<RegionRefIndexed index="4" regionRef="r179"/>
+	<RegionRefIndexed index="5" regionRef="r180"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r172" type="heading">
+	<Coords>
+	<Point x="1178" y="245"/>
+	<Point x="1178" y="373"/>
+	<Point x="438" y="373"/>
+	<Point x="438" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Prosá Creſcencya.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r173" type="paragraph">
+	<Coords>
+	<Point x="590" y="459"/>
+	<Point x="590" y="814"/>
+	<Point x="1947" y="814"/>
+	<Point x="1947" y="459"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Zwieźiono nà Folwàrk A. Kop nro. 10. ‑ ‑
+Nà Folwárk B. Kop nro. 11. ‑ ‑
+Nà Folwàrk C. Kop nro. 9. ‑ ‑</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r174">
+	<Coords>
+	<Point x="1078" y="892"/>
+	<Point x="1078" y="833"/>
+	<Point x="2097" y="833"/>
+	<Point x="2097" y="892"/></Coords></SeparatorRegion>
+	<TextRegion id="r175" type="paragraph">
+	<Coords>
+	<Point x="1092" y="914"/>
+	<Point x="1092" y="1009"/>
+	<Point x="1928" y="1009"/>
+	<Point x="1928" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>In Summa Kop nro. 30. ‑ ‑</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r176">
+	<Coords>
+	<Point x="2302" y="1200"/>
+	<Point x="2302" y="2433"/>
+	<Point x="138" y="2433"/>
+	<Point x="138" y="1200"/></Coords></TableRegion>
+	<TextRegion id="r177" type="paragraph">
+	<Coords>
+	<Point x="2195" y="2507"/>
+	<Point x="2200" y="2854"/>
+	<Point x="733" y="2907"/>
+	<Point x="388" y="2904"/>
+	<Point x="383" y="2554"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Comput Dyributy ad Veriﬁcationem żiárná z wymłotu.
+Ná pomienione trzy Folwàr: do śiewu Cwiertni nro. 2.   ‑
+Ná Intratę reat ‑   ‑   ‑   ‑   ‑   ‑   Cwiertni nro. 18.   ‑</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r178">
+	<Coords>
+	<Point x="909" y="2933"/>
+	<Point x="1638" y="2902"/>
+	<Point x="2128" y="2892"/>
+	<Point x="2278" y="2880"/>
+	<Point x="2278" y="2926"/>
+	<Point x="1933" y="2930"/>
+	<Point x="1240" y="2947"/>
+	<Point x="900" y="2969"/></Coords></SeparatorRegion>
+	<TextRegion id="r179" type="paragraph">
+	<Coords>
+	<Point x="1016" y="2992"/>
+	<Point x="1509" y="2961"/>
+	<Point x="1990" y="2959"/>
+	<Point x="2216" y="2964"/>
+	<Point x="2216" y="3026"/>
+	<Point x="1845" y="3038"/>
+	<Point x="1497" y="3061"/>
+	<Point x="1007" y="3085"/>
+	<Point x="1002" y="2995"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Concordat vtra Summa C. nro. 20.   ‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r180" type="catch-word">
+	<Coords>
+	<Point x="2100" y="3202"/>
+	<Point x="2100" y="3292"/>
+	<Point x="2288" y="3292"/>
+	<Point x="2288" y="3202"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Lnià‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436357" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T19:37:59</Created>
+	<LastChange>2011-09-23T02:57:43</LastChange></Metadata>
+	<Page imageFilename="00436357.tif" imageHeight="3784" imageWidth="2431">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r90"/>
+	<RegionRefIndexed index="1" regionRef="r91"/>
+	<RegionRefIndexed index="2" regionRef="r92"/>
+	<RegionRefIndexed index="3" regionRef="r97"/>
+	<RegionRefIndexed index="4" regionRef="r99"/>
+	<RegionRefIndexed index="5" regionRef="r95"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r90" type="heading">
+	<Coords>
+	<Point x="487" y="237"/>
+	<Point x="487" y="352"/>
+	<Point x="2102" y="352"/>
+	<Point x="2102" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>NA STAROZYTNE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r91" type="heading">
+	<Coords>
+	<Point x="632" y="375"/>
+	<Point x="632" y="517"/>
+	<Point x="1935" y="517"/>
+	<Point x="1935" y="375"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>KLEYNOTY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r92" type="heading">
+	<Coords>
+	<Point x="2260" y="672"/>
+	<Point x="2260" y="562"/>
+	<Point x="300" y="562"/>
+	<Point x="300" y="672"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>IAŚNIE WIELMOZNYCH DOBRODZIEIOW SWOICH.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r93">
+	<Coords>
+	<Point x="157" y="697"/>
+	<Point x="157" y="2640"/>
+	<Point x="2335" y="2640"/>
+	<Point x="2335" y="697"/></Coords></ImageRegion>
+	<TextRegion id="r95" type="paragraph">
+	<Coords>
+	<Point x="1567" y="3387"/>
+	<Point x="1567" y="3500"/>
+	<Point x="2070" y="3500"/>
+	<Point x="2070" y="3387"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>AN��EAS DŻIA
+Rhi�� Elagu�a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r97" type="drop-capital">
+	<Coords>
+	<Point x="647" y="2667"/>
+	<Point x="647" y="2680"/>
+	<Point x="648" y="2680"/>
+	<Point x="648" y="2693"/>
+	<Point x="649" y="2693"/>
+	<Point x="649" y="2706"/>
+	<Point x="650" y="2706"/>
+	<Point x="650" y="2719"/>
+	<Point x="651" y="2719"/>
+	<Point x="651" y="2731"/>
+	<Point x="652" y="2731"/>
+	<Point x="652" y="2744"/>
+	<Point x="653" y="2744"/>
+	<Point x="653" y="2757"/>
+	<Point x="654" y="2757"/>
+	<Point x="654" y="2770"/>
+	<Point x="655" y="2770"/>
+	<Point x="655" y="2783"/>
+	<Point x="656" y="2783"/>
+	<Point x="656" y="2795"/>
+	<Point x="657" y="2795"/>
+	<Point x="657" y="2800"/>
+	<Point x="656" y="2800"/>
+	<Point x="656" y="2806"/>
+	<Point x="655" y="2806"/>
+	<Point x="655" y="2813"/>
+	<Point x="654" y="2813"/>
+	<Point x="654" y="2819"/>
+	<Point x="653" y="2819"/>
+	<Point x="653" y="2826"/>
+	<Point x="652" y="2826"/>
+	<Point x="652" y="2832"/>
+	<Point x="651" y="2832"/>
+	<Point x="651" y="2833"/>
+	<Point x="650" y="2833"/>
+	<Point x="650" y="2834"/>
+	<Point x="522" y="2834"/>
+	<Point x="522" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r99" type="paragraph">
+	<Coords>
+	<Point x="2085" y="2667"/>
+	<Point x="2085" y="3335"/>
+	<Point x="522" y="3335"/>
+	<Point x="522" y="2836"/>
+	<Point x="652" y="2836"/>
+	<Point x="652" y="2835"/>
+	<Point x="653" y="2835"/>
+	<Point x="653" y="2834"/>
+	<Point x="654" y="2834"/>
+	<Point x="654" y="2828"/>
+	<Point x="655" y="2828"/>
+	<Point x="655" y="2821"/>
+	<Point x="656" y="2821"/>
+	<Point x="656" y="2815"/>
+	<Point x="657" y="2815"/>
+	<Point x="657" y="2808"/>
+	<Point x="658" y="2808"/>
+	<Point x="658" y="2802"/>
+	<Point x="659" y="2802"/>
+	<Point x="659" y="2793"/>
+	<Point x="658" y="2793"/>
+	<Point x="658" y="2781"/>
+	<Point x="657" y="2781"/>
+	<Point x="657" y="2768"/>
+	<Point x="656" y="2768"/>
+	<Point x="656" y="2755"/>
+	<Point x="655" y="2755"/>
+	<Point x="655" y="2742"/>
+	<Point x="654" y="2742"/>
+	<Point x="654" y="2729"/>
+	<Point x="653" y="2729"/>
+	<Point x="653" y="2717"/>
+	<Point x="652" y="2717"/>
+	<Point x="652" y="2704"/>
+	<Point x="651" y="2704"/>
+	<Point x="651" y="2691"/>
+	<Point x="650" y="2691"/>
+	<Point x="650" y="2678"/>
+	<Point x="649" y="2678"/>
+	<Point x="649" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Rzewá te, rowne Cedrom Libáńſkim, ſpoionɇ
+Złotym Łáńcuchem, zdobiⱥ Sarmáckⱥ Koronɇ
+Tym wiɇcey, gdý owoce roſkoſzne wydały:
+Znáć że ɇ Naywyżſzemu Stworcy ſpodobały.
+Ztⱥd łatwo obiecowáć, że ich cnoty dźielne,
+Wsławiⱥ właſnⱥ Oyczyznɇ, iáko nieśmierteln�.
+Dla tego wtym pierśćieniu zoáia zamkniɇte,
+��dac oraz v BOGA, y v ludzi wźiɇte.</Unicode></TextEquiv></TextRegion></Page></PcGts>

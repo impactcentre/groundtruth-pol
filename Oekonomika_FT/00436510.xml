@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436510" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T13:40:06</Created>
+	<LastChange>2011-08-23T09:53:36</LastChange></Metadata>
+	<Page imageFilename="00436510.tif" imageHeight="3788" imageWidth="2397">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r175"/>
+	<RegionRefIndexed index="1" regionRef="r177"/>
+	<RegionRefIndexed index="2" regionRef="r179"/>
+	<RegionRefIndexed index="3" regionRef="r182"/>
+	<RegionRefIndexed index="4" regionRef="r184"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r175" type="heading">
+	<Coords>
+	<Point x="476" y="366"/>
+	<Point x="476" y="500"/>
+	<Point x="1957" y="495"/>
+	<Point x="1959" y="366"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Specyﬁkàcya Percepty y Dyrybuty</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r176">
+	<Coords>
+	<Point x="166" y="526"/>
+	<Point x="171" y="1050"/>
+	<Point x="245" y="1052"/>
+	<Point x="316" y="1042"/>
+	<Point x="2297" y="1030"/>
+	<Point x="2295" y="502"/>
+	<Point x="930" y="514"/></Coords></TableRegion>
+	<TextRegion id="r177" type="heading">
+	<Coords>
+	<Point x="478" y="1059"/>
+	<Point x="478" y="1178"/>
+	<Point x="2004" y="1178"/>
+	<Point x="2004" y="1045"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Z Obor po trzech Folwárkách bydłá,</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r178">
+	<Coords>
+	<Point x="154" y="1197"/>
+	<Point x="154" y="1890"/>
+	<Point x="280" y="1888"/>
+	<Point x="400" y="1880"/>
+	<Point x="2304" y="1866"/>
+	<Point x="2309" y="1197"/></Coords></TableRegion>
+	<TextRegion id="r179" type="heading">
+	<Coords>
+	<Point x="609" y="1892"/>
+	<Point x="609" y="2016"/>
+	<Point x="1859" y="2016"/>
+	<Point x="1859" y="1892"/>
+	<Point x="1604" y="1885"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Koni Robotnych Speciﬁkácya.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r181">
+	<Coords>
+	<Point x="2314" y="2014"/>
+	<Point x="2316" y="2435"/>
+	<Point x="635" y="2469"/>
+	<Point x="161" y="2488"/>
+	<Point x="164" y="2052"/></Coords></TableRegion>
+	<TextRegion id="r182" type="heading">
+	<Coords>
+	<Point x="695" y="2485"/>
+	<Point x="695" y="2602"/>
+	<Point x="1235" y="2600"/>
+	<Point x="1783" y="2592"/>
+	<Point x="1785" y="2461"/>
+	<Point x="1142" y="2476"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Skor Bydlɇcych Diinia.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r183">
+	<Coords>
+	<Point x="2323" y="2583"/>
+	<Point x="2323" y="3280"/>
+	<Point x="176" y="3280"/>
+	<Point x="161" y="2645"/>
+	<Point x="1878" y="2604"/></Coords></TableRegion>
+	<TextRegion id="r184" type="catch-word">
+	<Coords>
+	<Point x="2066" y="3364"/>
+	<Point x="2066" y="3440"/>
+	<Point x="2264" y="3440"/>
+	<Point x="2264" y="3364"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Dir‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

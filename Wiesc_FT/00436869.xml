@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00436869" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-19T09:02:34</Created>
+	<LastChange>2011-11-10T09:37:40</LastChange></Metadata>
+	<Page imageFilename="00436869.tif" imageHeight="1902" imageWidth="1479">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r3"/>
+	<RegionRefIndexed index="1" regionRef="r7"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r2" type="handwritten-annotation">
+	<Coords>
+	<Point x="184" y="32"/>
+	<Point x="184" y="164"/>
+	<Point x="332" y="164"/>
+	<Point x="332" y="109"/>
+	<Point x="401" y="109"/>
+	<Point x="401" y="32"/></Coords></GraphicRegion>
+	<TextRegion id="r3" textColour="black" type="heading">
+	<Coords>
+	<Point x="342" y="128"/>
+	<Point x="342" y="255"/>
+	<Point x="1207" y="255"/>
+	<Point x="1207" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Ná Orowonny Kleinot Iego Mośći
+PANA NADOLSKIEGO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="other">
+	<Coords>
+	<Point x="167" y="269"/>
+	<Point x="167" y="1546"/>
+	<Point x="1106" y="1546"/>
+	<Point x="1145" y="1359"/>
+	<Point x="1165" y="1327"/>
+	<Point x="1369" y="1301"/>
+	<Point x="1369" y="269"/></Coords></GraphicRegion>
+	<GraphicRegion id="r5" type="stamp">
+	<Coords>
+	<Point x="1160" y="1345"/>
+	<Point x="1145" y="1409"/>
+	<Point x="1137" y="1504"/>
+	<Point x="1325" y="1504"/>
+	<Point x="1325" y="1332"/>
+	<Point x="1230" y="1335"/></Coords></GraphicRegion>
+	<GraphicRegion id="r6" type="handwritten-annotation">
+	<Coords>
+	<Point x="1136" y="1511"/>
+	<Point x="1136" y="1573"/>
+	<Point x="1330" y="1573"/>
+	<Point x="1330" y="1511"/></Coords></GraphicRegion>
+	<TextRegion id="r7" textColour="black" type="paragraph">
+	<Coords>
+	<Point x="278" y="1590"/>
+	<Point x="278" y="1853"/>
+	<Point x="1373" y="1853"/>
+	<Point x="1373" y="1590"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Cudna Liliia wardego wynika
+Muru, ále nieche nikt iey nietyka.
+Bo‑Orog NADOLSKIEGO przy nim wkoło,
+Tarnęm ukole nieprzyjázne cżoło.</Unicode></TextEquiv></TextRegion></Page></PcGts>

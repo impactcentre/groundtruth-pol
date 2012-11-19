@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="pc-00435953" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-02-18T21:58:27</Created>
+	<LastChange>2011-08-29T06:35:26</LastChange></Metadata>
+	<Page imageFilename="00435953.tif" imageHeight="2335" imageWidth="1938">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed index="0" regionRef="r389"/>
+	<RegionRefIndexed index="1" regionRef="r387"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</TextRegion>
+	<TextRegion id="r373" type="page-number">
+	<Coords>
+	<Point x="376" y="100"/>
+	<Point x="376" y="171"/>
+	<Point x="251" y="171"/>
+	<Point x="251" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>469</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r379" type="header">
+	<Coords>
+	<Point x="1466" y="100"/>
+	<Point x="1466" y="136"/>
+	<Point x="1465" y="136"/>
+	<Point x="1465" y="173"/>
+	<Point x="1435" y="173"/>
+	<Point x="1435" y="172"/>
+	<Point x="1249" y="172"/>
+	<Point x="1249" y="171"/>
+	<Point x="1062" y="171"/>
+	<Point x="1062" y="170"/>
+	<Point x="875" y="170"/>
+	<Point x="875" y="169"/>
+	<Point x="681" y="169"/>
+	<Point x="681" y="132"/>
+	<Point x="680" y="132"/>
+	<Point x="680" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>Geograﬁa Generalna y partykularna</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r381">
+	<Coords>
+	<Point x="873" y="171"/>
+	<Point x="873" y="172"/>
+	<Point x="1060" y="172"/>
+	<Point x="1060" y="173"/>
+	<Point x="1247" y="173"/>
+	<Point x="1247" y="174"/>
+	<Point x="1433" y="174"/>
+	<Point x="1433" y="175"/>
+	<Point x="1529" y="175"/>
+	<Point x="1529" y="176"/>
+	<Point x="1624" y="176"/>
+	<Point x="1624" y="177"/>
+	<Point x="1719" y="177"/>
+	<Point x="1719" y="178"/>
+	<Point x="1806" y="178"/>
+	<Point x="1806" y="192"/>
+	<Point x="1747" y="192"/>
+	<Point x="1747" y="191"/>
+	<Point x="1661" y="191"/>
+	<Point x="1661" y="190"/>
+	<Point x="1575" y="190"/>
+	<Point x="1575" y="189"/>
+	<Point x="1439" y="189"/>
+	<Point x="1439" y="188"/>
+	<Point x="1302" y="188"/>
+	<Point x="1302" y="187"/>
+	<Point x="612" y="187"/>
+	<Point x="612" y="186"/>
+	<Point x="251" y="186"/>
+	<Point x="251" y="173"/>
+	<Point x="446" y="173"/>
+	<Point x="446" y="172"/>
+	<Point x="651" y="172"/>
+	<Point x="651" y="171"/></Coords></SeparatorRegion>
+	<TextRegion id="r387" type="catch-word">
+	<Coords>
+	<Point x="1806" y="2071"/>
+	<Point x="1806" y="2135"/>
+	<Point x="1616" y="2135"/>
+	<Point x="1616" y="2071"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>na</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r389" type="paragraph">
+	<Coords>
+	<Point x="610" y="188"/>
+	<Point x="610" y="189"/>
+	<Point x="1300" y="189"/>
+	<Point x="1300" y="190"/>
+	<Point x="1437" y="190"/>
+	<Point x="1437" y="191"/>
+	<Point x="1573" y="191"/>
+	<Point x="1573" y="192"/>
+	<Point x="1659" y="192"/>
+	<Point x="1659" y="193"/>
+	<Point x="1745" y="193"/>
+	<Point x="1745" y="194"/>
+	<Point x="1806" y="194"/>
+	<Point x="1806" y="2069"/>
+	<Point x="1614" y="2069"/>
+	<Point x="1614" y="2084"/>
+	<Point x="1465" y="2084"/>
+	<Point x="1465" y="2085"/>
+	<Point x="1288" y="2085"/>
+	<Point x="1288" y="2086"/>
+	<Point x="1111" y="2086"/>
+	<Point x="1111" y="2087"/>
+	<Point x="934" y="2087"/>
+	<Point x="934" y="2088"/>
+	<Point x="757" y="2088"/>
+	<Point x="757" y="2089"/>
+	<Point x="580" y="2089"/>
+	<Point x="580" y="2090"/>
+	<Point x="403" y="2090"/>
+	<Point x="403" y="2091"/>
+	<Point x="251" y="2091"/>
+	<Point x="251" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText/>
+	<Unicode>ſkiego Roku 1609. lib: 3. Itineris. Ale o Raiu gdzie ie, maſz
+obſzerny dyſkurs w Części I. Aten. Tuż w FENICII, ie go‑
+ra LIBANUS, to ie Candidus, zabieraiąca w ſwey cyrkumferencyi
+na mil 60. długością ay 1500. oblana morzem śrzodkoziemnym,
+od Południa ma Ziemiɇ Swiɇtą. Je złożona gradatim z gór, albo
+pagorkow czterech. Pierwſzy pagorek, obﬁtuie w zboże, owce,
+drugi w głóg, ſkáły, źrzodła: trzeci zawſze ę zielenieie, dla kwia‑
+tów, ziół, ogrodów: czwarty w puł zielony kwitnący, a w puł
+biały od śniegow, dlatego nie mieſzkany. Pełna ie góra ta Ce‑
+drowego drzewa, zkąd y Salomon materyały na Kościoł brał Je‑
+rozolimſki. Arabowie go zowią Lobnan, Syryiczykowie Lebnon,
+mówi Gabr: Sionita lib: 6. Kęga Piſma S. Cantica Canticorum,
+albo Pieniow Salomonowych cap. 4  8. twierdzi, że Liban ma
+trzy oſobliwe wierzchołki; pierwſzy wyżſzy Amana, to ie Cel‑
+tudo, drugi Sanir, albo Sarion, to ie Lucerna, trzeci Hermon, to ie
+ſconſecrare. Wypada z Libanu Orontes rzeka, a według terazniey‑
+zych Geografow Jordan, Rochan, Nahard, Roens, Nachard, Cardi‑
+eha; ktorą oatnią, nazywaią Swiętą, a Salomon, Puteum aqua‑
+rum viventium. Ná Libanie po Potopie uniwerſalnym mieſzkali
+Sukceorowie Chama. Są tam Miaa y teraz Eden, Conabin,
+gdzie Patryarcha mieſzka Maronitow, ledwo nie całą górę Liba‑
+nu oadaiących prawdziwych Katolików Wſchodnich. Zgoła
+ciągnie ę ta gora, od morzá Syriackiego, na Wſchod, aż do
+puey Arabii, Pokoleniá Aer y Nephtali, od Pułnocy rozgrani‑
+cza. Tuż druga góra Antilibanus. FENICII Stolicą ie Miao
+Damaſcus, po Turecku Scham zwane, nie raz reparowane, y zno‑
+wu zruynowane, opiſane odemnie w Części II. fol: 508. 509.
+do czego to ieſzcze przydaię. Ze oi z tamtey rony góry Li‑
+banu, przy początkach iego na rowninie obſzerney. Tu na
+Przedmieściach od Miaa wiɇkſzych, robi ludzi koło Demeſzek
+aliàs ſzabel na 20. tyęcy, tyleż koło morwow, dla iedwabni‑
+czkow robaczków. Dwie rzeki tu płyną, iedna Abana mniey‑
+ſza, z czɇści Libánu gory Amana zwaney, ﬂuvius Damaſci rzeczo‑</Unicode></TextEquiv></TextRegion></Page></PcGts>
