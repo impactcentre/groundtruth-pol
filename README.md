@@ -1,5 +1,5 @@
-groundtruth-psnc
-================
+groundtruth-pol
+===============
 
 IMPACT ground truth files from various Polish Digital Libraries (PSNC), released under [CC-BY](http://creativecommons.org/licenses/by/3.0/).
 
